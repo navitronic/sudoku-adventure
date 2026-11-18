@@ -90,14 +90,18 @@ class ImportTests(unittest.TestCase):
         self.assertEqual(len(data), 2)
 
     @patch.object(importer, "fetch_json")
-    @patch.object(importer, "fetch", return_value="<html></html>")
-    def test_publication_time_falls_back_to_player_api(self, fetch, fetch_json):
-        fetch_json.return_value = {
-            "microformat": {"playerMicroformatRenderer": {"publishDate": "2026-11-18T08:00:16-08:00"}}
-        }
-        self.assertEqual(importer.published_at("Z5yRhmuxAvs"), "2026-11-18T08:00:16-08:00")
-        self.assertEqual(fetch.call_count, 2)
-        fetch_json.assert_called_once()
+    @patch.object(importer, "fetch")
+    def test_publication_time_falls_back_to_playlist_feed(self, fetch, fetch_json):
+        fetch.side_effect = [
+            "<html></html>",
+            "<html></html>",
+            """<feed xmlns="http://www.w3.org/2005/Atom" xmlns:yt="http://www.youtube.com/xml/schemas/2015">
+                <entry><yt:videoId>Z5yRhmuxAvs</yt:videoId><published>2026-11-18T16:00:16+00:00</published></entry>
+            </feed>""",
+        ]
+        self.assertEqual(importer.published_at("Z5yRhmuxAvs"), "2026-11-18T16:00:16+00:00")
+        self.assertEqual(fetch.call_count, 3)
+        fetch_json.assert_not_called()
 
     def test_video_validation_and_missing_columns(self):
         with self.assertRaises(ValueError):

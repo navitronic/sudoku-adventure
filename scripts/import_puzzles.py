@@ -7,12 +7,14 @@ import io
 import json
 import re
 import unicodedata
+import xml.etree.ElementTree as ET
 from datetime import datetime
 from pathlib import Path
 from urllib.parse import parse_qs, urlparse
 from urllib.request import Request, urlopen
 
 SHEET_URL = "https://docs.google.com/spreadsheets/d/1y4BYBEuXbzReb_tx3bTUdKwynL2JveL3ob55g6c-D-Y/export?format=csv&gid=0"
+PLAYLIST_FEED_URL = "https://www.youtube.com/feeds/videos.xml?playlist_id=PL7B_esJLNuKNhaog5LkEuiBdOXnWxtaFQ"
 CONTENT = Path(__file__).resolve().parents[1] / "content" / "puzzles"
 REQUIRED = ("Puzzle Number", "Title", "Setter", "Puzzle Link", "Video Link")
 CONSTRAINT_ALIASES = json.loads(Path(__file__).with_name("constraint_aliases.json").read_text(encoding="utf-8"))
@@ -71,6 +73,13 @@ def published_at(identifier):
                 break
         if value:
             break
+    if not value:
+        feed = ET.fromstring(fetch(PLAYLIST_FEED_URL))
+        namespaces = {"atom": "http://www.w3.org/2005/Atom", "yt": "http://www.youtube.com/xml/schemas/2015"}
+        for entry in feed.findall("atom:entry", namespaces):
+            if entry.findtext("yt:videoId", namespaces=namespaces) == identifier:
+                value = entry.findtext("atom:published", namespaces=namespaces)
+                break
     if not value:
         player = fetch_json(
             "https://www.youtube.com/youtubei/v1/player",
