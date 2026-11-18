@@ -1,0 +1,14 @@
+:root { color-scheme: light dark; font-family: system-ui, sans-serif; line-height: 1.6; }
+body { max-width: 48rem; margin: auto; padding: 1.5rem; }
+header, footer { padding: 1rem 0; border-bottom: 1px solid #8888; }
+footer { border-bottom: 0; border-top: 1px solid #8888; margin-top: 3rem; }
+header { display: flex; gap: 2rem; font-weight: bold; }
+a { color: #4676cc; }
+h1 { line-height: 1.2; }
+article { margin: 2rem 0; }
+article + article { border-top: 1px solid #8888; }
+time { color: #888; }
+.post > p:first-child a { display: inline-block; background: #284e9a; color: white; padding: .8rem 1.2rem; border-radius: .4rem; font-weight: bold; }
+.tag { display: inline-block; margin: .25rem; }
+.pagination { display: flex; justify-content: space-between; }
+iframe { width: 100%; aspect-ratio: 16 / 9; border: 0; }

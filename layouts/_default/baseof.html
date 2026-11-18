@@ -1,0 +1,14 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ if not .IsHome }}{{ .Title }} | {{ end }}{{ site.Title }}</title>
+    <link rel="stylesheet" href="/style.css">
+  </head>
+  <body>
+    <header><a href="/">{{ site.Title }}</a> <a href="/tags/">Constraints</a></header>
+    <main>{{ block "main" . }}{{ end }}</main>
+    <footer>Explore sudoku puzzles and their video walkthroughs.</footer>
+  </body>
+</html>

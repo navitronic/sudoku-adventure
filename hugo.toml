@@ -1,0 +1,9 @@
+baseURL = "https://sudoku-adventure.pages.dev/"
+locale = "en-us"
+title = "Sudoku Adventure"
+
+[taxonomies]
+tag = "tags"
+
+[permalinks]
+puzzles = "/:slug/"
