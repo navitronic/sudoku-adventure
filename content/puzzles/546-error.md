@@ -3,6 +3,8 @@ title = "Puzzle #546 - #ERROR! by Crusader175"
 date = "2024-07-26T08:00:03-07:00"
 slug = "546-error"
 constraints = ["Other"]
+setters = ["Crusader175"]
+puzzle_url = "https://sudokupad.app/adventure/546-plusminus"
 aliases = ["/546/"]
 +++
 

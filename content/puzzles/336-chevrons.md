@@ -3,6 +3,8 @@ title = "Puzzle #336 - Chevrons by randall"
 date = "2023-12-29T08:00:32-08:00"
 slug = "336-chevrons"
 constraints = ["Killer Cages"]
+setters = ["randall"]
+puzzle_url = "https://sudokupad.app/adventure/336-chevrons"
 aliases = ["/336/"]
 +++
 

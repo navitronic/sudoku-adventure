@@ -3,6 +3,8 @@ title = "Puzzle #1092 - A tidy sum by James Kopp"
 date = "2026-02-12T08:00:25-08:00"
 slug = "1092-a-tidy-sum"
 constraints = ["Region Sum Lines"]
+setters = ["James Kopp"]
+puzzle_url = "https://sudokupad.app/adventure/1092-ats"
 aliases = ["/1092/"]
 +++
 

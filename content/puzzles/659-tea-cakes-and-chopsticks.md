@@ -3,6 +3,8 @@ title = "Puzzle #659 - Tea Cakes and Chopsticks by rockratzero"
 date = "2024-11-24T08:00:43-08:00"
 slug = "659-tea-cakes-and-chopsticks"
 constraints = ["Clones", "Thermometers"]
+setters = ["rockratzero"]
+puzzle_url = "https://sudokupad.app/adventure/659-tcac"
 aliases = ["/659/"]
 +++
 

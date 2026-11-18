@@ -3,6 +3,8 @@ title = "Puzzle #333 - You are a pirate! by Fraπ"
 date = "2023-12-26T08:00:00-08:00"
 slug = "333-you-are-a-pirate"
 constraints = ["Killer Cages", "Variant"]
+setters = ["Fraπ"]
+puzzle_url = "https://sudokupad.app/adventure/333-yaap"
 aliases = ["/333/"]
 +++
 

@@ -3,6 +3,8 @@ title = "Puzzle #458 - Visgraat by rockratzero"
 date = "2024-04-29T08:00:43-07:00"
 slug = "458-visgraat"
 constraints = ["Irregular", "Killer Cages"]
+setters = ["rockratzero"]
+puzzle_url = "https://sudokupad.app/adventure/458-visgraat"
 aliases = ["/458/"]
 +++
 

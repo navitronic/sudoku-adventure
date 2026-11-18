@@ -3,6 +3,8 @@ title = "Puzzle #1242 - The Credible Machine by Gene"
 date = "2026-07-16T08:00:36-07:00"
 slug = "1242-the-credible-machine"
 constraints = ["Double Arrows"]
+setters = ["Gene"]
+puzzle_url = "https://sudokupad.app/adventure/1242-tcm"
 aliases = ["/1242/"]
 +++
 

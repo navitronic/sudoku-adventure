@@ -3,6 +3,8 @@ title = "Puzzle #609 - Sweet Potato by Palfly Kampling"
 date = "2024-10-05T08:00:55-07:00"
 slug = "609-sweet-potato"
 constraints = ["Other"]
+setters = ["Palfly Kampling"]
+puzzle_url = "https://sudokupad.app/adventure/609-sweet-potato"
 aliases = ["/609/"]
 +++
 

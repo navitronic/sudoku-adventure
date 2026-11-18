@@ -3,6 +3,8 @@ title = "Puzzle #1233 - Offset by Matt Tressel"
 date = "2026-07-07T08:00:14-07:00"
 slug = "1233-offset"
 constraints = ["Sum Dots", "Other"]
+setters = ["Matt Tressel"]
+puzzle_url = "https://sudokupad.app/adventure/1233-offset"
 aliases = ["/1233/"]
 +++
 

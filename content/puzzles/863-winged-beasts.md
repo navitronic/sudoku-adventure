@@ -3,6 +3,8 @@ title = "Puzzle #863 - Winged Beasts by Matt Tressel"
 date = "2025-06-20T08:00:38-07:00"
 slug = "863-winged-beasts"
 constraints = ["Arrows"]
+setters = ["Matt Tressel"]
+puzzle_url = "https://sudokupad.app/adventure/863-wb"
 aliases = ["/863/"]
 +++
 

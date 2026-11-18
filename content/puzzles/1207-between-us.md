@@ -3,6 +3,8 @@ title = "Puzzle #1207 - Between Us by SennyK"
 date = "2026-06-11T08:00:31-07:00"
 slug = "1207-between-us"
 constraints = ["Between Lines", "Killer Cages"]
+setters = ["SennyK"]
+puzzle_url = "https://sudokupad.app/adventure/1207-bu"
 aliases = ["/1207/"]
 +++
 

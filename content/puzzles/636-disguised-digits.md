@@ -3,6 +3,8 @@ title = "Puzzle #636 - Disguised Digits by Matt Tressel"
 date = "2024-11-01T08:00:37-07:00"
 slug = "636-disguised-digits"
 constraints = ["Killer Cages"]
+setters = ["Matt Tressel"]
+puzzle_url = "https://sudokupad.app/adventure/636-dd"
 aliases = ["/636/"]
 +++
 

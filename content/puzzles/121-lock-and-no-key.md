@@ -3,6 +3,8 @@ title = "Puzzle #121 - Lock and No Key by DJV"
 date = "2023-05-28T08:00:01-07:00"
 slug = "121-lock-and-no-key"
 constraints = ["Lockout Lines"]
+setters = ["DJV"]
+puzzle_url = "https://sudokupad.app/adventure/121-lank"
 aliases = ["/121/"]
 +++
 

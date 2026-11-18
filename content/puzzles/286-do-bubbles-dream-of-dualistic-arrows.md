@@ -3,6 +3,8 @@ title = "Puzzle #286 - Do bubbles dream of dualistic arrows? by Emphyrio"
 date = "2023-11-09T08:00:27-08:00"
 slug = "286-do-bubbles-dream-of-dualistic-arrows"
 constraints = ["Doublers", "Arrows"]
+setters = ["Emphyrio"]
+puzzle_url = "https://sudokupad.app/adventure/286-dbdoda"
 aliases = ["/286/"]
 +++
 

@@ -3,6 +3,8 @@ title = "Puzzle #426 - Lowest Entropic State by Jaze"
 date = "2024-03-28T08:00:32-07:00"
 slug = "426-lowest-entropic-state"
 constraints = ["Irregular", "Other"]
+setters = ["Jaze"]
+puzzle_url = "https://sudokupad.app/adventure/426-lowest-entropic-state"
 aliases = ["/426/"]
 +++
 

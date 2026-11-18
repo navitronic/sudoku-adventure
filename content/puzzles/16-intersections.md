@@ -3,6 +3,8 @@ title = "Puzzle #16 - Intersections by AwesomeSauce"
 date = "2023-02-04T16:06:20-08:00"
 slug = "16-intersections"
 constraints = ["Sequence Lines"]
+setters = ["Awesomesauce"]
+puzzle_url = "https://sudokupad.app/adventure/16-intersection"
 aliases = ["/16/"]
 +++
 

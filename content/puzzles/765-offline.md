@@ -3,6 +3,8 @@ title = "Puzzle #765 - Offline by Matt Tressel"
 date = "2025-03-13T08:01:13-07:00"
 slug = "765-offline"
 constraints = ["Entropic Lines", "Kropki Pairs"]
+setters = ["Matt Tressel"]
+puzzle_url = "https://sudokupad.app/adventure/765-offline"
 aliases = ["/765/"]
 +++
 

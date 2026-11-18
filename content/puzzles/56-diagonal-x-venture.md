@@ -3,6 +3,8 @@ title = "Puzzle #56 - Diagonal X-Venture by rockratzero"
 date = "2023-03-16T08:00:13-07:00"
 slug = "56-diagonal-x-venture"
 constraints = ["Diagonal"]
+setters = ["rockratzero"]
+puzzle_url = "https://sudokupad.app/adventure/56-dxv"
 aliases = ["/56/"]
 +++
 

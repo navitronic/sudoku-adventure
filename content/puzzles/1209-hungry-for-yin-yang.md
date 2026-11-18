@@ -3,6 +3,8 @@ title = "Puzzle #1209 - Hungry for yin yang by sanabas"
 date = "2026-06-13T08:00:37-07:00"
 slug = "1209-hungry-for-yin-yang"
 constraints = ["Sandwich Sums", "Other"]
+setters = ["sanabas"]
+puzzle_url = "https://sudokupad.app/adventure/1209-hfyy"
 aliases = ["/1209/"]
 +++
 

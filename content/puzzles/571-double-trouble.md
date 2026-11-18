@@ -3,6 +3,8 @@ title = "Puzzle #571 - Double Trouble by Teal"
 date = "2024-08-20T08:00:20-07:00"
 slug = "571-double-trouble"
 constraints = ["Killer Cages", "Doublers"]
+setters = ["Teal"]
+puzzle_url = "https://sudokupad.app/adventure/571-double-trouble"
 aliases = ["/571/"]
 +++
 

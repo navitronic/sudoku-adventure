@@ -3,6 +3,8 @@ title = "Puzzle #258 - The Setter Formerly Known As FraP by Fraπ"
 date = "2023-10-12T08:00:11-07:00"
 slug = "258-the-setter-formerly-known-as-frap"
 constraints = ["Entropic Lines", "Even/Odd"]
+setters = ["Fraπ"]
+puzzle_url = "https://sudokupad.app/adventure/258-tsfkaf"
 aliases = ["/258/"]
 +++
 

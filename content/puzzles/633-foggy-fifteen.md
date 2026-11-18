@@ -3,6 +3,8 @@ title = "Puzzle #633 - Foggy Fifteen by theasylm"
 date = "2024-10-29T08:00:25-07:00"
 slug = "633-foggy-fifteen"
 constraints = ["XV", "Fog of War", "Other"]
+setters = ["theasylm"]
+puzzle_url = "https://sudokupad.app/adventure/633-ff"
 aliases = ["/633/"]
 +++
 

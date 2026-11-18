@@ -3,6 +3,8 @@ title = "Puzzle #1082 - The House That Jack Built by Gene"
 date = "2026-02-02T08:01:01-08:00"
 slug = "1082-the-house-that-jack-built"
 constraints = ["Region Sum Lines"]
+setters = ["Gene"]
+puzzle_url = "https://sudokupad.app/adventure/1082-thtjb"
 aliases = ["/1082/"]
 +++
 

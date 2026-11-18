@@ -3,6 +3,8 @@ title = "Puzzle #388 - Daneben Arrows by Palfly Kampling"
 date = "2024-02-19T08:00:26-08:00"
 slug = "388-daneben-arrows"
 constraints = ["Other", "Indexing"]
+setters = ["Palfly Kampling"]
+puzzle_url = "https://sudokupad.app/adventure/388-daneben-arrows"
 aliases = ["/388/"]
 +++
 

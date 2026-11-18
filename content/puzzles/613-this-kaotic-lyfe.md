@@ -3,6 +3,8 @@ title = "Puzzle #613 - This Kaotic Lyfe by randall"
 date = "2024-10-09T08:00:09-07:00"
 slug = "613-this-kaotic-lyfe"
 constraints = ["Chaos Construction", "German Whispers", "Other"]
+setters = ["randall"]
+puzzle_url = "https://sudokupad.app/adventure/613-tkl"
 aliases = ["/613/"]
 +++
 

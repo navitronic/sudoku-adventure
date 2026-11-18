@@ -3,6 +3,8 @@ title = "Puzzle #559 - RuStLe by Riffclown"
 date = "2024-08-08T08:00:01-07:00"
 slug = "559-rustle"
 constraints = ["Region Sum Lines", "Irregular"]
+setters = ["Riffclown"]
+puzzle_url = "https://sudokupad.app/adventure/559-rustle"
 aliases = ["/559/"]
 +++
 

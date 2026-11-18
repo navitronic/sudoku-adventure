@@ -3,6 +3,8 @@ title = "Puzzle #1253 - As easy as by sanabas"
 date = "2026-07-27T08:00:07-07:00"
 slug = "1253-as-easy-as"
 constraints = ["Sandwich Sums", "X-Sums"]
+setters = ["sanabas"]
+puzzle_url = "https://sudokupad.app/adventure/1253-aea"
 aliases = ["/1253/"]
 +++
 

@@ -3,6 +3,8 @@ title = "Puzzle #862 - Dorm Rooms by ChinStrap"
 date = "2025-06-19T08:01:24-07:00"
 slug = "862-dorm-rooms"
 constraints = ["Region Sum Lines", "Numbered Rooms"]
+setters = ["ChinStrap"]
+puzzle_url = "https://sudokupad.app/adventure/862-dr"
 aliases = ["/862/"]
 +++
 

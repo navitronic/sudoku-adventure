@@ -3,6 +3,8 @@ title = "Puzzle #80 - Chainsaw by rockratzero"
 date = "2023-04-17T08:00:37-07:00"
 slug = "80-chainsaw"
 constraints = ["Arrows"]
+setters = ["rockratzero"]
+puzzle_url = "https://sudokupad.app/adventure/80-chainsaw"
 aliases = ["/80/"]
 +++
 

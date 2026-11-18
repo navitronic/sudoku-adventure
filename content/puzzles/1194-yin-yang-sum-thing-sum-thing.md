@@ -3,6 +3,8 @@ title = "Puzzle #1194 - Yin-Yang sum-thing sum-thing by sanabas"
 date = "2026-05-29T08:00:04-07:00"
 slug = "1194-yin-yang-sum-thing-sum-thing"
 constraints = ["Sum lines", "Yin Yang"]
+setters = ["sanabas"]
+puzzle_url = "https://sudokupad.app/adventure/1194-yystst"
 aliases = ["/1194/"]
 +++
 

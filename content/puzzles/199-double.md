@@ -3,6 +3,8 @@ title = "Puzzle #199 - Double by zetamath"
 date = "2023-08-14T08:00:16-07:00"
 slug = "199-double"
 constraints = ["Arrows", "Double Arrows"]
+setters = ["zetamath"]
+puzzle_url = "https://sudokupad.app/adventure/199-double"
 aliases = ["/199/"]
 +++
 

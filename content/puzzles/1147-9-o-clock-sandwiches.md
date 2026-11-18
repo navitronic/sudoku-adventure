@@ -3,6 +3,8 @@ title = "Puzzle #1147 - 9 o'clock sandwiches by PjoeterBliep"
 date = "2026-04-12T08:01:18-07:00"
 slug = "1147-9-o-clock-sandwiches"
 constraints = ["Sandwich Sums", "Even/Odd"]
+setters = ["PjoeterBliep"]
+puzzle_url = "https://sudokupad.app/adventure/1147-9ocs"
 aliases = ["/1147/"]
 +++
 

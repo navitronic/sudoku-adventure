@@ -3,6 +3,8 @@ title = "Puzzle #868 - Blue Runes by Stuart Sharpe"
 date = "2025-06-25T08:00:35-07:00"
 slug = "868-blue-runes"
 constraints = ["Index Lines"]
+setters = ["Stuart Sharpe"]
+puzzle_url = "https://sudokupad.app/adventure/868-br"
 aliases = ["/868/"]
 +++
 

@@ -3,6 +3,8 @@ title = "Puzzle #300 - Setting 300 by Rangsk"
 date = "2023-11-23T08:00:33-08:00"
 slug = "300-setting-300"
 constraints = ["Entropic Lines", "Renban Lines"]
+setters = ["Rangsk"]
+puzzle_url = "https://sudokupad.app/adventure/300-setting300"
 aliases = ["/300/"]
 +++
 

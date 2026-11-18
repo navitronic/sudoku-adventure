@@ -3,6 +3,8 @@ title = "Puzzle #235 - A lil' wonky by dumediat"
 date = "2023-09-19T08:00:22-07:00"
 slug = "235-a-lil-wonky"
 constraints = ["Thermometers", "Variant"]
+setters = ["dumediat"]
+puzzle_url = "https://sudokupad.app/adventure/235-alw"
 aliases = ["/235/"]
 +++
 

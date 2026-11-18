@@ -3,6 +3,8 @@ title = "Puzzle #955 - Winging It by Matt Tressel"
 date = "2025-09-28T08:01:44-07:00"
 slug = "955-winging-it"
 constraints = ["German Whispers", "Quadruples"]
+setters = ["Matt Tressel"]
+puzzle_url = "https://sudokupad.app/adventure/955-wi"
 aliases = ["/955/"]
 +++
 

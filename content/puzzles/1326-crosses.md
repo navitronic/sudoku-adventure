@@ -3,6 +3,8 @@ title = "Puzzle #1326 - Crosses by Strosahl"
 date = "2026-10-08T08:00:35-07:00"
 slug = "1326-crosses"
 constraints = ["Look-and-Say Cages"]
+setters = ["Strosahl"]
+puzzle_url = "https://sudokupad.app/adventure/1326-crosse"
 aliases = ["/1326/"]
 +++
 

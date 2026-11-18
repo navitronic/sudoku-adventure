@@ -3,6 +3,8 @@ title = "Puzzle #227 - Snail Race by Sandra & Nala"
 date = "2023-09-11T08:00:36-07:00"
 slug = "227-snail-race"
 constraints = ["Thermometers", "German Whispers"]
+setters = ["Sandra & Nala"]
+puzzle_url = "https://sudokupad.app/adventure/227-sr"
 aliases = ["/227/"]
 +++
 

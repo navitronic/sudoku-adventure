@@ -3,6 +3,8 @@ title = "Puzzle #854 - VVVVV by ChinStrap"
 date = "2025-06-11T08:00:59-07:00"
 slug = "854-vvvvv"
 constraints = ["XV", "Skyscrapers"]
+setters = ["ChinStrap"]
+puzzle_url = "https://sudokupad.app/adventure/854-vvvvv"
 aliases = ["/854/"]
 +++
 

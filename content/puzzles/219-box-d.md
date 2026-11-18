@@ -3,6 +3,8 @@ title = "Puzzle #219 - Box'd by Riffclown"
 date = "2023-09-03T08:00:07-07:00"
 slug = "219-box-d"
 constraints = ["Region Sum Lines"]
+setters = ["Riffclown"]
+puzzle_url = "https://sudokupad.app/adventure/219-boxd"
 aliases = ["/219/"]
 +++
 

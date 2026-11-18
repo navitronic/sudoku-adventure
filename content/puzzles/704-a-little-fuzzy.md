@@ -3,6 +3,8 @@ title = "Puzzle #704 - A Little Fuzzy by Crusader175"
 date = "2025-01-08T08:12:58-08:00"
 slug = "704-a-little-fuzzy"
 constraints = ["Arrows", "Variant"]
+setters = ["Crusader175"]
+puzzle_url = "https://sudokupad.app/adventure/704-alf"
 aliases = ["/704/"]
 +++
 

@@ -3,6 +3,8 @@ title = "Puzzle #832 - Scrabble J by Palfly Kampling"
 date = "2025-05-20T08:00:13-07:00"
 slug = "832-scrabble-j"
 constraints = ["Mean Mini", "Sandwich Sums", "Arrows"]
+setters = ["Palfly Kampling"]
+puzzle_url = "https://sudokupad.app/adventure/832-sj"
 aliases = ["/832/"]
 +++
 

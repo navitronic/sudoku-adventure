@@ -3,6 +3,8 @@ title = "Puzzle #120 - Balance by riffclown"
 date = "2023-05-27T08:00:08-07:00"
 slug = "120-balance"
 constraints = ["Thermometers"]
+setters = ["Riffclown"]
+puzzle_url = "https://sudokupad.app/adventure/120-balance"
 aliases = ["/120/"]
 +++
 

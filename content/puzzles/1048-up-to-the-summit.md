@@ -3,6 +3,8 @@ title = "Puzzle #1048 - Up to the Summit by Calvinball"
 date = "2025-12-30T08:00:24-08:00"
 slug = "1048-up-to-the-summit"
 constraints = ["Up to N"]
+setters = ["Calvinball"]
+puzzle_url = "https://sudokupad.app/adventure/1048-utts"
 aliases = ["/1048/"]
 +++
 

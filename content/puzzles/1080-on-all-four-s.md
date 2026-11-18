@@ -3,6 +3,8 @@ title = "Puzzle #1080 - On All Four's by James Kopp"
 date = "2026-01-31T08:00:49-08:00"
 slug = "1080-on-all-four-s"
 constraints = ["Sandwich Sums", "Skyscrapers"]
+setters = ["James Kopp"]
+puzzle_url = "https://sudokupad.app/adventure/1080-oaf"
 aliases = ["/1080/"]
 +++
 

@@ -3,6 +3,8 @@ title = "Puzzle #1056 - Point of Reference by ChinStrap"
 date = "2026-01-07T08:01:32-08:00"
 slug = "1056-point-of-reference"
 constraints = ["Indexing", "Skyscrapers"]
+setters = ["ChinStrap"]
+puzzle_url = "https://sudokupad.app/adventure/1056-por"
 aliases = ["/1056/"]
 +++
 

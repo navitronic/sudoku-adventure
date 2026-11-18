@@ -3,6 +3,8 @@ title = "Puzzle #368 - Game of Roses by Emphyrio"
 date = "2024-01-30T08:00:12-08:00"
 slug = "368-game-of-roses"
 constraints = ["Arrows"]
+setters = ["Emphyrio"]
+puzzle_url = "https://sudokupad.app/adventure/368-gor"
 aliases = ["/368/"]
 +++
 

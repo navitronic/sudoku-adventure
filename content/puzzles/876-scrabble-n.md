@@ -3,6 +3,8 @@ title = "Puzzle #876 - Scrabble N by Palfly Kampling"
 date = "2025-07-03T08:00:18-07:00"
 slug = "876-scrabble-n"
 constraints = ["Double Arrows", "Other"]
+setters = ["Palfly Kampling"]
+puzzle_url = "https://sudokupad.app/adventure/876-sn"
 aliases = ["/876/"]
 +++
 

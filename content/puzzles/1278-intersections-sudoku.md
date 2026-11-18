@@ -3,6 +3,8 @@ title = "Puzzle #1278 - Intersections Sudoku by Gene"
 date = "2026-08-21T08:00:09-07:00"
 slug = "1278-intersections-sudoku"
 constraints = ["Other"]
+setters = ["Gene"]
+puzzle_url = "https://sudokupad.app/adventure/1278-is"
 aliases = ["/1278/"]
 +++
 

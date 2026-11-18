@@ -3,6 +3,8 @@ title = "Puzzle #462 - Singing in the Rain by riffclown"
 date = "2024-05-03T08:00:20-07:00"
 slug = "462-singing-in-the-rain"
 constraints = ["German Whispers"]
+setters = ["Riffclown"]
+puzzle_url = "https://sudokupad.app/adventure/462-sitr"
 aliases = ["/462/"]
 +++
 

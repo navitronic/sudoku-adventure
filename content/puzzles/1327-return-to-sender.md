@@ -3,6 +3,8 @@ title = "Puzzle #1327 - Return to Sender by Matt Tressel"
 date = "2026-10-09T08:00:28-07:00"
 slug = "1327-return-to-sender"
 constraints = ["Look-and-Say Cages", "Arrows"]
+setters = ["Matt Tressel"]
+puzzle_url = "https://sudokupad.app/adventure/1327-rts"
 aliases = ["/1327/"]
 +++
 

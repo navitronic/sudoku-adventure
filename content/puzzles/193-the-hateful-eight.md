@@ -3,6 +3,8 @@ title = "Puzzle #193 - The Hateful Eight by MicroStudy"
 date = "2023-08-08T08:00:29-07:00"
 slug = "193-the-hateful-eight"
 constraints = ["Killer Cages"]
+setters = ["MicroStudy"]
+puzzle_url = "https://sudokupad.app/adventure/193-the"
 aliases = ["/193/"]
 +++
 

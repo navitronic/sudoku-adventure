@@ -3,6 +3,8 @@ title = "Puzzle #807 - Galactic Adventure by gdc"
 date = "2025-04-25T08:00:55-07:00"
 slug = "807-galactic-adventure"
 constraints = ["Other"]
+setters = ["gdc"]
+puzzle_url = "https://sudokupad.app/adventure/807-ga"
 aliases = ["/807/"]
 +++
 

@@ -3,6 +3,8 @@ title = "Puzzle #1286 - Hill Climb by Gene"
 date = "2026-08-29T08:00:29-07:00"
 slug = "1286-hill-climb"
 constraints = ["Between Lines", "Diagonal"]
+setters = ["Gene"]
+puzzle_url = "https://sudokupad.app/adventure/1286-hc"
 aliases = ["/1286/"]
 +++
 

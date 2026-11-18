@@ -3,6 +3,8 @@ title = "Puzzle #728 - Cages and More Cages by Strosahl"
 date = "2025-02-01T08:00:25-08:00"
 slug = "728-cages-and-more-cages"
 constraints = ["Killer Cages", "Clones"]
+setters = ["Strosahl"]
+puzzle_url = "https://sudokupad.app/adventure/728-camc"
 aliases = ["/728/"]
 +++
 

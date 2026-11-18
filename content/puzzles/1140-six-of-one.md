@@ -3,6 +3,8 @@ title = "Puzzle #1140 - Six of One by Strosahl"
 date = "2026-04-05T08:01:28-07:00"
 slug = "1140-six-of-one"
 constraints = ["Little Killer"]
+setters = ["Strosahl"]
+puzzle_url = "https://sudokupad.app/adventure/1140-soo"
 aliases = ["/1140/"]
 +++
 

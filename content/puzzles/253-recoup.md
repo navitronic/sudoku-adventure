@@ -3,6 +3,8 @@ title = "Puzzle #253 - Recoup by MicroStudy"
 date = "2023-10-07T08:00:34-07:00"
 slug = "253-recoup"
 constraints = ["Quadruples", "Arrows"]
+setters = ["MicroStudy"]
+puzzle_url = "https://sudokupad.app/adventure/253-recoup"
 aliases = ["/253/"]
 +++
 

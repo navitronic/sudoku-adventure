@@ -3,6 +3,8 @@ title = "Puzzle #1014 - Descriptors by Crusader175"
 date = "2025-11-26T08:01:24-08:00"
 slug = "1014-descriptors"
 constraints = ["Other", "Numbered Rooms"]
+setters = ["Crusader175"]
+puzzle_url = "https://sudokupad.app/adventure/1014-descriptors"
 aliases = ["/1014/"]
 +++
 

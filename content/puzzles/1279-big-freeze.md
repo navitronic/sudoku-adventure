@@ -3,6 +3,8 @@ title = "Puzzle #1279 - Big Freeze by gdc"
 date = "2026-08-22T08:00:23-07:00"
 slug = "1279-big-freeze"
 constraints = ["Thermometers", "Entropic Lines"]
+setters = ["gdc"]
+puzzle_url = "https://sudokupad.app/adventure/1279-bf"
 aliases = ["/1279/"]
 +++
 

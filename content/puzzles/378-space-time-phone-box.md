@@ -3,6 +3,8 @@ title = "Puzzle #378 - Space-Time Phone Box by rockratzero"
 date = "2024-02-09T08:00:11-08:00"
 slug = "378-space-time-phone-box"
 constraints = ["Fortress", "Kropki Pairs"]
+setters = ["rockratzero"]
+puzzle_url = "https://sudokupad.app/adventure/378-stpb"
 aliases = ["/378/"]
 +++
 

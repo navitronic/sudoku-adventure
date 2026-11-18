@@ -3,6 +3,8 @@ title = "Puzzle #761 - V is for Vista by randall"
 date = "2025-03-09T08:00:29-07:00"
 slug = "761-v-is-for-vista"
 constraints = ["Renban Lines", "Kropki Pairs"]
+setters = ["randall"]
+puzzle_url = "https://sudokupad.app/adventure/761-vifv"
 aliases = ["/761/"]
 +++
 

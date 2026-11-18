@@ -3,6 +3,8 @@ title = "Puzzle #841 - Inquisition by randall"
 date = "2025-05-29T08:08:47-07:00"
 slug = "841-inquisition"
 constraints = ["Quadruples", "German Whispers"]
+setters = ["randall"]
+puzzle_url = "https://sudokupad.app/adventure/841-inquis"
 aliases = ["/841/"]
 +++
 

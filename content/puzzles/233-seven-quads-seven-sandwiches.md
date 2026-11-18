@@ -3,6 +3,8 @@ title = "Puzzle #233 - Seven Quads, Seven Sandwiches by rockratzero"
 date = "2023-09-17T08:00:27-07:00"
 slug = "233-seven-quads-seven-sandwiches"
 constraints = ["Quadruples", "Sandwich Sums", "Variant"]
+setters = ["rockratzero"]
+puzzle_url = "https://sudokupad.app/adventure/233-7q7s"
 aliases = ["/233/"]
 +++
 

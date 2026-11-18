@@ -3,6 +3,8 @@ title = "Puzzle #105 - Rangsk's Xsum-venture by DJV"
 date = "2023-05-12T08:00:19-07:00"
 slug = "105-rangsk-s-xsum-venture"
 constraints = ["X-Sums", "Variant"]
+setters = ["DJV"]
+puzzle_url = "https://sudokupad.app/adventure/105-rxv"
 aliases = ["/105/"]
 +++
 

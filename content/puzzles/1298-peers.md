@@ -3,6 +3,8 @@ title = "Puzzle #1298 - Peers by zetamath"
 date = "2026-09-10T08:00:08-07:00"
 slug = "1298-peers"
 constraints = ["Other"]
+setters = ["zetamath"]
+puzzle_url = "https://sudokupad.app/adventure/1298-peers"
 aliases = ["/1298/"]
 +++
 

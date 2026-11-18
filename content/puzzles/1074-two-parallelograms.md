@@ -3,6 +3,8 @@ title = "Puzzle #1074 - Two Parallelograms by Gene"
 date = "2026-01-25T08:00:27-08:00"
 slug = "1074-two-parallelograms"
 constraints = ["Region Sum Lines", "German Whispers"]
+setters = ["Gene"]
+puzzle_url = "https://sudokupad.app/adventure/1074-tp"
 aliases = ["/1074/"]
 +++
 

@@ -3,6 +3,8 @@ title = "Puzzle #721 - Zippers' Jig by Wuschel"
 date = "2025-01-25T08:00:33-08:00"
 slug = "721-zippers-jig"
 constraints = ["Zipper Lines"]
+setters = ["Wuschel"]
+puzzle_url = "https://sudokupad.app/adventure/721-zj"
 aliases = ["/721/"]
 +++
 

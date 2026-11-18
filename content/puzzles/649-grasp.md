@@ -3,6 +3,8 @@ title = "Puzzle #649 - Grasp by rockratzero"
 date = "2024-11-14T08:00:41-08:00"
 slug = "649-grasp"
 constraints = ["Killer Cages", "Thermometers"]
+setters = ["rockratzero"]
+puzzle_url = "https://sudokupad.app/adventure/649-grasp"
 aliases = ["/649/"]
 +++
 

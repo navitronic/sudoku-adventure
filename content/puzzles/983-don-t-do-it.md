@@ -3,6 +3,8 @@ title = "Puzzle #983 - Don't Do It! by Strosahl"
 date = "2025-10-26T08:00:05-07:00"
 slug = "983-don-t-do-it"
 constraints = ["Anti-Quadruples", "Nabner Lines"]
+setters = ["Strosahl"]
+puzzle_url = "https://sudokupad.app/adventure/983-ddi"
 aliases = ["/983/"]
 +++
 

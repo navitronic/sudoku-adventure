@@ -3,6 +3,8 @@ title = "Puzzle #619 - Venetian Scenery by rockratzero"
 date = "2024-10-15T08:01:08-07:00"
 slug = "619-venetian-scenery"
 constraints = ["Other"]
+setters = ["rockratzero"]
+puzzle_url = "https://sudokupad.app/adventure/619-vs"
 aliases = ["/619/"]
 +++
 

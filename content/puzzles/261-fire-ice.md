@@ -3,6 +3,8 @@ title = "Puzzle #261 - Fire&Ice by Emphyrio"
 date = "2023-10-15T08:00:39-07:00"
 slug = "261-fire-ice"
 constraints = ["Thermometers", "Variant"]
+setters = ["Emphyrio"]
+puzzle_url = "https://sudokupad.app/adventure/261-fai"
 aliases = ["/261/"]
 +++
 

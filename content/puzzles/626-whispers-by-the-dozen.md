@@ -3,6 +3,8 @@ title = "Puzzle #626 - Whispers by the Dozen by Strosahl"
 date = "2024-10-22T08:00:39-07:00"
 slug = "626-whispers-by-the-dozen"
 constraints = ["German Whispers"]
+setters = ["Strosahl"]
+puzzle_url = "https://sudokupad.app/adventure/626-wbtd"
 aliases = ["/626/"]
 +++
 

@@ -3,6 +3,8 @@ title = "Puzzle #2 - Advent-ure into the Wild by Luda3"
 date = "2023-01-21T18:46:29-08:00"
 slug = "2-advent-ure-into-the-wild"
 constraints = ["Irregular", "Region Sum Lines"]
+setters = ["Luda3"]
+puzzle_url = "https://sudokupad.app/adventure/2-auitw"
 aliases = ["/2/"]
 +++
 

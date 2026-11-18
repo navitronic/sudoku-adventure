@@ -3,6 +3,8 @@ title = "Puzzle #710 - Zhing! by rockratzero"
 date = "2025-01-14T12:12:38-08:00"
 slug = "710-zhing"
 constraints = ["Arrows", "Kropki Pairs"]
+setters = ["rockratzero"]
+puzzle_url = "https://sudokupad.app/adventure/710-zhingh"
 aliases = ["/710/"]
 +++
 

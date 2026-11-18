@@ -3,6 +3,8 @@ title = "Puzzle #700 - Chaotic Neutral by Palfly Kampling"
 date = "2025-01-04T14:47:27-08:00"
 slug = "700-chaotic-neutral"
 constraints = ["Chaos Construction", "Region Sum Lines"]
+setters = ["Palfly Kampling"]
+puzzle_url = "https://sudokupad.app/adventure/700-cn"
 aliases = ["/700/"]
 +++
 

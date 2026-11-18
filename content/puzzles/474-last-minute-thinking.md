@@ -3,6 +3,8 @@ title = "Puzzle #474 - Last Minute Thinking by Jaze"
 date = "2024-05-15T08:00:21-07:00"
 slug = "474-last-minute-thinking"
 constraints = ["Region Sum Lines", "Referenced Lines"]
+setters = ["Jaze"]
+puzzle_url = "https://sudokupad.app/adventure/474-lmt"
 aliases = ["/474/"]
 +++
 

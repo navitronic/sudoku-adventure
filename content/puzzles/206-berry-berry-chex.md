@@ -3,6 +3,8 @@ title = "Puzzle #206 - Berry Berry Chex by rockratzero"
 date = "2023-08-21T08:00:12-07:00"
 slug = "206-berry-berry-chex"
 constraints = ["Indexing"]
+setters = ["rockratzero"]
+puzzle_url = "https://sudokupad.app/adventure/206-bbc"
 aliases = ["/206/"]
 +++
 

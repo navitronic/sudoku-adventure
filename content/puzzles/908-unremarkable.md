@@ -3,6 +3,8 @@ title = "Puzzle #908 - Unremarkable by rockratzero"
 date = "2025-08-04T08:01:40-07:00"
 slug = "908-unremarkable"
 constraints = ["Counting Circles", "X-Sums"]
+setters = ["rockratzero"]
+puzzle_url = "https://sudokupad.app/adventure/908-unremarkable"
 aliases = ["/908/"]
 +++
 

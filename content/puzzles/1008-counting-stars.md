@@ -3,6 +3,8 @@ title = "Puzzle #1008 - Counting Stars by Matt Tressel"
 date = "2025-11-20T08:00:18-08:00"
 slug = "1008-counting-stars"
 constraints = ["Other"]
+setters = ["Matt Tressel"]
+puzzle_url = "https://sudokupad.app/adventure/1008-cs"
 aliases = ["/1008/"]
 +++
 

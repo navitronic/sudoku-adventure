@@ -3,6 +3,8 @@ title = "Puzzle #104 - Calcutta by Emphyrio"
 date = "2023-05-11T08:00:00-07:00"
 slug = "104-calcutta"
 constraints = ["Thermometers", "Killer Cages"]
+setters = ["Emphyrio"]
+puzzle_url = "https://sudokupad.app/adventure/104-calcutta"
 aliases = ["/104/"]
 +++
 

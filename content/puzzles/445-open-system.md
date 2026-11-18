@@ -3,6 +3,8 @@ title = "Puzzle #445 - Open System by Palfly Kampling"
 date = "2024-04-16T08:00:04-07:00"
 slug = "445-open-system"
 constraints = ["Entropic Lines", "Region Sum Lines"]
+setters = ["Palfly Kampling"]
+puzzle_url = "https://sudokupad.app/adventure/445-open-system"
 aliases = ["/445/"]
 +++
 

@@ -3,6 +3,8 @@ title = "Puzzle #128 - Triple Double by MicroStudy"
 date = "2023-06-04T08:00:42-07:00"
 slug = "128-triple-double"
 constraints = ["Clones", "XV", "Kropki Pairs"]
+setters = ["MicroStudy"]
+puzzle_url = "https://sudokupad.app/adventure/128-td"
 aliases = ["/128/"]
 +++
 

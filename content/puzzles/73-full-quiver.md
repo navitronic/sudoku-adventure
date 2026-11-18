@@ -3,6 +3,8 @@ title = "Puzzle #73 - Full Quiver by DJV"
 date = "2023-04-02T08:00:00-07:00"
 slug = "73-full-quiver"
 constraints = ["Arrows", "Variant"]
+setters = ["DJV"]
+puzzle_url = "https://sudokupad.app/adventure/73-full-quiver"
 aliases = ["/73/"]
 +++
 

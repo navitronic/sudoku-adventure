@@ -3,6 +3,8 @@ title = "Puzzle #831 - fortissississimo by rockratzero"
 date = "2025-05-19T12:34:41-07:00"
 slug = "831-fortissississimo"
 constraints = ["Killer Cages"]
+setters = ["rockratzero"]
+puzzle_url = "https://sudokupad.app/adventure/831-fsss"
 aliases = ["/831/"]
 +++
 

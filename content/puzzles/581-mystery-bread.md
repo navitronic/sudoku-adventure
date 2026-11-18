@@ -3,6 +3,8 @@ title = "Puzzle #581 - Mystery Bread by Strosahl"
 date = "2024-08-30T08:00:08-07:00"
 slug = "581-mystery-bread"
 constraints = ["Sandwich Sums", "Fog of War"]
+setters = ["Strosahl"]
+puzzle_url = "https://sudokupad.app/adventure/581-mystery-bread?setting-nogrid=1"
 aliases = ["/581/"]
 +++
 

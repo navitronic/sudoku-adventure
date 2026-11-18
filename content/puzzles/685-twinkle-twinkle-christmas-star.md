@@ -3,6 +3,8 @@ title = "Puzzle #685 - Twinkle Twinkle, Christmas Star by randall"
 date = "2024-12-20T08:00:40-08:00"
 slug = "685-twinkle-twinkle-christmas-star"
 constraints = ["Irregular", "Star Battle", "Killer Cages"]
+setters = ["randall"]
+puzzle_url = "https://sudokupad.app/adventure/685-ttcs"
 aliases = ["/685/"]
 +++
 

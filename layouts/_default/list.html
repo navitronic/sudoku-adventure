@@ -2,15 +2,18 @@
 <h1>{{ if .IsHome }}Latest puzzles{{ else }}{{ .Title }}{{ end }}</h1>
 {{ if eq .Kind "taxonomy" }}
 <ul>
-  {{ range site.Taxonomies.constraints.ByCount }}<li><a href="{{ .Page.RelPermalink }}">{{ .Page.LinkTitle }}</a> ({{ .Count }})</li>{{ end }}
+  {{ $taxonomy := index site.Taxonomies .Data.Plural }}
+  {{ range $taxonomy.ByCount }}<li><a href="{{ .Page.RelPermalink }}">{{ .Page.LinkTitle }}</a> ({{ .Count }})</li>{{ end }}
 </ul>
 {{ else }}
-{{ if eq .Kind "term" }}{{ with .OutputFormats.Get "RSS" }}<p><a href="{{ .RelPermalink }}">Subscribe to this constraint's RSS feed</a></p>{{ end }}{{ end }}
+{{ if eq .Kind "term" }}{{ with .OutputFormats.Get "RSS" }}<p><a href="{{ .RelPermalink }}">Subscribe to this {{ $.Data.Singular }}'s RSS feed</a></p>{{ end }}{{ end }}
 {{ range .Paginator.Pages }}
 <article>
   <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
   <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+  {{ with .Params.setters }}<p>Setter: {{ delimit . ", " }}</p>{{ end }}
   {{ with .Params.constraints }}<p>Constraints: {{ delimit . ", " }}</p>{{ end }}
+  {{ with .Params.puzzle_url }}<p><a href="{{ . }}">Play on SudokuPad</a></p>{{ end }}
 </article>
 {{ else }}
 <p>No puzzles yet. Run the importer to add posts.</p>

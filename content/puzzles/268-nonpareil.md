@@ -3,6 +3,8 @@ title = "Puzzle #268 - Nonpareil by MicroStudy"
 date = "2023-10-22T08:00:43-07:00"
 slug = "268-nonpareil"
 constraints = ["Renban Lines", "Variant"]
+setters = ["MicroStudy"]
+puzzle_url = "https://sudokupad.app/adventure/268-np"
 aliases = ["/268/"]
 +++
 

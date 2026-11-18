@@ -3,6 +3,8 @@ title = "Puzzle #981 - Whorl-A-Girl by Gene"
 date = "2025-10-24T08:00:26-07:00"
 slug = "981-whorl-a-girl"
 constraints = ["Region Sum Lines", "Quadruples"]
+setters = ["Gene"]
+puzzle_url = "https://sudokupad.app/adventure/981-wag"
 aliases = ["/981/"]
 +++
 

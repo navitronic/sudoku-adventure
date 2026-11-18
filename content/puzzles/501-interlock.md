@@ -3,6 +3,8 @@ title = "Puzzle #501 - Interlock by Riffclown"
 date = "2024-06-11T08:00:56-07:00"
 slug = "501-interlock"
 constraints = ["Between Lines", "Kropki Pairs"]
+setters = ["Riffclown"]
+puzzle_url = "https://sudokupad.app/adventure/501-interlock"
 aliases = ["/501/"]
 +++
 

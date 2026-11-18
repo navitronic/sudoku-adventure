@@ -3,6 +3,8 @@ title = "Puzzle #346 - Slow Rise by BremSter"
 date = "2024-01-08T08:00:37-08:00"
 slug = "346-slow-rise"
 constraints = ["Thermometers", "Variant"]
+setters = ["BremSter"]
+puzzle_url = "https://sudokupad.app/adventure/346-slowrise"
 aliases = ["/346/"]
 +++
 

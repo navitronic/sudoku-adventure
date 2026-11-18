@@ -3,6 +3,8 @@ title = "Puzzle #1175 - Give Digits, Rav Anshel! by Gene"
 date = "2026-05-10T08:00:51-07:00"
 slug = "1175-give-digits-rav-anshel"
 constraints = ["German Whispers", "Dynamic Fog"]
+setters = ["Gene"]
+puzzle_url = "https://sudokupad.app/adventure/1175-gdra"
 aliases = ["/1175/"]
 +++
 

@@ -3,6 +3,8 @@ title = "Puzzle #1183 - Close Targets by gdc"
 date = "2026-05-18T08:00:32-07:00"
 slug = "1183-close-targets"
 constraints = ["Renban Lines", "Arrows"]
+setters = ["gdc"]
+puzzle_url = "https://sudokupad.app/adventure/1183-ct"
 aliases = ["/1183/"]
 +++
 

@@ -3,6 +3,8 @@ title = "Puzzle #750 - Cell Block C by theasylm"
 date = "2025-02-26T08:00:33-08:00"
 slug = "750-cell-block-c"
 constraints = ["Killer Cages"]
+setters = ["theasylm"]
+puzzle_url = "https://sudokupad.app/adventure/750-cbc"
 aliases = ["/750/"]
 +++
 

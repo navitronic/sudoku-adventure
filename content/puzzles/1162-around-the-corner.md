@@ -3,6 +3,8 @@ title = "Puzzle #1162 - Around The Corner by ChinStrap"
 date = "2026-04-27T08:00:11-07:00"
 slug = "1162-around-the-corner"
 constraints = ["Numbered Rooms", "Renban Lines"]
+setters = ["ChinStrap"]
+puzzle_url = "https://sudokupad.app/adventure/1162-aroundtc"
 aliases = ["/1162/"]
 +++
 

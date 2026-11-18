@@ -3,6 +3,8 @@ title = "Puzzle #1130 - Wrigglers by ChinStrap"
 date = "2026-03-22T08:00:21-07:00"
 slug = "1130-wrigglers"
 constraints = ["German Whispers"]
+setters = ["ChinStrap"]
+puzzle_url = "https://sudokupad.app/adventure/1130-wrigglers"
 aliases = ["/1130/"]
 +++
 

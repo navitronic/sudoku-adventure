@@ -3,6 +3,8 @@ title = "Puzzle #964 - Beach Parity by gdc"
 date = "2025-10-07T11:37:06-07:00"
 slug = "964-beach-parity"
 constraints = ["Even/Odd", "Other"]
+setters = ["gdc"]
+puzzle_url = "https://sudokupad.app/adventure/964-bp"
 aliases = ["/964/"]
 +++
 

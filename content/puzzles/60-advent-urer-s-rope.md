@@ -3,6 +3,8 @@ title = "Puzzle #60 - Advent-urer's Rope by Emphyrio"
 date = "2023-03-20T08:00:37-07:00"
 slug = "60-advent-urer-s-rope"
 constraints = ["Arrows"]
+setters = ["Emphyrio"]
+puzzle_url = "https://sudokupad.app/adventure/60-aur"
 aliases = ["/60/"]
 +++
 

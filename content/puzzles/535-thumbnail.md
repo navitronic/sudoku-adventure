@@ -3,6 +3,8 @@ title = "Puzzle #535 - Thumbnail by Palfly Kampling"
 date = "2024-07-15T08:00:11-07:00"
 slug = "535-thumbnail"
 constraints = ["Thermometers", "Greater Than Arrows"]
+setters = ["Palfly Kampling"]
+puzzle_url = "https://sudokupad.app/adventure/535-thumbnail"
 aliases = ["/535/"]
 +++
 

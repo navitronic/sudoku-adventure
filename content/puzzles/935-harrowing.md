@@ -3,6 +3,8 @@ title = "Puzzle #935 - Harrowing by zetamath"
 date = "2025-09-08T13:52:36-07:00"
 slug = "935-harrowing"
 constraints = ["Arrows"]
+setters = ["zetamath"]
+puzzle_url = "https://sudokupad.app/adventure/935-harrowing"
 aliases = ["/935/"]
 +++
 

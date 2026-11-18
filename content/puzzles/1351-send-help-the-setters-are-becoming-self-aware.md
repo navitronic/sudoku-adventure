@@ -3,6 +3,8 @@ title = "Puzzle #1351 - Send Help! The Setters Are Becoming Self Aware by Calvin
 date = "2026-11-02T08:00:18-08:00"
 slug = "1351-send-help-the-setters-are-becoming-self-aware"
 constraints = ["Region Sum Lines", "German Whispers"]
+setters = ["Calvinball"]
+puzzle_url = "https://sudokupad.app/adventure/1351-shtsabsa"
 aliases = ["/1351/"]
 +++
 

@@ -3,6 +3,8 @@ title = "Puzzle #1265 - Rinse and Repeat by Matt Tressel"
 date = "2026-08-08T08:00:03-07:00"
 slug = "1265-rinse-and-repeat"
 constraints = ["Other"]
+setters = ["Matt Tressel"]
+puzzle_url = "https://sudokupad.app/adventure/1265-rar"
 aliases = ["/1265/"]
 +++
 

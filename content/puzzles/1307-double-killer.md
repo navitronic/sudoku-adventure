@@ -3,6 +3,8 @@ title = "Puzzle #1307 - Double Killer by Strosahl"
 date = "2026-09-19T08:00:09-07:00"
 slug = "1307-double-killer"
 constraints = ["Killer Cages", "Little Killer"]
+setters = ["Strosahl"]
+puzzle_url = "https://sudokupad.app/adventure/1307-dk"
 aliases = ["/1307/"]
 +++
 

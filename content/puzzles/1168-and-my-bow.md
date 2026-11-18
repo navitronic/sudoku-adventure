@@ -3,6 +3,8 @@ title = "Puzzle #1168 - And My Bow by ChinStrap"
 date = "2026-05-03T08:01:23-07:00"
 slug = "1168-and-my-bow"
 constraints = ["Between Lines", "Arrows"]
+setters = ["ChinStrap"]
+puzzle_url = "https://sudokupad.app/adventure/1168-amb"
 aliases = ["/1168/"]
 +++
 

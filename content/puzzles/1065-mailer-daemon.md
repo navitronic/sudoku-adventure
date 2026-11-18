@@ -3,6 +3,8 @@ title = "Puzzle #1065 - Mailer Daemon by Gene"
 date = "2026-01-16T08:01:23-08:00"
 slug = "1065-mailer-daemon"
 constraints = ["Other"]
+setters = ["Gene"]
+puzzle_url = "https://sudokupad.app/adventure/1065-md"
 aliases = ["/1065/"]
 +++
 

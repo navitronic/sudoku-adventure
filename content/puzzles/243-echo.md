@@ -3,6 +3,8 @@ title = "Puzzle #243 - Echo by dumediat"
 date = "2023-09-27T08:00:30-07:00"
 slug = "243-echo"
 constraints = ["Renban Lines", "Sandwich Sums", "Other"]
+setters = ["dumediat"]
+puzzle_url = "https://sudokupad.app/adventure/243-echo"
 aliases = ["/243/"]
 +++
 

@@ -3,6 +3,8 @@ title = "Puzzle #218 - Morton Fendle by Wuschel"
 date = "2023-09-02T08:00:26-07:00"
 slug = "218-morton-fendle"
 constraints = ["Killer Cages", "Diagonal"]
+setters = ["Wuschel"]
+puzzle_url = "https://sudokupad.app/adventure/218-mf"
 aliases = ["/218/"]
 +++
 

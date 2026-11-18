@@ -3,6 +3,8 @@ title = "Puzzle #1157 - Systematic by PjoeterBliep"
 date = "2026-04-22T08:00:27-07:00"
 slug = "1157-systematic"
 constraints = ["Region Sum Lines", "German Whispers"]
+setters = ["PjoeterBliep"]
+puzzle_url = "https://sudokupad.app/adventure/1157-sys"
 aliases = ["/1157/"]
 +++
 

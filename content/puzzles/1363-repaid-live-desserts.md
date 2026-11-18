@@ -3,6 +3,8 @@ title = "Puzzle #1363 - Repaid Live Desserts by gdc"
 date = "2026-11-14T08:00:02-08:00"
 slug = "1363-repaid-live-desserts"
 constraints = ["Nabner Lines", "Killer Cages", "Variant"]
+setters = ["gdc"]
+puzzle_url = "https://sudokupad.app/adventure/1363-rld"
 aliases = ["/1363/"]
 +++
 

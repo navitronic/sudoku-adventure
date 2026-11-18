@@ -3,6 +3,8 @@ title = "Puzzle #1069 - Odd One Out by Strosahl"
 date = "2026-01-20T08:00:44-08:00"
 slug = "1069-odd-one-out"
 constraints = ["Other"]
+setters = ["Strosahl"]
+puzzle_url = "https://sudokupad.app/adventure/1069-ooo"
 aliases = ["/1069/"]
 +++
 

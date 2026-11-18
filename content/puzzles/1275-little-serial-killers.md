@@ -3,6 +3,8 @@ title = "Puzzle #1275 - Little Serial Killers by SennyK"
 date = "2026-08-18T08:00:36-07:00"
 slug = "1275-little-serial-killers"
 constraints = ["Little Killer", "Other"]
+setters = ["SennyK"]
+puzzle_url = "https://sudokupad.app/adventure/1275-lsk"
 aliases = ["/1275/"]
 +++
 

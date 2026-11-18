@@ -3,6 +3,8 @@ title = "Puzzle #1276 - Airsick Lowlander by Calvinball"
 date = "2026-08-19T08:00:24-07:00"
 slug = "1276-airsick-lowlander"
 constraints = ["Killer Cages", "Diagonal"]
+setters = ["Calvinball"]
+puzzle_url = "https://sudokupad.app/adventure/1276-al"
 aliases = ["/1276/"]
 +++
 

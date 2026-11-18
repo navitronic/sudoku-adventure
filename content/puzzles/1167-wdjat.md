@@ -3,6 +3,8 @@ title = "Puzzle #1167 - Wdjat by Gene"
 date = "2026-05-02T08:01:33-07:00"
 slug = "1167-wdjat"
 constraints = ["Region Sum Lines", "Kropki Pairs", "Variant"]
+setters = ["Gene"]
+puzzle_url = "https://sudokupad.app/adventure/1167-wdjat"
 aliases = ["/1167/"]
 +++
 

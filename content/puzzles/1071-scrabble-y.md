@@ -3,6 +3,8 @@ title = "Puzzle #1071 - Scrabble Y by Palfly Kampling"
 date = "2026-01-22T08:00:26-08:00"
 slug = "1071-scrabble-y"
 constraints = ["Thermometers", "Numbered Rooms"]
+setters = ["Palfly Kampling"]
+puzzle_url = "https://sudokupad.app/adventure/1071-sy"
 aliases = ["/1071/"]
 +++
 

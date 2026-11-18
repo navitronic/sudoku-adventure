@@ -3,6 +3,8 @@ title = "Puzzle #323 - Candy Cane by gdc"
 date = "2023-12-16T08:00:14-08:00"
 slug = "323-candy-cane"
 constraints = ["Ten Lines", "Variant"]
+setters = ["gdc"]
+puzzle_url = "https://sudokupad.app/adventure/323-cc"
 aliases = ["/323/"]
 +++
 

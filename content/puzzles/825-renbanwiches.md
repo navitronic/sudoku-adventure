@@ -3,6 +3,8 @@ title = "Puzzle #825 - Renbanwiches by randall"
 date = "2025-05-13T08:00:41-07:00"
 slug = "825-renbanwiches"
 constraints = ["Renban Lines", "Sandwich Sums", "Fog of War"]
+setters = ["randall"]
+puzzle_url = "https://sudokupad.app/adventure/825-rw?setting-nogrid=1"
 aliases = ["/825/"]
 +++
 

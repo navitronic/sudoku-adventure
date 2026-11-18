@@ -3,6 +3,8 @@ title = "Puzzle #114 - Piled in the Corners by DJV"
 date = "2023-05-21T08:00:37-07:00"
 slug = "114-piled-in-the-corners"
 constraints = ["Little Killer"]
+setters = ["DJV"]
+puzzle_url = "https://sudokupad.app/adventure/114-pitc"
 aliases = ["/114/"]
 +++
 

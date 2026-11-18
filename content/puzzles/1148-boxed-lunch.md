@@ -3,6 +3,8 @@ title = "Puzzle #1148 - Boxed Lunch by Strosahl"
 date = "2026-04-13T08:01:02-07:00"
 slug = "1148-boxed-lunch"
 constraints = ["Sandwich Sums", "Killer Cages"]
+setters = ["Strosahl"]
+puzzle_url = "https://sudokupad.app/adventure/1148-bl"
 aliases = ["/1148/"]
 +++
 

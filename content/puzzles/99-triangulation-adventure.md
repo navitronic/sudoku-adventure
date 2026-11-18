@@ -3,6 +3,8 @@ title = "Puzzle #99 - Triangulation Adventure by fraπ"
 date = "2023-05-06T16:59:28-07:00"
 slug = "99-triangulation-adventure"
 constraints = ["Irregular", "Inequality"]
+setters = ["Fraπ"]
+puzzle_url = "https://sudokupad.app/adventure/99-ta"
 aliases = ["/99/"]
 +++
 

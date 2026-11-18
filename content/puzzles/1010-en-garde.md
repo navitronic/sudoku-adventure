@@ -3,6 +3,8 @@ title = "Puzzle #1010 - En Garde! by PjoeterBliep"
 date = "2025-11-22T08:01:16-08:00"
 slug = "1010-en-garde"
 constraints = ["Japanese Sums"]
+setters = ["PjoeterBliep"]
+puzzle_url = "https://sudokupad.app/adventure/1010-eg"
 aliases = ["/1010/"]
 +++
 

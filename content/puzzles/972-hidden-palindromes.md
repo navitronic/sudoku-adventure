@@ -3,6 +3,8 @@ title = "Puzzle #972 - Hidden Palindromes by Strosahl"
 date = "2025-10-15T12:19:56-07:00"
 slug = "972-hidden-palindromes"
 constraints = ["Killer Cages", "Palindrome Lines"]
+setters = ["Strosahl"]
+puzzle_url = "https://sudokupad.app/adventure/972-hp"
 aliases = ["/972/"]
 +++
 

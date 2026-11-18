@@ -3,6 +3,8 @@ title = "Puzzle #1007 - Scrabble Blank by Stuart Sharpe"
 date = "2025-11-19T08:00:14-08:00"
 slug = "1007-scrabble-blank"
 constraints = ["X-Sums"]
+setters = ["Stuart Sharpe"]
+puzzle_url = "https://sudokupad.app/adventure/1007-sblank"
 aliases = ["/1007/"]
 +++
 

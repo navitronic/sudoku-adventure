@@ -3,6 +3,8 @@ title = "Puzzle #959 - Quad Temps by Strosahl"
 date = "2025-10-02T13:58:27-07:00"
 slug = "959-quad-temps"
 constraints = ["Thermometers", "Quadruples"]
+setters = ["Strosahl"]
+puzzle_url = "https://sudokupad.app/adventure/959-qt"
 aliases = ["/959/"]
 +++
 

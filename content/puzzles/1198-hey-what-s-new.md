@@ -3,6 +3,8 @@ title = "Puzzle #1198 - Hey, What's New? by SennyK"
 date = "2026-06-02T08:00:09-07:00"
 slug = "1198-hey-what-s-new"
 constraints = ["Irregular", "Other"]
+setters = ["SennyK"]
+puzzle_url = "https://sudokupad.app/adventure/1198-hwn"
 aliases = ["/1198/"]
 +++
 

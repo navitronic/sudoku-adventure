@@ -3,6 +3,8 @@ title = "Puzzle #459 - Classification by Strosahl"
 date = "2024-04-30T08:00:31-07:00"
 slug = "459-classification"
 constraints = ["Killer Cages", "Variant"]
+setters = ["Strosahl"]
+puzzle_url = "https://sudokupad.app/adventure/459-classification"
 aliases = ["/459/"]
 +++
 

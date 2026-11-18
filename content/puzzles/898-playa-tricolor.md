@@ -3,6 +3,8 @@ title = "Puzzle #898 - Playa Tricolor by gdc"
 date = "2025-07-25T08:01:27-07:00"
 slug = "898-playa-tricolor"
 constraints = ["Entropic Lines", "Variant"]
+setters = ["gdc"]
+puzzle_url = "https://sudokupad.app/adventure/898-pt"
 aliases = ["/898/"]
 +++
 

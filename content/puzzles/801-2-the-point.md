@@ -3,6 +3,8 @@ title = "Puzzle #801 - 2 the Point by Riffclown"
 date = "2025-04-19T08:01:19-07:00"
 slug = "801-2-the-point"
 constraints = ["Arrows"]
+setters = ["Riffclown"]
+puzzle_url = "https://sudokupad.app/adventure/801-2tp"
 aliases = ["/801/"]
 +++
 

@@ -3,6 +3,8 @@ title = "Puzzle #366 - Great Company by Palfly Kampling"
 date = "2024-01-28T08:00:20-08:00"
 slug = "366-great-company"
 constraints = ["Renban Lines", "German Whispers"]
+setters = ["Palfly Kampling"]
+puzzle_url = "https://sudokupad.app/adventure/366-gc"
 aliases = ["/366/"]
 +++
 

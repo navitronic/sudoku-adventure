@@ -3,6 +3,8 @@ title = "Puzzle #1254 - Find Your Place by SennyK"
 date = "2026-07-28T08:00:11-07:00"
 slug = "1254-find-your-place"
 constraints = ["Renban Lines"]
+setters = ["SennyK"]
+puzzle_url = "https://sudokupad.app/adventure/1254-fyp"
 aliases = ["/1254/"]
 +++
 

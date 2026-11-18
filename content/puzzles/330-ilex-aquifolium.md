@@ -3,6 +3,8 @@ title = "Puzzle #330 - Ilex aquifolium by rockratzero"
 date = "2023-12-23T08:00:35-08:00"
 slug = "330-ilex-aquifolium"
 constraints = ["German Whispers", "Kropki Pairs"]
+setters = ["rockratzero"]
+puzzle_url = "https://sudokupad.app/adventure/330-holly"
 aliases = ["/330/"]
 +++
 

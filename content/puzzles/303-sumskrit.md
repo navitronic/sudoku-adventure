@@ -3,6 +3,8 @@ title = "Puzzle #303 - Sumskrit by Wuschel"
 date = "2023-11-26T08:00:11-08:00"
 slug = "303-sumskrit"
 constraints = ["Region Sum Lines"]
+setters = ["Wuschel"]
+puzzle_url = "https://sudokupad.app/adventure/303-sumskrit"
 aliases = ["/303/"]
 +++
 

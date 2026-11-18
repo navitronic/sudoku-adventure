@@ -3,6 +3,8 @@ title = "Puzzle #531 - Let's Play Ball! by Tony Zampini"
 date = "2024-07-11T08:00:00-07:00"
 slug = "531-let-s-play-ball"
 constraints = ["Palindrome Lines", "Kropki Pairs"]
+setters = ["Tony Zampini"]
+puzzle_url = "https://sudokupad.app/adventure/531-lets-play-ball"
 aliases = ["/531/"]
 +++
 

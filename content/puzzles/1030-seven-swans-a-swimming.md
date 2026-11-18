@@ -3,6 +3,8 @@ title = "Puzzle #1030 - Seven Swans A-Swimming by Matt Tressel"
 date = "2025-12-12T08:06:49-08:00"
 slug = "1030-seven-swans-a-swimming"
 constraints = ["Arrow Sums to 7"]
+setters = ["Matt Tressel"]
+puzzle_url = "https://sudokupad.app/adventure/1030-7sas"
 aliases = ["/1030/"]
 +++
 

@@ -3,6 +3,8 @@ title = "Puzzle #1243 - Arrow-rama by ChinStrap"
 date = "2026-07-17T08:00:00-07:00"
 slug = "1243-arrow-rama"
 constraints = ["Arrows", "Double Arrows"]
+setters = ["ChinStrap"]
+puzzle_url = "https://sudokupad.app/adventure/1243-arrowr"
 aliases = ["/1243/"]
 +++
 

@@ -3,6 +3,8 @@ title = "Puzzle #1104 - High-rise by James Kopp"
 date = "2026-02-24T08:01:20-08:00"
 slug = "1104-high-rise"
 constraints = ["Skyscrapers"]
+setters = ["James Kopp"]
+puzzle_url = "https://sudokupad.app/adventure/1104-hr"
 aliases = ["/1104/"]
 +++
 

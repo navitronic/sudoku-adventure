@@ -3,6 +3,8 @@ title = "Puzzle #1287 - Sharp Turns in the Fog by PjoeterBliep"
 date = "2026-08-30T08:00:33-07:00"
 slug = "1287-sharp-turns-in-the-fog"
 constraints = ["Arrows", "Dynamic Fog"]
+setters = ["PjoeterBliep"]
+puzzle_url = "https://sudokupad.app/adventure/1287-stitf"
 aliases = ["/1287/"]
 +++
 

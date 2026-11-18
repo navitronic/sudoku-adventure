@@ -3,6 +3,8 @@ title = "Puzzle #611 - Not This Way Out by gdc"
 date = "2024-10-07T08:00:59-07:00"
 slug = "611-not-this-way-out"
 constraints = ["Chaos Construction", "Other", "Extra Regions"]
+setters = ["gdc"]
+puzzle_url = "https://sudokupad.app/adventure/611-ntwo"
 aliases = ["/611/"]
 +++
 

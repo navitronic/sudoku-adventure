@@ -3,6 +3,8 @@ title = "Puzzle #427 - Ascending Starters by Clover"
 date = "2024-03-29T08:00:03-07:00"
 slug = "427-ascending-starters"
 constraints = ["Other"]
+setters = ["Clover"]
+puzzle_url = "https://sudokupad.app/adventure/427-asc-starters"
 aliases = ["/427/"]
 +++
 

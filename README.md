@@ -22,9 +22,11 @@ Distinct puzzles sharing a number each get a title-based URL. If their titles ar
 
 Run `python3 scripts/import_puzzles.py import --csv path/to/sheet.csv` to use a downloaded CSV. `--content path/to/directory` changes the output folder (useful for testing).
 
-## RSS feeds
+## Browse and subscribe
 
-Subscribe to all puzzles at `/index.xml`, or to a constraint at `/constraints/<constraint-slug>/index.xml`. The site links to the main feed and advertises the relevant feed to feed readers on each page. Old `/tags/` URLs redirect to `/constraints/` on Cloudflare Pages.
+The `/setters/` archive lists each setter and their puzzle count; each setter has a page at `/setters/<setter-slug>/`. Listing pages link directly to each puzzle on SudokuPad. Setter name variants used for archive grouping are configured in [`scripts/setter_aliases.json`](scripts/setter_aliases.json); original post titles are unchanged.
+
+Subscribe to all puzzles at `/index.xml`, to a constraint at `/constraints/<constraint-slug>/index.xml`, or to a setter at `/setters/<setter-slug>/index.xml`. Feed entries contain the full post, with SudokuPad as the item link and the site post URL as its permanent ID. The site advertises the relevant feed to feed readers on each page. Old `/tags/` URLs redirect to `/constraints/` on Cloudflare Pages.
 
 ## Local development
 

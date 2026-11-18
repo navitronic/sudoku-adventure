@@ -3,6 +3,8 @@ title = "Puzzle #688 - Candles by Strosahl"
 date = "2024-12-23T08:00:50-08:00"
 slug = "688-candles"
 constraints = ["Renban Lines"]
+setters = ["Strosahl"]
+puzzle_url = "https://sudokupad.app/adventure/688-candles"
 aliases = ["/688/"]
 +++
 

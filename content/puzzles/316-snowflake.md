@@ -3,6 +3,8 @@ title = "Puzzle #316 - Snowflake by Jaze"
 date = "2023-12-09T08:00:07-08:00"
 slug = "316-snowflake"
 constraints = ["German Whispers", "Arrows"]
+setters = ["Jaze"]
+puzzle_url = "https://sudokupad.app/adventure/316-snowflake"
 aliases = ["/316/"]
 +++
 

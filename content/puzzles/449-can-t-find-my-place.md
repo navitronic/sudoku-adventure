@@ -3,6 +3,8 @@ title = "Puzzle #449 - Can't Find My Place by Toir"
 date = "2024-04-20T08:00:23-07:00"
 slug = "449-can-t-find-my-place"
 constraints = ["Zipper Lines", "Referenced Lines", "Variant"]
+setters = ["Toir"]
+puzzle_url = "https://sudokupad.app/adventure/449-cant-fmp"
 aliases = ["/449/"]
 +++
 

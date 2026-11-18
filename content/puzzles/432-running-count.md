@@ -3,6 +3,8 @@ title = "Puzzle #432 - Running Count by ZegreS"
 date = "2024-04-03T08:00:35-07:00"
 slug = "432-running-count"
 constraints = ["Counting Circles", "Killer Cages"]
+setters = ["ZegreS"]
+puzzle_url = "https://sudokupad.app/adventure/432-running-count"
 aliases = ["/432/"]
 +++
 

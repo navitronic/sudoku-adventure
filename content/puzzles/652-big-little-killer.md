@@ -3,6 +3,8 @@ title = "Puzzle #652 - Big Little Killer by randall"
 date = "2024-11-17T08:00:11-08:00"
 slug = "652-big-little-killer"
 constraints = ["Little Killer"]
+setters = ["randall"]
+puzzle_url = "https://sudokupad.app/adventure/652-blk"
 aliases = ["/652/"]
 +++
 

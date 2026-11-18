@@ -3,6 +3,8 @@ title = "Puzzle #1017 - Scrabble W by Palfly Kampling"
 date = "2025-11-29T08:00:04-08:00"
 slug = "1017-scrabble-w"
 constraints = ["Other"]
+setters = ["Palfly Kampling"]
+puzzle_url = "https://sudokupad.app/adventure/1017-sw"
 aliases = ["/1017/"]
 +++
 

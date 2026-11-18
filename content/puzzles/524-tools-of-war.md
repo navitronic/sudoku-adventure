@@ -3,6 +3,8 @@ title = "Puzzle #524 - Tools of War by theasylm"
 date = "2024-07-04T08:00:42-07:00"
 slug = "524-tools-of-war"
 constraints = ["Japanese Sums", "Fog of War"]
+setters = ["theasylm"]
+puzzle_url = "https://sudokupad.app/adventure/524-tools-of-war"
 aliases = ["/524/"]
 +++
 

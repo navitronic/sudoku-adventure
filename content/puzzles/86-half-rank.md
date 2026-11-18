@@ -3,6 +3,8 @@ title = "Puzzle #86 - Half Rank by rockratzero"
 date = "2023-04-23T08:00:18-07:00"
 slug = "86-half-rank"
 constraints = ["Other"]
+setters = ["rockratzero"]
+puzzle_url = "https://sudokupad.app/adventure/86-half-rank"
 aliases = ["/86/"]
 +++
 

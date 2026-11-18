@@ -3,6 +3,8 @@ title = "Puzzle #1151 - GeoCache by Riffclown"
 date = "2026-04-16T08:00:35-07:00"
 slug = "1151-geocache"
 constraints = ["Renban Lines"]
+setters = ["Riffclown"]
+puzzle_url = "https://sudokupad.app/adventure/1151-gc"
 aliases = ["/1151/"]
 +++
 

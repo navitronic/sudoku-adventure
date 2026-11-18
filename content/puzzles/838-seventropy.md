@@ -3,6 +3,8 @@ title = "Puzzle #838 - Seventropy by Matt Tressel"
 date = "2025-05-26T08:01:14-07:00"
 slug = "838-seventropy"
 constraints = ["Other", "XV"]
+setters = ["Matt Tressel"]
+puzzle_url = "https://sudokupad.app/adventure/838-seventropy"
 aliases = ["/838/"]
 +++
 

@@ -3,6 +3,8 @@ title = "Puzzle #201 - Arrow Adventures Abound by Riffclown"
 date = "2023-08-16T08:00:21-07:00"
 slug = "201-arrow-adventures-abound"
 constraints = ["Arrows"]
+setters = ["Riffclown"]
+puzzle_url = "https://sudokupad.app/adventure/201-aaa"
 aliases = ["/201/"]
 +++
 

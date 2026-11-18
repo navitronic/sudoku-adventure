@@ -3,6 +3,8 @@ title = "Puzzle #25 - Bad Dream by riffclown"
 date = "2023-02-13T08:00:23-08:00"
 slug = "25-bad-dream"
 constraints = ["Other"]
+setters = ["Riffclown"]
+puzzle_url = "https://sudokupad.app/adventure/25-bad-dream"
 aliases = ["/25/"]
 +++
 

@@ -3,6 +3,8 @@ title = "Puzzle #1249 - Double Duty by Strosahl"
 date = "2026-07-23T08:00:01-07:00"
 slug = "1249-double-duty"
 constraints = ["Little Killer", "X-Sums"]
+setters = ["Strosahl"]
+puzzle_url = "https://sudokupad.app/adventure/1249-dd"
 aliases = ["/1249/"]
 +++
 

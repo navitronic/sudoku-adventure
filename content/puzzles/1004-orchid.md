@@ -3,6 +3,8 @@ title = "Puzzle #1004 - Orchid by Palfly Kampling"
 date = "2025-11-16T08:00:37-08:00"
 slug = "1004-orchid"
 constraints = ["Renban Lines"]
+setters = ["Palfly Kampling"]
+puzzle_url = "https://sudokupad.app/adventure/1004-orchid"
 aliases = ["/1004/"]
 +++
 

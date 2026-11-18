@@ -3,6 +3,8 @@ title = "Puzzle #411 - Labyrinth by Emphyrio"
 date = "2024-03-13T08:00:22-07:00"
 slug = "411-labyrinth"
 constraints = ["Killer Cages", "Variant", "Kropki Pairs"]
+setters = ["Emphyrio"]
+puzzle_url = "https://sudokupad.app/adventure/411-labyrinth"
 aliases = ["/411/"]
 +++
 

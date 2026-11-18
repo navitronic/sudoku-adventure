@@ -3,6 +3,8 @@ title = "Puzzle #541 - Printing Diagonally by Strosahl"
 date = "2024-07-21T08:00:12-07:00"
 slug = "541-printing-diagonally"
 constraints = ["Diagonal", "Other"]
+setters = ["Strosahl"]
+puzzle_url = "https://sudokupad.app/adventure/541-printing-x"
 aliases = ["/541/"]
 +++
 

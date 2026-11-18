@@ -3,6 +3,8 @@ title = "Puzzle #160 - Region Explorer by DJV"
 date = "2023-07-06T08:00:22-07:00"
 slug = "160-region-explorer"
 constraints = ["Extra Regions"]
+setters = ["DJV"]
+puzzle_url = "https://sudokupad.app/adventure/160-re"
 aliases = ["/160/"]
 +++
 

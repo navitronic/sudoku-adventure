@@ -3,6 +3,8 @@ title = "Puzzle #23 - Perforations by rockratzero"
 date = "2023-02-11T17:26:55-08:00"
 slug = "23-perforations"
 constraints = ["Kropki Pairs"]
+setters = ["rockratzero"]
+puzzle_url = "https://sudokupad.app/adventure/23-perforations"
 aliases = ["/23/"]
 +++
 

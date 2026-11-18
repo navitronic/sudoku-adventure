@@ -3,6 +3,8 @@ title = "Puzzle #853 - tabla de conspiración by rockratzero"
 date = "2025-06-10T08:00:49-07:00"
 slug = "853-tabla-de-conspiracion"
 constraints = ["Arrows", "Killer Cages"]
+setters = ["rockratzero"]
+puzzle_url = "https://sudokupad.app/adventure/853-tdc"
 aliases = ["/853/"]
 +++
 

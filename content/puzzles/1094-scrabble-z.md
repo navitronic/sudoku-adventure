@@ -3,6 +3,8 @@ title = "Puzzle #1094 - Scrabble Z by Palfly Kampling"
 date = "2026-02-14T08:01:16-08:00"
 slug = "1094-scrabble-z"
 constraints = ["Kropki Pairs", "Entropic Lines", "Variant"]
+setters = ["Palfly Kampling"]
+puzzle_url = "https://sudokupad.app/adventure/1094-sz"
 aliases = ["/1094/"]
 +++
 

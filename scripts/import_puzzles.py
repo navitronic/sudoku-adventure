@@ -16,6 +16,7 @@ SHEET_URL = "https://docs.google.com/spreadsheets/d/1y4BYBEuXbzReb_tx3bTUdKwynL2
 CONTENT = Path(__file__).resolve().parents[1] / "content" / "puzzles"
 REQUIRED = ("Puzzle Number", "Title", "Setter", "Puzzle Link", "Video Link")
 CONSTRAINT_ALIASES = json.loads(Path(__file__).with_name("constraint_aliases.json").read_text(encoding="utf-8"))
+SETTER_ALIASES = json.loads(Path(__file__).with_name("setter_aliases.json").read_text(encoding="utf-8"))
 
 
 def normalize_constraints(labels):
@@ -96,6 +97,10 @@ def post(row, date, permalink_slug):
     title = row["Title"]
     constraints = normalize_constraints(row["Constraints"].split(","))
     identifier = video_id(row["Video Link"])
+    puzzle = row["Puzzle Link"]
+    parsed = urlparse(puzzle)
+    if parsed.scheme != "https" or parsed.hostname not in ("sudokupad.app", "www.sudokupad.app", "beta.sudokupad.app"):
+        raise ValueError(f"Invalid SudokuPad link: {puzzle}")
     # JSON string literals are valid TOML strings for the values used here.
     quote = lambda value: json.dumps(value, ensure_ascii=False)
     fields = [
@@ -103,13 +108,11 @@ def post(row, date, permalink_slug):
         f'date = {quote(date)}',
         f'slug = {quote(permalink_slug)}',
         f'constraints = {quote(constraints)}',
+        f'setters = [{quote(SETTER_ALIASES.get(row["Setter"], row["Setter"]))}]',
+        f'puzzle_url = {quote(puzzle)}',
     ]
     if row["alias"]:
         fields.append(f'aliases = ["/{number}/"]')
-    puzzle = row["Puzzle Link"]
-    parsed = urlparse(puzzle)
-    if parsed.scheme != "https" or parsed.hostname not in ("sudokupad.app", "www.sudokupad.app", "beta.sudokupad.app"):
-        raise ValueError(f"Invalid SudokuPad link: {puzzle}")
     body = [f'**[Play this puzzle on SudokuPad]({puzzle})**', "", "## Constraints", ""]
     body.extend(f"- {constraint}" for constraint in constraints)
     if not constraints:

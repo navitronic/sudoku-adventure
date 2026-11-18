@@ -3,6 +3,8 @@ title = "Puzzle #839 - Zona di esclusione circolare by rockratzero"
 date = "2025-05-27T08:01:09-07:00"
 slug = "839-zona-di-esclusione-circolare"
 constraints = ["Counting Circles", "Nonconsecutive"]
+setters = ["rockratzero"]
+puzzle_url = "https://sudokupad.app/adventure/839-zdec"
 aliases = ["/839/"]
 +++
 

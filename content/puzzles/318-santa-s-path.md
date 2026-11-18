@@ -3,6 +3,8 @@ title = "Puzzle #318 - Santa's Path by gdc"
 date = "2023-12-11T08:00:18-08:00"
 slug = "318-santa-s-path"
 constraints = ["German Whispers", "Other"]
+setters = ["gdc"]
+puzzle_url = "https://sudokupad.app/adventure/318-sp"
 aliases = ["/318/"]
 +++
 

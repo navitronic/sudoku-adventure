@@ -35,6 +35,8 @@ class ImportTests(unittest.TestCase):
         self.assertIn('title = "Puzzle #1 - Which Way? by Alice"', post)
         self.assertIn('aliases = ["/1/"]', post)
         self.assertIn('constraints = ["Killer Cages", "Palindrome Lines"]', post)
+        self.assertIn('setters = ["Alice"]', post)
+        self.assertIn('puzzle_url = "https://sudokupad.app/adventure/1"', post)
         self.assertIn("**[Play this puzzle on SudokuPad](https://sudokupad.app/adventure/1)**", post)
         self.assertIn('{{< youtube id="bl_WXtLhOXc" >}}', post)
         self.run_import("import")
@@ -71,6 +73,14 @@ class ImportTests(unittest.TestCase):
         post = importer.post(data, "2023-01-18T12:27:22-08:00", "1-which-way")
         self.assertIn('constraints = ["German Whispers", "Chinese Whispers"]', post)
         self.assertIn("- German Whispers\n- Chinese Whispers", post)
+
+    def test_setter_alias_keeps_original_title(self):
+        self.sheet([("1", "Which Way?")])
+        data = importer.rows(self.csv.read_text())[0]
+        data["Setter"] = "clover!"
+        post = importer.post(data, "2023-01-18T12:27:22-08:00", "1-which-way")
+        self.assertIn('title = "Puzzle #1 - Which Way? by clover!"', post)
+        self.assertIn('setters = ["Clover"]', post)
 
     def test_distinct_rows_with_same_number(self):
         self.sheet([("120", "Balance"), ("120", "Chimney Sweeps")])

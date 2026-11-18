@@ -3,6 +3,8 @@ title = "Puzzle #402 - Little Killer by Clover"
 date = "2024-03-04T08:00:14-08:00"
 slug = "402-little-killer"
 constraints = ["Little Killer"]
+setters = ["Clover"]
+puzzle_url = "https://sudokupad.app/adventure/402-lk"
 aliases = ["/402/"]
 +++
 

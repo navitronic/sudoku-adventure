@@ -3,6 +3,8 @@ title = "Puzzle #1292 - Looking Sideways by PjoeterBliep"
 date = "2026-09-04T08:00:19-07:00"
 slug = "1292-looking-sideways"
 constraints = ["Nonconsecutive", "Little Killer", "Irregular"]
+setters = ["PjoeterBliep"]
+puzzle_url = "https://sudokupad.app/adventure/1292-ls"
 aliases = ["/1292/"]
 +++
 

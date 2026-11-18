@@ -3,6 +3,8 @@ title = "Puzzle #1093 - sujoyku Made Me Do It by Calvinball"
 date = "2026-02-13T08:01:23-08:00"
 slug = "1093-sujoyku-made-me-do-it"
 constraints = ["German Whispers", "Variant Quadruples"]
+setters = ["Calvinball"]
+puzzle_url = "https://sudokupad.app/adventure/1093-smmdi"
 aliases = ["/1093/"]
 +++
 

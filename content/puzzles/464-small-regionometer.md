@@ -3,6 +3,8 @@ title = "Puzzle #464 - Small Regionometer by gdc"
 date = "2024-05-05T08:00:17-07:00"
 slug = "464-small-regionometer"
 constraints = ["Region Sum Lines", "Variant"]
+setters = ["gdc"]
+puzzle_url = "https://sudokupad.app/adventure/464-small-regionometer"
 aliases = ["/464/"]
 +++
 

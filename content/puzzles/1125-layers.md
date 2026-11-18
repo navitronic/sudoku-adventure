@@ -3,6 +3,8 @@ title = "Puzzle #1125 - Layers by Strosahl"
 date = "2026-03-17T08:01:21-07:00"
 slug = "1125-layers"
 constraints = ["German Whispers", "Kropki Pairs"]
+setters = ["Strosahl"]
+puzzle_url = "https://sudokupad.app/adventure/1125-layers"
 aliases = ["/1125/"]
 +++
 

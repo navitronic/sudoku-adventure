@@ -3,6 +3,8 @@ title = "Puzzle #154 - Sum Dots by randall"
 date = "2023-06-30T08:00:43-07:00"
 slug = "154-sum-dots"
 constraints = ["Sum Dots"]
+setters = ["randall"]
+puzzle_url = "https://sudokupad.app/adventure/154-sum-dots"
 aliases = ["/154/"]
 +++
 

@@ -3,6 +3,8 @@ title = "Puzzle #961 - Kinetix by Riffclown"
 date = "2025-10-04T10:39:47-07:00"
 slug = "961-kinetix"
 constraints = ["Irregular", "Arrows"]
+setters = ["Riffclown"]
+puzzle_url = "https://sudokupad.app/adventure/961-kinetik"
 aliases = ["/961/"]
 +++
 

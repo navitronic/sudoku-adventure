@@ -3,6 +3,8 @@ title = "Puzzle #1334 - The Letter U by Calvinball"
 date = "2026-10-16T08:00:15-07:00"
 slug = "1334-the-letter-u"
 constraints = ["Thermometers", "Entropic Lines"]
+setters = ["Calvinball"]
+puzzle_url = "https://sudokupad.app/adventure/1334-tlu"
 aliases = ["/1334/"]
 +++
 

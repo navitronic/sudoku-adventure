@@ -3,6 +3,8 @@ title = "Puzzle #665 - Chaotic Good by Palfly Kampling"
 date = "2024-11-30T09:14:31-08:00"
 slug = "665-chaotic-good"
 constraints = ["Chaos Construction", "Dutch Whispers", "Other"]
+setters = ["Palfly Kampling"]
+puzzle_url = "https://sudokupad.app/adventure/665-cg"
 aliases = ["/665/"]
 +++
 

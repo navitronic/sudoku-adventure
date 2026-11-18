@@ -3,6 +3,8 @@ title = "Puzzle #100 - One Hundred Adventures! by Rangsk"
 date = "2023-05-07T08:00:38-07:00"
 slug = "100-one-hundred-adventures-2"
 constraints = ["German Whispers", "Even/Odd"]
+setters = ["Rangsk"]
+puzzle_url = "https://sudokupad.app/adventure/100-gw"
 +++
 
 **[Play this puzzle on SudokuPad](https://sudokupad.app/adventure/100-gw)**

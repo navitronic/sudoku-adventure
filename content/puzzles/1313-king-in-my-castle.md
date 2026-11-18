@@ -3,6 +3,8 @@ title = "Puzzle #1313 - King in my Castle by PjoeterBliep"
 date = "2026-09-25T08:00:39-07:00"
 slug = "1313-king-in-my-castle"
 constraints = ["Irregular", "Anti-King", "Fortress"]
+setters = ["PjoeterBliep"]
+puzzle_url = "https://sudokupad.app/adventure/1313-kimc"
 aliases = ["/1313/"]
 +++
 

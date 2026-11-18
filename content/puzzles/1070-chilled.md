@@ -3,6 +3,8 @@ title = "Puzzle #1070 - Chilled by Matt Tressel"
 date = "2026-01-21T08:00:02-08:00"
 slug = "1070-chilled"
 constraints = ["Slow Thermometers"]
+setters = ["Matt Tressel"]
+puzzle_url = "https://sudokupad.app/adventure/1070-chilled"
 aliases = ["/1070/"]
 +++
 

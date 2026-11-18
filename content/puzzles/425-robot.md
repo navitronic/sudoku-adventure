@@ -3,6 +3,8 @@ title = "Puzzle #425 - Robot by randall"
 date = "2024-03-27T08:00:18-07:00"
 slug = "425-robot"
 constraints = ["Indexing", "German Whispers"]
+setters = ["randall"]
+puzzle_url = "https://sudokupad.app/adventure/425-robot"
 aliases = ["/425/"]
 +++
 

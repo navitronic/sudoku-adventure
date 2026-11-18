@@ -3,6 +3,8 @@ title = "Puzzle #1360 - Schräger Typ by Palfly Kampling"
 date = "2026-11-11T08:00:36-08:00"
 slug = "1360-schrager-typ"
 constraints = ["X-Sums", "Dutch Whispers"]
+setters = ["Palfly Kampling"]
+puzzle_url = "https://sudokupad.app/adventure/1360-sgt"
 aliases = ["/1360/"]
 +++
 

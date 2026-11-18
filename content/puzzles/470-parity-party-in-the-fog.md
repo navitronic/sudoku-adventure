@@ -3,6 +3,8 @@ title = "Puzzle #470 - Parity Party in the fog by randall"
 date = "2024-05-11T08:00:15-07:00"
 slug = "470-parity-party-in-the-fog"
 constraints = ["Parity Diamonds", "Fog of War", "Other"]
+setters = ["randall"]
+puzzle_url = "https://sudokupad.app/adventure/470-parity-party-itf"
 aliases = ["/470/"]
 +++
 

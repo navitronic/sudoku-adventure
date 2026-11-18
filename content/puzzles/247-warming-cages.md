@@ -3,6 +3,8 @@ title = "Puzzle #247 - Warming cages by randall"
 date = "2023-10-01T08:00:28-07:00"
 slug = "247-warming-cages"
 constraints = ["Killer Cages", "Thermometers"]
+setters = ["randall"]
+puzzle_url = "https://sudokupad.app/adventure/247-wc"
 aliases = ["/247/"]
 +++
 

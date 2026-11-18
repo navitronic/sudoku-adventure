@@ -3,6 +3,8 @@ title = "Puzzle #740 - Echo Location by Randall"
 date = "2025-02-16T08:01:00-08:00"
 slug = "740-echo-location"
 constraints = ["Dynamic Fog", "Killer Cages", "Renban Lines"]
+setters = ["randall"]
+puzzle_url = "https://sudokupad.app/adventure/740-echo-location"
 aliases = ["/740/"]
 +++
 

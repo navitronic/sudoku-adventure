@@ -3,6 +3,8 @@ title = "Puzzle #621 - Aztec Polka Dance by Emphyrio"
 date = "2024-10-17T10:07:30-07:00"
 slug = "621-aztec-polka-dance"
 constraints = ["Irregular", "Kropki Pairs"]
+setters = ["Emphyrio"]
+puzzle_url = "https://sudokupad.app/adventure/621-apd"
 aliases = ["/621/"]
 +++
 

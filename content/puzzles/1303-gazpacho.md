@@ -3,6 +3,8 @@ title = "Puzzle #1303 - Gazpacho by Gene"
 date = "2026-09-15T08:00:26-07:00"
 slug = "1303-gazpacho"
 constraints = ["Other", "Renban Lines"]
+setters = ["Gene"]
+puzzle_url = "https://sudokupad.app/adventure/1303-gazpacho"
 aliases = ["/1303/"]
 +++
 

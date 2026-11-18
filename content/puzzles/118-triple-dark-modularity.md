@@ -3,6 +3,8 @@ title = "Puzzle #118 - Triple Dark Modularity by rockratzero"
 date = "2023-05-25T08:00:03-07:00"
 slug = "118-triple-dark-modularity"
 constraints = ["Modular Lines", "Kropki Pairs"]
+setters = ["rockratzero"]
+puzzle_url = "https://sudokupad.app/adventure/118-tdm"
 aliases = ["/118/"]
 +++
 

@@ -3,6 +3,8 @@ title = "Puzzle #36 - Pari-Tee Advent-ure by Luda3"
 date = "2023-02-24T08:00:07-08:00"
 slug = "36-pari-tee-advent-ure"
 constraints = ["Parity Lines"]
+setters = ["Luda3"]
+puzzle_url = "https://sudokupad.app/adventure/36-ptau"
 aliases = ["/36/"]
 +++
 

@@ -3,6 +3,8 @@ title = "Puzzle #1066 - Somedoku is Dotty by sanabas"
 date = "2026-01-17T08:00:21-08:00"
 slug = "1066-somedoku-is-dotty"
 constraints = ["Kropki Pairs", "Other"]
+setters = ["sanabas"]
+puzzle_url = "https://sudokupad.app/adventure/1066-sid"
 aliases = ["/1066/"]
 +++
 

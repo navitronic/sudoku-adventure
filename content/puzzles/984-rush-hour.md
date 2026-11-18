@@ -3,6 +3,8 @@ title = "Puzzle #984 - Rush Hour by ChinStrap"
 date = "2025-10-27T08:00:29-07:00"
 slug = "984-rush-hour"
 constraints = ["Skyscrapers", "Irregular"]
+setters = ["ChinStrap"]
+puzzle_url = "https://sudokupad.app/adventure/984-rh"
 aliases = ["/984/"]
 +++
 

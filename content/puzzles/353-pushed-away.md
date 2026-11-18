@@ -3,6 +3,8 @@ title = "Puzzle #353 - Pushed Away by Jaze"
 date = "2024-01-15T08:00:03-08:00"
 slug = "353-pushed-away"
 constraints = ["Renban Lines", "Referenced Lines"]
+setters = ["Jaze"]
+puzzle_url = "https://sudokupad.app/adventure/353-pushedaway"
 aliases = ["/353/"]
 +++
 

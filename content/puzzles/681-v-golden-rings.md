@@ -3,6 +3,8 @@ title = "Puzzle #681 - V Golden Rings by Matt Tressel"
 date = "2024-12-16T08:00:07-08:00"
 slug = "681-v-golden-rings"
 constraints = ["Dutch Whispers", "XV"]
+setters = ["Matt Tressel"]
+puzzle_url = "https://sudokupad.app/adventure/681-vgr"
 aliases = ["/681/"]
 +++
 

@@ -3,6 +3,8 @@ title = "Puzzle #1344 - Distantly Related by Strosahl"
 date = "2026-10-26T08:00:36-07:00"
 slug = "1344-distantly-related"
 constraints = ["Kropki Pairs", "Variant"]
+setters = ["Strosahl"]
+puzzle_url = "https://sudokupad.app/adventure/1344-dr"
 aliases = ["/1344/"]
 +++
 

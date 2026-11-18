@@ -3,6 +3,8 @@ title = "Puzzle #1037 - Happy Koloss Head Munching Day! by Calvinball"
 date = "2025-12-19T08:00:56-08:00"
 slug = "1037-happy-koloss-head-munching-day"
 constraints = ["Snake", "German Whispers"]
+setters = ["Calvinball"]
+puzzle_url = "https://sudokupad.app/adventure/1037-hkhmd"
 aliases = ["/1037/"]
 +++
 

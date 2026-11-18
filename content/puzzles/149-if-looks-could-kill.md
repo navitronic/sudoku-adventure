@@ -3,6 +3,8 @@ title = "Puzzle #149 - If Looks Could Kill by DJV"
 date = "2023-06-25T08:00:14-07:00"
 slug = "149-if-looks-could-kill"
 constraints = ["Killer Cages", "Look-and-Say Cages"]
+setters = ["DJV"]
+puzzle_url = "https://sudokupad.app/adventure/149-ilck"
 aliases = ["/149/"]
 +++
 

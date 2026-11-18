@@ -3,6 +3,8 @@ title = "Puzzle #381 - Buffoon's Balloons by gdc"
 date = "2024-02-12T08:00:35-08:00"
 slug = "381-buffoon-s-balloons"
 constraints = ["Renban Lines", "Region Sum Lines"]
+setters = ["gdc"]
+puzzle_url = "https://sudokupad.app/adventure/381-bb"
 aliases = ["/381/"]
 +++
 

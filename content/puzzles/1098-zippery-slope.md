@@ -3,6 +3,8 @@ title = "Puzzle #1098 - Zippery Slope by gdc"
 date = "2026-02-18T08:00:22-08:00"
 slug = "1098-zippery-slope"
 constraints = ["Zipper Lines", "Diagonal"]
+setters = ["gdc"]
+puzzle_url = "https://sudokupad.app/adventure/1098-zs"
 aliases = ["/1098/"]
 +++
 

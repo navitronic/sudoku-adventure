@@ -3,6 +3,8 @@ title = "Puzzle #878 - Connection Lost by Matt Tressel"
 date = "2025-07-05T08:00:18-07:00"
 slug = "878-connection-lost"
 constraints = ["Renban Lines", "Nabner Lines", "Variant"]
+setters = ["Matt Tressel"]
+puzzle_url = "https://sudokupad.app/adventure/878-cl"
 aliases = ["/878/"]
 +++
 

@@ -4,6 +4,10 @@ title = "Sudoku Adventure"
 
 [taxonomies]
 constraint = "constraints"
+setter = "setters"
+
+[outputs]
+taxonomy = ["HTML"]
 
 [permalinks]
 puzzles = "/:slug/"

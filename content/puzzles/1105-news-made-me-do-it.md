@@ -3,6 +3,8 @@ title = "Puzzle #1105 - NEWS Made Me Do It by Calvinball"
 date = "2026-02-25T08:01:08-08:00"
 slug = "1105-news-made-me-do-it"
 constraints = ["Index Lines", "Kropki Pairs"]
+setters = ["Calvinball"]
+puzzle_url = "https://sudokupad.app/adventure/1105-nmmdi"
 aliases = ["/1105/"]
 +++
 

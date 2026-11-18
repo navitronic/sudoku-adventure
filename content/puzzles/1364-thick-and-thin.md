@@ -3,6 +3,8 @@ title = "Puzzle #1364 - Thick and Thin by James Kopp"
 date = "2026-11-15T08:00:34-08:00"
 slug = "1364-thick-and-thin"
 constraints = ["Counting Circles"]
+setters = ["James Kopp"]
+puzzle_url = "https://sudokupad.app/adventure/1364-tat"
 aliases = ["/1364/"]
 +++
 

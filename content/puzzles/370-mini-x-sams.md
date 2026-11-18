@@ -3,6 +3,8 @@ title = "Puzzle #370 - Mini X-Sams by Philip Newman"
 date = "2024-02-01T08:00:35-08:00"
 slug = "370-mini-x-sams"
 constraints = ["X-Sums", "Sandwich Sums"]
+setters = ["Philip Newman"]
+puzzle_url = "https://sudokupad.app/adventure/370-mxs"
 aliases = ["/370/"]
 +++
 

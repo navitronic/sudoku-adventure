@@ -3,6 +3,8 @@ title = "Puzzle #1068 - Betwixt by ChinStrap"
 date = "2026-01-19T08:01:15-08:00"
 slug = "1068-betwixt"
 constraints = ["Between Lines"]
+setters = ["ChinStrap"]
+puzzle_url = "https://sudokupad.app/adventure/1068-betwixt"
 aliases = ["/1068/"]
 +++
 

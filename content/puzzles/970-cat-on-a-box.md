@@ -3,6 +3,8 @@ title = "Puzzle #970 - Cat On a Box by Gene"
 date = "2025-10-13T10:33:46-07:00"
 slug = "970-cat-on-a-box"
 constraints = ["Kropki Pairs", "Variant"]
+setters = ["Gene"]
+puzzle_url = "https://sudokupad.app/adventure/970-coab"
 aliases = ["/970/"]
 +++
 

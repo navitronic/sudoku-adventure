@@ -3,6 +3,8 @@ title = "Puzzle #715 - I Lied by gdc"
 date = "2025-01-19T08:00:32-08:00"
 slug = "715-i-lied"
 constraints = ["Killer Cages", "Variant", "Dynamic Fog"]
+setters = ["gdc"]
+puzzle_url = "https://sudokupad.app/adventure/715-ilied"
 aliases = ["/715/"]
 +++
 

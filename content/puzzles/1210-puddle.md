@@ -3,6 +3,8 @@ title = "Puzzle #1210 - Puddle by Palfly Kampling"
 date = "2026-06-14T08:00:08-07:00"
 slug = "1210-puddle"
 constraints = ["Sandwich Sums", "Renban Lines"]
+setters = ["Palfly Kampling"]
+puzzle_url = "https://sudokupad.app/adventure/1210-pud"
 aliases = ["/1210/"]
 +++
 

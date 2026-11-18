@@ -3,6 +3,8 @@ title = "Puzzle #586 - Spook House by rockratzero"
 date = "2024-09-04T08:51:17-07:00"
 slug = "586-spook-house"
 constraints = ["Numbered Rooms", "Little Killer"]
+setters = ["rockratzero"]
+puzzle_url = "https://sudokupad.app/adventure/586-spook-house"
 aliases = ["/586/"]
 +++
 

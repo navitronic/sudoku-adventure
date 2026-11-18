@@ -3,6 +3,8 @@ title = "Puzzle #752 - Scrabble A by Palfly Kampling"
 date = "2025-02-28T08:00:35-08:00"
 slug = "752-scrabble-a"
 constraints = ["German Whispers", "Killer Cages"]
+setters = ["Palfly Kampling"]
+puzzle_url = "https://sudokupad.app/adventure/752-scrabble-a"
 aliases = ["/752/"]
 +++
 
