@@ -20,6 +20,10 @@ Distinct puzzles sharing a number each get a title-based URL. If their titles ar
 
 Run `python3 scripts/import_puzzles.py import --csv path/to/sheet.csv` to use a downloaded CSV. `--content path/to/directory` changes the output folder (useful for testing).
 
+## RSS feeds
+
+Subscribe to all puzzles at `/index.xml`, or to a constraint at `/tags/<constraint-slug>/index.xml`. The site links to the main feed and advertises the relevant feed to feed readers on each page.
+
 ## Local development
 
 ```sh
