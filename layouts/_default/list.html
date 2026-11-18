@@ -2,7 +2,7 @@
 <h1>{{ if .IsHome }}Latest puzzles{{ else }}{{ .Title }}{{ end }}</h1>
 {{ if eq .Kind "taxonomy" }}
 <ul>
-  {{ range .Pages.ByTitle }}<li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a> ({{ len .Pages }})</li>{{ end }}
+  {{ range site.Taxonomies.constraints.ByCount }}<li><a href="{{ .Page.RelPermalink }}">{{ .Page.LinkTitle }}</a> ({{ .Count }})</li>{{ end }}
 </ul>
 {{ else }}
 {{ if eq .Kind "term" }}{{ with .OutputFormats.Get "RSS" }}<p><a href="{{ .RelPermalink }}">Subscribe to this constraint's RSS feed</a></p>{{ end }}{{ end }}
