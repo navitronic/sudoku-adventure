@@ -4,7 +4,7 @@
     <title>{{ .Title }}</title>
     <link>{{ .Permalink }}</link>
     <description>Sudoku Adventure puzzles</description>
-    <language>{{ site.Language.Locale }}</language>
+    <language>en-us</language>
     {{- with .OutputFormats.Get "RSS" }}
     <atom:link href="{{ .Permalink }}" rel="self" type="application/rss+xml" />
     {{- end }}

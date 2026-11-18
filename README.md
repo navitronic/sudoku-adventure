@@ -1,6 +1,6 @@
 # Sudoku Adventure
 
-A website archive of Sudoku Adventure puzzles, built from the [public spreadsheet](https://docs.google.com/spreadsheets/d/1y4BYBEuXbzReb_tx3bTUdKwynL2JveL3ob55g6c-D-Y/edit?gid=0#gid=0). Requires Python 3.9+ and Hugo 0.169.0; no Python packages or Hugo theme are needed.
+A website archive of Sudoku Adventure puzzles, built from the [public spreadsheet](https://docs.google.com/spreadsheets/d/1y4BYBEuXbzReb_tx3bTUdKwynL2JveL3ob55g6c-D-Y/edit?gid=0#gid=0). Requires Python 3.9+ and Hugo 0.147.7+; no Python packages or Hugo theme are needed.
 
 ## Import puzzles
 
@@ -43,6 +43,6 @@ Connect this repository as a Cloudflare Pages project. Use the following build s
 - Framework preset: Hugo
 - Build command: `hugo --minify`
 - Build output directory: `public`
-- Environment variable: `HUGO_VERSION=0.169.0`
+- Environment variable: `HUGO_VERSION=0.169.0` (optional; the site also builds with Cloudflare's Hugo 0.147.7)
 
 Set `baseURL` in `hugo.toml` to the deployed domain if it differs from the default `https://sudoku-adventure.pages.dev/`. Deployments build the committed posts. The [Append puzzles workflow](.github/workflows/append-puzzles.yml) runs daily at 20:00 UTC (and can be started manually from GitHub Actions), commits new posts to `main`, and triggers a Pages deployment through the GitHub integration. Enable GitHub Actions and allow workflows to write repository contents in the repository's Actions settings. A failed import leaves existing posts unchanged; rerun the workflow after the spreadsheet or YouTube video is available.
