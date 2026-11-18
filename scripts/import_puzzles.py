@@ -47,14 +47,25 @@ def video_id(link):
 
 
 def published_at(identifier):
-    html = fetch(f"https://www.youtube.com/watch?v={identifier}")
-    match = re.search(r'"publishDate":"([^" ]+)"', html)
-    if not match:
-        raise ValueError(f"Could not find publication time for YouTube video {identifier}")
-    date = datetime.fromisoformat(match.group(1))
-    if date.tzinfo is None:
-        raise ValueError(f"YouTube publication time has no timezone: {identifier}")
-    return date.isoformat()
+    urls = (
+        f"https://www.youtube.com/watch?v={identifier}&hl=en",
+        f"https://m.youtube.com/watch?v={identifier}&hl=en",
+    )
+    patterns = (
+        r'"(?:publishDate|uploadDate)"\s*:\s*"([^" ]+)"',
+        r'<meta[^>]+itemprop="(?:datePublished|uploadDate)"[^>]+content="([^" ]+)"',
+    )
+    for url in urls:
+        html = fetch(url)
+        for pattern in patterns:
+            match = re.search(pattern, html)
+            if not match:
+                continue
+            date = datetime.fromisoformat(match.group(1))
+            if date.tzinfo is None:
+                raise ValueError(f"YouTube publication time has no timezone: {identifier}")
+            return date.isoformat()
+    raise ValueError(f"Could not find publication time for YouTube video {identifier}")
 
 
 def slug(text):
