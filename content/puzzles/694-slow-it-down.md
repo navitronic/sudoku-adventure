@@ -12,8 +12,7 @@ aliases = ["/694/"]
 
 ## Constraints
 
-- Thermometers
-- Other
+{{< constraint-links >}}
 
 ## Video
 

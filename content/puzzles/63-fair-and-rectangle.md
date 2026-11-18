@@ -12,8 +12,7 @@ aliases = ["/63/"]
 
 ## Constraints
 
-- Killer Cages
-- Variant
+{{< constraint-links >}}
 
 ## Video
 

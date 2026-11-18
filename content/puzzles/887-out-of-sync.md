@@ -12,7 +12,7 @@ aliases = ["/887/"]
 
 ## Constraints
 
-- Zipper Lines
+{{< constraint-links >}}
 
 ## Video
 

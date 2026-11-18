@@ -12,9 +12,7 @@ aliases = ["/769/"]
 
 ## Constraints
 
-- Entropic Lines
-- Between Lines
-- Kropki Pairs
+{{< constraint-links >}}
 
 ## Video
 

@@ -12,8 +12,7 @@ aliases = ["/961/"]
 
 ## Constraints
 
-- Irregular
-- Arrows
+{{< constraint-links >}}
 
 ## Video
 

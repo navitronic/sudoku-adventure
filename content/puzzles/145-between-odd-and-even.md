@@ -12,8 +12,7 @@ aliases = ["/145/"]
 
 ## Constraints
 
-- Between Lines
-- Even/Odd
+{{< constraint-links >}}
 
 ## Video
 

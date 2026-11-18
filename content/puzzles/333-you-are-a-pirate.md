@@ -12,8 +12,7 @@ aliases = ["/333/"]
 
 ## Constraints
 
-- Killer Cages
-- Variant
+{{< constraint-links >}}
 
 ## Video
 

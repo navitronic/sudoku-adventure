@@ -12,8 +12,7 @@ aliases = ["/932/"]
 
 ## Constraints
 
-- X-Sums
-- Renban Lines
+{{< constraint-links >}}
 
 ## Video
 

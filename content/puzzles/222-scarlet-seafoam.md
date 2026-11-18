@@ -12,8 +12,7 @@ aliases = ["/222/"]
 
 ## Constraints
 
-- Chinese Whispers
-- Modular Lines
+{{< constraint-links >}}
 
 ## Video
 

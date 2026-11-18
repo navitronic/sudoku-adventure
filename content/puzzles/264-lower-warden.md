@@ -12,8 +12,7 @@ aliases = ["/264/"]
 
 ## Constraints
 
-- Killer Cages
-- Diagonal
+{{< constraint-links >}}
 
 ## Video
 

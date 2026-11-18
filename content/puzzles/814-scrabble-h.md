@@ -12,8 +12,7 @@ aliases = ["/814/"]
 
 ## Constraints
 
-- Parity Lines
-- Remote Sums
+{{< constraint-links >}}
 
 ## Video
 

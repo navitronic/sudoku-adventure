@@ -12,8 +12,7 @@ aliases = ["/881/"]
 
 ## Constraints
 
-- Modular Lines
-- Nabner Lines
+{{< constraint-links >}}
 
 ## Video
 

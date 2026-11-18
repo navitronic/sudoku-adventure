@@ -12,8 +12,7 @@ aliases = ["/1100/"]
 
 ## Constraints
 
-- Nabner Lines
-- Region Sum Lines
+{{< constraint-links >}}
 
 ## Video
 

@@ -12,7 +12,7 @@ aliases = ["/572/"]
 
 ## Constraints
 
-- Modular Lines
+{{< constraint-links >}}
 
 ## Video
 

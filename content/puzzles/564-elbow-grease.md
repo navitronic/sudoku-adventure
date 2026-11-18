@@ -12,8 +12,7 @@ aliases = ["/564/"]
 
 ## Constraints
 
-- Quadruples
-- Arrows
+{{< constraint-links >}}
 
 ## Video
 

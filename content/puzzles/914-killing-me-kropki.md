@@ -12,8 +12,7 @@ aliases = ["/914/"]
 
 ## Constraints
 
-- Kropki Pairs
-- Little Killer
+{{< constraint-links >}}
 
 ## Video
 

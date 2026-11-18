@@ -12,8 +12,7 @@ aliases = ["/819/"]
 
 ## Constraints
 
-- Skyscrapers
-- XV
+{{< constraint-links >}}
 
 ## Video
 

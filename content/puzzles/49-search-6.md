@@ -12,7 +12,7 @@ aliases = ["/49/"]
 
 ## Constraints
 
-- Search Six
+{{< constraint-links >}}
 
 ## Video
 

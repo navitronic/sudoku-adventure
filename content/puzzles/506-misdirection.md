@@ -12,8 +12,7 @@ aliases = ["/506/"]
 
 ## Constraints
 
-- Palindrome Lines
-- Even/Odd
+{{< constraint-links >}}
 
 ## Video
 

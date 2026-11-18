@@ -11,7 +11,7 @@ puzzle_url = "https://sudokupad.app/adventure/120-cs"
 
 ## Constraints
 
-- Region Sum Lines
+{{< constraint-links >}}
 
 ## Video
 

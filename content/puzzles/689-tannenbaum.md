@@ -12,8 +12,7 @@ aliases = ["/689/"]
 
 ## Constraints
 
-- German Whispers
-- Kropki Pairs
+{{< constraint-links >}}
 
 ## Video
 

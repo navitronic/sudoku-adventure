@@ -12,8 +12,7 @@ aliases = ["/360/"]
 
 ## Constraints
 
-- X-Sums
-- Modular Lines
+{{< constraint-links >}}
 
 ## Video
 

@@ -12,9 +12,7 @@ aliases = ["/433/"]
 
 ## Constraints
 
-- Counting Circles
-- Little Killer
-- Variant
+{{< constraint-links >}}
 
 ## Video
 

@@ -12,8 +12,7 @@ aliases = ["/910/"]
 
 ## Constraints
 
-- Skyscrapers
-- Region Sum Lines
+{{< constraint-links >}}
 
 ## Video
 

@@ -12,9 +12,7 @@ aliases = ["/158/"]
 
 ## Constraints
 
-- Not 6x6
-- Thermometers
-- Variant
+{{< constraint-links >}}
 
 ## Video
 

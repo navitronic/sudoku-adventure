@@ -12,8 +12,7 @@ aliases = ["/1122/"]
 
 ## Constraints
 
-- Between Lines
-- Numbered Rooms
+{{< constraint-links >}}
 
 ## Video
 

@@ -12,8 +12,7 @@ aliases = ["/799/"]
 
 ## Constraints
 
-- Sequence Lines
-- Even/Odd
+{{< constraint-links >}}
 
 ## Video
 

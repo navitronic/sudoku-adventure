@@ -12,9 +12,7 @@ aliases = ["/470/"]
 
 ## Constraints
 
-- Parity Diamonds
-- Fog of War
-- Other
+{{< constraint-links >}}
 
 ## Video
 

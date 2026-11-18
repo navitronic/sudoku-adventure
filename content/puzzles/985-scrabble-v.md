@@ -12,8 +12,7 @@ aliases = ["/985/"]
 
 ## Constraints
 
-- XV sums
-- Other
+{{< constraint-links >}}
 
 ## Video
 

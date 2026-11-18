@@ -12,8 +12,7 @@ aliases = ["/418/"]
 
 ## Constraints
 
-- Renban Lines
-- Remote Sums
+{{< constraint-links >}}
 
 ## Video
 

@@ -12,8 +12,7 @@ aliases = ["/469/"]
 
 ## Constraints
 
-- Parity Diamonds
-- Zipper Lines
+{{< constraint-links >}}
 
 ## Video
 

@@ -12,9 +12,7 @@ aliases = ["/358/"]
 
 ## Constraints
 
-- Anti-Knight
-- Arrows
-- Variant
+{{< constraint-links >}}
 
 ## Video
 

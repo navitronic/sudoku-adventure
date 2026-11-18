@@ -12,9 +12,7 @@ aliases = ["/444/"]
 
 ## Constraints
 
-- Renban Lines
-- Remote Sums
-- Variant
+{{< constraint-links >}}
 
 ## Video
 

@@ -12,8 +12,7 @@ aliases = ["/538/"]
 
 ## Constraints
 
-- Fog of War
-- Arrows
+{{< constraint-links >}}
 
 ## Video
 

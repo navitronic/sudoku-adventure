@@ -12,9 +12,7 @@ aliases = ["/1363/"]
 
 ## Constraints
 
-- Nabner Lines
-- Killer Cages
-- Variant
+{{< constraint-links >}}
 
 ## Video
 

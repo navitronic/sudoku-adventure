@@ -9,10 +9,10 @@
 {{ if eq .Kind "term" }}{{ with .OutputFormats.Get "RSS" }}<p><a href="{{ .RelPermalink }}">Subscribe to this {{ $.Data.Singular }}'s RSS feed</a></p>{{ end }}{{ end }}
 {{ range .Paginator.Pages }}
 <article>
-  <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+  <h2><a href="{{ .RelPermalink }}">{{ replaceRE "^Puzzle #([0-9]+ - .*) by .+$" "$1" .Title }}</a></h2>
+  {{ with .GetTerms "setters" }}<p>By {{ range . }}<a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>{{ end }}</p>{{ end }}
   <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
-  {{ with .Params.setters }}<p>Setter: {{ delimit . ", " }}</p>{{ end }}
-  {{ with .Params.constraints }}<p>Constraints: {{ delimit . ", " }}</p>{{ end }}
+  {{ with .GetTerms "constraints" }}<p>Constraints: {{ range $i, $term := . }}{{ if $i }}, {{ end }}<a href="{{ $term.RelPermalink }}">{{ $term.LinkTitle }}</a>{{ end }}</p>{{ end }}
   {{ with .Params.puzzle_url }}<p><a href="{{ . }}">Play on SudokuPad</a></p>{{ end }}
 </article>
 {{ else }}

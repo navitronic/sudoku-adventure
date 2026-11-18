@@ -12,9 +12,7 @@ aliases = ["/577/"]
 
 ## Constraints
 
-- Thermometers
-- Referenced Lines
-- Variant
+{{< constraint-links >}}
 
 ## Video
 

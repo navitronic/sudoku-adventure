@@ -12,7 +12,7 @@ aliases = ["/1039/"]
 
 ## Constraints
 
-- Anti-Knight
+{{< constraint-links >}}
 
 ## Video
 

@@ -12,7 +12,7 @@ aliases = ["/781/"]
 
 ## Constraints
 
-- Killer Cages
+{{< constraint-links >}}
 
 ## Video
 

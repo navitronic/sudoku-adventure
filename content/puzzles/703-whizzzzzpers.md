@@ -12,8 +12,7 @@ aliases = ["/703/"]
 
 ## Constraints
 
-- German Whispers
-- Arrows
+{{< constraint-links >}}
 
 ## Video
 

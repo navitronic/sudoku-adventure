@@ -12,8 +12,7 @@ aliases = ["/713/"]
 
 ## Constraints
 
-- Region Sum Lines
-- Fortress
+{{< constraint-links >}}
 
 ## Video
 

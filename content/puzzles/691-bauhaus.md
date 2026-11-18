@@ -12,8 +12,7 @@ aliases = ["/691/"]
 
 ## Constraints
 
-- German Whispers
-- Numbered Rooms
+{{< constraint-links >}}
 
 ## Video
 

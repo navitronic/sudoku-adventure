@@ -11,8 +11,7 @@ puzzle_url = "https://sudokupad.app/adventure/100-gw"
 
 ## Constraints
 
-- German Whispers
-- Even/Odd
+{{< constraint-links >}}
 
 ## Video
 

@@ -12,9 +12,7 @@ aliases = ["/351/"]
 
 ## Constraints
 
-- Renban Lines
-- German Whispers
-- Region Sum Lines
+{{< constraint-links >}}
 
 ## Video
 

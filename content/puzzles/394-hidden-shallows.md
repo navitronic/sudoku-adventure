@@ -12,8 +12,7 @@ aliases = ["/394/"]
 
 ## Constraints
 
-- Other
-- Fog of War
+{{< constraint-links >}}
 
 ## Video
 

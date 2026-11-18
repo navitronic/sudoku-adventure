@@ -12,9 +12,7 @@ aliases = ["/275/"]
 
 ## Constraints
 
-- Lockout Lines
-- Variant
-- Other
+{{< constraint-links >}}
 
 ## Video
 

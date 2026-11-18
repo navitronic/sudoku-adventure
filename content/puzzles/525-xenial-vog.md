@@ -12,9 +12,7 @@ aliases = ["/525/"]
 
 ## Constraints
 
-- Fog of War
-- XV
-- Counting Circles
+{{< constraint-links >}}
 
 ## Video
 

@@ -12,10 +12,7 @@ aliases = ["/183/"]
 
 ## Constraints
 
-- Thermometers
-- Renban Lines
-- Region Sum Lines
-- German Whispers
+{{< constraint-links >}}
 
 ## Video
 

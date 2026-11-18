@@ -12,8 +12,7 @@ aliases = ["/793/"]
 
 ## Constraints
 
-- Region Sum Lines
-- Renban Lines
+{{< constraint-links >}}
 
 ## Video
 

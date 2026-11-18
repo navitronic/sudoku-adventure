@@ -12,8 +12,7 @@ aliases = ["/496/"]
 
 ## Constraints
 
-- Thermometers
-- Zipper Lines
+{{< constraint-links >}}
 
 ## Video
 

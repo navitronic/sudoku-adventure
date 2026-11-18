@@ -12,8 +12,7 @@ aliases = ["/1079/"]
 
 ## Constraints
 
-- Region Sum Lines
-- Numbered Rooms
+{{< constraint-links >}}
 
 ## Video
 

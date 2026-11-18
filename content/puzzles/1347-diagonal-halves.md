@@ -12,7 +12,7 @@ aliases = ["/1347/"]
 
 ## Constraints
 
-- Diagonal Sums
+{{< constraint-links >}}
 
 ## Video
 

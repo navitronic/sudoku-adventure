@@ -12,8 +12,7 @@ aliases = ["/915/"]
 
 ## Constraints
 
-- Modular Lines
-- Kropki Pairs
+{{< constraint-links >}}
 
 ## Video
 

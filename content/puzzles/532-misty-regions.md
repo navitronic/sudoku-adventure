@@ -12,8 +12,7 @@ aliases = ["/532/"]
 
 ## Constraints
 
-- Fog of War
-- Region Sum Lines
+{{< constraint-links >}}
 
 ## Video
 

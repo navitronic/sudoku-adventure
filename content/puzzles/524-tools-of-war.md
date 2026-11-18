@@ -12,8 +12,7 @@ aliases = ["/524/"]
 
 ## Constraints
 
-- Japanese Sums
-- Fog of War
+{{< constraint-links >}}
 
 ## Video
 

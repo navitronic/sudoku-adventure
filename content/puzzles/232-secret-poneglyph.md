@@ -12,7 +12,7 @@ aliases = ["/232/"]
 
 ## Constraints
 
-- Killer Cages
+{{< constraint-links >}}
 
 ## Video
 

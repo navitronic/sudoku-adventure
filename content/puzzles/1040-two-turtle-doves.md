@@ -12,8 +12,7 @@ aliases = ["/1040/"]
 
 ## Constraints
 
-- German Whispers
-- Parity Lines
+{{< constraint-links >}}
 
 ## Video
 

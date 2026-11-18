@@ -12,8 +12,7 @@ aliases = ["/1103/"]
 
 ## Constraints
 
-- Quadruples
-- Kropki Pairs
+{{< constraint-links >}}
 
 ## Video
 

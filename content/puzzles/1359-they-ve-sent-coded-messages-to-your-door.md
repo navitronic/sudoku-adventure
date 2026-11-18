@@ -12,10 +12,7 @@ aliases = ["/1359/"]
 
 ## Constraints
 
-- Cipher
-- Numbered Rooms
-- QuatroQuadri
-- Killer Cages
+{{< constraint-links >}}
 
 ## Video
 

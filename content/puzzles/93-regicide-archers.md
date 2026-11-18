@@ -12,8 +12,7 @@ aliases = ["/93/"]
 
 ## Constraints
 
-- Anti-King
-- Arrows
+{{< constraint-links >}}
 
 ## Video
 

@@ -12,8 +12,7 @@ aliases = ["/288/"]
 
 ## Constraints
 
-- Doublers
-- Sequence Lines
+{{< constraint-links >}}
 
 ## Video
 

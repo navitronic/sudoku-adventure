@@ -12,9 +12,7 @@ aliases = ["/325/"]
 
 ## Constraints
 
-- Irregular
-- Dutch Whispers
-- Other
+{{< constraint-links >}}
 
 ## Video
 

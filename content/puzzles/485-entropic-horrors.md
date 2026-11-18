@@ -12,9 +12,7 @@ aliases = ["/485/"]
 
 ## Constraints
 
-- Entropic Lines
-- Referenced Lines
-- Variant
+{{< constraint-links >}}
 
 ## Video
 

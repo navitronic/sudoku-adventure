@@ -12,8 +12,7 @@ aliases = ["/1360/"]
 
 ## Constraints
 
-- X-Sums
-- Dutch Whispers
+{{< constraint-links >}}
 
 ## Video
 

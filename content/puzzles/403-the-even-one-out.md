@@ -12,8 +12,7 @@ aliases = ["/403/"]
 
 ## Constraints
 
-- Little Killer
-- Renban Lines
+{{< constraint-links >}}
 
 ## Video
 

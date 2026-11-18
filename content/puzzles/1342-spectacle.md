@@ -12,8 +12,7 @@ aliases = ["/1342/"]
 
 ## Constraints
 
-- Killer Cages
-- German Whispers
+{{< constraint-links >}}
 
 ## Video
 

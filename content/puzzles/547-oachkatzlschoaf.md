@@ -12,8 +12,7 @@ aliases = ["/547/"]
 
 ## Constraints
 
-- German Whispers
-- XV
+{{< constraint-links >}}
 
 ## Video
 

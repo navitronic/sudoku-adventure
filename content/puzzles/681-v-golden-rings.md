@@ -12,8 +12,7 @@ aliases = ["/681/"]
 
 ## Constraints
 
-- Dutch Whispers
-- XV
+{{< constraint-links >}}
 
 ## Video
 

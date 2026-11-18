@@ -12,9 +12,7 @@ aliases = ["/1171/"]
 
 ## Constraints
 
-- Kropki Pairs
-- X-Sums
-- Dynamic Fog
+{{< constraint-links >}}
 
 ## Video
 

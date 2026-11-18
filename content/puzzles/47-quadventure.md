@@ -12,7 +12,7 @@ aliases = ["/47/"]
 
 ## Constraints
 
-- Quadruples
+{{< constraint-links >}}
 
 ## Video
 

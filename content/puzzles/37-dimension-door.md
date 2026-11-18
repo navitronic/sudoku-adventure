@@ -12,7 +12,7 @@ aliases = ["/37/"]
 
 ## Constraints
 
-- Clones
+{{< constraint-links >}}
 
 ## Video
 

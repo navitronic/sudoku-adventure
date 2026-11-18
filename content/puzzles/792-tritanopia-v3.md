@@ -12,9 +12,7 @@ aliases = ["/792/"]
 
 ## Constraints
 
-- Region Sum Lines
-- German Whispers
-- Other
+{{< constraint-links >}}
 
 ## Video
 

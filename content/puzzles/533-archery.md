@@ -12,7 +12,7 @@ aliases = ["/533/"]
 
 ## Constraints
 
-- Greater Than Arrows
+{{< constraint-links >}}
 
 ## Video
 

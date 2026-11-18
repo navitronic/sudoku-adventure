@@ -12,9 +12,7 @@ aliases = ["/315/"]
 
 ## Constraints
 
-- Parity Lines
-- X-Sums
-- Kropki Pairs
+{{< constraint-links >}}
 
 ## Video
 

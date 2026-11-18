@@ -12,8 +12,7 @@ aliases = ["/66/"]
 
 ## Constraints
 
-- Killer Cages
-- Anti-King
+{{< constraint-links >}}
 
 ## Video
 

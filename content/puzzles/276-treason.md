@@ -12,8 +12,7 @@ aliases = ["/276/"]
 
 ## Constraints
 
-- Anti-King
-- Killer Cages
+{{< constraint-links >}}
 
 ## Video
 

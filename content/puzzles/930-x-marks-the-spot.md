@@ -12,8 +12,7 @@ aliases = ["/930/"]
 
 ## Constraints
 
-- X-Sums
-- Sudoku-X
+{{< constraint-links >}}
 
 ## Video
 

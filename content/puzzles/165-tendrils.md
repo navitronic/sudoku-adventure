@@ -12,8 +12,7 @@ aliases = ["/165/"]
 
 ## Constraints
 
-- Ten Lines
-- Variant
+{{< constraint-links >}}
 
 ## Video
 

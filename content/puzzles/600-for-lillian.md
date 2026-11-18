@@ -12,8 +12,7 @@ aliases = ["/600/"]
 
 ## Constraints
 
-- Renban Lines
-- Killer Cages
+{{< constraint-links >}}
 
 ## Video
 

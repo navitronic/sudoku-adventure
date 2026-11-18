@@ -12,9 +12,7 @@ aliases = ["/357/"]
 
 ## Constraints
 
-- Between Lines
-- Sandwich Sums
-- Other
+{{< constraint-links >}}
 
 ## Video
 

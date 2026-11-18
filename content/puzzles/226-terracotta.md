@@ -12,8 +12,7 @@ aliases = ["/226/"]
 
 ## Constraints
 
-- Chinese Whispers
-- Kropki Pairs
+{{< constraint-links >}}
 
 ## Video
 

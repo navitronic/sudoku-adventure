@@ -12,8 +12,7 @@ aliases = ["/693/"]
 
 ## Constraints
 
-- Kropki Pairs
-- Variant
+{{< constraint-links >}}
 
 ## Video
 

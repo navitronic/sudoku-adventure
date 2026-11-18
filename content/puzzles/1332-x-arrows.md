@@ -12,8 +12,7 @@ aliases = ["/1332/"]
 
 ## Constraints
 
-- Arrows
-- X-Sums
+{{< constraint-links >}}
 
 ## Video
 

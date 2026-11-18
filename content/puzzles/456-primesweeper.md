@@ -12,7 +12,7 @@ aliases = ["/456/"]
 
 ## Constraints
 
-- Sweeper Clues
+{{< constraint-links >}}
 
 ## Video
 

@@ -12,7 +12,7 @@ aliases = ["/1141/"]
 
 ## Constraints
 
-- Sandwich Sums
+{{< constraint-links >}}
 
 ## Video
 

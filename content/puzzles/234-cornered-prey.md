@@ -12,8 +12,7 @@ aliases = ["/234/"]
 
 ## Constraints
 
-- Mean Mini
-- Arrows
+{{< constraint-links >}}
 
 ## Video
 

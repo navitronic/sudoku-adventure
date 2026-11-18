@@ -12,7 +12,7 @@ aliases = ["/877/"]
 
 ## Constraints
 
-- Polarity Lines
+{{< constraint-links >}}
 
 ## Video
 

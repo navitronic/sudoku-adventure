@@ -12,8 +12,7 @@ aliases = ["/569/"]
 
 ## Constraints
 
-- Thermometers
-- Fortress
+{{< constraint-links >}}
 
 ## Video
 

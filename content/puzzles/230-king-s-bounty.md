@@ -12,9 +12,7 @@ aliases = ["/230/"]
 
 ## Constraints
 
-- Irregular
-- Killer Cages
-- Anti-King
+{{< constraint-links >}}
 
 ## Video
 

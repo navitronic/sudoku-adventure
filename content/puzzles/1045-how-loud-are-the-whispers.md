@@ -12,8 +12,7 @@ aliases = ["/1045/"]
 
 ## Constraints
 
-- Counting Circles
-- German Whispers
+{{< constraint-links >}}
 
 ## Video
 

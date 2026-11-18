@@ -12,8 +12,7 @@ aliases = ["/102/"]
 
 ## Constraints
 
-- Kropki Pairs
-- Diagonal
+{{< constraint-links >}}
 
 ## Video
 

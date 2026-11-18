@@ -12,8 +12,7 @@ aliases = ["/111/"]
 
 ## Constraints
 
-- XV
-- Arrows
+{{< constraint-links >}}
 
 ## Video
 

@@ -12,9 +12,7 @@ aliases = ["/107/"]
 
 ## Constraints
 
-- Irregular
-- Palindrome Lines
-- Other
+{{< constraint-links >}}
 
 ## Video
 

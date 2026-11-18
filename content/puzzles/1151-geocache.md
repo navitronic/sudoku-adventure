@@ -12,7 +12,7 @@ aliases = ["/1151/"]
 
 ## Constraints
 
-- Renban Lines
+{{< constraint-links >}}
 
 ## Video
 

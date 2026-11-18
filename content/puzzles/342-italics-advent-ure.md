@@ -12,9 +12,7 @@ aliases = ["/342/"]
 
 ## Constraints
 
-- Zipper Lines
-- Variant
-- Killer Cages
+{{< constraint-links >}}
 
 ## Video
 

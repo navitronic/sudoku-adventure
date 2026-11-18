@@ -12,9 +12,7 @@ aliases = ["/263/"]
 
 ## Constraints
 
-- X-Sums
-- German Whispers
-- Variant
+{{< constraint-links >}}
 
 ## Video
 

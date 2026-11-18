@@ -12,8 +12,7 @@ aliases = ["/231/"]
 
 ## Constraints
 
-- Little Killer
-- Quadruples
+{{< constraint-links >}}
 
 ## Video
 

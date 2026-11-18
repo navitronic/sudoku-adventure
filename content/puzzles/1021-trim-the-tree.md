@@ -12,9 +12,7 @@ aliases = ["/1021/"]
 
 ## Constraints
 
-- German Whispers
-- Kropki Pairs
-- Renban Lines
+{{< constraint-links >}}
 
 ## Video
 

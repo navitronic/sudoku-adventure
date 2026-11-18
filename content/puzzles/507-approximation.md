@@ -12,9 +12,7 @@ aliases = ["/507/"]
 
 ## Constraints
 
-- Killer Cages
-- Variant
-- Even/Odd
+{{< constraint-links >}}
 
 ## Video
 

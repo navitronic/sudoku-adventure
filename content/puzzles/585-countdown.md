@@ -12,8 +12,7 @@ aliases = ["/585/"]
 
 ## Constraints
 
-- Numbered Rooms
-- Kropki Pairs
+{{< constraint-links >}}
 
 ## Video
 

@@ -12,8 +12,7 @@ aliases = ["/896/"]
 
 ## Constraints
 
-- Sequence Lines
-- XV
+{{< constraint-links >}}
 
 ## Video
 

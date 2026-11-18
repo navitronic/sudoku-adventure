@@ -12,8 +12,7 @@ aliases = ["/975/"]
 
 ## Constraints
 
-- Parity Lines
-- X-Sums
+{{< constraint-links >}}
 
 ## Video
 

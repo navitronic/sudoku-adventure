@@ -12,8 +12,7 @@ aliases = ["/594/"]
 
 ## Constraints
 
-- Parity Lines
-- Counting Circles
+{{< constraint-links >}}
 
 ## Video
 

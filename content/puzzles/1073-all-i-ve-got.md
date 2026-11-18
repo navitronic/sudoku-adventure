@@ -12,8 +12,7 @@ aliases = ["/1073/"]
 
 ## Constraints
 
-- Numbered Rooms
-- Little Killer
+{{< constraint-links >}}
 
 ## Video
 

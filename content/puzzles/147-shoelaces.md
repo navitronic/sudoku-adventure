@@ -12,8 +12,7 @@ aliases = ["/147/"]
 
 ## Constraints
 
-- Double Arrows
-- Even/Odd
+{{< constraint-links >}}
 
 ## Video
 

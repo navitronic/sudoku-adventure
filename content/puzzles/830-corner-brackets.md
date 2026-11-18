@@ -12,9 +12,7 @@ aliases = ["/830/"]
 
 ## Constraints
 
-- German Whispers
-- Renban Lines
-- Killer Cages
+{{< constraint-links >}}
 
 ## Video
 

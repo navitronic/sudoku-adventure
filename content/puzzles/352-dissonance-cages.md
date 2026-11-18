@@ -12,8 +12,7 @@ aliases = ["/352/"]
 
 ## Constraints
 
-- Other
-- Extra Regions
+{{< constraint-links >}}
 
 ## Video
 

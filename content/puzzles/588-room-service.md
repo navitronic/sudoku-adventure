@@ -12,8 +12,7 @@ aliases = ["/588/"]
 
 ## Constraints
 
-- Numbered Rooms
-- Sandwich Sums
+{{< constraint-links >}}
 
 ## Video
 

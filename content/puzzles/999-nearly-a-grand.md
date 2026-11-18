@@ -12,9 +12,7 @@ aliases = ["/999/"]
 
 ## Constraints
 
-- German Whispers
-- Quadruples
-- Renban Lines
+{{< constraint-links >}}
 
 ## Video
 

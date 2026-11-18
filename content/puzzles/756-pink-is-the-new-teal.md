@@ -12,8 +12,7 @@ aliases = ["/756/"]
 
 ## Constraints
 
-- Renban Lines
-- Little Killer
+{{< constraint-links >}}
 
 ## Video
 

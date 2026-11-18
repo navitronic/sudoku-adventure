@@ -12,8 +12,7 @@ aliases = ["/906/"]
 
 ## Constraints
 
-- Fortress
-- Other
+{{< constraint-links >}}
 
 ## Video
 

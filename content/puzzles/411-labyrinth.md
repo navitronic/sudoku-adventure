@@ -12,9 +12,7 @@ aliases = ["/411/"]
 
 ## Constraints
 
-- Killer Cages
-- Variant
-- Kropki Pairs
+{{< constraint-links >}}
 
 ## Video
 

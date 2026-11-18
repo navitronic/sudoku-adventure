@@ -12,8 +12,7 @@ aliases = ["/859/"]
 
 ## Constraints
 
-- Quadruples
-- Other
+{{< constraint-links >}}
 
 ## Video
 

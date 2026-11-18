@@ -12,8 +12,7 @@ aliases = ["/460/"]
 
 ## Constraints
 
-- German Whispers
-- Referenced Lines
+{{< constraint-links >}}
 
 ## Video
 

@@ -12,7 +12,7 @@ aliases = ["/374/"]
 
 ## Constraints
 
-- Fortress
+{{< constraint-links >}}
 
 ## Video
 

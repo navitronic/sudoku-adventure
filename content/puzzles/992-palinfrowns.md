@@ -12,8 +12,7 @@ aliases = ["/992/"]
 
 ## Constraints
 
-- Palindrome Lines
-- Kropki Pairs
+{{< constraint-links >}}
 
 ## Video
 

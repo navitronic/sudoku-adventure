@@ -12,7 +12,7 @@ aliases = ["/17/"]
 
 ## Constraints
 
-- X-Sums
+{{< constraint-links >}}
 
 ## Video
 

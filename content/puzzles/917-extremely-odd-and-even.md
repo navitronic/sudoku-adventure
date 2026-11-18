@@ -12,8 +12,7 @@ aliases = ["/917/"]
 
 ## Constraints
 
-- Max/Min
-- Even/Odd
+{{< constraint-links >}}
 
 ## Video
 

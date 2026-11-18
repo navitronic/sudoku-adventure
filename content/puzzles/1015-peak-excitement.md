@@ -12,8 +12,7 @@ aliases = ["/1015/"]
 
 ## Constraints
 
-- German Whispers
-- Split Peas
+{{< constraint-links >}}
 
 ## Video
 

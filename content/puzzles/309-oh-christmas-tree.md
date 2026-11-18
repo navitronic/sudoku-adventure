@@ -12,8 +12,7 @@ aliases = ["/309/"]
 
 ## Constraints
 
-- German Whispers
-- Sweeper Clues
+{{< constraint-links >}}
 
 ## Video
 

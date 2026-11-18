@@ -12,8 +12,7 @@ aliases = ["/586/"]
 
 ## Constraints
 
-- Numbered Rooms
-- Little Killer
+{{< constraint-links >}}
 
 ## Video
 

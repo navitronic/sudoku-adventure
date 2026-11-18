@@ -12,7 +12,7 @@ aliases = ["/260/"]
 
 ## Constraints
 
-- Search Six
+{{< constraint-links >}}
 
 ## Video
 

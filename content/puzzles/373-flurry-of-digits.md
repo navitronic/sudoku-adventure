@@ -12,8 +12,7 @@ aliases = ["/373/"]
 
 ## Constraints
 
-- Entropic Lines
-- Arrows
+{{< constraint-links >}}
 
 ## Video
 

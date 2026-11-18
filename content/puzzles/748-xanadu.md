@@ -12,8 +12,7 @@ aliases = ["/748/"]
 
 ## Constraints
 
-- Diagonal
-- XV
+{{< constraint-links >}}
 
 ## Video
 

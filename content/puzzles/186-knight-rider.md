@@ -12,8 +12,7 @@ aliases = ["/186/"]
 
 ## Constraints
 
-- Thermometers
-- Anti-Knight
+{{< constraint-links >}}
 
 ## Video
 

@@ -12,8 +12,7 @@ aliases = ["/1014/"]
 
 ## Constraints
 
-- Other
-- Numbered Rooms
+{{< constraint-links >}}
 
 ## Video
 

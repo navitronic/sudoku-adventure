@@ -12,7 +12,7 @@ aliases = ["/1042/"]
 
 ## Constraints
 
-- Parity line/tree
+{{< constraint-links >}}
 
 ## Video
 

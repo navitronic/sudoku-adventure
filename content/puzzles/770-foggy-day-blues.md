@@ -12,9 +12,7 @@ aliases = ["/770/"]
 
 ## Constraints
 
-- Dynamic Fog
-- Region Sum Lines
-- Irregular
+{{< constraint-links >}}
 
 ## Video
 

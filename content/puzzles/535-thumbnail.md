@@ -12,8 +12,7 @@ aliases = ["/535/"]
 
 ## Constraints
 
-- Thermometers
-- Greater Than Arrows
+{{< constraint-links >}}
 
 ## Video
 

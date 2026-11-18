@@ -12,8 +12,7 @@ aliases = ["/762/"]
 
 ## Constraints
 
-- Renban Lines
-- Other
+{{< constraint-links >}}
 
 ## Video
 

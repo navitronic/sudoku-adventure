@@ -12,8 +12,7 @@ aliases = ["/797/"]
 
 ## Constraints
 
-- German Whispers
-- Even/Odd
+{{< constraint-links >}}
 
 ## Video
 

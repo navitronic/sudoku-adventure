@@ -12,8 +12,7 @@ aliases = ["/1341/"]
 
 ## Constraints
 
-- Thermometers
-- Maximum
+{{< constraint-links >}}
 
 ## Video
 

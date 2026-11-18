@@ -12,8 +12,7 @@ aliases = ["/255/"]
 
 ## Constraints
 
-- Renban Lines
-- Killer Cages
+{{< constraint-links >}}
 
 ## Video
 

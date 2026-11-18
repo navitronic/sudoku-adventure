@@ -12,7 +12,7 @@ aliases = ["/1101/"]
 
 ## Constraints
 
-- Irregular Thermo
+{{< constraint-links >}}
 
 ## Video
 

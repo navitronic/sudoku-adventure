@@ -12,8 +12,7 @@ aliases = ["/221/"]
 
 ## Constraints
 
-- Chinese Whispers
-- Killer Cages
+{{< constraint-links >}}
 
 ## Video
 

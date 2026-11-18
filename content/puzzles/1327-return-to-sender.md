@@ -12,8 +12,7 @@ aliases = ["/1327/"]
 
 ## Constraints
 
-- Look-and-Say Cages
-- Arrows
+{{< constraint-links >}}
 
 ## Video
 

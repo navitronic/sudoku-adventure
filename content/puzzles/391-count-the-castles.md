@@ -12,8 +12,7 @@ aliases = ["/391/"]
 
 ## Constraints
 
-- Fortress
-- Counting Circles
+{{< constraint-links >}}
 
 ## Video
 

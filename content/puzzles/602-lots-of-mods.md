@@ -12,8 +12,7 @@ aliases = ["/602/"]
 
 ## Constraints
 
-- Modular Lines
-- Odd/Even Lots
+{{< constraint-links >}}
 
 ## Video
 

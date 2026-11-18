@@ -12,9 +12,7 @@ aliases = ["/1009/"]
 
 ## Constraints
 
-- Chaos Construction
-- German Whispers
-- Region Sum Lines
+{{< constraint-links >}}
 
 ## Video
 

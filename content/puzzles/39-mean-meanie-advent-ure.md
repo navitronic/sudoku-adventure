@@ -12,9 +12,7 @@ aliases = ["/39/"]
 
 ## Constraints
 
-- Mean Mini
-- Killer Cages
-- Not 6x6
+{{< constraint-links >}}
 
 ## Video
 

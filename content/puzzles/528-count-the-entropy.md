@@ -12,8 +12,7 @@ aliases = ["/528/"]
 
 ## Constraints
 
-- Entropic Lines
-- Counting Circles
+{{< constraint-links >}}
 
 ## Video
 

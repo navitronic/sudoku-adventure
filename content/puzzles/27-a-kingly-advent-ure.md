@@ -12,7 +12,7 @@ aliases = ["/27/"]
 
 ## Constraints
 
-- Anti-King
+{{< constraint-links >}}
 
 ## Video
 

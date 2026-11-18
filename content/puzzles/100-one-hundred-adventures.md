@@ -12,8 +12,7 @@ aliases = ["/100/"]
 
 ## Constraints
 
-- Between Lines
-- Even/Odd
+{{< constraint-links >}}
 
 ## Video
 

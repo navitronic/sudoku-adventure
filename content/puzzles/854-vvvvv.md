@@ -12,8 +12,7 @@ aliases = ["/854/"]
 
 ## Constraints
 
-- XV
-- Skyscrapers
+{{< constraint-links >}}
 
 ## Video
 

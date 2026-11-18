@@ -12,9 +12,7 @@ aliases = ["/665/"]
 
 ## Constraints
 
-- Chaos Construction
-- Dutch Whispers
-- Other
+{{< constraint-links >}}
 
 ## Video
 

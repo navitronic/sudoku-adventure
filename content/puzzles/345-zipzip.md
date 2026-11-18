@@ -12,8 +12,7 @@ aliases = ["/345/"]
 
 ## Constraints
 
-- Zipper Lines
-- Doublers
+{{< constraint-links >}}
 
 ## Video
 

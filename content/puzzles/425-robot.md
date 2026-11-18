@@ -12,8 +12,7 @@ aliases = ["/425/"]
 
 ## Constraints
 
-- Indexing
-- German Whispers
+{{< constraint-links >}}
 
 ## Video
 

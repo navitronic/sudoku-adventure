@@ -12,7 +12,7 @@ aliases = ["/934/"]
 
 ## Constraints
 
-- X-Sums
+{{< constraint-links >}}
 
 ## Video
 

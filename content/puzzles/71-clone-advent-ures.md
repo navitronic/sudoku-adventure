@@ -12,7 +12,7 @@ aliases = ["/71/"]
 
 ## Constraints
 
-- Clones
+{{< constraint-links >}}
 
 ## Video
 

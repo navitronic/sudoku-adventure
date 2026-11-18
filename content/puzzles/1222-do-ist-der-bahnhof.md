@@ -12,8 +12,7 @@ aliases = ["/1222/"]
 
 ## Constraints
 
-- Arrows
-- Dutch Whispers
+{{< constraint-links >}}
 
 ## Video
 

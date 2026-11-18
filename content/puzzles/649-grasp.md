@@ -12,8 +12,7 @@ aliases = ["/649/"]
 
 ## Constraints
 
-- Killer Cages
-- Thermometers
+{{< constraint-links >}}
 
 ## Video
 

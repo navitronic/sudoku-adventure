@@ -12,8 +12,7 @@ aliases = ["/686/"]
 
 ## Constraints
 
-- Thermometers
-- Kropki Pairs
+{{< constraint-links >}}
 
 ## Video
 

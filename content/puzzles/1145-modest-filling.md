@@ -12,8 +12,7 @@ aliases = ["/1145/"]
 
 ## Constraints
 
-- Sandwich Sums
-- Modular Lines
+{{< constraint-links >}}
 
 ## Video
 

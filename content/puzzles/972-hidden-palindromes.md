@@ -12,8 +12,7 @@ aliases = ["/972/"]
 
 ## Constraints
 
-- Killer Cages
-- Palindrome Lines
+{{< constraint-links >}}
 
 ## Video
 

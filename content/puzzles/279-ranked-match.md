@@ -12,8 +12,7 @@ aliases = ["/279/"]
 
 ## Constraints
 
-- Killer Cages
-- Variant
+{{< constraint-links >}}
 
 ## Video
 

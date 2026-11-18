@@ -12,9 +12,7 @@ aliases = ["/637/"]
 
 ## Constraints
 
-- Parity Lines
-- Region Sum Lines
-- Kropki Pairs
+{{< constraint-links >}}
 
 ## Video
 

@@ -12,7 +12,7 @@ aliases = ["/430/"]
 
 ## Constraints
 
-- Counting Circles
+{{< constraint-links >}}
 
 ## Video
 

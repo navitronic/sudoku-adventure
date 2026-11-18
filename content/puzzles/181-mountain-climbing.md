@@ -12,9 +12,7 @@ aliases = ["/181/"]
 
 ## Constraints
 
-- Thermometers
-- Region Sum Lines
-- Kropki Pairs
+{{< constraint-links >}}
 
 ## Video
 

@@ -12,7 +12,7 @@ aliases = ["/83/"]
 
 ## Constraints
 
-- Palindrome Lines
+{{< constraint-links >}}
 
 ## Video
 

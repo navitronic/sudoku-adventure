@@ -12,8 +12,7 @@ aliases = ["/466/"]
 
 ## Constraints
 
-- Parity Diamonds
-- Killer Cages
+{{< constraint-links >}}
 
 ## Video
 

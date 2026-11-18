@@ -12,7 +12,7 @@ aliases = ["/868/"]
 
 ## Constraints
 
-- Index Lines
+{{< constraint-links >}}
 
 ## Video
 

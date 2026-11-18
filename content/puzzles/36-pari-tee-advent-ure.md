@@ -12,7 +12,7 @@ aliases = ["/36/"]
 
 ## Constraints
 
-- Parity Lines
+{{< constraint-links >}}
 
 ## Video
 

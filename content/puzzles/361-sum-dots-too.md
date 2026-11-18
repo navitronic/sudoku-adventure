@@ -12,7 +12,7 @@ aliases = ["/361/"]
 
 ## Constraints
 
-- Sum Dots
+{{< constraint-links >}}
 
 ## Video
 

@@ -12,8 +12,7 @@ aliases = ["/955/"]
 
 ## Constraints
 
-- German Whispers
-- Quadruples
+{{< constraint-links >}}
 
 ## Video
 

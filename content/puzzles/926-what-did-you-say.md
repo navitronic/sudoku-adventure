@@ -12,9 +12,7 @@ aliases = ["/926/"]
 
 ## Constraints
 
-- Chinese Whispers
-- Variant
-- Counting Circles
+{{< constraint-links >}}
 
 ## Video
 

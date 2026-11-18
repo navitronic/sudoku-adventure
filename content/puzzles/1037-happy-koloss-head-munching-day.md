@@ -12,8 +12,7 @@ aliases = ["/1037/"]
 
 ## Constraints
 
-- Snake
-- German Whispers
+{{< constraint-links >}}
 
 ## Video
 

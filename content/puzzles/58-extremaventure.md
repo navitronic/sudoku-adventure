@@ -12,7 +12,7 @@ aliases = ["/58/"]
 
 ## Constraints
 
-- Fortress
+{{< constraint-links >}}
 
 ## Video
 

@@ -12,8 +12,7 @@ aliases = ["/516/"]
 
 ## Constraints
 
-- Thermometers
-- Odd/Even Lots
+{{< constraint-links >}}
 
 ## Video
 

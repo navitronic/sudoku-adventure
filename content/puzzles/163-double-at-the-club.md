@@ -12,8 +12,7 @@ aliases = ["/163/"]
 
 ## Constraints
 
-- Kropki Pairs
-- Sandwich Sums
+{{< constraint-links >}}
 
 ## Video
 

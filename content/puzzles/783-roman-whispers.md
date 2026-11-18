@@ -12,8 +12,7 @@ aliases = ["/783/"]
 
 ## Constraints
 
-- German Whispers
-- XV
+{{< constraint-links >}}
 
 ## Video
 

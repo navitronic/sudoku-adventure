@@ -12,8 +12,7 @@ aliases = ["/687/"]
 
 ## Constraints
 
-- German Whispers
-- Parity Lines
+{{< constraint-links >}}
 
 ## Video
 

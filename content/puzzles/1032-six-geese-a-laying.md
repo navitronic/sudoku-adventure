@@ -12,8 +12,7 @@ aliases = ["/1032/"]
 
 ## Constraints
 
-- Loop
-- Region Renban
+{{< constraint-links >}}
 
 ## Video
 

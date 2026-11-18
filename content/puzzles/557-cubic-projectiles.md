@@ -12,9 +12,7 @@ aliases = ["/557/"]
 
 ## Constraints
 
-- Region Sum Lines
-- Arrows
-- Even/Odd
+{{< constraint-links >}}
 
 ## Video
 

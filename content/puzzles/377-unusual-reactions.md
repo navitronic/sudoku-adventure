@@ -12,8 +12,7 @@ aliases = ["/377/"]
 
 ## Constraints
 
-- Fortress
-- Zipper Lines
+{{< constraint-links >}}
 
 ## Video
 

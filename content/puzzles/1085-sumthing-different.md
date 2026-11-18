@@ -12,8 +12,7 @@ aliases = ["/1085/"]
 
 ## Constraints
 
-- Arrows
-- Extra Regions
+{{< constraint-links >}}
 
 ## Video
 

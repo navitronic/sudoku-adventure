@@ -12,8 +12,7 @@ aliases = ["/1330/"]
 
 ## Constraints
 
-- Counting Circles
-- Thermometers
+{{< constraint-links >}}
 
 ## Video
 

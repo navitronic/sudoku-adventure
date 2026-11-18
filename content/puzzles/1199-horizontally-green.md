@@ -12,8 +12,7 @@ aliases = ["/1199/"]
 
 ## Constraints
 
-- Irregular
-- German Whispers
+{{< constraint-links >}}
 
 ## Video
 

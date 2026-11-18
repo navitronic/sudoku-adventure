@@ -12,8 +12,7 @@ aliases = ["/509/"]
 
 ## Constraints
 
-- Counting Circles
-- Killer Cages
+{{< constraint-links >}}
 
 ## Video
 

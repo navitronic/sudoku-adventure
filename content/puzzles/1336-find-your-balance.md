@@ -12,8 +12,7 @@ aliases = ["/1336/"]
 
 ## Constraints
 
-- Region Sum Lines
-- Other
+{{< constraint-links >}}
 
 ## Video
 

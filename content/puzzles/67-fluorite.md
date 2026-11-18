@@ -12,8 +12,7 @@ aliases = ["/67/"]
 
 ## Constraints
 
-- Renban Lines
-- German Whispers
+{{< constraint-links >}}
 
 ## Video
 

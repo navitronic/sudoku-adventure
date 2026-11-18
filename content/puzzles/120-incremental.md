@@ -11,7 +11,7 @@ puzzle_url = "https://sudokupad.app/adventure/120-incremental"
 
 ## Constraints
 
-- Renban Lines
+{{< constraint-links >}}
 
 ## Video
 

@@ -12,9 +12,7 @@ aliases = ["/880/"]
 
 ## Constraints
 
-- Modular Lines
-- Diagonal
-- XV
+{{< constraint-links >}}
 
 ## Video
 

@@ -12,8 +12,7 @@ aliases = ["/375/"]
 
 ## Constraints
 
-- Fortress
-- German Whispers
+{{< constraint-links >}}
 
 ## Video
 

@@ -12,8 +12,7 @@ aliases = ["/407/"]
 
 ## Constraints
 
-- Little Killer
-- Counting Circles
+{{< constraint-links >}}
 
 ## Video
 

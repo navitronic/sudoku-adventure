@@ -12,9 +12,7 @@ aliases = ["/243/"]
 
 ## Constraints
 
-- Renban Lines
-- Sandwich Sums
-- Other
+{{< constraint-links >}}
 
 ## Video
 

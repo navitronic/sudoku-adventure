@@ -12,9 +12,7 @@ aliases = ["/965/"]
 
 ## Constraints
 
-- Parity Lines
-- Kropki Pairs
-- Irregular
+{{< constraint-links >}}
 
 ## Video
 

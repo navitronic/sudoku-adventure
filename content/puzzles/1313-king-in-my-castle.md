@@ -12,9 +12,7 @@ aliases = ["/1313/"]
 
 ## Constraints
 
-- Irregular
-- Anti-King
-- Fortress
+{{< constraint-links >}}
 
 ## Video
 

@@ -12,7 +12,7 @@ aliases = ["/180/"]
 
 ## Constraints
 
-- Numbered Rooms
+{{< constraint-links >}}
 
 ## Video
 

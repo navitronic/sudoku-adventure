@@ -12,8 +12,7 @@ aliases = ["/729/"]
 
 ## Constraints
 
-- German Whispers
-- Skyscrapers
+{{< constraint-links >}}
 
 ## Video
 

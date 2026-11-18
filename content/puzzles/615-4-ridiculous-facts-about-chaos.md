@@ -12,9 +12,7 @@ aliases = ["/615/"]
 
 ## Constraints
 
-- Chaos Construction
-- X-Sums
-- Other
+{{< constraint-links >}}
 
 ## Video
 

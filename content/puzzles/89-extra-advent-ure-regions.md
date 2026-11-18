@@ -12,7 +12,7 @@ aliases = ["/89/"]
 
 ## Constraints
 
-- Extra Regions
+{{< constraint-links >}}
 
 ## Video
 

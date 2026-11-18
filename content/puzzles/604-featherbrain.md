@@ -12,9 +12,7 @@ aliases = ["/604/"]
 
 ## Constraints
 
-- Renban Lines
-- German Whispers
-- Variant
+{{< constraint-links >}}
 
 ## Video
 

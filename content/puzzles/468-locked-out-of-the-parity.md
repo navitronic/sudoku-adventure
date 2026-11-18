@@ -12,8 +12,7 @@ aliases = ["/468/"]
 
 ## Constraints
 
-- Parity Diamonds
-- Lockout Lines
+{{< constraint-links >}}
 
 ## Video
 

@@ -12,7 +12,7 @@ aliases = ["/138/"]
 
 ## Constraints
 
-- Parity Diamonds
+{{< constraint-links >}}
 
 ## Video
 

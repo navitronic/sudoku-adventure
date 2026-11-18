@@ -12,9 +12,7 @@ aliases = ["/386/"]
 
 ## Constraints
 
-- Palindrome Lines
-- Killer Cages
-- Kropki Pairs
+{{< constraint-links >}}
 
 ## Video
 

@@ -12,9 +12,7 @@ aliases = ["/1324/"]
 
 ## Constraints
 
-- Look-and-Say Cages
-- Numbered Rooms
-- Variant
+{{< constraint-links >}}
 
 ## Video
 

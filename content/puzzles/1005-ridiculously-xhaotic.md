@@ -12,8 +12,7 @@ aliases = ["/1005/"]
 
 ## Constraints
 
-- Chaos Construction
-- X-Sums
+{{< constraint-links >}}
 
 ## Video
 

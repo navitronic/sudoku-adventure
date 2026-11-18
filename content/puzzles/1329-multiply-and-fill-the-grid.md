@@ -12,8 +12,7 @@ aliases = ["/1329/"]
 
 ## Constraints
 
-- Look-and-Say Cages
-- Product Cages
+{{< constraint-links >}}
 
 ## Video
 

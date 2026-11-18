@@ -12,9 +12,7 @@ aliases = ["/408/"]
 
 ## Constraints
 
-- Little Killer
-- Rossini
-- Variant
+{{< constraint-links >}}
 
 ## Video
 

@@ -12,9 +12,7 @@ aliases = ["/311/"]
 
 ## Constraints
 
-- Palindrome Lines
-- Region Sum Lines
-- XV
+{{< constraint-links >}}
 
 ## Video
 

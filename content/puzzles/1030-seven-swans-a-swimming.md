@@ -12,7 +12,7 @@ aliases = ["/1030/"]
 
 ## Constraints
 
-- Arrow Sums to 7
+{{< constraint-links >}}
 
 ## Video
 

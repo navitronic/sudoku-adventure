@@ -12,8 +12,7 @@ aliases = ["/674/"]
 
 ## Constraints
 
-- Counting Circles
-- Kropki Pairs
+{{< constraint-links >}}
 
 ## Video
 

@@ -12,7 +12,7 @@ aliases = ["/40/"]
 
 ## Constraints
 
-- Rossini
+{{< constraint-links >}}
 
 ## Video
 

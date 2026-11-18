@@ -12,9 +12,7 @@ aliases = ["/1124/"]
 
 ## Constraints
 
-- Nonconsecutive
-- German Whispers
-- Even/Odd
+{{< constraint-links >}}
 
 ## Video
 

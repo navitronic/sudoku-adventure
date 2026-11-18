@@ -12,10 +12,7 @@ aliases = ["/844/"]
 
 ## Constraints
 
-- Killer Cages
-- Arrows
-- Fog of War
-- Variant
+{{< constraint-links >}}
 
 ## Video
 

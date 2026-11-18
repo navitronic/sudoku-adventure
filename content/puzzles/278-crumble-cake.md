@@ -12,8 +12,7 @@ aliases = ["/278/"]
 
 ## Constraints
 
-- Thermometers
-- Nonconsecutive
+{{< constraint-links >}}
 
 ## Video
 

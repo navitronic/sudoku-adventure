@@ -12,7 +12,7 @@ aliases = ["/582/"]
 
 ## Constraints
 
-- Japanese Sums
+{{< constraint-links >}}
 
 ## Video
 

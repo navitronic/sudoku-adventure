@@ -12,8 +12,7 @@ aliases = ["/823/"]
 
 ## Constraints
 
-- Skyscrapers
-- X-Sums
+{{< constraint-links >}}
 
 ## Video
 

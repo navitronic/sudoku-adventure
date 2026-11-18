@@ -12,9 +12,7 @@ aliases = ["/808/"]
 
 ## Constraints
 
-- Parity Lines
-- Renban Lines
-- Region Sum Lines
+{{< constraint-links >}}
 
 ## Video
 

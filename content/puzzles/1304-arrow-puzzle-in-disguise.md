@@ -12,8 +12,7 @@ aliases = ["/1304/"]
 
 ## Constraints
 
-- Region Sum Lines
-- Little Killer
+{{< constraint-links >}}
 
 ## Video
 

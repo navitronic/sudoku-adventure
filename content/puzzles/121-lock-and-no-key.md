@@ -12,7 +12,7 @@ aliases = ["/121/"]
 
 ## Constraints
 
-- Lockout Lines
+{{< constraint-links >}}
 
 ## Video
 

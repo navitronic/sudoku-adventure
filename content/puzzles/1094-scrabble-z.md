@@ -12,9 +12,7 @@ aliases = ["/1094/"]
 
 ## Constraints
 
-- Kropki Pairs
-- Entropic Lines
-- Variant
+{{< constraint-links >}}
 
 ## Video
 

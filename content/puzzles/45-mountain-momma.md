@@ -12,9 +12,7 @@ aliases = ["/45/"]
 
 ## Constraints
 
-- Kropki Pairs
-- Region Sum Lines
-- Other
+{{< constraint-links >}}
 
 ## Video
 

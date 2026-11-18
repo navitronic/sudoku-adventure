@@ -12,8 +12,7 @@ aliases = ["/195/"]
 
 ## Constraints
 
-- Indexing
-- German Whispers
+{{< constraint-links >}}
 
 ## Video
 

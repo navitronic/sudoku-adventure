@@ -12,8 +12,7 @@ aliases = ["/789/"]
 
 ## Constraints
 
-- Parity Lines
-- Other
+{{< constraint-links >}}
 
 ## Video
 

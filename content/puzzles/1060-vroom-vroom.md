@@ -12,8 +12,7 @@ aliases = ["/1060/"]
 
 ## Constraints
 
-- Numbered Rooms
-- V Sums
+{{< constraint-links >}}
 
 ## Video
 

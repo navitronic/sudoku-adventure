@@ -12,8 +12,7 @@ aliases = ["/64/"]
 
 ## Constraints
 
-- Other
-- Irregular
+{{< constraint-links >}}
 
 ## Video
 

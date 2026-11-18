@@ -12,7 +12,7 @@ aliases = ["/1024/"]
 
 ## Constraints
 
-- Up to N sums to 10
+{{< constraint-links >}}
 
 ## Video
 

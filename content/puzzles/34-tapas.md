@@ -12,7 +12,7 @@ aliases = ["/34/"]
 
 ## Constraints
 
-- Sandwich Sums
+{{< constraint-links >}}
 
 ## Video
 

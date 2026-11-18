@@ -12,9 +12,7 @@ aliases = ["/648/"]
 
 ## Constraints
 
-- Chaos Construction
-- Thermometers
-- Kropki Pairs
+{{< constraint-links >}}
 
 ## Video
 

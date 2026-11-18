@@ -12,8 +12,7 @@ aliases = ["/8/"]
 
 ## Constraints
 
-- Even/Odd
-- Irregular
+{{< constraint-links >}}
 
 ## Video
 

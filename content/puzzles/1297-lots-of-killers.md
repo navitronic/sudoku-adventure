@@ -12,8 +12,7 @@ aliases = ["/1297/"]
 
 ## Constraints
 
-- Little Killer
-- Odd/Even Lots
+{{< constraint-links >}}
 
 ## Video
 

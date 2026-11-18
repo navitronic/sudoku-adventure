@@ -12,8 +12,7 @@ aliases = ["/59/"]
 
 ## Constraints
 
-- Indexing
-- Thermometers
+{{< constraint-links >}}
 
 ## Video
 

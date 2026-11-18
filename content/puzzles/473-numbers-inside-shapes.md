@@ -12,9 +12,7 @@ aliases = ["/473/"]
 
 ## Constraints
 
-- Irregular
-- Look-and-Say Cages
-- Quadruples
+{{< constraint-links >}}
 
 ## Video
 

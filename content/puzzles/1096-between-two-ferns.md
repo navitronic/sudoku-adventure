@@ -12,7 +12,7 @@ aliases = ["/1096/"]
 
 ## Constraints
 
-- Between Lines
+{{< constraint-links >}}
 
 ## Video
 

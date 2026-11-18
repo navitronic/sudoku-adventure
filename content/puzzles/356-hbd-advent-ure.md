@@ -12,8 +12,7 @@ aliases = ["/356/"]
 
 ## Constraints
 
-- Irregular
-- German Whispers
+{{< constraint-links >}}
 
 ## Video
 

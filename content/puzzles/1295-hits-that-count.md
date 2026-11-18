@@ -12,7 +12,7 @@ aliases = ["/1295/"]
 
 ## Constraints
 
-- Hitpoints
+{{< constraint-links >}}
 
 ## Video
 

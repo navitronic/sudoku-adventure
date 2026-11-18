@@ -12,8 +12,7 @@ aliases = ["/1049/"]
 
 ## Constraints
 
-- Dutch Whispers
-- Even/Odd
+{{< constraint-links >}}
 
 ## Video
 

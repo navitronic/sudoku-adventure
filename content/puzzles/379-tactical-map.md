@@ -12,8 +12,7 @@ aliases = ["/379/"]
 
 ## Constraints
 
-- Fortress
-- Arrows
+{{< constraint-links >}}
 
 ## Video
 

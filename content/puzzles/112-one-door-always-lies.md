@@ -12,11 +12,7 @@ aliases = ["/112/"]
 
 ## Constraints
 
-- Kropki Pairs
-- XV
-- Arrows
-- Thermometers
-- Variant
+{{< constraint-links >}}
 
 ## Video
 

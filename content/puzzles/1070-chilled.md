@@ -12,7 +12,7 @@ aliases = ["/1070/"]
 
 ## Constraints
 
-- Slow Thermometers
+{{< constraint-links >}}
 
 ## Video
 

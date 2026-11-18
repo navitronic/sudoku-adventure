@@ -12,9 +12,7 @@ aliases = ["/18/"]
 
 ## Constraints
 
-- Killer Cages
-- Variant
-- Not 6x6
+{{< constraint-links >}}
 
 ## Video
 

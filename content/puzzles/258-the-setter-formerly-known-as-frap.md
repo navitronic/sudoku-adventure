@@ -12,8 +12,7 @@ aliases = ["/258/"]
 
 ## Constraints
 
-- Entropic Lines
-- Even/Odd
+{{< constraint-links >}}
 
 ## Video
 

@@ -12,8 +12,7 @@ aliases = ["/176/"]
 
 ## Constraints
 
-- Quadruples
-- Disjoint
+{{< constraint-links >}}
 
 ## Video
 

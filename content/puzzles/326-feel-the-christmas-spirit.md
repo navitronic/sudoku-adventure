@@ -12,8 +12,7 @@ aliases = ["/326/"]
 
 ## Constraints
 
-- Even/Odd
-- Quadruples
+{{< constraint-links >}}
 
 ## Video
 

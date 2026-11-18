@@ -12,8 +12,7 @@ aliases = ["/872/"]
 
 ## Constraints
 
-- Rossini
-- Search Six
+{{< constraint-links >}}
 
 ## Video
 

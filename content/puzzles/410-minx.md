@@ -12,8 +12,7 @@ aliases = ["/410/"]
 
 ## Constraints
 
-- Fortress
-- Diagonal
+{{< constraint-links >}}
 
 ## Video
 

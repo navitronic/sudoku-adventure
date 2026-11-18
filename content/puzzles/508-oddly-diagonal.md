@@ -12,8 +12,7 @@ aliases = ["/508/"]
 
 ## Constraints
 
-- Little Killer
-- German Whispers
+{{< constraint-links >}}
 
 ## Video
 

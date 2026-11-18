@@ -12,8 +12,7 @@ aliases = ["/541/"]
 
 ## Constraints
 
-- Diagonal
-- Other
+{{< constraint-links >}}
 
 ## Video
 

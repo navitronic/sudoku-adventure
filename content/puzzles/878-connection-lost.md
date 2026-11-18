@@ -12,9 +12,7 @@ aliases = ["/878/"]
 
 ## Constraints
 
-- Renban Lines
-- Nabner Lines
-- Variant
+{{< constraint-links >}}
 
 ## Video
 

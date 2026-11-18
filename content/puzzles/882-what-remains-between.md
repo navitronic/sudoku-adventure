@@ -12,9 +12,7 @@ aliases = ["/882/"]
 
 ## Constraints
 
-- Modular Lines
-- Between Lines
-- XV
+{{< constraint-links >}}
 
 ## Video
 

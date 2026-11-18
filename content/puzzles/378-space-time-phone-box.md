@@ -12,8 +12,7 @@ aliases = ["/378/"]
 
 ## Constraints
 
-- Fortress
-- Kropki Pairs
+{{< constraint-links >}}
 
 ## Video
 

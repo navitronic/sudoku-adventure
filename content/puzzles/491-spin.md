@@ -12,8 +12,7 @@ aliases = ["/491/"]
 
 ## Constraints
 
-- Modular Lines
-- Killer Cages
+{{< constraint-links >}}
 
 ## Video
 

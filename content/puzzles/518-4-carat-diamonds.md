@@ -12,8 +12,7 @@ aliases = ["/518/"]
 
 ## Constraints
 
-- Thermometers
-- Parity Diamonds
+{{< constraint-links >}}
 
 ## Video
 

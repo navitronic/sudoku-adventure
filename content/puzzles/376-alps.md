@@ -12,8 +12,7 @@ aliases = ["/376/"]
 
 ## Constraints
 
-- Fortress
-- Entropic Lines
+{{< constraint-links >}}
 
 ## Video
 

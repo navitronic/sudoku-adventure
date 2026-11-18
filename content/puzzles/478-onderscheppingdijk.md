@@ -12,8 +12,7 @@ aliases = ["/478/"]
 
 ## Constraints
 
-- Lockout Lines
-- Indexing
+{{< constraint-links >}}
 
 ## Video
 

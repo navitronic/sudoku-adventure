@@ -12,9 +12,7 @@ aliases = ["/448/"]
 
 ## Constraints
 
-- Zipper Lines
-- Variant
-- Referenced Lines
+{{< constraint-links >}}
 
 ## Video
 

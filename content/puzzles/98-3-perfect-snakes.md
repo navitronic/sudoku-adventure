@@ -12,8 +12,7 @@ aliases = ["/98/"]
 
 ## Constraints
 
-- Chaos Construction
-- Variant
+{{< constraint-links >}}
 
 ## Video
 

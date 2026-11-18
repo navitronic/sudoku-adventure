@@ -12,8 +12,7 @@ aliases = ["/1315/"]
 
 ## Constraints
 
-- German Whispers
-- Entropic Lines
+{{< constraint-links >}}
 
 ## Video
 

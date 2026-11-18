@@ -113,11 +113,7 @@ def post(row, date, permalink_slug):
     ]
     if row["alias"]:
         fields.append(f'aliases = ["/{number}/"]')
-    body = [f'**[Play this puzzle on SudokuPad]({puzzle})**', "", "## Constraints", ""]
-    body.extend(f"- {constraint}" for constraint in constraints)
-    if not constraints:
-        body.append("No constraints listed.")
-    body.extend(["", "## Video", "", f'{{{{< youtube id="{identifier}" >}}}}', ""])
+    body = [f'**[Play this puzzle on SudokuPad]({puzzle})**', "", "## Constraints", "", "{{< constraint-links >}}", "", "## Video", "", f'{{{{< youtube id="{identifier}" >}}}}', ""]
     return "+++\n" + "\n".join(fields) + "\n+++\n\n" + "\n".join(body)
 
 

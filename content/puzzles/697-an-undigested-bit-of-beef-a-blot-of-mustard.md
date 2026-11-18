@@ -12,8 +12,7 @@ aliases = ["/697/"]
 
 ## Constraints
 
-- Sandwich Sums
-- Double Arrows
+{{< constraint-links >}}
 
 ## Video
 

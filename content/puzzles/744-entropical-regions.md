@@ -12,8 +12,7 @@ aliases = ["/744/"]
 
 ## Constraints
 
-- Region Sum Lines
-- Entropic Lines
+{{< constraint-links >}}
 
 ## Video
 

@@ -12,10 +12,7 @@ aliases = ["/1128/"]
 
 ## Constraints
 
-- Other
-- German Whispers
-- Entropic Lines
-- Not 6x6
+{{< constraint-links >}}
 
 ## Video
 

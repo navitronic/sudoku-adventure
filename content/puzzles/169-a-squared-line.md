@@ -12,7 +12,7 @@ aliases = ["/169/"]
 
 ## Constraints
 
-- Production Lines
+{{< constraint-links >}}
 
 ## Video
 

@@ -12,8 +12,7 @@ aliases = ["/923/"]
 
 ## Constraints
 
-- German Whispers
-- Greater Than Arrows
+{{< constraint-links >}}
 
 ## Video
 

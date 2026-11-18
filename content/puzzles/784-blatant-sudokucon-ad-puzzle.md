@@ -12,9 +12,7 @@ aliases = ["/784/"]
 
 ## Constraints
 
-- Quadruples
-- Thermometers
-- Variant
+{{< constraint-links >}}
 
 ## Video
 

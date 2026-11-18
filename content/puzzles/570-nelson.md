@@ -12,8 +12,7 @@ aliases = ["/570/"]
 
 ## Constraints
 
-- Killer Cages
-- Indexing
+{{< constraint-links >}}
 
 ## Video
 

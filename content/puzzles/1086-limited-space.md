@@ -12,8 +12,7 @@ aliases = ["/1086/"]
 
 ## Constraints
 
-- Extra Regions
-- Between Lines
+{{< constraint-links >}}
 
 ## Video
 

@@ -12,7 +12,7 @@ aliases = ["/81/"]
 
 ## Constraints
 
-- Nonconsecutive
+{{< constraint-links >}}
 
 ## Video
 

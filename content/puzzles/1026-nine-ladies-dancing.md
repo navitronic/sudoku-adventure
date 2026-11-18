@@ -12,7 +12,7 @@ aliases = ["/1026/"]
 
 ## Constraints
 
-- Clock faces
+{{< constraint-links >}}
 
 ## Video
 

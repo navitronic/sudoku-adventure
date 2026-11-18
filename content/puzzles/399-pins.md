@@ -12,8 +12,7 @@ aliases = ["/399/"]
 
 ## Constraints
 
-- Entropic Lines
-- Killer Cages
+{{< constraint-links >}}
 
 ## Video
 

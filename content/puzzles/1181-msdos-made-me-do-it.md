@@ -12,7 +12,7 @@ aliases = ["/1181/"]
 
 ## Constraints
 
-- Entropic Arrows
+{{< constraint-links >}}
 
 ## Video
 

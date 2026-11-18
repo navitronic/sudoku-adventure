@@ -12,10 +12,7 @@ aliases = ["/670/"]
 
 ## Constraints
 
-- Kropki Pairs
-- Sum Dots
-- Other
-- Variant
+{{< constraint-links >}}
 
 ## Video
 

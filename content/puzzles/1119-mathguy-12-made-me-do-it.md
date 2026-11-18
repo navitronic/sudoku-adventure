@@ -12,8 +12,7 @@ aliases = ["/1119/"]
 
 ## Constraints
 
-- Sum Dots
-- German Whispers
+{{< constraint-links >}}
 
 ## Video
 

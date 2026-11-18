@@ -12,8 +12,7 @@ aliases = ["/870/"]
 
 ## Constraints
 
-- Skyscrapers
-- Killer Cages
+{{< constraint-links >}}
 
 ## Video
 

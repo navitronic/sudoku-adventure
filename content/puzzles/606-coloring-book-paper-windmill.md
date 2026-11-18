@@ -12,9 +12,7 @@ aliases = ["/606/"]
 
 ## Constraints
 
-- Irregular
-- Arrows
-- Kropki Pairs
+{{< constraint-links >}}
 
 ## Video
 

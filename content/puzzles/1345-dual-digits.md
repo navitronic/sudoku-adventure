@@ -12,8 +12,7 @@ aliases = ["/1345/"]
 
 ## Constraints
 
-- Thermometers
-- Modular Lines
+{{< constraint-links >}}
 
 ## Video
 

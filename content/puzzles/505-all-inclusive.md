@@ -12,8 +12,7 @@ aliases = ["/505/"]
 
 ## Constraints
 
-- Arrows
-- Variant
+{{< constraint-links >}}
 
 ## Video
 

@@ -12,8 +12,7 @@ aliases = ["/660/"]
 
 ## Constraints
 
-- Thermometers
-- Disjoint
+{{< constraint-links >}}
 
 ## Video
 

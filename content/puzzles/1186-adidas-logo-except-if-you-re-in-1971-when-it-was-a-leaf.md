@@ -12,8 +12,7 @@ aliases = ["/1186/"]
 
 ## Constraints
 
-- Renban Lines
-- Clones
+{{< constraint-links >}}
 
 ## Video
 

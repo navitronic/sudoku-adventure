@@ -12,7 +12,7 @@ aliases = ["/160/"]
 
 ## Constraints
 
-- Extra Regions
+{{< constraint-links >}}
 
 ## Video
 

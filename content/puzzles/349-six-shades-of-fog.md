@@ -12,9 +12,7 @@ aliases = ["/349/"]
 
 ## Constraints
 
-- Fog of War
-- Region Sum Lines
-- Killer Cages
+{{< constraint-links >}}
 
 ## Video
 

@@ -12,8 +12,7 @@ aliases = ["/428/"]
 
 ## Constraints
 
-- Entropic Lines
-- Killer Cages
+{{< constraint-links >}}
 
 ## Video
 

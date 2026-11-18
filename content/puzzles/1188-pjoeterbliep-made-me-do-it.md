@@ -12,8 +12,7 @@ aliases = ["/1188/"]
 
 ## Constraints
 
-- Little Killer
-- Dutch Whispers
+{{< constraint-links >}}
 
 ## Video
 

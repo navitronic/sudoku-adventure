@@ -12,7 +12,7 @@ aliases = ["/191/"]
 
 ## Constraints
 
-- Remote Sums
+{{< constraint-links >}}
 
 ## Video
 

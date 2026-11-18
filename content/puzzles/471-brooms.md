@@ -12,8 +12,7 @@ aliases = ["/471/"]
 
 ## Constraints
 
-- Parity Diamonds
-- Numbered Rooms
+{{< constraint-links >}}
 
 ## Video
 

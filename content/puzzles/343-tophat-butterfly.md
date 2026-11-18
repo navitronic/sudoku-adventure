@@ -12,8 +12,7 @@ aliases = ["/343/"]
 
 ## Constraints
 
-- Zipper Lines
-- German Whispers
+{{< constraint-links >}}
 
 ## Video
 

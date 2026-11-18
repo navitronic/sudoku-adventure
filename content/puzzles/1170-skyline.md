@@ -12,9 +12,7 @@ aliases = ["/1170/"]
 
 ## Constraints
 
-- Skyscrapers
-- Diagonal
-- Dynamic Fog
+{{< constraint-links >}}
 
 ## Video
 

@@ -12,9 +12,7 @@ aliases = ["/94/"]
 
 ## Constraints
 
-- XV
-- Variant
-- Not 6x6
+{{< constraint-links >}}
 
 ## Video
 

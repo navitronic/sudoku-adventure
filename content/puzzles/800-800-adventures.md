@@ -12,8 +12,7 @@ aliases = ["/800/"]
 
 ## Constraints
 
-- Region Sum Lines
-- Sandwich Sums
+{{< constraint-links >}}
 
 ## Video
 

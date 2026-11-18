@@ -12,9 +12,7 @@ aliases = ["/825/"]
 
 ## Constraints
 
-- Renban Lines
-- Sandwich Sums
-- Fog of War
+{{< constraint-links >}}
 
 ## Video
 

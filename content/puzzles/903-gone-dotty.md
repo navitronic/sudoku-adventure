@@ -12,8 +12,7 @@ aliases = ["/903/"]
 
 ## Constraints
 
-- Kropki Pairs
-- Fog of War
+{{< constraint-links >}}
 
 ## Video
 

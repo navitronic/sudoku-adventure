@@ -12,7 +12,7 @@ aliases = ["/1192/"]
 
 ## Constraints
 
-- Rossini
+{{< constraint-links >}}
 
 ## Video
 

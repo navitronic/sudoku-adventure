@@ -12,9 +12,7 @@ aliases = ["/623/"]
 
 ## Constraints
 
-- Fog of War
-- German Whispers
-- X-Sums
+{{< constraint-links >}}
 
 ## Video
 

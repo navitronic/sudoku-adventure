@@ -12,7 +12,7 @@ aliases = ["/465/"]
 
 ## Constraints
 
-- Parity Diamonds
+{{< constraint-links >}}
 
 ## Video
 

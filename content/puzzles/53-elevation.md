@@ -12,8 +12,7 @@ aliases = ["/53/"]
 
 ## Constraints
 
-- Irregular
-- Skyscrapers
+{{< constraint-links >}}
 
 ## Video
 

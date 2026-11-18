@@ -12,8 +12,7 @@ aliases = ["/548/"]
 
 ## Constraints
 
-- Palindrome Lines
-- Parity Lines
+{{< constraint-links >}}
 
 ## Video
 

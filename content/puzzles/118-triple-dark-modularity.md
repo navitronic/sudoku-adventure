@@ -12,8 +12,7 @@ aliases = ["/118/"]
 
 ## Constraints
 
-- Modular Lines
-- Kropki Pairs
+{{< constraint-links >}}
 
 ## Video
 

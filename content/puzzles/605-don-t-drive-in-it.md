@@ -12,8 +12,7 @@ aliases = ["/605/"]
 
 ## Constraints
 
-- Fog of War
-- Killer Cages
+{{< constraint-links >}}
 
 ## Video
 

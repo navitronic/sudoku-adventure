@@ -12,8 +12,7 @@ aliases = ["/218/"]
 
 ## Constraints
 
-- Killer Cages
-- Diagonal
+{{< constraint-links >}}
 
 ## Video
 

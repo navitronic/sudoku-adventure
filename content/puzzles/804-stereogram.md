@@ -12,8 +12,7 @@ aliases = ["/804/"]
 
 ## Constraints
 
-- Irregular
-- Look-and-Say Cages
+{{< constraint-links >}}
 
 ## Video
 

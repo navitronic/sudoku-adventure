@@ -12,7 +12,7 @@ aliases = ["/1107/"]
 
 ## Constraints
 
-- Double Arrows
+{{< constraint-links >}}
 
 ## Video
 

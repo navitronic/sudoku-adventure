@@ -12,9 +12,7 @@ aliases = ["/1178/"]
 
 ## Constraints
 
-- Numbered Rooms
-- Dutch Whispers
-- Not 6x6
+{{< constraint-links >}}
 
 ## Video
 

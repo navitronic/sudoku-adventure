@@ -11,8 +11,7 @@ puzzle_url = "https://sudokupad.app/adventure/137-trr"
 
 ## Constraints
 
-- German Whispers
-- Kropki Pairs
+{{< constraint-links >}}
 
 ## Video
 

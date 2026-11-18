@@ -12,9 +12,7 @@ aliases = ["/308/"]
 
 ## Constraints
 
-- German Whispers
-- Parity Lines
-- Killer Cages
+{{< constraint-links >}}
 
 ## Video
 

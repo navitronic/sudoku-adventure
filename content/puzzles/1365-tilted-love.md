@@ -12,8 +12,7 @@ aliases = ["/1365/"]
 
 ## Constraints
 
-- Counting Circles
-- Modular Lines
+{{< constraint-links >}}
 
 ## Video
 

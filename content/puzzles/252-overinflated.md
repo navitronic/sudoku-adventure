@@ -12,8 +12,7 @@ aliases = ["/252/"]
 
 ## Constraints
 
-- Quadruples
-- Other
+{{< constraint-links >}}
 
 ## Video
 

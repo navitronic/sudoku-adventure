@@ -12,8 +12,7 @@ aliases = ["/803/"]
 
 ## Constraints
 
-- Palindrome Lines
-- XV
+{{< constraint-links >}}
 
 ## Video
 

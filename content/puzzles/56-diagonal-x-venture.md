@@ -12,7 +12,7 @@ aliases = ["/56/"]
 
 ## Constraints
 
-- Diagonal
+{{< constraint-links >}}
 
 ## Video
 

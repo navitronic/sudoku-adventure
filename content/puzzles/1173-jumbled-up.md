@@ -12,8 +12,7 @@ aliases = ["/1173/"]
 
 ## Constraints
 
-- Killer Cages
-- Dynamic Fog
+{{< constraint-links >}}
 
 ## Video
 

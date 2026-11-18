@@ -12,8 +12,7 @@ aliases = ["/1084/"]
 
 ## Constraints
 
-- Kropki Pairs
-- Extra Regions
+{{< constraint-links >}}
 
 ## Video
 

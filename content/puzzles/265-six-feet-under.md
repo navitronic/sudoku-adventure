@@ -12,8 +12,7 @@ aliases = ["/265/"]
 
 ## Constraints
 
-- Search Six
-- Killer Cages
+{{< constraint-links >}}
 
 ## Video
 

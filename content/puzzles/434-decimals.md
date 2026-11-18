@@ -12,8 +12,7 @@ aliases = ["/434/"]
 
 ## Constraints
 
-- Counting Circles
-- Between Lines
+{{< constraint-links >}}
 
 ## Video
 

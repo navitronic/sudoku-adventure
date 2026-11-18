@@ -12,10 +12,7 @@ aliases = ["/242/"]
 
 ## Constraints
 
-- Renban Lines
-- Kropki Pairs
-- X-Sums
-- Other
+{{< constraint-links >}}
 
 ## Video
 

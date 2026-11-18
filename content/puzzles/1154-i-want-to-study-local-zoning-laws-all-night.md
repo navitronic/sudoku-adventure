@@ -12,7 +12,7 @@ aliases = ["/1154/"]
 
 ## Constraints
 
-- Other
+{{< constraint-links >}}
 
 ## Video
 

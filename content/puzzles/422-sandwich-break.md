@@ -12,8 +12,7 @@ aliases = ["/422/"]
 
 ## Constraints
 
-- Fortress
-- Renban Lines
+{{< constraint-links >}}
 
 ## Video
 

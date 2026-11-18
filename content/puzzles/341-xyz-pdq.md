@@ -12,9 +12,7 @@ aliases = ["/341/"]
 
 ## Constraints
 
-- Zipper Lines
-- Variant
-- Thermometers
+{{< constraint-links >}}
 
 ## Video
 

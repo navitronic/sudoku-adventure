@@ -12,8 +12,7 @@ aliases = ["/1061/"]
 
 ## Constraints
 
-- Indexing
-- Kropki Pairs
+{{< constraint-links >}}
 
 ## Video
 

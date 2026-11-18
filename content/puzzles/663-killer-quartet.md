@@ -12,8 +12,7 @@ aliases = ["/663/"]
 
 ## Constraints
 
-- Killer Cages
-- Quadruples
+{{< constraint-links >}}
 
 ## Video
 

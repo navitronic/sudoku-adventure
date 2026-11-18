@@ -12,8 +12,7 @@ aliases = ["/406/"]
 
 ## Constraints
 
-- Little Killer
-- Zipper Lines
+{{< constraint-links >}}
 
 ## Video
 

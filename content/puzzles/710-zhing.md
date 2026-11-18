@@ -12,8 +12,7 @@ aliases = ["/710/"]
 
 ## Constraints
 
-- Arrows
-- Kropki Pairs
+{{< constraint-links >}}
 
 ## Video
 

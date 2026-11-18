@@ -12,9 +12,7 @@ aliases = ["/701/"]
 
 ## Constraints
 
-- XV
-- Kropki Pairs
-- Dynamic Fog
+{{< constraint-links >}}
 
 ## Video
 

@@ -12,8 +12,7 @@ aliases = ["/813/"]
 
 ## Constraints
 
-- Counting Circles
-- Clones
+{{< constraint-links >}}
 
 ## Video
 

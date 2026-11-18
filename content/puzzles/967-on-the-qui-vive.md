@@ -12,8 +12,7 @@ aliases = ["/967/"]
 
 ## Constraints
 
-- German Whispers
-- Other
+{{< constraint-links >}}
 
 ## Video
 

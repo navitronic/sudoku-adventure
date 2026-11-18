@@ -12,7 +12,7 @@ aliases = ["/974/"]
 
 ## Constraints
 
-- Black Kropki Neg Constraint
+{{< constraint-links >}}
 
 ## Video
 

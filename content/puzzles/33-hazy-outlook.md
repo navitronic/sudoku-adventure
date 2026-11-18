@@ -12,8 +12,7 @@ aliases = ["/33/"]
 
 ## Constraints
 
-- Fog of War
-- Thermometers
+{{< constraint-links >}}
 
 ## Video
 

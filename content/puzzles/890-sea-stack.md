@@ -12,9 +12,7 @@ aliases = ["/890/"]
 
 ## Constraints
 
-- Killer Cages
-- Kropki Pairs
-- Variant
+{{< constraint-links >}}
 
 ## Video
 

@@ -12,8 +12,7 @@ aliases = ["/1050/"]
 
 ## Constraints
 
-- German Whispers
-- Quadruples
+{{< constraint-links >}}
 
 ## Video
 

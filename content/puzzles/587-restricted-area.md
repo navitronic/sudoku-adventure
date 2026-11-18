@@ -12,8 +12,7 @@ aliases = ["/587/"]
 
 ## Constraints
 
-- Numbered Rooms
-- Entropic Lines
+{{< constraint-links >}}
 
 ## Video
 

@@ -12,7 +12,7 @@ aliases = ["/1127/"]
 
 ## Constraints
 
-- Killer lines
+{{< constraint-links >}}
 
 ## Video
 

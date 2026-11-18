@@ -12,9 +12,7 @@ aliases = ["/832/"]
 
 ## Constraints
 
-- Mean Mini
-- Sandwich Sums
-- Arrows
+{{< constraint-links >}}
 
 ## Video
 

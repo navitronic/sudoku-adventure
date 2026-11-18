@@ -12,8 +12,7 @@ aliases = ["/1194/"]
 
 ## Constraints
 
-- Sum lines
-- Yin Yang
+{{< constraint-links >}}
 
 ## Video
 

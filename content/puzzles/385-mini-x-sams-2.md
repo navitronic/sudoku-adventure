@@ -12,8 +12,7 @@ aliases = ["/385/"]
 
 ## Constraints
 
-- X-Sums
-- Sandwich Sums
+{{< constraint-links >}}
 
 ## Video
 

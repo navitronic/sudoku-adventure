@@ -12,8 +12,7 @@ aliases = ["/1187/"]
 
 ## Constraints
 
-- German Whispers
-- Yin Yang
+{{< constraint-links >}}
 
 ## Video
 

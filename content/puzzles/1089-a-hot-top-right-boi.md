@@ -12,8 +12,7 @@ aliases = ["/1089/"]
 
 ## Constraints
 
-- Slow Thermometers
-- Extra Regions
+{{< constraint-links >}}
 
 ## Video
 

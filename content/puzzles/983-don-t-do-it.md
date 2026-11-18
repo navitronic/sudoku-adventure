@@ -12,8 +12,7 @@ aliases = ["/983/"]
 
 ## Constraints
 
-- Anti-Quadruples
-- Nabner Lines
+{{< constraint-links >}}
 
 ## Video
 

@@ -12,8 +12,7 @@ aliases = ["/412/"]
 
 ## Constraints
 
-- Anti-Knight
-- Zipper Lines
+{{< constraint-links >}}
 
 ## Video
 

@@ -12,8 +12,7 @@ aliases = ["/620/"]
 
 ## Constraints
 
-- Nabner Lines
-- Kropki Pairs
+{{< constraint-links >}}
 
 ## Video
 

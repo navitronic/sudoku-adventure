@@ -12,9 +12,7 @@ aliases = ["/1063/"]
 
 ## Constraints
 
-- Little Killer
-- Sandwich Sums
-- Look-and-Say Cages
+{{< constraint-links >}}
 
 ## Video
 

@@ -12,9 +12,7 @@ aliases = ["/966/"]
 
 ## Constraints
 
-- Parity Mirror
-- XV
-- Kropki Pairs
+{{< constraint-links >}}
 
 ## Video
 

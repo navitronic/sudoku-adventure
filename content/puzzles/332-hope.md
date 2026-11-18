@@ -12,9 +12,7 @@ aliases = ["/332/"]
 
 ## Constraints
 
-- Region Sum Lines
-- German Whispers
-- Entropic Lines
+{{< constraint-links >}}
 
 ## Video
 

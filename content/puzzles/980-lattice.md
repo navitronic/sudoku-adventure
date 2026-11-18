@@ -12,9 +12,7 @@ aliases = ["/980/"]
 
 ## Constraints
 
-- Parity Lines
-- German Whispers
-- Kropki Pairs
+{{< constraint-links >}}
 
 ## Video
 

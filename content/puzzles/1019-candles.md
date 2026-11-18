@@ -12,8 +12,7 @@ aliases = ["/1019/"]
 
 ## Constraints
 
-- Parity Lines
-- Killer Cages
+{{< constraint-links >}}
 
 ## Video
 

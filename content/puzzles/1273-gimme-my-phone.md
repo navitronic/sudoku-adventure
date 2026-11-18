@@ -12,7 +12,7 @@ aliases = ["/1273/"]
 
 ## Constraints
 
-- Chinese Whispers
+{{< constraint-links >}}
 
 ## Video
 

@@ -12,8 +12,7 @@ aliases = ["/14/"]
 
 ## Constraints
 
-- Irregular
-- Arrows
+{{< constraint-links >}}
 
 ## Video
 

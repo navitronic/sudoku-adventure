@@ -12,8 +12,7 @@ aliases = ["/1279/"]
 
 ## Constraints
 
-- Thermometers
-- Entropic Lines
+{{< constraint-links >}}
 
 ## Video
 

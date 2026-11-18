@@ -12,9 +12,7 @@ aliases = ["/1062/"]
 
 ## Constraints
 
-- Killer Cages
-- Dutch Whispers
-- Other
+{{< constraint-links >}}
 
 ## Video
 

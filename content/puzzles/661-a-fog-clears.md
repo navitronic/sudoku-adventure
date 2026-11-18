@@ -12,10 +12,7 @@ aliases = ["/661/"]
 
 ## Constraints
 
-- Fog of War
-- X-Sums
-- XV
-- Kropki Pairs
+{{< constraint-links >}}
 
 ## Video
 

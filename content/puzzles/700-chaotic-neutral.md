@@ -12,8 +12,7 @@ aliases = ["/700/"]
 
 ## Constraints
 
-- Chaos Construction
-- Region Sum Lines
+{{< constraint-links >}}
 
 ## Video
 

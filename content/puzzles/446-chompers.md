@@ -12,8 +12,7 @@ aliases = ["/446/"]
 
 ## Constraints
 
-- Thermometers
-- Look-and-Say Cages
+{{< constraint-links >}}
 
 ## Video
 

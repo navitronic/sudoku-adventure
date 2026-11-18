@@ -12,8 +12,7 @@ aliases = ["/1174/"]
 
 ## Constraints
 
-- Doublers
-- XV
+{{< constraint-links >}}
 
 ## Video
 

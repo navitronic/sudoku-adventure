@@ -12,8 +12,7 @@ aliases = ["/481/"]
 
 ## Constraints
 
-- Arrows
-- Parity Diamonds
+{{< constraint-links >}}
 
 ## Video
 

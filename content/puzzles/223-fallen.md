@@ -12,8 +12,7 @@ aliases = ["/223/"]
 
 ## Constraints
 
-- Chinese Whispers
-- XV
+{{< constraint-links >}}
 
 ## Video
 

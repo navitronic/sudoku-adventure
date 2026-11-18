@@ -12,9 +12,7 @@ aliases = ["/633/"]
 
 ## Constraints
 
-- XV
-- Fog of War
-- Other
+{{< constraint-links >}}
 
 ## Video
 

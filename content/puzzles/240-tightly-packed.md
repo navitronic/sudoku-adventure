@@ -12,9 +12,7 @@ aliases = ["/240/"]
 
 ## Constraints
 
-- Arrows
-- Anti-Knight
-- Even/Odd
+{{< constraint-links >}}
 
 ## Video
 

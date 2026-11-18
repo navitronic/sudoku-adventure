@@ -12,8 +12,7 @@ aliases = ["/598/"]
 
 ## Constraints
 
-- Sandwich Sums
-- Skyscrapers
+{{< constraint-links >}}
 
 ## Video
 

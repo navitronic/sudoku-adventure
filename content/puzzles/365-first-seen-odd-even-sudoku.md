@@ -12,7 +12,7 @@ aliases = ["/365/"]
 
 ## Constraints
 
-- Other
+{{< constraint-links >}}
 
 ## Video
 

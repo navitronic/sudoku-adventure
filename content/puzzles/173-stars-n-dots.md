@@ -12,9 +12,7 @@ aliases = ["/173/"]
 
 ## Constraints
 
-- Irregular
-- Star Battle
-- Kropki Pairs
+{{< constraint-links >}}
 
 ## Video
 

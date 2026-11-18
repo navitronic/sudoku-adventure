@@ -12,9 +12,7 @@ aliases = ["/367/"]
 
 ## Constraints
 
-- Clones
-- X-Sums
-- Other
+{{< constraint-links >}}
 
 ## Video
 

@@ -12,8 +12,7 @@ aliases = ["/420/"]
 
 ## Constraints
 
-- Thermometers
-- Extra Regions
+{{< constraint-links >}}
 
 ## Video
 

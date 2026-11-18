@@ -12,10 +12,7 @@ aliases = ["/614/"]
 
 ## Constraints
 
-- Chaos Construction
-- Fog of War
-- Killer Cages
-- Other
+{{< constraint-links >}}
 
 ## Video
 

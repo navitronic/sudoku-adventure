@@ -12,8 +12,7 @@ aliases = ["/883/"]
 
 ## Constraints
 
-- Modular Lines
-- Numbered Rooms
+{{< constraint-links >}}
 
 ## Video
 

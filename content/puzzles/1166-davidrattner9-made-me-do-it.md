@@ -12,8 +12,7 @@ aliases = ["/1166/"]
 
 ## Constraints
 
-- Lockout Lines
-- Ten Lines
+{{< constraint-links >}}
 
 ## Video
 

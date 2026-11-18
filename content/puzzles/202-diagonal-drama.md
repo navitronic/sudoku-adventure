@@ -12,8 +12,7 @@ aliases = ["/202/"]
 
 ## Constraints
 
-- Arrows
-- Diagonal
+{{< constraint-links >}}
 
 ## Video
 

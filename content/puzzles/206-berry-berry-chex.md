@@ -12,7 +12,7 @@ aliases = ["/206/"]
 
 ## Constraints
 
-- Indexing
+{{< constraint-links >}}
 
 ## Video
 

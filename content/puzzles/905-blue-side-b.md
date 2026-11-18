@@ -12,8 +12,7 @@ aliases = ["/905/"]
 
 ## Constraints
 
-- Region Sum Lines
-- Kropki Pairs
+{{< constraint-links >}}
 
 ## Video
 

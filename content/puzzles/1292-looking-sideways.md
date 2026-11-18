@@ -12,9 +12,7 @@ aliases = ["/1292/"]
 
 ## Constraints
 
-- Nonconsecutive
-- Little Killer
-- Irregular
+{{< constraint-links >}}
 
 ## Video
 

@@ -12,8 +12,7 @@ aliases = ["/130/"]
 
 ## Constraints
 
-- Arrows
-- Variant
+{{< constraint-links >}}
 
 ## Video
 

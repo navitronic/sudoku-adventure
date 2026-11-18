@@ -12,8 +12,7 @@ aliases = ["/1247/"]
 
 ## Constraints
 
-- German Whispers
-- Nabner Lines
+{{< constraint-links >}}
 
 ## Video
 

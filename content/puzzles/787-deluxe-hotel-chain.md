@@ -12,8 +12,7 @@ aliases = ["/787/"]
 
 ## Constraints
 
-- Little Killer
-- Modular Lines
+{{< constraint-links >}}
 
 ## Video
 

@@ -12,7 +12,7 @@ aliases = ["/1059/"]
 
 ## Constraints
 
-- Pole Position
+{{< constraint-links >}}
 
 ## Video
 

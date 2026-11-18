@@ -12,8 +12,7 @@ aliases = ["/1002/"]
 
 ## Constraints
 
-- Renban Lines
-- Kropki Pairs
+{{< constraint-links >}}
 
 ## Video
 

@@ -12,8 +12,7 @@ aliases = ["/1162/"]
 
 ## Constraints
 
-- Numbered Rooms
-- Renban Lines
+{{< constraint-links >}}
 
 ## Video
 

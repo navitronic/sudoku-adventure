@@ -12,8 +12,7 @@ aliases = ["/708/"]
 
 ## Constraints
 
-- Arrows
-- Entropic Lines
+{{< constraint-links >}}
 
 ## Video
 

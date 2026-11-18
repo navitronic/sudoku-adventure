@@ -12,9 +12,7 @@ aliases = ["/901/"]
 
 ## Constraints
 
-- Irregular
-- Entropic Lines
-- Even/Odd
+{{< constraint-links >}}
 
 ## Video
 

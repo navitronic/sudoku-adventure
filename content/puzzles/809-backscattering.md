@@ -12,8 +12,7 @@ aliases = ["/809/"]
 
 ## Constraints
 
-- Search Six
-- Other
+{{< constraint-links >}}
 
 ## Video
 

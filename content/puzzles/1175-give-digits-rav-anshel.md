@@ -12,8 +12,7 @@ aliases = ["/1175/"]
 
 ## Constraints
 
-- German Whispers
-- Dynamic Fog
+{{< constraint-links >}}
 
 ## Video
 

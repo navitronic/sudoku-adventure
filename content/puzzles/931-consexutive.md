@@ -12,8 +12,7 @@ aliases = ["/931/"]
 
 ## Constraints
 
-- X-Sums
-- Kropki Pairs
+{{< constraint-links >}}
 
 ## Video
 

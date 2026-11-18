@@ -12,8 +12,7 @@ aliases = ["/991/"]
 
 ## Constraints
 
-- Palindrome Lines
-- Other
+{{< constraint-links >}}
 
 ## Video
 

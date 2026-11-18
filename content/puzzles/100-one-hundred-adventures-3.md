@@ -11,8 +11,7 @@ puzzle_url = "https://sudokupad.app/adventure/100-arrow"
 
 ## Constraints
 
-- Arrows
-- Even/Odd
+{{< constraint-links >}}
 
 ## Video
 

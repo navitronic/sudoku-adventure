@@ -12,8 +12,7 @@ aliases = ["/745/"]
 
 ## Constraints
 
-- Between Lines
-- Thermometers
+{{< constraint-links >}}
 
 ## Video
 

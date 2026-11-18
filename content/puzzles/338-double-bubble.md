@@ -12,9 +12,7 @@ aliases = ["/338/"]
 
 ## Constraints
 
-- Kropki Pairs
-- Doublers
-- Sweeper Clues
+{{< constraint-links >}}
 
 ## Video
 

@@ -12,8 +12,7 @@ aliases = ["/155/"]
 
 ## Constraints
 
-- Thermometers
-- Anti-Knight
+{{< constraint-links >}}
 
 ## Video
 

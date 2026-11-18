@@ -12,7 +12,7 @@ aliases = ["/543/"]
 
 ## Constraints
 
-- Thermometers
+{{< constraint-links >}}
 
 ## Video
 

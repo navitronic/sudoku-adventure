@@ -12,8 +12,7 @@ aliases = ["/1047/"]
 
 ## Constraints
 
-- Palindrome Lines
-- Numbered Rooms
+{{< constraint-links >}}
 
 ## Video
 

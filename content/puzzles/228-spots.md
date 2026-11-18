@@ -12,7 +12,7 @@ aliases = ["/228/"]
 
 ## Constraints
 
-- Kropki Pairs
+{{< constraint-links >}}
 
 ## Video
 

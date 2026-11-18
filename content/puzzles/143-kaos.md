@@ -12,10 +12,7 @@ aliases = ["/143/"]
 
 ## Constraints
 
-- Chaos Construction
-- Killer Cages
-- Variant
-- Other
+{{< constraint-links >}}
 
 ## Video
 

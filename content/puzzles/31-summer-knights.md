@@ -12,8 +12,7 @@ aliases = ["/31/"]
 
 ## Constraints
 
-- Palindrome Lines
-- Anti-Knight
+{{< constraint-links >}}
 
 ## Video
 

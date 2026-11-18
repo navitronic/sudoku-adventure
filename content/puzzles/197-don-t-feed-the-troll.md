@@ -12,9 +12,7 @@ aliases = ["/197/"]
 
 ## Constraints
 
-- Irregular
-- Kropki Pairs
-- Palindrome Lines
+{{< constraint-links >}}
 
 ## Video
 

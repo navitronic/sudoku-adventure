@@ -12,9 +12,7 @@ aliases = ["/653/"]
 
 ## Constraints
 
-- Renban Lines
-- Zipper Lines
-- Other
+{{< constraint-links >}}
 
 ## Video
 

@@ -12,8 +12,7 @@ aliases = ["/284/"]
 
 ## Constraints
 
-- Doublers
-- Look-and-Say Cages
+{{< constraint-links >}}
 
 ## Video
 

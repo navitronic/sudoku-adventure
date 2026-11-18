@@ -12,8 +12,7 @@ aliases = ["/578/"]
 
 ## Constraints
 
-- Renban Lines
-- Double Arrows
+{{< constraint-links >}}
 
 ## Video
 

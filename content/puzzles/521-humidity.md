@@ -12,9 +12,7 @@ aliases = ["/521/"]
 
 ## Constraints
 
-- Fog of War
-- Thermometers
-- Variant
+{{< constraint-links >}}
 
 ## Video
 

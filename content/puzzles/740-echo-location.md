@@ -12,9 +12,7 @@ aliases = ["/740/"]
 
 ## Constraints
 
-- Dynamic Fog
-- Killer Cages
-- Renban Lines
+{{< constraint-links >}}
 
 ## Video
 

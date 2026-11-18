@@ -12,8 +12,7 @@ aliases = ["/805/"]
 
 ## Constraints
 
-- Thermometers
-- Diagonal
+{{< constraint-links >}}
 
 ## Video
 

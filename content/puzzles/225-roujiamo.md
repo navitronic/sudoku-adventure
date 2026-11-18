@@ -12,8 +12,7 @@ aliases = ["/225/"]
 
 ## Constraints
 
-- Chinese Whispers
-- Sandwich Sums
+{{< constraint-links >}}
 
 ## Video
 

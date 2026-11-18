@@ -12,9 +12,7 @@ aliases = ["/815/"]
 
 ## Constraints
 
-- Other
-- German Whispers
-- Variant
+{{< constraint-links >}}
 
 ## Video
 

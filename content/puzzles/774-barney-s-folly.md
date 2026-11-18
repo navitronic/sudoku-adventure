@@ -12,9 +12,7 @@ aliases = ["/774/"]
 
 ## Constraints
 
-- Chaos Construction
-- Renban Lines
-- Kropki Pairs
+{{< constraint-links >}}
 
 ## Video
 

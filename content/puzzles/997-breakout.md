@@ -12,8 +12,7 @@ aliases = ["/997/"]
 
 ## Constraints
 
-- Palindrome Lines
-- Arrows
+{{< constraint-links >}}
 
 ## Video
 

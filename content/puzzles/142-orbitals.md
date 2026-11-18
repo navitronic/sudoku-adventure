@@ -12,8 +12,7 @@ aliases = ["/142/"]
 
 ## Constraints
 
-- Parity Lines
-- Sweeper Clues
+{{< constraint-links >}}
 
 ## Video
 

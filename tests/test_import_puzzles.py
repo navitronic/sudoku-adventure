@@ -35,6 +35,7 @@ class ImportTests(unittest.TestCase):
         self.assertIn('title = "Puzzle #1 - Which Way? by Alice"', post)
         self.assertIn('aliases = ["/1/"]', post)
         self.assertIn('constraints = ["Killer Cages", "Palindrome Lines"]', post)
+        self.assertIn("{{< constraint-links >}}", post)
         self.assertIn('setters = ["Alice"]', post)
         self.assertIn('puzzle_url = "https://sudokupad.app/adventure/1"', post)
         self.assertIn("**[Play this puzzle on SudokuPad](https://sudokupad.app/adventure/1)**", post)
@@ -72,7 +73,7 @@ class ImportTests(unittest.TestCase):
         data["Constraints"] = "German Whisper, Whispers, Chinese Whispers"
         post = importer.post(data, "2023-01-18T12:27:22-08:00", "1-which-way")
         self.assertIn('constraints = ["German Whispers", "Chinese Whispers"]', post)
-        self.assertIn("- German Whispers\n- Chinese Whispers", post)
+        self.assertIn("{{< constraint-links >}}", post)
 
     def test_setter_alias_keeps_original_title(self):
         self.sheet([("1", "Which Way?")])

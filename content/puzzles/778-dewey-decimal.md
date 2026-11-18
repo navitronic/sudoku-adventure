@@ -12,8 +12,7 @@ aliases = ["/778/"]
 
 ## Constraints
 
-- Search Six
-- Clones
+{{< constraint-links >}}
 
 ## Video
 

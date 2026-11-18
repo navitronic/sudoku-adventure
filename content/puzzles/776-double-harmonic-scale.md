@@ -12,10 +12,7 @@ aliases = ["/776/"]
 
 ## Constraints
 
-- Arrows
-- Doublers
-- Variant
-- Other
+{{< constraint-links >}}
 
 ## Video
 

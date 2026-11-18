@@ -12,8 +12,7 @@ aliases = ["/495/"]
 
 ## Constraints
 
-- Thermometers
-- Renban Lines
+{{< constraint-links >}}
 
 ## Video
 

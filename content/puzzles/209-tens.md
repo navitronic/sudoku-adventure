@@ -12,7 +12,7 @@ aliases = ["/209/"]
 
 ## Constraints
 
-- Ten Lines
+{{< constraint-links >}}
 
 ## Video
 

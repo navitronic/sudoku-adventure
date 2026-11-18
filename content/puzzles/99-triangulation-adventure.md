@@ -12,8 +12,7 @@ aliases = ["/99/"]
 
 ## Constraints
 
-- Irregular
-- Inequality
+{{< constraint-links >}}
 
 ## Video
 

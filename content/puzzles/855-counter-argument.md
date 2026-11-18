@@ -12,7 +12,7 @@ aliases = ["/855/"]
 
 ## Constraints
 
-- Entropic Lines
+{{< constraint-links >}}
 
 ## Video
 

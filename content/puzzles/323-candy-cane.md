@@ -12,8 +12,7 @@ aliases = ["/323/"]
 
 ## Constraints
 
-- Ten Lines
-- Variant
+{{< constraint-links >}}
 
 ## Video
 

@@ -12,8 +12,7 @@ aliases = ["/442/"]
 
 ## Constraints
 
-- Chaos Construction
-- Other
+{{< constraint-links >}}
 
 ## Video
 

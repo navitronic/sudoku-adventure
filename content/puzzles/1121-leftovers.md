@@ -12,9 +12,7 @@ aliases = ["/1121/"]
 
 ## Constraints
 
-- Other
-- Region Sum Lines
-- Irregular
+{{< constraint-links >}}
 
 ## Video
 

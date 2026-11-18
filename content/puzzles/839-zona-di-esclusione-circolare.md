@@ -12,8 +12,7 @@ aliases = ["/839/"]
 
 ## Constraints
 
-- Counting Circles
-- Nonconsecutive
+{{< constraint-links >}}
 
 ## Video
 

@@ -12,8 +12,7 @@ aliases = ["/250/"]
 
 ## Constraints
 
-- Quadruples
-- Region Sum Lines
+{{< constraint-links >}}
 
 ## Video
 

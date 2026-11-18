@@ -12,9 +12,7 @@ aliases = ["/885/"]
 
 ## Constraints
 
-- Modular Lines
-- Entropic Lines
-- XV
+{{< constraint-links >}}
 
 ## Video
 

@@ -12,8 +12,7 @@ aliases = ["/1202/"]
 
 ## Constraints
 
-- Irregular
-- Chaos Construction
+{{< constraint-links >}}
 
 ## Video
 

@@ -12,9 +12,7 @@ aliases = ["/213/"]
 
 ## Constraints
 
-- Nabner Lines
-- Quadruples
-- Even/Odd
+{{< constraint-links >}}
 
 ## Video
 

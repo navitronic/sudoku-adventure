@@ -12,8 +12,7 @@ aliases = ["/105/"]
 
 ## Constraints
 
-- X-Sums
-- Variant
+{{< constraint-links >}}
 
 ## Video
 

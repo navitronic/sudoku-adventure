@@ -12,9 +12,7 @@ aliases = ["/1117/"]
 
 ## Constraints
 
-- Anti-King
-- Even/Odd
-- Thermometers
+{{< constraint-links >}}
 
 ## Video
 

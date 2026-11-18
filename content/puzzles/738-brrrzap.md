@@ -12,8 +12,7 @@ aliases = ["/738/"]
 
 ## Constraints
 
-- German Whispers
-- Counting Circles
+{{< constraint-links >}}
 
 ## Video
 

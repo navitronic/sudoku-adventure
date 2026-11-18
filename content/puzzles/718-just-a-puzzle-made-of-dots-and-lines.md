@@ -12,9 +12,7 @@ aliases = ["/718/"]
 
 ## Constraints
 
-- Irregular
-- German Whispers
-- Kropki Pairs
+{{< constraint-links >}}
 
 ## Video
 

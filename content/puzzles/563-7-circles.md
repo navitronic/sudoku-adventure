@@ -12,8 +12,7 @@ aliases = ["/563/"]
 
 ## Constraints
 
-- Counting Circles
-- Double Arrows
+{{< constraint-links >}}
 
 ## Video
 

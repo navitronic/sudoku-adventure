@@ -12,8 +12,7 @@ aliases = ["/759/"]
 
 ## Constraints
 
-- Renban Lines
-- Killer Cages
+{{< constraint-links >}}
 
 ## Video
 

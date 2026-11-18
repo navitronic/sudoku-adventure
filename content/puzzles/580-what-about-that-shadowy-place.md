@@ -12,10 +12,7 @@ aliases = ["/580/"]
 
 ## Constraints
 
-- Fog of War
-- Chaos Construction
-- Kropki Pairs
-- Variant
+{{< constraint-links >}}
 
 ## Video
 

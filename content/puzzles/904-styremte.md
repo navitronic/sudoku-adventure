@@ -12,8 +12,7 @@ aliases = ["/904/"]
 
 ## Constraints
 
-- Quadruples
-- Skyscrapers
+{{< constraint-links >}}
 
 ## Video
 

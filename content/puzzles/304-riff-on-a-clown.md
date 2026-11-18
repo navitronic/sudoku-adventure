@@ -12,10 +12,7 @@ aliases = ["/304/"]
 
 ## Constraints
 
-- Palindrome Lines
-- Kropki Pairs
-- Quadruples
-- Even/Odd
+{{< constraint-links >}}
 
 ## Video
 

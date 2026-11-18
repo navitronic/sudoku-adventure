@@ -12,8 +12,7 @@ aliases = ["/879/"]
 
 ## Constraints
 
-- Kropki Pairs
-- Even/Odd
+{{< constraint-links >}}
 
 ## Video
 

@@ -12,7 +12,7 @@ aliases = ["/20/"]
 
 ## Constraints
 
-- Skyscrapers
+{{< constraint-links >}}
 
 ## Video
 

@@ -12,8 +12,7 @@ aliases = ["/589/"]
 
 ## Constraints
 
-- Numbered Rooms
-- Counting Circles
+{{< constraint-links >}}
 
 ## Video
 

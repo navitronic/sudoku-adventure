@@ -12,8 +12,7 @@ aliases = ["/869/"]
 
 ## Constraints
 
-- Arrows
-- Little Killer
+{{< constraint-links >}}
 
 ## Video
 

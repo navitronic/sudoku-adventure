@@ -12,9 +12,7 @@ aliases = ["/611/"]
 
 ## Constraints
 
-- Chaos Construction
-- Other
-- Extra Regions
+{{< constraint-links >}}
 
 ## Video
 

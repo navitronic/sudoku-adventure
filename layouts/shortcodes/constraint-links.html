@@ -1,0 +1,7 @@
+{{ with .Page.GetTerms "constraints" }}
+<ul>
+  {{ range . }}<li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>{{ end }}
+</ul>
+{{ else }}
+<p>No constraints listed.</p>
+{{ end }}

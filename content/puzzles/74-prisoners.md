@@ -12,9 +12,7 @@ aliases = ["/74/"]
 
 ## Constraints
 
-- Palindrome Lines
-- Killer Cages
-- Variant
+{{< constraint-links >}}
 
 ## Video
 

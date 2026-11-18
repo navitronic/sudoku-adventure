@@ -12,8 +12,7 @@ aliases = ["/115/"]
 
 ## Constraints
 
-- German Whispers
-- Arrows
+{{< constraint-links >}}
 
 ## Video
 

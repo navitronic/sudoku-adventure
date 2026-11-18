@@ -12,8 +12,7 @@ aliases = ["/488/"]
 
 ## Constraints
 
-- Kropki Pairs
-- Quadruples
+{{< constraint-links >}}
 
 ## Video
 

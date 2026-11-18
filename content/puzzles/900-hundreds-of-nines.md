@@ -12,8 +12,7 @@ aliases = ["/900/"]
 
 ## Constraints
 
-- Killer Cages
-- German Whispers
+{{< constraint-links >}}
 
 ## Video
 

@@ -12,7 +12,7 @@ aliases = ["/175/"]
 
 ## Constraints
 
-- Other
+{{< constraint-links >}}
 
 ## Video
 

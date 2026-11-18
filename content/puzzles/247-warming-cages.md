@@ -12,8 +12,7 @@ aliases = ["/247/"]
 
 ## Constraints
 
-- Killer Cages
-- Thermometers
+{{< constraint-links >}}
 
 ## Video
 

@@ -12,9 +12,7 @@ aliases = ["/233/"]
 
 ## Constraints
 
-- Quadruples
-- Sandwich Sums
-- Variant
+{{< constraint-links >}}
 
 ## Video
 

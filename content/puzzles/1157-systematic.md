@@ -12,8 +12,7 @@ aliases = ["/1157/"]
 
 ## Constraints
 
-- Region Sum Lines
-- German Whispers
+{{< constraint-links >}}
 
 ## Video
 

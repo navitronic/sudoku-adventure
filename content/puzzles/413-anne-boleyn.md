@@ -12,9 +12,7 @@ aliases = ["/413/"]
 
 ## Constraints
 
-- Killer Cages
-- German Whispers
-- Entropic Lines
+{{< constraint-links >}}
 
 ## Video
 

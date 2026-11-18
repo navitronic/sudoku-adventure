@@ -12,8 +12,7 @@ aliases = ["/1361/"]
 
 ## Constraints
 
-- Little Killer
-- Sandwich Sums
+{{< constraint-links >}}
 
 ## Video
 

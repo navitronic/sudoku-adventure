@@ -12,8 +12,7 @@ aliases = ["/908/"]
 
 ## Constraints
 
-- Counting Circles
-- X-Sums
+{{< constraint-links >}}
 
 ## Video
 

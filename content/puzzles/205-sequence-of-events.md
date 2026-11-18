@@ -12,7 +12,7 @@ aliases = ["/205/"]
 
 ## Constraints
 
-- Sequence Lines
+{{< constraint-links >}}
 
 ## Video
 

@@ -12,8 +12,7 @@ aliases = ["/672/"]
 
 ## Constraints
 
-- Quadruples
-- Clones
+{{< constraint-links >}}
 
 ## Video
 

@@ -12,9 +12,7 @@ aliases = ["/182/"]
 
 ## Constraints
 
-- X-Sums
-- Sandwich Sums
-- Variant
+{{< constraint-links >}}
 
 ## Video
 

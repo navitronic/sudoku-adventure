@@ -12,8 +12,7 @@ aliases = ["/1190/"]
 
 ## Constraints
 
-- Chaos Construction
-- Arrows
+{{< constraint-links >}}
 
 ## Video
 

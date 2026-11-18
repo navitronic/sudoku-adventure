@@ -12,8 +12,7 @@ aliases = ["/907/"]
 
 ## Constraints
 
-- Kropki Pairs
-- Sequence Lines
+{{< constraint-links >}}
 
 ## Video
 

@@ -12,8 +12,7 @@ aliases = ["/110/"]
 
 ## Constraints
 
-- Diagonal
-- Disjoint
+{{< constraint-links >}}
 
 ## Video
 

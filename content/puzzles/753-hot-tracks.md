@@ -12,10 +12,7 @@ aliases = ["/753/"]
 
 ## Constraints
 
-- Doublers
-- Variant
-- Killer Cages
-- Other
+{{< constraint-links >}}
 
 ## Video
 

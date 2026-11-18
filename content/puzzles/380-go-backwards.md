@@ -12,8 +12,7 @@ aliases = ["/380/"]
 
 ## Constraints
 
-- Fortress
-- Palindrome Lines
+{{< constraint-links >}}
 
 ## Video
 

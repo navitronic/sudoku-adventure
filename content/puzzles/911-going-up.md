@@ -12,8 +12,7 @@ aliases = ["/911/"]
 
 ## Constraints
 
-- Thermometers
-- Skyscrapers
+{{< constraint-links >}}
 
 ## Video
 

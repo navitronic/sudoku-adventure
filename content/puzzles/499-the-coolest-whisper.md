@@ -12,8 +12,7 @@ aliases = ["/499/"]
 
 ## Constraints
 
-- Thermometers
-- German Whispers
+{{< constraint-links >}}
 
 ## Video
 

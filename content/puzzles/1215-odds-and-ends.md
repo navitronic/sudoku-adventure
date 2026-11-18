@@ -12,8 +12,7 @@ aliases = ["/1215/"]
 
 ## Constraints
 
-- Double Arrows
-- Even/Odd
+{{< constraint-links >}}
 
 ## Video
 

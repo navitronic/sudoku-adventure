@@ -12,8 +12,7 @@ aliases = ["/194/"]
 
 ## Constraints
 
-- Extra Regions
-- Variant
+{{< constraint-links >}}
 
 ## Video
 

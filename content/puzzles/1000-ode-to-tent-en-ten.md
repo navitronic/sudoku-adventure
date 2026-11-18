@@ -12,7 +12,7 @@ aliases = ["/1000/"]
 
 ## Constraints
 
-- Ten Lines
+{{< constraint-links >}}
 
 ## Video
 

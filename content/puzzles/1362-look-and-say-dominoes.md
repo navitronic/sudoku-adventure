@@ -12,8 +12,7 @@ aliases = ["/1362/"]
 
 ## Constraints
 
-- Look-and-Say Cages
-- Kropki Pairs
+{{< constraint-links >}}
 
 ## Video
 

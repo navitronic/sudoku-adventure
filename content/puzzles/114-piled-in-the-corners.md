@@ -12,7 +12,7 @@ aliases = ["/114/"]
 
 ## Constraints
 
-- Little Killer
+{{< constraint-links >}}
 
 ## Video
 

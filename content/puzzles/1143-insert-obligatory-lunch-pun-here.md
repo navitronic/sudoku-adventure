@@ -12,8 +12,7 @@ aliases = ["/1143/"]
 
 ## Constraints
 
-- Sandwich Sums
-- Nabner Lines
+{{< constraint-links >}}
 
 ## Video
 

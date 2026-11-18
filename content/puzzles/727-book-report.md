@@ -12,8 +12,7 @@ aliases = ["/727/"]
 
 ## Constraints
 
-- Indexing
-- Other
+{{< constraint-links >}}
 
 ## Video
 

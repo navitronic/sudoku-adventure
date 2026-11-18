@@ -12,8 +12,7 @@ aliases = ["/437/"]
 
 ## Constraints
 
-- Quadruples
-- Clones
+{{< constraint-links >}}
 
 ## Video
 

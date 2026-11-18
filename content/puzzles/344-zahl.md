@@ -12,8 +12,7 @@ aliases = ["/344/"]
 
 ## Constraints
 
-- Zipper Lines
-- Quadruples
+{{< constraint-links >}}
 
 ## Video
 

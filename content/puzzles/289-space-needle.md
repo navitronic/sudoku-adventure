@@ -12,8 +12,7 @@ aliases = ["/289/"]
 
 ## Constraints
 
-- Skyscrapers
-- Doublers
+{{< constraint-links >}}
 
 ## Video
 

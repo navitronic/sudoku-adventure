@@ -12,7 +12,7 @@ aliases = ["/79/"]
 
 ## Constraints
 
-- Anti-Knight
+{{< constraint-links >}}
 
 ## Video
 

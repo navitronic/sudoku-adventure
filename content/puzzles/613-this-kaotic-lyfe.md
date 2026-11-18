@@ -12,9 +12,7 @@ aliases = ["/613/"]
 
 ## Constraints
 
-- Chaos Construction
-- German Whispers
-- Other
+{{< constraint-links >}}
 
 ## Video
 

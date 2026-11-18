@@ -12,8 +12,7 @@ aliases = ["/659/"]
 
 ## Constraints
 
-- Clones
-- Thermometers
+{{< constraint-links >}}
 
 ## Video
 

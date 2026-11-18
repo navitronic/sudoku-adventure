@@ -12,8 +12,7 @@ aliases = ["/581/"]
 
 ## Constraints
 
-- Sandwich Sums
-- Fog of War
+{{< constraint-links >}}
 
 ## Video
 

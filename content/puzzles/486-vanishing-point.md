@@ -12,8 +12,7 @@ aliases = ["/486/"]
 
 ## Constraints
 
-- Irregular
-- Nabner Lines
+{{< constraint-links >}}
 
 ## Video
 

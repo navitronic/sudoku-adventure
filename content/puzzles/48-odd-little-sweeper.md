@@ -12,9 +12,7 @@ aliases = ["/48/"]
 
 ## Constraints
 
-- Sweeper Clues
-- Variant
-- Inequality
+{{< constraint-links >}}
 
 ## Video
 

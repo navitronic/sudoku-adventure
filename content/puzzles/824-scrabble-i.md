@@ -12,8 +12,7 @@ aliases = ["/824/"]
 
 ## Constraints
 
-- Thermometers
-- X-Sums
+{{< constraint-links >}}
 
 ## Video
 

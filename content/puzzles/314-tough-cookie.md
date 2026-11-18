@@ -12,9 +12,7 @@ aliases = ["/314/"]
 
 ## Constraints
 
-- Parity Lines
-- Quadruples
-- Kropki Pairs
+{{< constraint-links >}}
 
 ## Video
 

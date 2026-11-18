@@ -12,8 +12,7 @@ aliases = ["/216/"]
 
 ## Constraints
 
-- Parity Lines
-- Thermometers
+{{< constraint-links >}}
 
 ## Video
 

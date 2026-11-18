@@ -12,8 +12,7 @@ aliases = ["/388/"]
 
 ## Constraints
 
-- Other
-- Indexing
+{{< constraint-links >}}
 
 ## Video
 

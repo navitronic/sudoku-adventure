@@ -12,8 +12,7 @@ aliases = ["/840/"]
 
 ## Constraints
 
-- Palindrome Lines
-- Little Killer
+{{< constraint-links >}}
 
 ## Video
 

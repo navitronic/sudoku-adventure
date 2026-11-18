@@ -12,8 +12,7 @@ aliases = ["/306/"]
 
 ## Constraints
 
-- Irregular
-- Star Battle
+{{< constraint-links >}}
 
 ## Video
 

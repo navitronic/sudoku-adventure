@@ -12,9 +12,7 @@ aliases = ["/676/"]
 
 ## Constraints
 
-- Kropki Pairs
-- Quadruples
-- Renban Lines
+{{< constraint-links >}}
 
 ## Video
 

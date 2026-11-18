@@ -12,9 +12,7 @@ aliases = ["/725/"]
 
 ## Constraints
 
-- Double Arrows
-- Between Lines
-- Other
+{{< constraint-links >}}
 
 ## Video
 

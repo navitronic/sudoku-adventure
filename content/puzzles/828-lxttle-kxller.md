@@ -12,8 +12,7 @@ aliases = ["/828/"]
 
 ## Constraints
 
-- Little Killer
-- X-Sums
+{{< constraint-links >}}
 
 ## Video
 

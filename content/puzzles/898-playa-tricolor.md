@@ -12,8 +12,7 @@ aliases = ["/898/"]
 
 ## Constraints
 
-- Entropic Lines
-- Variant
+{{< constraint-links >}}
 
 ## Video
 

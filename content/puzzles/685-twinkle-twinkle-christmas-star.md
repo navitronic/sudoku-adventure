@@ -12,9 +12,7 @@ aliases = ["/685/"]
 
 ## Constraints
 
-- Irregular
-- Star Battle
-- Killer Cages
+{{< constraint-links >}}
 
 ## Video
 

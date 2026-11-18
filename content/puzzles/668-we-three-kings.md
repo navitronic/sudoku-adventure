@@ -12,9 +12,7 @@ aliases = ["/668/"]
 
 ## Constraints
 
-- Anti-King
-- XV
-- Thermometers
+{{< constraint-links >}}
 
 ## Video
 

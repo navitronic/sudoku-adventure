@@ -12,9 +12,7 @@ aliases = ["/189/"]
 
 ## Constraints
 
-- Not 6x6
-- Killer Cages
-- Kropki Pairs
+{{< constraint-links >}}
 
 ## Video
 

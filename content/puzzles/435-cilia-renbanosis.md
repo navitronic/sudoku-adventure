@@ -12,8 +12,7 @@ aliases = ["/435/"]
 
 ## Constraints
 
-- Counting Circles
-- Renban Lines
+{{< constraint-links >}}
 
 ## Video
 

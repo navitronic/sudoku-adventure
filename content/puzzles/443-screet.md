@@ -12,8 +12,7 @@ aliases = ["/443/"]
 
 ## Constraints
 
-- Arrows
-- Killer Cages
+{{< constraint-links >}}
 
 ## Video
 

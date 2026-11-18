@@ -12,9 +12,7 @@ aliases = ["/794/"]
 
 ## Constraints
 
-- Thermometers
-- Palindrome Lines
-- Other
+{{< constraint-links >}}
 
 ## Video
 

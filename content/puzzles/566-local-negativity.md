@@ -12,9 +12,7 @@ aliases = ["/566/"]
 
 ## Constraints
 
-- Fog of War
-- Kropki Pairs
-- Variant
+{{< constraint-links >}}
 
 ## Video
 

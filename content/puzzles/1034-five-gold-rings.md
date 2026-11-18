@@ -12,8 +12,7 @@ aliases = ["/1034/"]
 
 ## Constraints
 
-- Quadruples
-- Renban Lines
+{{< constraint-links >}}
 
 ## Video
 

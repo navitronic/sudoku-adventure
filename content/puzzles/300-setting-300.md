@@ -12,8 +12,7 @@ aliases = ["/300/"]
 
 ## Constraints
 
-- Entropic Lines
-- Renban Lines
+{{< constraint-links >}}
 
 ## Video
 

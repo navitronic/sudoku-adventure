@@ -12,8 +12,7 @@ aliases = ["/539/"]
 
 ## Constraints
 
-- Nabner Lines
-- Odd/Even Lots
+{{< constraint-links >}}
 
 ## Video
 
