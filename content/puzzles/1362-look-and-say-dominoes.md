@@ -1,0 +1,18 @@
++++
+title = "Puzzle #1362 - Look and Say Dominoes by Strosahl"
+date = "2026-11-13T08:00:22-08:00"
+slug = "1362-look-and-say-dominoes"
+tags = ["Look-and-Say Cages", "Kropki"]
+aliases = ["/1362/"]
++++
+
+**[Play this puzzle on SudokuPad](https://sudokupad.app/adventure/1362-lasd)**
+
+## Constraints
+
+- Look-and-Say Cages
+- Kropki
+
+## Video
+
+{{< youtube id="u2ZRDDi-gDE" >}}

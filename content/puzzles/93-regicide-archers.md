@@ -1,0 +1,18 @@
++++
+title = "Puzzle #93 - Regicide Archers by Emphyrio"
+date = "2023-04-30T08:00:04-07:00"
+slug = "93-regicide-archers"
+tags = ["Anti-King", "Arrows"]
+aliases = ["/93/"]
++++
+
+**[Play this puzzle on SudokuPad](https://sudokupad.app/adventure/93-ra)**
+
+## Constraints
+
+- Anti-King
+- Arrows
+
+## Video
+
+{{< youtube id="6023JEitnvg" >}}

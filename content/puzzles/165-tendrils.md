@@ -1,0 +1,18 @@
++++
+title = "Puzzle #165 - Tendrils by MicroStudy"
+date = "2023-07-11T10:00:14-07:00"
+slug = "165-tendrils"
+tags = ["Ten Lines", "Variant"]
+aliases = ["/165/"]
++++
+
+**[Play this puzzle on SudokuPad](https://sudokupad.app/adventure/165-tendrils)**
+
+## Constraints
+
+- Ten Lines
+- Variant
+
+## Video
+
+{{< youtube id="IlqHLz_d-Z0" >}}

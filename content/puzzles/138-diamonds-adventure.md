@@ -1,0 +1,17 @@
++++
+title = "Puzzle #138 - Diamonds Adventure by Fraπ"
+date = "2023-06-14T08:00:06-07:00"
+slug = "138-diamonds-adventure"
+tags = ["Parity Diamonds"]
+aliases = ["/138/"]
++++
+
+**[Play this puzzle on SudokuPad](https://sudokupad.app/adventure/138-da)**
+
+## Constraints
+
+- Parity Diamonds
+
+## Video
+
+{{< youtube id="7oYSlepUshc" >}}

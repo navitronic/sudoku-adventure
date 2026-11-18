@@ -1,0 +1,19 @@
++++
+title = "Puzzle #676 - Snowmen by Palfly Kampling"
+date = "2024-12-11T08:00:48-08:00"
+slug = "676-snowmen"
+tags = ["Kropki Pairs", "Quadruples", "Renban Lines"]
+aliases = ["/676/"]
++++
+
+**[Play this puzzle on SudokuPad](https://sudokupad.app/adventure/676-snowmen)**
+
+## Constraints
+
+- Kropki Pairs
+- Quadruples
+- Renban Lines
+
+## Video
+
+{{< youtube id="rjjiiVDBhgY" >}}

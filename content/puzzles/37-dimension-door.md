@@ -1,0 +1,17 @@
++++
+title = "Puzzle #37 - Dimension Door by BremSter"
+date = "2023-02-25T08:00:13-08:00"
+slug = "37-dimension-door"
+tags = ["Clones"]
+aliases = ["/37/"]
++++
+
+**[Play this puzzle on SudokuPad](https://sudokupad.app/adventure/37-dd)**
+
+## Constraints
+
+- Clones
+
+## Video
+
+{{< youtube id="PCpwGA-fXHQ" >}}

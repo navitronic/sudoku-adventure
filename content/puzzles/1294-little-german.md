@@ -1,0 +1,17 @@
++++
+title = "Puzzle #1294 - Little German by SennyK"
+date = "2026-09-06T08:00:13-07:00"
+slug = "1294-little-german"
+tags = ["Other"]
+aliases = ["/1294/"]
++++
+
+**[Play this puzzle on SudokuPad](https://sudokupad.app/adventure/1294-lg)**
+
+## Constraints
+
+- Other
+
+## Video
+
+{{< youtube id="iV2eOk9VYlI" >}}

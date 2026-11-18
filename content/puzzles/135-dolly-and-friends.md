@@ -1,0 +1,17 @@
++++
+title = "Puzzle #135 - Dolly and Friends by randall"
+date = "2023-06-11T08:00:10-07:00"
+slug = "135-dolly-and-friends"
+tags = ["Clones"]
+aliases = ["/135/"]
++++
+
+**[Play this puzzle on SudokuPad](https://sudokupad.app/adventure/135-daf)**
+
+## Constraints
+
+- Clones
+
+## Video
+
+{{< youtube id="9TgrUTmoL4A" >}}

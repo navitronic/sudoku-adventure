@@ -1,0 +1,18 @@
++++
+title = "Puzzle #823 - Exurbia by rockratzero"
+date = "2025-05-11T08:00:27-07:00"
+slug = "823-exurbia"
+tags = ["Skyscrapers", "X-Sums"]
+aliases = ["/823/"]
++++
+
+**[Play this puzzle on SudokuPad](https://sudokupad.app/adventure/823-exurbia)**
+
+## Constraints
+
+- Skyscrapers
+- X-Sums
+
+## Video
+
+{{< youtube id="BiDVSQ8N_5A" >}}

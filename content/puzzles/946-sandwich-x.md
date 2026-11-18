@@ -1,0 +1,18 @@
++++
+title = "Puzzle #946 - Sandwich X by PjoeterBliep"
+date = "2025-09-19T08:00:46-07:00"
+slug = "946-sandwich-x"
+tags = ["Sandwich Sums", "X Sums"]
+aliases = ["/946/"]
++++
+
+**[Play this puzzle on SudokuPad](https://sudokupad.app/adventure/946-sx)**
+
+## Constraints
+
+- Sandwich Sums
+- X Sums
+
+## Video
+
+{{< youtube id="LwjMRd5zygA" >}}

@@ -1,0 +1,17 @@
++++
+title = "Puzzle #71 - Clone Advent-ures by Luda3"
+date = "2023-03-31T08:00:07-07:00"
+slug = "71-clone-advent-ures"
+tags = ["Clones"]
+aliases = ["/71/"]
++++
+
+**[Play this puzzle on SudokuPad](https://sudokupad.app/adventure/71-cau)**
+
+## Constraints
+
+- Clones
+
+## Video
+
+{{< youtube id="4xycMc-S2lk" >}}

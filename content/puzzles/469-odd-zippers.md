@@ -1,0 +1,18 @@
++++
+title = "Puzzle #469 - Odd Zippers by gdc"
+date = "2024-05-10T08:00:28-07:00"
+slug = "469-odd-zippers"
+tags = ["Parity Diamonds", "Zipper Lines"]
+aliases = ["/469/"]
++++
+
+**[Play this puzzle on SudokuPad](https://sudokupad.app/adventure/469-odd-zippers)**
+
+## Constraints
+
+- Parity Diamonds
+- Zipper Lines
+
+## Video
+
+{{< youtube id="KhYBdsTPgDI" >}}

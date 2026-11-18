@@ -1,0 +1,18 @@
++++
+title = "Puzzle #895 - Scrabble O by Palfly Kampling"
+date = "2025-07-22T08:01:19-07:00"
+slug = "895-scrabble-o"
+tags = ["Region Sum Lines", "Fortress"]
+aliases = ["/895/"]
++++
+
+**[Play this puzzle on SudokuPad](https://sudokupad.app/adventure/895-so)**
+
+## Constraints
+
+- Region Sum Lines
+- Fortress
+
+## Video
+
+{{< youtube id="kNPjeK3vEV0" >}}

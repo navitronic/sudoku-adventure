@@ -1,0 +1,17 @@
++++
+title = "Puzzle #1051 - Lucky Sevens by Riffclown"
+date = "2026-01-02T08:00:38-08:00"
+slug = "1051-lucky-sevens"
+tags = ["Killer Cages"]
+aliases = ["/1051/"]
++++
+
+**[Play this puzzle on SudokuPad](https://sudokupad.app/adventure/1051-ls)**
+
+## Constraints
+
+- Killer Cages
+
+## Video
+
+{{< youtube id="MopcZPLMxgE" >}}

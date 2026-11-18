@@ -1,0 +1,18 @@
++++
+title = "Puzzle #896 - Add it up by sanabas"
+date = "2025-07-23T08:01:45-07:00"
+slug = "896-add-it-up"
+tags = ["Sequence Lines", "XV"]
+aliases = ["/896/"]
++++
+
+**[Play this puzzle on SudokuPad](https://sudokupad.app/adventure/896-aiu)**
+
+## Constraints
+
+- Sequence Lines
+- XV
+
+## Video
+
+{{< youtube id="yFG9FruR2Jg" >}}

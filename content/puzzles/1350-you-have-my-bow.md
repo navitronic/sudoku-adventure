@@ -1,0 +1,17 @@
++++
+title = "Puzzle #1350 - You Have My Bow by gdc"
+date = "2026-11-01T08:00:26-08:00"
+slug = "1350-you-have-my-bow"
+tags = ["Arrows"]
+aliases = ["/1350/"]
++++
+
+**[Play this puzzle on SudokuPad](https://sudokupad.app/adventure/1350-yhmb)**
+
+## Constraints
+
+- Arrows
+
+## Video
+
+{{< youtube id="fI-dgGW-YEc" >}}

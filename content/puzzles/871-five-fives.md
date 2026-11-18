@@ -1,0 +1,18 @@
++++
+title = "Puzzle #871 - Five fives by randall"
+date = "2025-06-28T08:49:17-07:00"
+slug = "871-five-fives"
+tags = ["XV", "Kropki pairs"]
+aliases = ["/871/"]
++++
+
+**[Play this puzzle on SudokuPad](https://sudokupad.app/adventure/871-ff)**
+
+## Constraints
+
+- XV
+- Kropki pairs
+
+## Video
+
+{{< youtube id="tD2H3za1jFk" >}}

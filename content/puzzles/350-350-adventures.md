@@ -1,0 +1,18 @@
++++
+title = "Puzzle #350 - 350 Adventures! by Rangsk"
+date = "2024-01-12T08:00:37-08:00"
+slug = "350-350-adventures"
+tags = ["Other", "Killer Cages"]
+aliases = ["/350/"]
++++
+
+**[Play this puzzle on SudokuPad](https://sudokupad.app/adventure/350-350adventures)**
+
+## Constraints
+
+- Other
+- Killer Cages
+
+## Video
+
+{{< youtube id="nbfgYl_ZRu8" >}}

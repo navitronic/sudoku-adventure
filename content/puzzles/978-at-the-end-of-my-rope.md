@@ -1,0 +1,18 @@
++++
+title = "Puzzle #978 - At the End of My Rope by Matt Tressel"
+date = "2025-10-21T08:01:18-07:00"
+slug = "978-at-the-end-of-my-rope"
+tags = ["Killer Cages", "Renban"]
+aliases = ["/978/"]
++++
+
+**[Play this puzzle on SudokuPad](https://sudokupad.app/adventure/978-ateomr)**
+
+## Constraints
+
+- Killer Cages
+- Renban
+
+## Video
+
+{{< youtube id="kXCGE9wLm7Q" >}}

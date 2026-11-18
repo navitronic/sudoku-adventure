@@ -1,0 +1,19 @@
++++
+title = "Puzzle #314 - Tough Cookie by gdc"
+date = "2023-12-07T08:00:19-08:00"
+slug = "314-tough-cookie"
+tags = ["Parity Lines", "Quadruples", "Kropki Pairs"]
+aliases = ["/314/"]
++++
+
+**[Play this puzzle on SudokuPad](https://sudokupad.app/adventure/314-tc)**
+
+## Constraints
+
+- Parity Lines
+- Quadruples
+- Kropki Pairs
+
+## Video
+
+{{< youtube id="WKOQXa31WxE" >}}

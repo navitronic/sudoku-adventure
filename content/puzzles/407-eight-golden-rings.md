@@ -1,0 +1,18 @@
++++
+title = "Puzzle #407 - Eight golden rings by Palfly Kampling"
+date = "2024-03-09T08:00:27-08:00"
+slug = "407-eight-golden-rings"
+tags = ["Little Killer", "Counting Circles"]
+aliases = ["/407/"]
++++
+
+**[Play this puzzle on SudokuPad](https://sudokupad.app/adventure/407-egr)**
+
+## Constraints
+
+- Little Killer
+- Counting Circles
+
+## Video
+
+{{< youtube id="ivdOK3qiuH0" >}}

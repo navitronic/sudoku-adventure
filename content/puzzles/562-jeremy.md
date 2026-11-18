@@ -1,0 +1,18 @@
++++
+title = "Puzzle #562 - jeremy by Palfly Kampling"
+date = "2024-08-11T08:00:31-07:00"
+slug = "562-jeremy"
+tags = ["Region Sum Lines", "Between Lines"]
+aliases = ["/562/"]
++++
+
+**[Play this puzzle on SudokuPad](https://sudokupad.app/adventure/562-jeremy)**
+
+## Constraints
+
+- Region Sum Lines
+- Between Lines
+
+## Video
+
+{{< youtube id="MWNkcHBr88M" >}}

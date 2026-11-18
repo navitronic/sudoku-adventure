@@ -1,0 +1,18 @@
++++
+title = "Puzzle #564 - Elbow Grease by Matt Tressel"
+date = "2024-08-13T08:00:05-07:00"
+slug = "564-elbow-grease"
+tags = ["Quadruples", "Arrows"]
+aliases = ["/564/"]
++++
+
+**[Play this puzzle on SudokuPad](https://sudokupad.app/adventure/564-elbow-grease)**
+
+## Constraints
+
+- Quadruples
+- Arrows
+
+## Video
+
+{{< youtube id="4TGWPLxZ_BM" >}}

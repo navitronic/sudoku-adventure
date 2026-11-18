@@ -1,0 +1,18 @@
++++
+title = "Puzzle #857 - Fresh Deli Meats by Gene"
+date = "2025-06-14T08:01:08-07:00"
+slug = "857-fresh-deli-meats"
+tags = ["German Whispers", "Extra Regions"]
+aliases = ["/857/"]
++++
+
+**[Play this puzzle on SudokuPad](https://sudokupad.app/adventure/857-fdm)**
+
+## Constraints
+
+- German Whispers
+- Extra Regions
+
+## Video
+
+{{< youtube id="iAXJ1utGDHQ" >}}

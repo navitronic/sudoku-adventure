@@ -1,0 +1,18 @@
++++
+title = "Puzzle #622 - Teddy ist so müde by Palfly Kampling"
+date = "2024-10-18T08:00:03-07:00"
+slug = "622-teddy-ist-so-mude"
+tags = ["Kropki Pairs", "Other"]
+aliases = ["/622/"]
++++
+
+**[Play this puzzle on SudokuPad](https://sudokupad.app/adventure/622-teddy)**
+
+## Constraints
+
+- Kropki Pairs
+- Other
+
+## Video
+
+{{< youtube id="3TAGR1HZzv4" >}}

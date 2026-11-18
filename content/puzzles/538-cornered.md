@@ -1,0 +1,18 @@
++++
+title = "Puzzle #538 - Cornered by Flinty"
+date = "2024-07-18T08:00:14-07:00"
+slug = "538-cornered"
+tags = ["Fog of War", "Arrows"]
+aliases = ["/538/"]
++++
+
+**[Play this puzzle on SudokuPad](https://sudokupad.app/adventure/538-cornered)**
+
+## Constraints
+
+- Fog of War
+- Arrows
+
+## Video
+
+{{< youtube id="BXp5tNrl_BQ" >}}

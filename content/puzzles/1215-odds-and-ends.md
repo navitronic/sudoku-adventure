@@ -1,0 +1,18 @@
++++
+title = "Puzzle #1215 - Odds and Ends by Matt Tressel"
+date = "2026-06-19T08:00:11-07:00"
+slug = "1215-odds-and-ends"
+tags = ["Double Arrows", "Even/Odd"]
+aliases = ["/1215/"]
++++
+
+**[Play this puzzle on SudokuPad](https://sudokupad.app/adventure/1215-oae)**
+
+## Constraints
+
+- Double Arrows
+- Even/Odd
+
+## Video
+
+{{< youtube id="yYXWqcYEIuQ" >}}

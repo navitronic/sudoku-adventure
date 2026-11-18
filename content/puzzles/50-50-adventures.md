@@ -1,0 +1,18 @@
++++
+title = "Puzzle #50 - 50 Adventures! by DJV"
+date = "2023-03-10T08:00:32-08:00"
+slug = "50-50-adventures"
+tags = ["Renban Lines", "Kropki Pairs"]
+aliases = ["/50/"]
++++
+
+**[Play this puzzle on SudokuPad](https://sudokupad.app/adventure/50-5a)**
+
+## Constraints
+
+- Renban Lines
+- Kropki Pairs
+
+## Video
+
+{{< youtube id="_zsWfAdN7g4" >}}

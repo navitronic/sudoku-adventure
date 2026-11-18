@@ -1,0 +1,19 @@
++++
+title = "Puzzle #1009 - Flotsam by ChinStrap"
+date = "2025-11-21T08:01:05-08:00"
+slug = "1009-flotsam"
+tags = ["Chaos Construction", "German Whispers", "Region Sum Lines"]
+aliases = ["/1009/"]
++++
+
+**[Play this puzzle on SudokuPad](https://sudokupad.app/adventure/1009-flotsam)**
+
+## Constraints
+
+- Chaos Construction
+- German Whispers
+- Region Sum Lines
+
+## Video
+
+{{< youtube id="cbyFfc1NSvw" >}}

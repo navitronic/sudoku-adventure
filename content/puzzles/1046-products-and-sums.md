@@ -1,0 +1,17 @@
++++
+title = "Puzzle #1046 - Products and Sums by James Kopp"
+date = "2025-12-28T08:00:39-08:00"
+slug = "1046-products-and-sums"
+tags = ["Other"]
+aliases = ["/1046/"]
++++
+
+**[Play this puzzle on SudokuPad](https://sudokupad.app/adventure/1046-pas)**
+
+## Constraints
+
+- Other
+
+## Video
+
+{{< youtube id="RPIwcqaSbdY" >}}

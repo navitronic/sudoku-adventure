@@ -1,0 +1,18 @@
++++
+title = "Puzzle #455 - Entopical Circlation by gdc"
+date = "2024-04-26T08:00:16-07:00"
+slug = "455-entopical-circlation"
+tags = ["Kropki Pairs", "Other"]
+aliases = ["/455/"]
++++
+
+**[Play this puzzle on SudokuPad](https://sudokupad.app/adventure/455-ec)**
+
+## Constraints
+
+- Kropki Pairs
+- Other
+
+## Video
+
+{{< youtube id="MlrrbIQB3Ss" >}}

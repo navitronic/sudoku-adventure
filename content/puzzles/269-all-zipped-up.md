@@ -1,0 +1,17 @@
++++
+title = "Puzzle #269 - All Zipped Up by Jaze"
+date = "2023-10-23T08:00:00-07:00"
+slug = "269-all-zipped-up"
+tags = ["Zipper Lines"]
+aliases = ["/269/"]
++++
+
+**[Play this puzzle on SudokuPad](https://sudokupad.app/adventure/269-azu)**
+
+## Constraints
+
+- Zipper Lines
+
+## Video
+
+{{< youtube id="-Pxwz30p8aQ" >}}
