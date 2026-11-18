@@ -89,14 +89,15 @@ class ImportTests(unittest.TestCase):
         self.assertEqual([row["alias"] for row in data], [True, False])
         self.assertEqual(len(data), 2)
 
-    @patch.object(importer, "fetch")
-    def test_publication_time_falls_back_to_mobile_page(self, fetch):
-        fetch.side_effect = [
-            "<html></html>",
-            '<meta itemprop="datePublished" content="2026-11-18T08:00:16-08:00">',
-        ]
+    @patch.object(importer, "fetch_json")
+    @patch.object(importer, "fetch", return_value="<html></html>")
+    def test_publication_time_falls_back_to_player_api(self, fetch, fetch_json):
+        fetch_json.return_value = {
+            "microformat": {"playerMicroformatRenderer": {"publishDate": "2026-11-18T08:00:16-08:00"}}
+        }
         self.assertEqual(importer.published_at("Z5yRhmuxAvs"), "2026-11-18T08:00:16-08:00")
         self.assertEqual(fetch.call_count, 2)
+        fetch_json.assert_called_once()
 
     def test_video_validation_and_missing_columns(self):
         with self.assertRaises(ValueError):

@@ -32,6 +32,12 @@ def fetch(url):
         return response.read().decode("utf-8")
 
 
+def fetch_json(url, data):
+    request = Request(url, data=json.dumps(data).encode(), headers={"Content-Type": "application/json", "User-Agent": "Mozilla/5.0"})
+    with urlopen(request, timeout=30) as response:
+        return json.load(response)
+
+
 def video_id(link):
     parsed = urlparse(link)
     host = (parsed.hostname or "").lower()
@@ -55,17 +61,29 @@ def published_at(identifier):
         r'"(?:publishDate|uploadDate)"\s*:\s*"([^" ]+)"',
         r'<meta[^>]+itemprop="(?:datePublished|uploadDate)"[^>]+content="([^" ]+)"',
     )
+    value = None
     for url in urls:
         html = fetch(url)
         for pattern in patterns:
             match = re.search(pattern, html)
-            if not match:
-                continue
-            date = datetime.fromisoformat(match.group(1))
-            if date.tzinfo is None:
-                raise ValueError(f"YouTube publication time has no timezone: {identifier}")
-            return date.isoformat()
-    raise ValueError(f"Could not find publication time for YouTube video {identifier}")
+            if match:
+                value = match.group(1)
+                break
+        if value:
+            break
+    if not value:
+        player = fetch_json(
+            "https://www.youtube.com/youtubei/v1/player",
+            {"context": {"client": {"clientName": "WEB", "clientVersion": "2.20240101.00.00", "hl": "en"}}, "videoId": identifier},
+        )
+        metadata = player.get("microformat", {}).get("playerMicroformatRenderer", {})
+        value = metadata.get("publishDate") or metadata.get("uploadDate")
+    if not value:
+        raise ValueError(f"Could not find publication time for YouTube video {identifier}")
+    date = datetime.fromisoformat(value)
+    if date.tzinfo is None:
+        raise ValueError(f"YouTube publication time has no timezone: {identifier}")
+    return date.isoformat()
 
 
 def slug(text):
