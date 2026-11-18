@@ -2,7 +2,7 @@
 title = "Puzzle #932 - Visitors by Palfly Kampling"
 date = "2025-09-05T10:45:37-07:00"
 slug = "932-visitors"
-constraints = ["X-sums", "Renban Lines"]
+constraints = ["X-Sums", "Renban Lines"]
 aliases = ["/932/"]
 +++
 
@@ -10,7 +10,7 @@ aliases = ["/932/"]
 
 ## Constraints
 
-- X-sums
+- X-Sums
 - Renban Lines
 
 ## Video

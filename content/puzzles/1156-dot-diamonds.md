@@ -2,7 +2,7 @@
 title = "Puzzle #1156 - Dot Diamonds by ChinStrap"
 date = "2026-04-21T08:01:50-07:00"
 slug = "1156-dot-diamonds"
-constraints = ["Lockout Lines", "Kropki"]
+constraints = ["Lockout Lines", "Kropki Pairs"]
 aliases = ["/1156/"]
 +++
 
@@ -11,7 +11,7 @@ aliases = ["/1156/"]
 ## Constraints
 
 - Lockout Lines
-- Kropki
+- Kropki Pairs
 
 ## Video
 

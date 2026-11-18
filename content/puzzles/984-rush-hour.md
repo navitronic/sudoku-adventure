@@ -2,7 +2,7 @@
 title = "Puzzle #984 - Rush Hour by ChinStrap"
 date = "2025-10-27T08:00:29-07:00"
 slug = "984-rush-hour"
-constraints = ["Skysrapers", "Irregular"]
+constraints = ["Skyscrapers", "Irregular"]
 aliases = ["/984/"]
 +++
 
@@ -10,7 +10,7 @@ aliases = ["/984/"]
 
 ## Constraints
 
-- Skysrapers
+- Skyscrapers
 - Irregular
 
 ## Video

@@ -2,7 +2,7 @@
 title = "Puzzle #943 - The Fairest Of Them All? by gdc"
 date = "2025-09-16T08:01:36-07:00"
 slug = "943-the-fairest-of-them-all"
-constraints = ["Killer cages", "Other"]
+constraints = ["Killer Cages", "Other"]
 aliases = ["/943/"]
 +++
 
@@ -10,7 +10,7 @@ aliases = ["/943/"]
 
 ## Constraints
 
-- Killer cages
+- Killer Cages
 - Other
 
 ## Video

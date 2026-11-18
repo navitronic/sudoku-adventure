@@ -2,7 +2,7 @@
 title = "Puzzle #917 - Extremely Odd (and Even) by Strosahl"
 date = "2025-08-21T09:00:34-07:00"
 slug = "917-extremely-odd-and-even"
-constraints = ["Max/Min", "Odd/Even"]
+constraints = ["Max/Min", "Even/Odd"]
 aliases = ["/917/"]
 +++
 
@@ -11,7 +11,7 @@ aliases = ["/917/"]
 ## Constraints
 
 - Max/Min
-- Odd/Even
+- Even/Odd
 
 ## Video
 

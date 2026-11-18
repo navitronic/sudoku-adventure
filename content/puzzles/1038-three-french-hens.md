@@ -2,7 +2,7 @@
 title = "Puzzle #1038 - Three French Hens by PjoeterBliep"
 date = "2025-12-20T08:01:33-08:00"
 slug = "1038-three-french-hens"
-constraints = ["Thermometer", "Min/Max"]
+constraints = ["Thermometers", "Min/Max"]
 aliases = ["/1038/"]
 +++
 
@@ -10,7 +10,7 @@ aliases = ["/1038/"]
 
 ## Constraints
 
-- Thermometer
+- Thermometers
 - Min/Max
 
 ## Video

@@ -2,7 +2,7 @@
 title = "Puzzle #869 - Top Right Boi by PjoeterBliep"
 date = "2025-06-26T08:06:39-07:00"
 slug = "869-top-right-boi"
-constraints = ["Arrows", "Little Killers"]
+constraints = ["Arrows", "Little Killer"]
 aliases = ["/869/"]
 +++
 
@@ -11,7 +11,7 @@ aliases = ["/869/"]
 ## Constraints
 
 - Arrows
-- Little Killers
+- Little Killer
 
 ## Video
 

@@ -2,7 +2,7 @@
 title = "Puzzle #967 - On the qui vive by PjoeterBliep"
 date = "2025-10-10T13:28:20-07:00"
 slug = "967-on-the-qui-vive"
-constraints = ["German Whisper", "Other"]
+constraints = ["German Whispers", "Other"]
 aliases = ["/967/"]
 +++
 
@@ -10,7 +10,7 @@ aliases = ["/967/"]
 
 ## Constraints
 
-- German Whisper
+- German Whispers
 - Other
 
 ## Video

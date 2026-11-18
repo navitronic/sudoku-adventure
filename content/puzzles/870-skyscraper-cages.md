@@ -2,7 +2,7 @@
 title = "Puzzle #870 - Skyscraper Cages by sanabas"
 date = "2025-06-27T12:06:52-07:00"
 slug = "870-skyscraper-cages"
-constraints = ["Skyscrapers", "Killer cages"]
+constraints = ["Skyscrapers", "Killer Cages"]
 aliases = ["/870/"]
 +++
 
@@ -11,7 +11,7 @@ aliases = ["/870/"]
 ## Constraints
 
 - Skyscrapers
-- Killer cages
+- Killer Cages
 
 ## Video
 

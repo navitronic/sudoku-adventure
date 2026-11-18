@@ -2,7 +2,7 @@
 title = "Puzzle #1202 - The Chaos is That Way ---> by sanabas"
 date = "2026-06-06T08:00:30-07:00"
 slug = "1202-the-chaos-is-that-way"
-constraints = ["Irregular", "chaos construction"]
+constraints = ["Irregular", "Chaos Construction"]
 aliases = ["/1202/"]
 +++
 
@@ -11,7 +11,7 @@ aliases = ["/1202/"]
 ## Constraints
 
 - Irregular
-- chaos construction
+- Chaos Construction
 
 ## Video
 

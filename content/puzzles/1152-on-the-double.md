@@ -2,7 +2,7 @@
 title = "Puzzle #1152 - On the Double by Matt Tressel"
 date = "2026-04-17T18:26:05-07:00"
 slug = "1152-on-the-double"
-constraints = ["Betwen Lines", "Double Arrows"]
+constraints = ["Between Lines", "Double Arrows"]
 aliases = ["/1152/"]
 +++
 
@@ -10,7 +10,7 @@ aliases = ["/1152/"]
 
 ## Constraints
 
-- Betwen Lines
+- Between Lines
 - Double Arrows
 
 ## Video

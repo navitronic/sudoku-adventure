@@ -2,7 +2,7 @@
 title = "Puzzle #712 - No filler by randall"
 date = "2025-01-16T13:22:48-08:00"
 slug = "712-no-filler"
-constraints = ["Killer cages"]
+constraints = ["Killer Cages"]
 aliases = ["/712/"]
 +++
 
@@ -10,7 +10,7 @@ aliases = ["/712/"]
 
 ## Constraints
 
-- Killer cages
+- Killer Cages
 
 ## Video
 

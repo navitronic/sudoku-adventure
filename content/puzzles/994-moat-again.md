@@ -2,7 +2,7 @@
 title = "Puzzle #994 - Moat Again by Palfly Kampling"
 date = "2025-11-06T08:01:15-08:00"
 slug = "994-moat-again"
-constraints = ["Palindromes", "Other"]
+constraints = ["Palindrome Lines", "Other"]
 aliases = ["/994/"]
 +++
 
@@ -10,7 +10,7 @@ aliases = ["/994/"]
 
 ## Constraints
 
-- Palindromes
+- Palindrome Lines
 - Other
 
 ## Video

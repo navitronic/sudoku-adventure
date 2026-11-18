@@ -2,7 +2,7 @@
 title = "Puzzle #1084 - Xy Hiking by Palfly Kampling"
 date = "2026-02-04T08:00:18-08:00"
 slug = "1084-xy-hiking"
-constraints = ["Kropki", "Extra Regions"]
+constraints = ["Kropki Pairs", "Extra Regions"]
 aliases = ["/1084/"]
 +++
 
@@ -10,7 +10,7 @@ aliases = ["/1084/"]
 
 ## Constraints
 
-- Kropki
+- Kropki Pairs
 - Extra Regions
 
 ## Video

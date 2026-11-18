@@ -2,7 +2,7 @@
 title = "Puzzle #1037 - Happy Koloss Head Munching Day! by Calvinball"
 date = "2025-12-19T08:00:56-08:00"
 slug = "1037-happy-koloss-head-munching-day"
-constraints = ["Snake", "German Whisper"]
+constraints = ["Snake", "German Whispers"]
 aliases = ["/1037/"]
 +++
 
@@ -11,7 +11,7 @@ aliases = ["/1037/"]
 ## Constraints
 
 - Snake
-- German Whisper
+- German Whispers
 
 ## Video
 

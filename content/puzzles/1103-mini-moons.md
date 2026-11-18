@@ -2,7 +2,7 @@
 title = "Puzzle #1103 - Mini-Moons by Strosahl"
 date = "2026-02-23T08:00:11-08:00"
 slug = "1103-mini-moons"
-constraints = ["Quadruples", "Kropki"]
+constraints = ["Quadruples", "Kropki Pairs"]
 aliases = ["/1103/"]
 +++
 
@@ -11,7 +11,7 @@ aliases = ["/1103/"]
 ## Constraints
 
 - Quadruples
-- Kropki
+- Kropki Pairs
 
 ## Video
 

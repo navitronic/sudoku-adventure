@@ -2,7 +2,7 @@
 title = "Puzzle #997 - Breakout by Matt Tressel"
 date = "2025-11-09T08:01:24-08:00"
 slug = "997-breakout"
-constraints = ["Palindromes", "Arrows"]
+constraints = ["Palindrome Lines", "Arrows"]
 aliases = ["/997/"]
 +++
 
@@ -10,7 +10,7 @@ aliases = ["/997/"]
 
 ## Constraints
 
-- Palindromes
+- Palindrome Lines
 - Arrows
 
 ## Video

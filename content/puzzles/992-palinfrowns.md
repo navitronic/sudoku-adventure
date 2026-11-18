@@ -2,7 +2,7 @@
 title = "Puzzle #992 - Palinfrowns by Strosahl"
 date = "2025-11-04T08:01:19-08:00"
 slug = "992-palinfrowns"
-constraints = ["Palindromes", "Kropki"]
+constraints = ["Palindrome Lines", "Kropki Pairs"]
 aliases = ["/992/"]
 +++
 
@@ -10,8 +10,8 @@ aliases = ["/992/"]
 
 ## Constraints
 
-- Palindromes
-- Kropki
+- Palindrome Lines
+- Kropki Pairs
 
 ## Video
 

@@ -2,7 +2,7 @@
 title = "Puzzle #957 - Modular Congruence by PjoeterBliep"
 date = "2025-09-30T11:55:35-07:00"
 slug = "957-modular-congruence"
-constraints = ["Modular lines", "Little Killers"]
+constraints = ["Modular Lines", "Little Killer"]
 aliases = ["/957/"]
 +++
 
@@ -10,8 +10,8 @@ aliases = ["/957/"]
 
 ## Constraints
 
-- Modular lines
-- Little Killers
+- Modular Lines
+- Little Killer
 
 ## Video
 

@@ -2,7 +2,7 @@
 title = "Puzzle #721 - Zippers' Jig by Wuschel"
 date = "2025-01-25T08:00:33-08:00"
 slug = "721-zippers-jig"
-constraints = ["Zipper lines"]
+constraints = ["Zipper Lines"]
 aliases = ["/721/"]
 +++
 
@@ -10,7 +10,7 @@ aliases = ["/721/"]
 
 ## Constraints
 
-- Zipper lines
+- Zipper Lines
 
 ## Video
 

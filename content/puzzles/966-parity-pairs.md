@@ -2,7 +2,7 @@
 title = "Puzzle #966 - Parity Pairs by Matt Tressel"
 date = "2025-10-09T12:31:14-07:00"
 slug = "966-parity-pairs"
-constraints = ["Parity Mirror", "XV", "Kropki"]
+constraints = ["Parity Mirror", "XV", "Kropki Pairs"]
 aliases = ["/966/"]
 +++
 
@@ -12,7 +12,7 @@ aliases = ["/966/"]
 
 - Parity Mirror
 - XV
-- Kropki
+- Kropki Pairs
 
 ## Video
 

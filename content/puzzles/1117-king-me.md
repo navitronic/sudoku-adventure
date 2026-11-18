@@ -2,7 +2,7 @@
 title = "Puzzle #1117 - King Me by Strosahl"
 date = "2026-03-09T13:59:53-07:00"
 slug = "1117-king-me"
-constraints = ["Anti-King", "Odd/Even", "Thermometers"]
+constraints = ["Anti-King", "Even/Odd", "Thermometers"]
 aliases = ["/1117/"]
 +++
 
@@ -11,7 +11,7 @@ aliases = ["/1117/"]
 ## Constraints
 
 - Anti-King
-- Odd/Even
+- Even/Odd
 - Thermometers
 
 ## Video

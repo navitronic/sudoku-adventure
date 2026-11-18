@@ -2,7 +2,7 @@
 title = "Puzzle #1322 - Pion Shower by PjoeterBliep"
 date = "2026-10-04T08:00:27-07:00"
 slug = "1322-pion-shower"
-constraints = ["Arrows", "Kropki Dots"]
+constraints = ["Arrows", "Kropki Pairs"]
 aliases = ["/1322/"]
 +++
 
@@ -11,7 +11,7 @@ aliases = ["/1322/"]
 ## Constraints
 
 - Arrows
-- Kropki Dots
+- Kropki Pairs
 
 ## Video
 

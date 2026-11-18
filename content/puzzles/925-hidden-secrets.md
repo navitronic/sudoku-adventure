@@ -2,7 +2,7 @@
 title = "Puzzle #925 - Hidden Secrets by Strosahl"
 date = "2025-08-29T09:41:53-07:00"
 slug = "925-hidden-secrets"
-constraints = ["Kropki", "Dynamic Fog"]
+constraints = ["Kropki Pairs", "Dynamic Fog"]
 aliases = ["/925/"]
 +++
 
@@ -10,7 +10,7 @@ aliases = ["/925/"]
 
 ## Constraints
 
-- Kropki
+- Kropki Pairs
 - Dynamic Fog
 
 ## Video

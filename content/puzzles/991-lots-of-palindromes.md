@@ -2,7 +2,7 @@
 title = "Puzzle #991 - Lots Of Palindromes by gdc"
 date = "2025-11-03T08:00:19-08:00"
 slug = "991-lots-of-palindromes"
-constraints = ["Palindromes", "Other"]
+constraints = ["Palindrome Lines", "Other"]
 aliases = ["/991/"]
 +++
 
@@ -10,7 +10,7 @@ aliases = ["/991/"]
 
 ## Constraints
 
-- Palindromes
+- Palindrome Lines
 - Other
 
 ## Video

@@ -2,7 +2,7 @@
 title = "Puzzle #750 - Cell Block C by theasylm"
 date = "2025-02-26T08:00:33-08:00"
 slug = "750-cell-block-c"
-constraints = ["Killer cages"]
+constraints = ["Killer Cages"]
 aliases = ["/750/"]
 +++
 
@@ -10,7 +10,7 @@ aliases = ["/750/"]
 
 ## Constraints
 
-- Killer cages
+- Killer Cages
 
 ## Video
 

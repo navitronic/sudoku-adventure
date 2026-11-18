@@ -2,7 +2,7 @@
 title = "Puzzle #1114 - Better Slow Down by ChinStrap"
 date = "2026-03-06T08:00:24-08:00"
 slug = "1114-better-slow-down"
-constraints = ["Slow Theromometers", "Other"]
+constraints = ["Slow Thermometers", "Other"]
 aliases = ["/1114/"]
 +++
 
@@ -10,7 +10,7 @@ aliases = ["/1114/"]
 
 ## Constraints
 
-- Slow Theromometers
+- Slow Thermometers
 - Other
 
 ## Video

@@ -2,7 +2,7 @@
 title = "Puzzle #871 - Five fives by randall"
 date = "2025-06-28T08:49:17-07:00"
 slug = "871-five-fives"
-constraints = ["XV", "Kropki pairs"]
+constraints = ["XV", "Kropki Pairs"]
 aliases = ["/871/"]
 +++
 
@@ -11,7 +11,7 @@ aliases = ["/871/"]
 ## Constraints
 
 - XV
-- Kropki pairs
+- Kropki Pairs
 
 ## Video
 

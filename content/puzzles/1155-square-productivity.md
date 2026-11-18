@@ -2,7 +2,7 @@
 title = "Puzzle #1155 - Square Productivity by gdc"
 date = "2026-04-20T20:49:35-07:00"
 slug = "1155-square-productivity"
-constraints = ["German Whipers", "Odd/Even"]
+constraints = ["German Whispers", "Even/Odd"]
 aliases = ["/1155/"]
 +++
 
@@ -10,8 +10,8 @@ aliases = ["/1155/"]
 
 ## Constraints
 
-- German Whipers
-- Odd/Even
+- German Whispers
+- Even/Odd
 
 ## Video
 

@@ -2,7 +2,7 @@
 title = "Puzzle #1087 - Bespoke Buildings by ChinStrap"
 date = "2026-02-07T08:00:01-08:00"
 slug = "1087-bespoke-buildings"
-constraints = ["Extra Region", "Skyscrapers"]
+constraints = ["Extra Regions", "Skyscrapers"]
 aliases = ["/1087/"]
 +++
 
@@ -10,7 +10,7 @@ aliases = ["/1087/"]
 
 ## Constraints
 
-- Extra Region
+- Extra Regions
 - Skyscrapers
 
 ## Video

@@ -2,7 +2,7 @@
 title = "Puzzle #1134 - Don't Juneau by Calvinball"
 date = "2026-03-26T08:00:30-07:00"
 slug = "1134-don-t-juneau"
-constraints = ["Killer cages"]
+constraints = ["Killer Cages"]
 aliases = ["/1134/"]
 +++
 
@@ -10,7 +10,7 @@ aliases = ["/1134/"]
 
 ## Constraints
 
-- Killer cages
+- Killer Cages
 
 ## Video
 

@@ -2,7 +2,7 @@
 title = "Puzzle #769 - Scrabble C by Palfly Kampling"
 date = "2025-03-17T08:00:00-07:00"
 slug = "769-scrabble-c"
-constraints = ["Entropic Lines", "Between lines", "Kropki pairs"]
+constraints = ["Entropic Lines", "Between Lines", "Kropki Pairs"]
 aliases = ["/769/"]
 +++
 
@@ -11,8 +11,8 @@ aliases = ["/769/"]
 ## Constraints
 
 - Entropic Lines
-- Between lines
-- Kropki pairs
+- Between Lines
+- Kropki Pairs
 
 ## Video
 

@@ -2,7 +2,7 @@
 title = "Puzzle #938 - Summer Sandwich by sanabas"
 date = "2025-09-11T12:32:15-07:00"
 slug = "938-summer-sandwich"
-constraints = ["X-sums", "Sandwich sums"]
+constraints = ["X-Sums", "Sandwich Sums"]
 aliases = ["/938/"]
 +++
 
@@ -10,8 +10,8 @@ aliases = ["/938/"]
 
 ## Constraints
 
-- X-sums
-- Sandwich sums
+- X-Sums
+- Sandwich Sums
 
 ## Video
 

@@ -2,7 +2,7 @@
 title = "Puzzle #1094 - Scrabble Z by Palfly Kampling"
 date = "2026-02-14T08:01:16-08:00"
 slug = "1094-scrabble-z"
-constraints = ["Kropki", "Entropic Lines", "Variant"]
+constraints = ["Kropki Pairs", "Entropic Lines", "Variant"]
 aliases = ["/1094/"]
 +++
 
@@ -10,7 +10,7 @@ aliases = ["/1094/"]
 
 ## Constraints
 
-- Kropki
+- Kropki Pairs
 - Entropic Lines
 - Variant
 

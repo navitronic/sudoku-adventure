@@ -61,6 +61,17 @@ class ImportTests(unittest.TestCase):
         self.assertTrue((self.content / "100-one-hundred-2.md").exists())
         self.assertIn('slug = "100-one-hundred-2"', (self.content / "100-one-hundred-2.md").read_text())
 
+    def test_constraint_aliases_and_combined_labels(self):
+        self.assertEqual(importer.normalize_constraints(["German Whisper", "Whispers", "German Whispers", "Chinese Whispers"]), ["German Whispers", "Chinese Whispers"])
+        self.assertEqual(importer.normalize_constraints(["Region Sum Lines. German Whipers", "German Whisper"]), ["Region Sum Lines", "German Whispers"])
+        self.assertEqual(importer.normalize_constraints(["Renban Lines. Killer"]), ["Renban Lines", "Killer Cages"])
+        self.sheet([("1", "Which Way?")])
+        data = importer.rows(self.csv.read_text())[0]
+        data["Constraints"] = "German Whisper, Whispers, Chinese Whispers"
+        post = importer.post(data, "2023-01-18T12:27:22-08:00", "1-which-way")
+        self.assertIn('constraints = ["German Whispers", "Chinese Whispers"]', post)
+        self.assertIn("- German Whispers\n- Chinese Whispers", post)
+
     def test_distinct_rows_with_same_number(self):
         self.sheet([("120", "Balance"), ("120", "Chimney Sweeps")])
         data = importer.rows(self.csv.read_text())

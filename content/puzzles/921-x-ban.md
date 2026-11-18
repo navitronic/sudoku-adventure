@@ -2,7 +2,7 @@
 title = "Puzzle #921 - X-ban by sanabas"
 date = "2025-08-25T12:03:06-07:00"
 slug = "921-x-ban"
-constraints = ["Renban lines", "X-Sums"]
+constraints = ["Renban Lines", "X-Sums"]
 aliases = ["/921/"]
 +++
 
@@ -10,7 +10,7 @@ aliases = ["/921/"]
 
 ## Constraints
 
-- Renban lines
+- Renban Lines
 - X-Sums
 
 ## Video

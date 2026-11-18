@@ -2,7 +2,7 @@
 title = "Puzzle #945 - Devilish Diagonals by sanabas"
 date = "2025-09-18T08:01:19-07:00"
 slug = "945-devilish-diagonals"
-constraints = ["Little Killers", "Kropki Pairs"]
+constraints = ["Little Killer", "Kropki Pairs"]
 aliases = ["/945/"]
 +++
 
@@ -10,7 +10,7 @@ aliases = ["/945/"]
 
 ## Constraints
 
-- Little Killers
+- Little Killer
 - Kropki Pairs
 
 ## Video

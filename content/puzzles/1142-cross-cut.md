@@ -2,7 +2,7 @@
 title = "Puzzle #1142 - Cross Cut by Matt Tressel"
 date = "2026-04-07T08:01:31-07:00"
 slug = "1142-cross-cut"
-constraints = ["Sandwich Sum", "Other"]
+constraints = ["Sandwich Sums", "Other"]
 aliases = ["/1142/"]
 +++
 
@@ -10,7 +10,7 @@ aliases = ["/1142/"]
 
 ## Constraints
 
-- Sandwich Sum
+- Sandwich Sums
 - Other
 
 ## Video

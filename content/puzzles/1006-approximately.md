@@ -2,7 +2,7 @@
 title = "Puzzle #1006 - Approximately by Strosahl"
 date = "2025-11-18T08:00:23-08:00"
 slug = "1006-approximately"
-constraints = ["Odd/Even", "Killer"]
+constraints = ["Even/Odd", "Killer Cages"]
 aliases = ["/1006/"]
 +++
 
@@ -10,8 +10,8 @@ aliases = ["/1006/"]
 
 ## Constraints
 
-- Odd/Even
-- Killer
+- Even/Odd
+- Killer Cages
 
 ## Video
 

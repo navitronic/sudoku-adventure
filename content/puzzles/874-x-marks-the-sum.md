@@ -2,7 +2,7 @@
 title = "Puzzle #874 - X Marks the Sum by Strosahl"
 date = "2025-07-01T11:21:15-07:00"
 slug = "874-x-marks-the-sum"
-constraints = ["X-sums"]
+constraints = ["X-Sums"]
 aliases = ["/874/"]
 +++
 
@@ -10,7 +10,7 @@ aliases = ["/874/"]
 
 ## Constraints
 
-- X-sums
+- X-Sums
 
 ## Video
 

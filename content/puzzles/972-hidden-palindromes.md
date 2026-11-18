@@ -2,7 +2,7 @@
 title = "Puzzle #972 - Hidden Palindromes by Strosahl"
 date = "2025-10-15T12:19:56-07:00"
 slug = "972-hidden-palindromes"
-constraints = ["Killer cages", "Palindromes"]
+constraints = ["Killer Cages", "Palindrome Lines"]
 aliases = ["/972/"]
 +++
 
@@ -10,8 +10,8 @@ aliases = ["/972/"]
 
 ## Constraints
 
-- Killer cages
-- Palindromes
+- Killer Cages
+- Palindrome Lines
 
 ## Video
 

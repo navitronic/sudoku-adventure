@@ -2,7 +2,7 @@
 title = "Puzzle #768 - Whose Nine Is It Anyway? by randall"
 date = "2025-03-16T08:00:42-07:00"
 slug = "768-whose-nine-is-it-anyway"
-constraints = ["Killer cages", "Thermometers"]
+constraints = ["Killer Cages", "Thermometers"]
 aliases = ["/768/"]
 +++
 
@@ -10,7 +10,7 @@ aliases = ["/768/"]
 
 ## Constraints
 
-- Killer cages
+- Killer Cages
 - Thermometers
 
 ## Video

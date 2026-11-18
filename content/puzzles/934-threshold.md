@@ -2,7 +2,7 @@
 title = "Puzzle #934 - Threshold by Crusader175"
 date = "2025-09-07T15:08:24-07:00"
 slug = "934-threshold"
-constraints = ["X-sums"]
+constraints = ["X-Sums"]
 aliases = ["/934/"]
 +++
 
@@ -10,7 +10,7 @@ aliases = ["/934/"]
 
 ## Constraints
 
-- X-sums
+- X-Sums
 
 ## Video
 

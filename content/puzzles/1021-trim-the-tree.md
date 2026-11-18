@@ -2,7 +2,7 @@
 title = "Puzzle #1021 - Trim the Tree by James Kopp"
 date = "2025-12-03T08:00:04-08:00"
 slug = "1021-trim-the-tree"
-constraints = ["German Whispers", "Kropki", "Renban"]
+constraints = ["German Whispers", "Kropki Pairs", "Renban Lines"]
 aliases = ["/1021/"]
 +++
 
@@ -11,8 +11,8 @@ aliases = ["/1021/"]
 ## Constraints
 
 - German Whispers
-- Kropki
-- Renban
+- Kropki Pairs
+- Renban Lines
 
 ## Video
 

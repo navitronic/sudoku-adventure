@@ -2,7 +2,7 @@
 title = "Puzzle #1244 - Building 34 by sanabas"
 date = "2026-07-18T08:00:08-07:00"
 slug = "1244-building-34"
-constraints = ["Skyscrapers", "counting circles"]
+constraints = ["Skyscrapers", "Counting Circles"]
 aliases = ["/1244/"]
 +++
 
@@ -11,7 +11,7 @@ aliases = ["/1244/"]
 ## Constraints
 
 - Skyscrapers
-- counting circles
+- Counting Circles
 
 ## Video
 

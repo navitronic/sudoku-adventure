@@ -15,6 +15,15 @@ from urllib.request import Request, urlopen
 SHEET_URL = "https://docs.google.com/spreadsheets/d/1y4BYBEuXbzReb_tx3bTUdKwynL2JveL3ob55g6c-D-Y/export?format=csv&gid=0"
 CONTENT = Path(__file__).resolve().parents[1] / "content" / "puzzles"
 REQUIRED = ("Puzzle Number", "Title", "Setter", "Puzzle Link", "Video Link")
+CONSTRAINT_ALIASES = json.loads(Path(__file__).with_name("constraint_aliases.json").read_text(encoding="utf-8"))
+
+
+def normalize_constraints(labels):
+    normalized = []
+    for label in labels:
+        value = CONSTRAINT_ALIASES.get(label.strip(), label.strip())
+        normalized.extend(value if isinstance(value, list) else [value])
+    return list(dict.fromkeys(label for label in normalized if label))
 
 
 def fetch(url):
@@ -85,7 +94,7 @@ def rows(csv_text):
 def post(row, date, permalink_slug):
     number = row["Puzzle Number"]
     title = row["Title"]
-    constraints = list(dict.fromkeys(part.strip() for part in row["Constraints"].split(",") if part.strip()))
+    constraints = normalize_constraints(row["Constraints"].split(","))
     identifier = video_id(row["Video Link"])
     # JSON string literals are valid TOML strings for the values used here.
     quote = lambda value: json.dumps(value, ensure_ascii=False)

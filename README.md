@@ -16,6 +16,8 @@ python3 scripts/import_puzzles.py append
 
 Append reads rows from the bottom upward and stops at the first existing post. Import skips existing posts and can resume an interrupted bulk import. Neither mode changes existing posts. The importer fails if it cannot read a video's publication timestamp; rerun it after the video becomes available. The public sheet and YouTube watch pages must be reachable from the machine running the importer. Commit the generated Markdown to deploy it; the Cloudflare build does not import puzzles.
 
+Constraint names are normalized using the explicit mappings in [`scripts/constraint_aliases.json`](scripts/constraint_aliases.json). Each key is a spreadsheet label; its value is the canonical name, or an array when one label contains two constraints. Existing posts have been normalized too. Add new aliases there before running the importer; names not in the map stay unchanged. Old constraint URLs that changed are redirected in `static/_redirects`.
+
 Distinct puzzles sharing a number each get a title-based URL. If their titles are also the same, later rows get a numeric suffix (`-2`, `-3`, etc.). The short URL `/{number}/` redirects to the first row with that number; exact duplicate rows are ignored. If a title changes later, the old post is not updated automatically.
 
 Run `python3 scripts/import_puzzles.py import --csv path/to/sheet.csv` to use a downloaded CSV. `--content path/to/directory` changes the output folder (useful for testing).

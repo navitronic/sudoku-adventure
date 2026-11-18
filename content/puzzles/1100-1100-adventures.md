@@ -2,7 +2,7 @@
 title = "Puzzle #1100 - 1100 Adventures! by Rangsk"
 date = "2026-02-20T08:01:34-08:00"
 slug = "1100-1100-adventures"
-constraints = ["Nabner", "Region Sum Lines"]
+constraints = ["Nabner Lines", "Region Sum Lines"]
 aliases = ["/1100/"]
 +++
 
@@ -10,7 +10,7 @@ aliases = ["/1100/"]
 
 ## Constraints
 
-- Nabner
+- Nabner Lines
 - Region Sum Lines
 
 ## Video
