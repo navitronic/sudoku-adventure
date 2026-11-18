@@ -2,7 +2,7 @@
 title = "Puzzle #742 - Symbolism by Palfly Kampling"
 date = "2025-02-18T08:00:41-08:00"
 slug = "742-symbolism"
-tags = ["Region Sum Lines", "Entropic Lines"]
+constraints = ["Region Sum Lines", "Entropic Lines"]
 aliases = ["/742/"]
 +++
 

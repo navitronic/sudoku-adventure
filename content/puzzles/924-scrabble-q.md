@@ -2,7 +2,7 @@
 title = "Puzzle #924 - Scrabble Q by Palfly Kampling"
 date = "2025-08-28T13:25:16-07:00"
 slug = "924-scrabble-q"
-tags = ["Killer Cages", "Thermometers", "Variant"]
+constraints = ["Killer Cages", "Thermometers", "Variant"]
 aliases = ["/924/"]
 +++
 

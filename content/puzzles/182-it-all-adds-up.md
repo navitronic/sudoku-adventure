@@ -2,7 +2,7 @@
 title = "Puzzle #182 - It All Adds Up by MicroStudy"
 date = "2023-07-28T08:00:55-07:00"
 slug = "182-it-all-adds-up"
-tags = ["X-Sums", "Sandwich Sums", "Variant"]
+constraints = ["X-Sums", "Sandwich Sums", "Variant"]
 aliases = ["/182/"]
 +++
 

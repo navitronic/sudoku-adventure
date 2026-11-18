@@ -2,7 +2,7 @@
 title = "Puzzle #248 - Quad Attack by Luda3"
 date = "2023-10-02T08:00:14-07:00"
 slug = "248-quad-attack"
-tags = ["Quadruples"]
+constraints = ["Quadruples"]
 aliases = ["/248/"]
 +++
 

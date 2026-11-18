@@ -2,7 +2,7 @@
 title = "Puzzle #43 - Amazon by Emphyrio"
 date = "2023-03-03T10:38:02-08:00"
 slug = "43-amazon"
-tags = ["Arrows", "Anti-Knight"]
+constraints = ["Arrows", "Anti-Knight"]
 aliases = ["/43/"]
 +++
 

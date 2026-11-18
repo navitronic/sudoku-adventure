@@ -2,7 +2,7 @@
 title = "Puzzle #429 - Bunches of Bruised Bananas by rockratzero"
 date = "2024-03-31T08:00:02-07:00"
 slug = "429-bunches-of-bruised-bananas"
-tags = ["Between Lines", "Even/Odd"]
+constraints = ["Between Lines", "Even/Odd"]
 aliases = ["/429/"]
 +++
 

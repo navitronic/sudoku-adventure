@@ -2,7 +2,7 @@
 title = "Puzzle #1080 - On All Four's by James Kopp"
 date = "2026-01-31T08:00:49-08:00"
 slug = "1080-on-all-four-s"
-tags = ["Sandwich Sums", "Skyscrapers"]
+constraints = ["Sandwich Sums", "Skyscrapers"]
 aliases = ["/1080/"]
 +++
 

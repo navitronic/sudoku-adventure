@@ -2,7 +2,7 @@
 title = "Puzzle #72 - One Person's Adventure by rockratzero"
 date = "2023-04-01T08:00:37-07:00"
 slug = "72-one-person-s-adventure"
-tags = ["Other"]
+constraints = ["Other"]
 aliases = ["/72/"]
 +++
 

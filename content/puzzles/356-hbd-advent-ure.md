@@ -2,7 +2,7 @@
 title = "Puzzle #356 - HBD Advent-ure by Palfly Kampling"
 date = "2024-01-18T08:00:00-08:00"
 slug = "356-hbd-advent-ure"
-tags = ["Irregular", "German Whispers"]
+constraints = ["Irregular", "German Whispers"]
 aliases = ["/356/"]
 +++
 

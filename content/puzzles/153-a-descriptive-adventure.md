@@ -2,7 +2,7 @@
 title = "Puzzle #153 - A Descriptive Adventure by Awesomesauce"
 date = "2023-06-29T08:00:26-07:00"
 slug = "153-a-descriptive-adventure"
-tags = ["Other"]
+constraints = ["Other"]
 aliases = ["/153/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #677 - What did Santa bring? by theasylm"
 date = "2024-12-12T08:00:48-08:00"
 slug = "677-what-did-santa-bring"
-tags = ["Other"]
+constraints = ["Other"]
 aliases = ["/677/"]
 +++
 

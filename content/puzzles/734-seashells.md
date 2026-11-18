@@ -2,7 +2,7 @@
 title = "Puzzle #734 - Seashells by Palfly Kampling"
 date = "2025-02-07T08:00:02-08:00"
 slug = "734-seashells"
-tags = ["Other"]
+constraints = ["Other"]
 aliases = ["/734/"]
 +++
 

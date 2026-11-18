@@ -2,7 +2,7 @@
 title = "Puzzle #865 - Floral Notes by Gene"
 date = "2025-06-22T10:38:07-07:00"
 slug = "865-floral-notes"
-tags = ["German Whispers", "Other"]
+constraints = ["German Whispers", "Other"]
 aliases = ["/865/"]
 +++
 

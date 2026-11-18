@@ -2,7 +2,7 @@
 title = "Puzzle #416 - Europe by ZegreS"
 date = "2024-03-18T08:00:29-07:00"
 slug = "416-europe"
-tags = ["Region Sum Lines"]
+constraints = ["Region Sum Lines"]
 aliases = ["/416/"]
 +++
 

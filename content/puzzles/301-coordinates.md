@@ -2,7 +2,7 @@
 title = "Puzzle #301 - Coordinates by Fraπ"
 date = "2023-11-24T08:00:17-08:00"
 slug = "301-coordinates"
-tags = ["Other"]
+constraints = ["Other"]
 aliases = ["/301/"]
 +++
 

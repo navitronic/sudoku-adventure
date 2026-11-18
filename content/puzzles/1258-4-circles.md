@@ -2,7 +2,7 @@
 title = "Puzzle #1258 - 4 Circles by James Kopp"
 date = "2026-08-01T08:00:20-07:00"
 slug = "1258-4-circles"
-tags = ["Arrows", "Double Arrows"]
+constraints = ["Arrows", "Double Arrows"]
 aliases = ["/1258/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #240 - Tightly packed by Wuschel"
 date = "2023-09-24T08:00:00-07:00"
 slug = "240-tightly-packed"
-tags = ["Arrows", "Anti-Knight", "Even/Odd"]
+constraints = ["Arrows", "Anti-Knight", "Even/Odd"]
 aliases = ["/240/"]
 +++
 

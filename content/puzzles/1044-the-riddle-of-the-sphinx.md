@@ -2,7 +2,7 @@
 title = "Puzzle #1044 - The Riddle of The Sphinx by Gene"
 date = "2025-12-26T08:01:27-08:00"
 slug = "1044-the-riddle-of-the-sphinx"
-tags = ["Other"]
+constraints = ["Other"]
 aliases = ["/1044/"]
 +++
 

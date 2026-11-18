@@ -2,7 +2,7 @@
 title = "Puzzle #534 - Room Tour by Crusader175"
 date = "2024-07-14T08:00:40-07:00"
 slug = "534-room-tour"
-tags = ["Numbered Rooms"]
+constraints = ["Numbered Rooms"]
 aliases = ["/534/"]
 +++
 

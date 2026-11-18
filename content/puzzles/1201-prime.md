@@ -2,7 +2,7 @@
 title = "Puzzle #1201 - PrimE by Riffclown"
 date = "2026-06-05T08:00:30-07:00"
 slug = "1201-prime"
-tags = ["Irregular", "Killer Cages"]
+constraints = ["Irregular", "Killer Cages"]
 aliases = ["/1201/"]
 +++
 

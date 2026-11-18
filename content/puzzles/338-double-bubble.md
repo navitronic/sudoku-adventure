@@ -2,7 +2,7 @@
 title = "Puzzle #338 - Double Bubble by rockratzero"
 date = "2023-12-31T08:00:31-08:00"
 slug = "338-double-bubble"
-tags = ["Kropki Pairs", "Doublers", "Sweeper Clues"]
+constraints = ["Kropki Pairs", "Doublers", "Sweeper Clues"]
 aliases = ["/338/"]
 +++
 

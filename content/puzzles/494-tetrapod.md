@@ -2,7 +2,7 @@
 title = "Puzzle #494 - Tetrapod by Palfly Kampling"
 date = "2024-06-04T08:00:24-07:00"
 slug = "494-tetrapod"
-tags = ["Thermometers", "Quadruples"]
+constraints = ["Thermometers", "Quadruples"]
 aliases = ["/494/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #1064 - Xtra Xtra! by Calvinball"
 date = "2026-01-15T08:00:12-08:00"
 slug = "1064-xtra-xtra"
-tags = ["X-Sums"]
+constraints = ["X-Sums"]
 aliases = ["/1064/"]
 +++
 

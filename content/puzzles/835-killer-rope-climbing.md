@@ -2,7 +2,7 @@
 title = "Puzzle #835 - Killer Rope Climbing by Strosahl"
 date = "2025-05-23T08:00:44-07:00"
 slug = "835-killer-rope-climbing"
-tags = ["Killer Cages", "Palindrome Lines"]
+constraints = ["Killer Cages", "Palindrome Lines"]
 aliases = ["/835/"]
 +++
 

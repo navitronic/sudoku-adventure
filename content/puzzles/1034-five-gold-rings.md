@@ -2,7 +2,7 @@
 title = "Puzzle #1034 - Five Gold Rings by Calvinball"
 date = "2025-12-16T08:00:45-08:00"
 slug = "1034-five-gold-rings"
-tags = ["Quadruples", "Renban Lines"]
+constraints = ["Quadruples", "Renban Lines"]
 aliases = ["/1034/"]
 +++
 

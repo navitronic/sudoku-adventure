@@ -2,7 +2,7 @@
 title = "Puzzle #329 - Fancy Snowflake by Jaze"
 date = "2023-12-22T08:00:26-08:00"
 slug = "329-fancy-snowflake"
-tags = ["Dutch Whispers", "XV"]
+constraints = ["Dutch Whispers", "XV"]
 aliases = ["/329/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #427 - Ascending Starters by Clover"
 date = "2024-03-29T08:00:03-07:00"
 slug = "427-ascending-starters"
-tags = ["Other"]
+constraints = ["Other"]
 aliases = ["/427/"]
 +++
 

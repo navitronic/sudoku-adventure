@@ -2,7 +2,7 @@
 title = "Puzzle #974 - Cygnus by Riffclown"
 date = "2025-10-17T08:00:08-07:00"
 slug = "974-cygnus"
-tags = ["Black Kropki Neg Constraint"]
+constraints = ["Black Kropki Neg Constraint"]
 aliases = ["/974/"]
 +++
 

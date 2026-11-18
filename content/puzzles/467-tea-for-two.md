@@ -2,7 +2,7 @@
 title = "Puzzle #467 - Tea for Two by ZegreS"
 date = "2024-05-08T08:00:35-07:00"
 slug = "467-tea-for-two"
-tags = ["Parity Diamonds", "Arrows"]
+constraints = ["Parity Diamonds", "Arrows"]
 aliases = ["/467/"]
 +++
 

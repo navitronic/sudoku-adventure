@@ -2,7 +2,7 @@
 title = "Puzzle #860 - Odd One Out by zetamath"
 date = "2025-06-17T08:00:56-07:00"
 slug = "860-odd-one-out"
-tags = ["Killer Cages"]
+constraints = ["Killer Cages"]
 aliases = ["/860/"]
 +++
 

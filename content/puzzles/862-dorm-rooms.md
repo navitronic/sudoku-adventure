@@ -2,7 +2,7 @@
 title = "Puzzle #862 - Dorm Rooms by ChinStrap"
 date = "2025-06-19T08:01:24-07:00"
 slug = "862-dorm-rooms"
-tags = ["Region Sum Lines", "Numbered Rooms"]
+constraints = ["Region Sum Lines", "Numbered Rooms"]
 aliases = ["/862/"]
 +++
 

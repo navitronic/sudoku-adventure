@@ -2,7 +2,7 @@
 title = "Puzzle #992 - Palinfrowns by Strosahl"
 date = "2025-11-04T08:01:19-08:00"
 slug = "992-palinfrowns"
-tags = ["Palindromes", "Kropki"]
+constraints = ["Palindromes", "Kropki"]
 aliases = ["/992/"]
 +++
 

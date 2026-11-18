@@ -2,7 +2,7 @@
 title = "Puzzle #1323 - One Two Three Four Five Six by PjoeterBliep"
 date = "2026-10-05T08:00:23-07:00"
 slug = "1323-one-two-three-four-five-six"
-tags = ["Look-and-Say Cages"]
+constraints = ["Look-and-Say Cages"]
 aliases = ["/1323/"]
 +++
 

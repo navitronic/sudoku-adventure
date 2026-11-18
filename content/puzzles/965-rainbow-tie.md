@@ -2,7 +2,7 @@
 title = "Puzzle #965 - Rainbow Tie by sanabas"
 date = "2025-10-08T10:22:38-07:00"
 slug = "965-rainbow-tie"
-tags = ["Parity Lines", "Kropki Pairs", "Irregular"]
+constraints = ["Parity Lines", "Kropki Pairs", "Irregular"]
 aliases = ["/965/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #1190 - Abiogenesis by PjoeterBliep"
 date = "2026-05-25T08:00:21-07:00"
 slug = "1190-abiogenesis"
-tags = ["Chaos Construction", "Arrows"]
+constraints = ["Chaos Construction", "Arrows"]
 aliases = ["/1190/"]
 +++
 

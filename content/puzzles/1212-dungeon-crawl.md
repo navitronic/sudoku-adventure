@@ -2,7 +2,7 @@
 title = "Puzzle #1212 - Dungeon Crawl by Calvinball"
 date = "2026-06-16T08:00:31-07:00"
 slug = "1212-dungeon-crawl"
-tags = ["Other"]
+constraints = ["Other"]
 aliases = ["/1212/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #260 - Rescue Mission by MicroStudy"
 date = "2023-10-14T08:00:41-07:00"
 slug = "260-rescue-mission"
-tags = ["Search Six"]
+constraints = ["Search Six"]
 aliases = ["/260/"]
 +++
 

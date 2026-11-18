@@ -2,7 +2,7 @@
 title = "Puzzle #460 - Obedience by Jaze"
 date = "2024-05-01T08:00:01-07:00"
 slug = "460-obedience"
-tags = ["German Whispers", "Referenced Lines"]
+constraints = ["German Whispers", "Referenced Lines"]
 aliases = ["/460/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #814 - Scrabble H by Palfly Kampling"
 date = "2025-05-02T08:01:21-07:00"
 slug = "814-scrabble-h"
-tags = ["Parity Lines", "Remote Sums"]
+constraints = ["Parity Lines", "Remote Sums"]
 aliases = ["/814/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #234 - Cornered Prey by Palfly Kampling"
 date = "2023-09-18T08:00:10-07:00"
 slug = "234-cornered-prey"
-tags = ["Mean Mini", "Arrows"]
+constraints = ["Mean Mini", "Arrows"]
 aliases = ["/234/"]
 +++
 

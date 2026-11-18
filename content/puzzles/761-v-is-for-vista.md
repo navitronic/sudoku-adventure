@@ -2,7 +2,7 @@
 title = "Puzzle #761 - V is for Vista by randall"
 date = "2025-03-09T08:00:29-07:00"
 slug = "761-v-is-for-vista"
-tags = ["Renban Lines", "Kropki Pairs"]
+constraints = ["Renban Lines", "Kropki Pairs"]
 aliases = ["/761/"]
 +++
 

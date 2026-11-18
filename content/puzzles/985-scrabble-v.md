@@ -2,7 +2,7 @@
 title = "Puzzle #985 - Scrabble V by Palfly Kampling"
 date = "2025-10-28T08:00:17-07:00"
 slug = "985-scrabble-v"
-tags = ["XV sums", "Other"]
+constraints = ["XV sums", "Other"]
 aliases = ["/985/"]
 +++
 

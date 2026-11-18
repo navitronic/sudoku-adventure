@@ -2,7 +2,7 @@
 title = "Puzzle #583 - Wasabi Doritos by randall"
 date = "2024-09-01T08:00:00-07:00"
 slug = "583-wasabi-doritos"
-tags = ["German Whispers", "Kropki Pairs"]
+constraints = ["German Whispers", "Kropki Pairs"]
 aliases = ["/583/"]
 +++
 

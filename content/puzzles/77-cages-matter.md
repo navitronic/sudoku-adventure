@@ -2,7 +2,7 @@
 title = "Puzzle #77 - Cages Matter by Riffclown"
 date = "2023-04-06T08:00:40-07:00"
 slug = "77-cages-matter"
-tags = ["Extra Regions"]
+constraints = ["Extra Regions"]
 aliases = ["/77/"]
 +++
 

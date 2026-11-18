@@ -2,7 +2,7 @@
 title = "Puzzle #193 - The Hateful Eight by MicroStudy"
 date = "2023-08-08T08:00:29-07:00"
 slug = "193-the-hateful-eight"
-tags = ["Killer Cages"]
+constraints = ["Killer Cages"]
 aliases = ["/193/"]
 +++
 

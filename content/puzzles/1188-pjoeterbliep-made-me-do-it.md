@@ -2,7 +2,7 @@
 title = "Puzzle #1188 - PjoeterBliep Made Me Do It by Calvinball"
 date = "2026-05-23T08:00:16-07:00"
 slug = "1188-pjoeterbliep-made-me-do-it"
-tags = ["Little Killer", "Dutch Whispers"]
+constraints = ["Little Killer", "Dutch Whispers"]
 aliases = ["/1188/"]
 +++
 

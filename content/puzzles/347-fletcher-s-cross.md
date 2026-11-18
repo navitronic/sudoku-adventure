@@ -2,7 +2,7 @@
 title = "Puzzle #347 - Fletcher's Cross by Wuschel"
 date = "2024-01-09T08:00:12-08:00"
 slug = "347-fletcher-s-cross"
-tags = ["Killer Cages", "Diagonal", "Clones"]
+constraints = ["Killer Cages", "Diagonal", "Clones"]
 aliases = ["/347/"]
 +++
 

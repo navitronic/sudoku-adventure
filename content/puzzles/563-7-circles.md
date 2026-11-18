@@ -2,7 +2,7 @@
 title = "Puzzle #563 - 7 circles by Jonesy"
 date = "2024-08-12T08:00:27-07:00"
 slug = "563-7-circles"
-tags = ["Counting circles", "double arrows"]
+constraints = ["Counting circles", "double arrows"]
 aliases = ["/563/"]
 +++
 

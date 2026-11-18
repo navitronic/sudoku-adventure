@@ -2,7 +2,7 @@
 title = "Puzzle #1074 - Two Parallelograms by Gene"
 date = "2026-01-25T08:00:27-08:00"
 slug = "1074-two-parallelograms"
-tags = ["Region Sum Lines", "German Whispers"]
+constraints = ["Region Sum Lines", "German Whispers"]
 aliases = ["/1074/"]
 +++
 

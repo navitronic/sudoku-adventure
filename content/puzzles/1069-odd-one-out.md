@@ -2,7 +2,7 @@
 title = "Puzzle #1069 - Odd One Out by Strosahl"
 date = "2026-01-20T08:00:44-08:00"
 slug = "1069-odd-one-out"
-tags = ["Other"]
+constraints = ["Other"]
 aliases = ["/1069/"]
 +++
 

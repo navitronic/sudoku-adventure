@@ -2,7 +2,7 @@
 title = "Puzzle #573 - Hidden Totals by Raumplaner"
 date = "2024-08-22T12:15:01-07:00"
 slug = "573-hidden-totals"
-tags = ["Fog of War", "Killer Cages"]
+constraints = ["Fog of War", "Killer Cages"]
 aliases = ["/573/"]
 +++
 

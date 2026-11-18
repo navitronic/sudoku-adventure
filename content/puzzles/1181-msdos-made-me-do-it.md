@@ -2,7 +2,7 @@
 title = "Puzzle #1181 - MSDOS Made Me Do It by Calvinball"
 date = "2026-05-16T08:00:25-07:00"
 slug = "1181-msdos-made-me-do-it"
-tags = ["Entropic Arrows"]
+constraints = ["Entropic Arrows"]
 aliases = ["/1181/"]
 +++
 

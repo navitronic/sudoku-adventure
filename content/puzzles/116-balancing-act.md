@@ -2,7 +2,7 @@
 title = "Puzzle #116 - Balancing Act by MicroStudy"
 date = "2023-05-23T08:00:36-07:00"
 slug = "116-balancing-act"
-tags = ["Killer Cages"]
+constraints = ["Killer Cages"]
 aliases = ["/116/"]
 +++
 

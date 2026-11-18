@@ -2,7 +2,7 @@
 title = "Puzzle #256 - Secret Treasure by Emphyrio"
 date = "2023-10-10T08:00:00-07:00"
 slug = "256-secret-treasure"
-tags = ["Thermometers", "Killer Cages"]
+constraints = ["Thermometers", "Killer Cages"]
 aliases = ["/256/"]
 +++
 

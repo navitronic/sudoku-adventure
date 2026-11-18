@@ -2,7 +2,7 @@
 title = "Puzzle #461 - Defiance by Toir"
 date = "2024-05-02T08:00:13-07:00"
 slug = "461-defiance"
-tags = ["German Whispers", "Referenced Lines", "Variant"]
+constraints = ["German Whispers", "Referenced Lines", "Variant"]
 aliases = ["/461/"]
 +++
 

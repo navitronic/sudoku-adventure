@@ -3,7 +3,7 @@ locale = "en-us"
 title = "Sudoku Adventure"
 
 [taxonomies]
-tag = "tags"
+constraint = "constraints"
 
 [permalinks]
 puzzles = "/:slug/"

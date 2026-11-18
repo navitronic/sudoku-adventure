@@ -2,7 +2,7 @@
 title = "Puzzle #355 - Creasing Sudoku by Clover"
 date = "2024-01-17T08:00:18-08:00"
 slug = "355-creasing-sudoku"
-tags = ["Thermometers", "Variant"]
+constraints = ["Thermometers", "Variant"]
 aliases = ["/355/"]
 +++
 

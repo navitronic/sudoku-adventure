@@ -2,7 +2,7 @@
 title = "Puzzle #996 - Glued Arrows by PjoeterBliep"
 date = "2025-11-08T08:01:30-08:00"
 slug = "996-glued-arrows"
-tags = ["Double Arrows", "Palindrome lines"]
+constraints = ["Double Arrows", "Palindrome lines"]
 aliases = ["/996/"]
 +++
 

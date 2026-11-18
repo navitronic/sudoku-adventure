@@ -2,7 +2,7 @@
 title = "Puzzle #95 - Crayons In Two Colors by MicroStudy"
 date = "2023-05-02T08:00:24-07:00"
 slug = "95-crayons-in-two-colors"
-tags = ["Renban Lines", "German Whispers"]
+constraints = ["Renban Lines", "German Whispers"]
 aliases = ["/95/"]
 +++
 

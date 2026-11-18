@@ -2,7 +2,7 @@
 title = "Puzzle #691 - Bauhaus by Wuschel"
 date = "2024-12-26T08:00:49-08:00"
 slug = "691-bauhaus"
-tags = ["German Whispers", "Numbered Rooms"]
+constraints = ["German Whispers", "Numbered Rooms"]
 aliases = ["/691/"]
 +++
 

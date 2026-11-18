@@ -2,7 +2,7 @@
 title = "Puzzle #277 - Seen Around the Corner by Jaze"
 date = "2023-10-31T08:00:27-07:00"
 slug = "277-seen-around-the-corner"
-tags = ["Irregular", "Arrows"]
+constraints = ["Irregular", "Arrows"]
 aliases = ["/277/"]
 +++
 

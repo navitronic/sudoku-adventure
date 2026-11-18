@@ -2,7 +2,7 @@
 title = "Puzzle #468 - Locked out of the Parity by rockratzero"
 date = "2024-05-09T08:00:16-07:00"
 slug = "468-locked-out-of-the-parity"
-tags = ["Parity Diamonds", "Lockout Lines"]
+constraints = ["Parity Diamonds", "Lockout Lines"]
 aliases = ["/468/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #85 - Italian Advent-ure by Luda3"
 date = "2023-04-22T08:00:29-07:00"
 slug = "85-italian-advent-ure"
-tags = ["Rossini"]
+constraints = ["Rossini"]
 aliases = ["/85/"]
 +++
 

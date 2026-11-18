@@ -2,7 +2,7 @@
 title = "Puzzle #1237 - Encoded Products by PjoeterBliep"
 date = "2026-07-11T08:00:27-07:00"
 slug = "1237-encoded-products"
-tags = ["Other"]
+constraints = ["Other"]
 aliases = ["/1237/"]
 +++
 

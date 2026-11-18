@@ -2,7 +2,7 @@
 title = "Puzzle #726 - Ace Of Cups by Gene"
 date = "2025-01-30T01:00:36-08:00"
 slug = "726-ace-of-cups"
-tags = ["Region Sum Lines", "Kropki Pairs"]
+constraints = ["Region Sum Lines", "Kropki Pairs"]
 aliases = ["/726/"]
 +++
 

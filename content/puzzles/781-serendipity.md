@@ -2,7 +2,7 @@
 title = "Puzzle #781 - Serendipity by randall"
 date = "2025-03-29T08:00:58-07:00"
 slug = "781-serendipity"
-tags = ["Killer Cages"]
+constraints = ["Killer Cages"]
 aliases = ["/781/"]
 +++
 

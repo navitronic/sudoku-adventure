@@ -2,7 +2,7 @@
 title = "Puzzle #111 - Not the five and dime by Riffclown"
 date = "2023-05-18T10:24:10-07:00"
 slug = "111-not-the-five-and-dime"
-tags = ["XV", "Arrows"]
+constraints = ["XV", "Arrows"]
 aliases = ["/111/"]
 +++
 

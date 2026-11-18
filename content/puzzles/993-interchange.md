@@ -2,7 +2,7 @@
 title = "Puzzle #993 - Interchange by ChinStrap"
 date = "2025-11-05T08:01:24-08:00"
 slug = "993-interchange"
-tags = ["Palindromes", "Skyscrapers"]
+constraints = ["Palindromes", "Skyscrapers"]
 aliases = ["/993/"]
 +++
 

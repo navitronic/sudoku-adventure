@@ -2,7 +2,7 @@
 title = "Puzzle #1101 - Temperature Swings by Riffclown"
 date = "2026-02-21T08:00:00-08:00"
 slug = "1101-temperature-swings"
-tags = ["Irregular Thermo"]
+constraints = ["Irregular Thermo"]
 aliases = ["/1101/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #1279 - Big Freeze by gdc"
 date = "2026-08-22T08:00:23-07:00"
 slug = "1279-big-freeze"
-tags = ["Thermometers", "Entropic Lines"]
+constraints = ["Thermometers", "Entropic Lines"]
 aliases = ["/1279/"]
 +++
 

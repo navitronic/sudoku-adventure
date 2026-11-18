@@ -2,7 +2,7 @@
 title = "Puzzle #1302 - Multiples of 5 by James Kopp"
 date = "2026-09-14T08:00:15-07:00"
 slug = "1302-multiples-of-5"
-tags = ["German Whispers", "Little Killer"]
+constraints = ["German Whispers", "Little Killer"]
 aliases = ["/1302/"]
 +++
 

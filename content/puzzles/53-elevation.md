@@ -2,7 +2,7 @@
 title = "Puzzle #53 - Elevation by Microstudy"
 date = "2023-03-13T08:00:13-07:00"
 slug = "53-elevation"
-tags = ["Irregular", "Skyscrapers"]
+constraints = ["Irregular", "Skyscrapers"]
 aliases = ["/53/"]
 +++
 

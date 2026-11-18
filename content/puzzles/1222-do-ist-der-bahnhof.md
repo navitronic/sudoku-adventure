@@ -2,7 +2,7 @@
 title = "Puzzle #1222 - Do ist der Bahnhof by PjoeterBliep"
 date = "2026-06-26T08:00:10-07:00"
 slug = "1222-do-ist-der-bahnhof"
-tags = ["Arrows", "Dutch Whispers"]
+constraints = ["Arrows", "Dutch Whispers"]
 aliases = ["/1222/"]
 +++
 

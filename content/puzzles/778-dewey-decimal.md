@@ -2,7 +2,7 @@
 title = "Puzzle #778 - Dewey Decimal by Gene"
 date = "2025-03-26T08:00:49-07:00"
 slug = "778-dewey-decimal"
-tags = ["Search Six", "Clones"]
+constraints = ["Search Six", "Clones"]
 aliases = ["/778/"]
 +++
 

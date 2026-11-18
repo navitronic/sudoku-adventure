@@ -2,7 +2,7 @@
 title = "Puzzle #52 - In-Between Frames by Emphyrio"
 date = "2023-03-12T15:00:39-07:00"
 slug = "52-in-between-frames"
-tags = ["Between Lines"]
+constraints = ["Between Lines"]
 aliases = ["/52/"]
 +++
 

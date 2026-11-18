@@ -2,7 +2,7 @@
 title = "Puzzle #405 - Sextuples by Philip Newman"
 date = "2024-03-07T08:00:33-08:00"
 slug = "405-sextuples"
-tags = ["Little Killer", "Variant"]
+constraints = ["Little Killer", "Variant"]
 aliases = ["/405/"]
 +++
 

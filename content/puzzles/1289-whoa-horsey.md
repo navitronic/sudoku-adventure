@@ -2,7 +2,7 @@
 title = "Puzzle #1289 - Whoa Horsey! by SennyK"
 date = "2026-09-01T08:00:12-07:00"
 slug = "1289-whoa-horsey"
-tags = ["German Whispers", "Other"]
+constraints = ["German Whispers", "Other"]
 aliases = ["/1289/"]
 +++
 

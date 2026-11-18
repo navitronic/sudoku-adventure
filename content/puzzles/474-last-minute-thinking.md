@@ -2,7 +2,7 @@
 title = "Puzzle #474 - Last Minute Thinking by Jaze"
 date = "2024-05-15T08:00:21-07:00"
 slug = "474-last-minute-thinking"
-tags = ["Region Sum Lines", "Referenced Lines"]
+constraints = ["Region Sum Lines", "Referenced Lines"]
 aliases = ["/474/"]
 +++
 

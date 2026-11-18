@@ -2,7 +2,7 @@
 title = "Puzzle #643 - Aglio E Olio by Gene"
 date = "2024-11-08T08:00:10-08:00"
 slug = "643-aglio-e-olio"
-tags = ["Killer Cages", "Other"]
+constraints = ["Killer Cages", "Other"]
 aliases = ["/643/"]
 +++
 

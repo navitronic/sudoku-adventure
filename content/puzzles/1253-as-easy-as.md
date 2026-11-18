@@ -2,7 +2,7 @@
 title = "Puzzle #1253 - As easy as by sanabas"
 date = "2026-07-27T08:00:07-07:00"
 slug = "1253-as-easy-as"
-tags = ["sandwich sums", "x-sums"]
+constraints = ["sandwich sums", "x-sums"]
 aliases = ["/1253/"]
 +++
 

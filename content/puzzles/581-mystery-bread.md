@@ -2,7 +2,7 @@
 title = "Puzzle #581 - Mystery Bread by Strosahl"
 date = "2024-08-30T08:00:08-07:00"
 slug = "581-mystery-bread"
-tags = ["Sandwich Sums", "Fog of War"]
+constraints = ["Sandwich Sums", "Fog of War"]
 aliases = ["/581/"]
 +++
 

@@ -9,6 +9,6 @@ article { margin: 2rem 0; }
 article + article { border-top: 1px solid #8888; }
 time { color: #888; }
 .post > p:first-child a { display: inline-block; background: #284e9a; color: white; padding: .8rem 1.2rem; border-radius: .4rem; font-weight: bold; }
-.tag { display: inline-block; margin: .25rem; }
+.constraint { display: inline-block; margin: .25rem; }
 .pagination { display: flex; justify-content: space-between; }
 iframe { width: 100%; aspect-ratio: 16 / 9; border: 0; }

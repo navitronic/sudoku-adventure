@@ -2,7 +2,7 @@
 title = "Puzzle #883 - Entry by Palfly Kampling"
 date = "2025-07-10T08:00:27-07:00"
 slug = "883-entry"
-tags = ["Modular Lines", "Numbered Rooms"]
+constraints = ["Modular Lines", "Numbered Rooms"]
 aliases = ["/883/"]
 +++
 

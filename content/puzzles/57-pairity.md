@@ -2,7 +2,7 @@
 title = "Puzzle #57 - Pairity by dumediat"
 date = "2023-03-17T08:00:01-07:00"
 slug = "57-pairity"
-tags = ["Kropki Pairs"]
+constraints = ["Kropki Pairs"]
 aliases = ["/57/"]
 +++
 

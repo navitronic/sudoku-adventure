@@ -2,7 +2,7 @@
 title = "Puzzle #911 - Going up by sanabas"
 date = "2025-08-07T08:01:18-07:00"
 slug = "911-going-up"
-tags = ["Thermometers", "Skyscrapers"]
+constraints = ["Thermometers", "Skyscrapers"]
 aliases = ["/911/"]
 +++
 

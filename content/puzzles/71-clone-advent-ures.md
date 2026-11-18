@@ -2,7 +2,7 @@
 title = "Puzzle #71 - Clone Advent-ures by Luda3"
 date = "2023-03-31T08:00:07-07:00"
 slug = "71-clone-advent-ures"
-tags = ["Clones"]
+constraints = ["Clones"]
 aliases = ["/71/"]
 +++
 

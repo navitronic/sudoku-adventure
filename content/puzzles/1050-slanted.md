@@ -2,7 +2,7 @@
 title = "Puzzle #1050 - Slanted by Matt Tressel"
 date = "2026-01-01T08:01:19-08:00"
 slug = "1050-slanted"
-tags = ["German Whispers", "Quadruples"]
+constraints = ["German Whispers", "Quadruples"]
 aliases = ["/1050/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #485 - Entropic Horrors by Toir"
 date = "2024-05-26T08:00:46-07:00"
 slug = "485-entropic-horrors"
-tags = ["Entropic Lines", "Referenced Lines", "Variant"]
+constraints = ["Entropic Lines", "Referenced Lines", "Variant"]
 aliases = ["/485/"]
 +++
 

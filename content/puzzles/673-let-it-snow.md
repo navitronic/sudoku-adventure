@@ -2,7 +2,7 @@
 title = "Puzzle #673 - Let It Snow by gdc"
 date = "2024-12-09T00:11:38-08:00"
 slug = "673-let-it-snow"
-tags = ["Arrows", "Variant"]
+constraints = ["Arrows", "Variant"]
 aliases = ["/673/"]
 +++
 

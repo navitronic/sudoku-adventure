@@ -2,7 +2,7 @@
 title = "Puzzle #1314 - German Pi by James Kopp"
 date = "2026-09-26T08:00:30-07:00"
 slug = "1314-german-pi"
-tags = ["German Whispers"]
+constraints = ["German Whispers"]
 aliases = ["/1314/"]
 +++
 

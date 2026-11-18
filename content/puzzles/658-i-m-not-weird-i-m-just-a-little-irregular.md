@@ -2,7 +2,7 @@
 title = "Puzzle #658 - I'm Not Weird. I'm Just a Little Irregular by theasylm"
 date = "2024-11-23T08:00:00-08:00"
 slug = "658-i-m-not-weird-i-m-just-a-little-irregular"
-tags = ["Irregular"]
+constraints = ["Irregular"]
 aliases = ["/658/"]
 +++
 

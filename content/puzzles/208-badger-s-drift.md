@@ -2,7 +2,7 @@
 title = "Puzzle #208 - Badger's Drift by Wuschel"
 date = "2023-08-23T08:00:28-07:00"
 slug = "208-badger-s-drift"
-tags = ["Killer Cages", "Diagonal"]
+constraints = ["Killer Cages", "Diagonal"]
 aliases = ["/208/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #644 - Dark Secrets by Palfly Kampling"
 date = "2024-11-09T08:00:49-08:00"
 slug = "644-dark-secrets"
-tags = ["Killer Cages", "Kropki Pairs", "Variant"]
+constraints = ["Killer Cages", "Kropki Pairs", "Variant"]
 aliases = ["/644/"]
 +++
 

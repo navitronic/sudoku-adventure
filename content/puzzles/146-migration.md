@@ -2,7 +2,7 @@
 title = "Puzzle #146 - Migration by MicroStudy"
 date = "2023-06-22T08:00:37-07:00"
 slug = "146-migration"
-tags = ["Region Sum Lines"]
+constraints = ["Region Sum Lines"]
 aliases = ["/146/"]
 +++
 

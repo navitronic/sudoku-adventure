@@ -2,7 +2,7 @@
 title = "Puzzle #1111 - Omitted by Crusader175"
 date = "2026-03-05T20:56:33-08:00"
 slug = "1111-omitted"
-tags = ["Other"]
+constraints = ["Other"]
 aliases = ["/1111/"]
 +++
 

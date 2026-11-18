@@ -2,7 +2,7 @@
 title = "Puzzle #453 - Dodgeball by randall"
 date = "2024-04-24T08:00:41-07:00"
 slug = "453-dodgeball"
-tags = ["Kropki Pairs", "Other"]
+constraints = ["Kropki Pairs", "Other"]
 aliases = ["/453/"]
 +++
 

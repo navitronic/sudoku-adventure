@@ -2,7 +2,7 @@
 title = "Puzzle #214 - Highs 'n Lows by randall"
 date = "2023-08-29T08:00:42-07:00"
 slug = "214-highs-n-lows"
-tags = ["German Whispers", "Quadruples"]
+constraints = ["German Whispers", "Quadruples"]
 aliases = ["/214/"]
 +++
 

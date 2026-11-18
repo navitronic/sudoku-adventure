@@ -2,7 +2,7 @@
 title = "Puzzle #904 - Styremøte by rockratzero"
 date = "2025-07-31T08:00:37-07:00"
 slug = "904-styremte"
-tags = ["Quadruples", "Skyscrapers"]
+constraints = ["Quadruples", "Skyscrapers"]
 aliases = ["/904/"]
 +++
 

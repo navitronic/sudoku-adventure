@@ -2,7 +2,7 @@
 title = "Puzzle #899 - jerry temporary by Gene"
 date = "2025-07-26T08:01:31-07:00"
 slug = "899-jerry-temporary"
-tags = ["Other"]
+constraints = ["Other"]
 aliases = ["/899/"]
 +++
 

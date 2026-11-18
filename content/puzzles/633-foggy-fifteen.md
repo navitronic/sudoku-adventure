@@ -2,7 +2,7 @@
 title = "Puzzle #633 - Foggy Fifteen by theasylm"
 date = "2024-10-29T08:00:25-07:00"
 slug = "633-foggy-fifteen"
-tags = ["XV", "Fog of War", "Other"]
+constraints = ["XV", "Fog of War", "Other"]
 aliases = ["/633/"]
 +++
 

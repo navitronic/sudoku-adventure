@@ -2,7 +2,7 @@
 title = "Puzzle #532 - Misty Regions by Oddlyeven"
 date = "2024-07-12T08:00:38-07:00"
 slug = "532-misty-regions"
-tags = ["Fog of War", "Region Sum Lines"]
+constraints = ["Fog of War", "Region Sum Lines"]
 aliases = ["/532/"]
 +++
 

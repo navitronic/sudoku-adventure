@@ -2,7 +2,7 @@
 title = "Puzzle #807 - Galactic Adventure by gdc"
 date = "2025-04-25T08:00:55-07:00"
 slug = "807-galactic-adventure"
-tags = ["Other"]
+constraints = ["Other"]
 aliases = ["/807/"]
 +++
 

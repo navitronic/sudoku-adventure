@@ -2,7 +2,7 @@
 title = "Puzzle #448 - Finding My Place by Jaze"
 date = "2024-04-19T08:00:48-07:00"
 slug = "448-finding-my-place"
-tags = ["Zipper Lines", "Variant", "Referenced Lines"]
+constraints = ["Zipper Lines", "Variant", "Referenced Lines"]
 aliases = ["/448/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #525 - Xenial Vog by Wuschel"
 date = "2024-07-05T08:00:25-07:00"
 slug = "525-xenial-vog"
-tags = ["Fog of War", "XV", "Counting Circles"]
+constraints = ["Fog of War", "XV", "Counting Circles"]
 aliases = ["/525/"]
 +++
 

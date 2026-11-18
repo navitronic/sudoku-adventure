@@ -2,7 +2,7 @@
 title = "Puzzle #678 - No Room at the Inn by rockratzero"
 date = "2024-12-13T08:00:07-08:00"
 slug = "678-no-room-at-the-inn"
-tags = ["Kropki Pairs", "Parity Lines"]
+constraints = ["Kropki Pairs", "Parity Lines"]
 aliases = ["/678/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #1288 - Mystery Meat by Strosahl"
 date = "2026-08-31T08:00:06-07:00"
 slug = "1288-mystery-meat"
-tags = ["Sandwich Sums", "Other"]
+constraints = ["Sandwich Sums", "Other"]
 aliases = ["/1288/"]
 +++
 

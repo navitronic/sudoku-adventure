@@ -2,7 +2,7 @@
 title = "Puzzle #219 - Box'd by Riffclown"
 date = "2023-09-03T08:00:07-07:00"
 slug = "219-box-d"
-tags = ["Region Sum Lines"]
+constraints = ["Region Sum Lines"]
 aliases = ["/219/"]
 +++
 

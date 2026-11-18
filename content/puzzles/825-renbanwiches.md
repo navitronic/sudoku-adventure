@@ -2,7 +2,7 @@
 title = "Puzzle #825 - Renbanwiches by randall"
 date = "2025-05-13T08:00:41-07:00"
 slug = "825-renbanwiches"
-tags = ["Renban Lines", "Sandwich Sums", "Fog of War"]
+constraints = ["Renban Lines", "Sandwich Sums", "Fog of War"]
 aliases = ["/825/"]
 +++
 

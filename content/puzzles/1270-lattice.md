@@ -2,7 +2,7 @@
 title = "Puzzle #1270 - Lattice by riffclown"
 date = "2026-08-13T08:00:37-07:00"
 slug = "1270-lattice"
-tags = ["German Whispers"]
+constraints = ["German Whispers"]
 aliases = ["/1270/"]
 +++
 

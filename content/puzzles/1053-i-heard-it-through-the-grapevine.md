@@ -2,7 +2,7 @@
 title = "Puzzle #1053 - I Heard It Through The Grapevine by Gene"
 date = "2026-01-04T08:00:46-08:00"
 slug = "1053-i-heard-it-through-the-grapevine"
-tags = ["Other"]
+constraints = ["Other"]
 aliases = ["/1053/"]
 +++
 

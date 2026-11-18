@@ -2,7 +2,7 @@
 title = "Puzzle #17 - Pop Quiz by dumediat"
 date = "2023-02-05T08:00:08-08:00"
 slug = "17-pop-quiz"
-tags = ["X-Sums"]
+constraints = ["X-Sums"]
 aliases = ["/17/"]
 +++
 

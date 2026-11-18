@@ -2,7 +2,7 @@
 title = "Puzzle #711 - Archer Assassins by Strosahl"
 date = "2025-01-15T18:55:24-08:00"
 slug = "711-archer-assassins"
-tags = ["Arrows", "Killer Cages"]
+constraints = ["Arrows", "Killer Cages"]
 aliases = ["/711/"]
 +++
 

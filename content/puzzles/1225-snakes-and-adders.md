@@ -2,7 +2,7 @@
 title = "Puzzle #1225 - Snakes and Adders by Strosahl"
 date = "2026-06-29T08:00:35-07:00"
 slug = "1225-snakes-and-adders"
-tags = ["XV", "Kropki Pairs"]
+constraints = ["XV", "Kropki Pairs"]
 aliases = ["/1225/"]
 +++
 

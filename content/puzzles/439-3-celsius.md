@@ -2,7 +2,7 @@
 title = "Puzzle #439 - 3° Celsius by Emphyrio"
 date = "2024-04-10T08:00:33-07:00"
 slug = "439-3-celsius"
-tags = ["Thermometers"]
+constraints = ["Thermometers"]
 aliases = ["/439/"]
 +++
 

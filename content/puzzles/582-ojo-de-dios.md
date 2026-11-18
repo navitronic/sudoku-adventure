@@ -2,7 +2,7 @@
 title = "Puzzle #582 - Ojo de Dios by rockratzero"
 date = "2024-08-31T08:00:04-07:00"
 slug = "582-ojo-de-dios"
-tags = ["Japanese Sums"]
+constraints = ["Japanese Sums"]
 aliases = ["/582/"]
 +++
 

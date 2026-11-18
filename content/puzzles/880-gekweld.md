@@ -2,7 +2,7 @@
 title = "Puzzle #880 - gekweld by rockratzero"
 date = "2025-07-07T08:01:27-07:00"
 slug = "880-gekweld"
-tags = ["Modular Lines", "Diagonal", "XV"]
+constraints = ["Modular Lines", "Diagonal", "XV"]
 aliases = ["/880/"]
 +++
 

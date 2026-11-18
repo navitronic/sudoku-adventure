@@ -2,7 +2,7 @@
 title = "Puzzle #617 - Disorgnized Successor by gdc"
 date = "2024-10-13T08:00:19-07:00"
 slug = "617-disorgnized-successor"
-tags = ["Chaos Construction", "Other"]
+constraints = ["Chaos Construction", "Other"]
 aliases = ["/617/"]
 +++
 

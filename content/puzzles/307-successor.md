@@ -2,7 +2,7 @@
 title = "Puzzle #307 - Successor by Emphyrio"
 date = "2023-11-30T08:00:01-08:00"
 slug = "307-successor"
-tags = ["Other"]
+constraints = ["Other"]
 aliases = ["/307/"]
 +++
 

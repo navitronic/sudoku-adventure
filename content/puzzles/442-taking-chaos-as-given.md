@@ -2,7 +2,7 @@
 title = "Puzzle #442 - Taking Chaos as Given by gdc"
 date = "2024-04-13T08:00:10-07:00"
 slug = "442-taking-chaos-as-given"
-tags = ["Chaos Construction", "Other"]
+constraints = ["Chaos Construction", "Other"]
 aliases = ["/442/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #133 - Malicious Intent by MicroStudy"
 date = "2023-06-09T08:00:25-07:00"
 slug = "133-malicious-intent"
-tags = ["Entropic Lines", "XV"]
+constraints = ["Entropic Lines", "XV"]
 aliases = ["/133/"]
 +++
 

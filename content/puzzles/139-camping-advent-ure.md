@@ -2,7 +2,7 @@
 title = "Puzzle #139 - Camping Advent-ure by TinkerTroy"
 date = "2023-06-15T00:00:11-07:00"
 slug = "139-camping-advent-ure"
-tags = ["Killer Cages", "Other"]
+constraints = ["Killer Cages", "Other"]
 aliases = ["/139/"]
 +++
 

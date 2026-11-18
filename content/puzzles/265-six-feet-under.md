@@ -2,7 +2,7 @@
 title = "Puzzle #265 - Six Feet Under by Toir"
 date = "2023-10-19T08:00:39-07:00"
 slug = "265-six-feet-under"
-tags = ["Search Six", "Killer Cages"]
+constraints = ["Search Six", "Killer Cages"]
 aliases = ["/265/"]
 +++
 

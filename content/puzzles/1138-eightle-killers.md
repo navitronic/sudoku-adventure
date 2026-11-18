@@ -2,7 +2,7 @@
 title = "Puzzle #1138 - Eightle Killers by ChinStrap"
 date = "2026-04-03T08:00:43-07:00"
 slug = "1138-eightle-killers"
-tags = ["Little Killers", "Diagonal"]
+constraints = ["Little Killers", "Diagonal"]
 aliases = ["/1138/"]
 +++
 

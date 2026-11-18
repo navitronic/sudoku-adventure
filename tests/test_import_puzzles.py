@@ -34,7 +34,7 @@ class ImportTests(unittest.TestCase):
         post = (self.content / "1-which-way.md").read_text()
         self.assertIn('title = "Puzzle #1 - Which Way? by Alice"', post)
         self.assertIn('aliases = ["/1/"]', post)
-        self.assertIn('tags = ["Killer Cages", "Palindrome Lines"]', post)
+        self.assertIn('constraints = ["Killer Cages", "Palindrome Lines"]', post)
         self.assertIn("**[Play this puzzle on SudokuPad](https://sudokupad.app/adventure/1)**", post)
         self.assertIn('{{< youtube id="bl_WXtLhOXc" >}}', post)
         self.run_import("import")

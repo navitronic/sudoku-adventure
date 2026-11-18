@@ -2,7 +2,7 @@
 title = "Puzzle #31 - Summer Knights by randall"
 date = "2023-02-19T17:42:16-08:00"
 slug = "31-summer-knights"
-tags = ["Palindrome Lines", "Anti-Knight"]
+constraints = ["Palindrome Lines", "Anti-Knight"]
 aliases = ["/31/"]
 +++
 

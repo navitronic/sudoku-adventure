@@ -2,7 +2,7 @@
 title = "Puzzle #779 - Landmark by Riffclown"
 date = "2025-03-27T08:00:57-07:00"
 slug = "779-landmark"
-tags = ["Thermometers"]
+constraints = ["Thermometers"]
 aliases = ["/779/"]
 +++
 

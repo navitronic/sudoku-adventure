@@ -2,7 +2,7 @@
 title = "Puzzle #422 - Sandwich Break by Emphyrio"
 date = "2024-03-24T08:00:37-07:00"
 slug = "422-sandwich-break"
-tags = ["Fortress", "Renban Lines"]
+constraints = ["Fortress", "Renban Lines"]
 aliases = ["/422/"]
 +++
 

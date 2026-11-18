@@ -2,7 +2,7 @@
 title = "Puzzle #1229 - Gray Matter by James Kopp"
 date = "2026-07-03T08:00:24-07:00"
 slug = "1229-gray-matter"
-tags = ["Other"]
+constraints = ["Other"]
 aliases = ["/1229/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #393 - Zeroed In by gdc"
 date = "2024-02-24T08:00:15-08:00"
 slug = "393-zeroed-in"
-tags = ["Other", "Region Sum Lines"]
+constraints = ["Other", "Region Sum Lines"]
 aliases = ["/393/"]
 +++
 

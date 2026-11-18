@@ -2,7 +2,7 @@
 title = "Puzzle #477 - Parometers by Strosahl"
 date = "2024-05-18T08:00:27-07:00"
 slug = "477-parometers"
-tags = ["Thermometers", "Variant"]
+constraints = ["Thermometers", "Variant"]
 aliases = ["/477/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #421 - Quad Wrangle by Chilly"
 date = "2024-03-23T08:00:49-07:00"
 slug = "421-quad-wrangle"
-tags = ["Irregular", "Quadruples", "Kropki Pairs"]
+constraints = ["Irregular", "Quadruples", "Kropki Pairs"]
 aliases = ["/421/"]
 +++
 

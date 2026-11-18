@@ -2,7 +2,7 @@
 title = "Puzzle #243 - Echo by dumediat"
 date = "2023-09-27T08:00:30-07:00"
 slug = "243-echo"
-tags = ["Renban Lines", "Sandwich Sums", "Other"]
+constraints = ["Renban Lines", "Sandwich Sums", "Other"]
 aliases = ["/243/"]
 +++
 

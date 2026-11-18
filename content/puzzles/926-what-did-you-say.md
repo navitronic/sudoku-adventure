@@ -2,7 +2,7 @@
 title = "Puzzle #926 - What did you say? by PjoeterBliep"
 date = "2025-08-30T10:44:15-07:00"
 slug = "926-what-did-you-say"
-tags = ["Chinese Whispers", "Variant", "Counting Circles"]
+constraints = ["Chinese Whispers", "Variant", "Counting Circles"]
 aliases = ["/926/"]
 +++
 

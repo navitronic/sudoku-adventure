@@ -2,7 +2,7 @@
 title = "Puzzle #69 - Convergence by Riffclown"
 date = "2023-03-29T08:00:18-07:00"
 slug = "69-convergence"
-tags = ["Arrows"]
+constraints = ["Arrows"]
 aliases = ["/69/"]
 +++
 

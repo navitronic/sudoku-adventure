@@ -2,7 +2,7 @@
 title = "Puzzle #873 - Cage Ed by Riffclown"
 date = "2025-06-30T11:52:59-07:00"
 slug = "873-cage-ed"
-tags = ["Killer Cages"]
+constraints = ["Killer Cages"]
 aliases = ["/873/"]
 +++
 

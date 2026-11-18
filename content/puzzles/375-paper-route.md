@@ -2,7 +2,7 @@
 title = "Puzzle #375 - Paper Route by Rangsk"
 date = "2024-02-06T08:00:16-08:00"
 slug = "375-paper-route"
-tags = ["Fortress", "German Whispers"]
+constraints = ["Fortress", "German Whispers"]
 aliases = ["/375/"]
 +++
 

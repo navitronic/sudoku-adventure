@@ -2,7 +2,7 @@
 title = "Puzzle #1106 - Justice Sploinko by Gene"
 date = "2026-02-26T08:00:39-08:00"
 slug = "1106-justice-sploinko"
-tags = ["German Whispers", "Kropki Pairs"]
+constraints = ["German Whispers", "Kropki Pairs"]
 aliases = ["/1106/"]
 +++
 

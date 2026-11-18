@@ -2,7 +2,7 @@
 title = "Puzzle #605 - Don't drive in it! by theasylm"
 date = "2024-10-01T08:00:17-07:00"
 slug = "605-don-t-drive-in-it"
-tags = ["Fog of War", "Killer Cages"]
+constraints = ["Fog of War", "Killer Cages"]
 aliases = ["/605/"]
 +++
 

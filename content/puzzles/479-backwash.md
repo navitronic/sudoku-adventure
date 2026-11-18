@@ -2,7 +2,7 @@
 title = "Puzzle #479 - Backwash by Memeristor"
 date = "2024-05-20T08:00:45-07:00"
 slug = "479-backwash"
-tags = ["Arrows", "Variant"]
+constraints = ["Arrows", "Variant"]
 aliases = ["/479/"]
 +++
 

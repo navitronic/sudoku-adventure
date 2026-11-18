@@ -2,7 +2,7 @@
 title = "Puzzle #561 - Compound V 21 by Emphyrio"
 date = "2024-08-10T08:00:40-07:00"
 slug = "561-compound-v-21"
-tags = ["Region Sum Lines", "Kropki Pairs"]
+constraints = ["Region Sum Lines", "Kropki Pairs"]
 aliases = ["/561/"]
 +++
 

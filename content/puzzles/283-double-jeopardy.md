@@ -2,7 +2,7 @@
 title = "Puzzle #283 - Double Jeopardy by Rangsk"
 date = "2023-11-06T06:00:19-08:00"
 slug = "283-double-jeopardy"
-tags = ["Doublers", "Killer Cages"]
+constraints = ["Doublers", "Killer Cages"]
 aliases = ["/283/"]
 +++
 

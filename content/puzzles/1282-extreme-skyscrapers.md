@@ -2,7 +2,7 @@
 title = "Puzzle #1282 - Extreme Skyscrapers by Strosahl"
 date = "2026-08-25T08:00:39-07:00"
 slug = "1282-extreme-skyscrapers"
-tags = ["Skyscrapers", "Fortress"]
+constraints = ["Skyscrapers", "Fortress"]
 aliases = ["/1282/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #295 - Reapin' Hooks by rockratzero"
 date = "2023-11-18T08:00:37-08:00"
 slug = "295-reapin-hooks"
-tags = ["Killer Cages", "Palindrome Lines"]
+constraints = ["Killer Cages", "Palindrome Lines"]
 aliases = ["/295/"]
 +++
 

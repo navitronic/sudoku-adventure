@@ -2,7 +2,7 @@
 title = "Puzzle #1185 - Diversity by SennyK"
 date = "2026-05-20T08:00:19-07:00"
 slug = "1185-diversity"
-tags = ["Kropki Pairs", "Other"]
+constraints = ["Kropki Pairs", "Other"]
 aliases = ["/1185/"]
 +++
 

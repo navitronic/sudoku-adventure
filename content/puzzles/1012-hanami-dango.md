@@ -2,7 +2,7 @@
 title = "Puzzle #1012 - Hanami Dango by Gene"
 date = "2025-11-24T08:01:34-08:00"
 slug = "1012-hanami-dango"
-tags = ["German Whispers", "Even/Odd"]
+constraints = ["German Whispers", "Even/Odd"]
 aliases = ["/1012/"]
 +++
 

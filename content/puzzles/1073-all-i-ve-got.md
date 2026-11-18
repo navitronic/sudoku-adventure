@@ -2,7 +2,7 @@
 title = "Puzzle #1073 - All I've Got by Calvinball"
 date = "2026-01-24T08:01:11-08:00"
 slug = "1073-all-i-ve-got"
-tags = ["Numbered Rooms", "Little Killer"]
+constraints = ["Numbered Rooms", "Little Killer"]
 aliases = ["/1073/"]
 +++
 

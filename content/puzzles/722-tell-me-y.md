@@ -2,7 +2,7 @@
 title = "Puzzle #722 - Tell Me Y by Crusader175"
 date = "2025-01-26T08:00:55-08:00"
 slug = "722-tell-me-y"
-tags = ["Other"]
+constraints = ["Other"]
 aliases = ["/722/"]
 +++
 

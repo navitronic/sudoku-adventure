@@ -2,7 +2,7 @@
 title = "Puzzle #968 - In Cold Blood by Stuart Sharpe"
 date = "2025-10-11T13:21:04-07:00"
 slug = "968-in-cold-blood"
-tags = ["Other"]
+constraints = ["Other"]
 aliases = ["/968/"]
 +++
 

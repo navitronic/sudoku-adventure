@@ -85,7 +85,7 @@ def rows(csv_text):
 def post(row, date, permalink_slug):
     number = row["Puzzle Number"]
     title = row["Title"]
-    tags = list(dict.fromkeys(part.strip() for part in row["Constraints"].split(",") if part.strip()))
+    constraints = list(dict.fromkeys(part.strip() for part in row["Constraints"].split(",") if part.strip()))
     identifier = video_id(row["Video Link"])
     # JSON string literals are valid TOML strings for the values used here.
     quote = lambda value: json.dumps(value, ensure_ascii=False)
@@ -93,7 +93,7 @@ def post(row, date, permalink_slug):
         f'title = {quote("Puzzle #" + number + " - " + title + " by " + row["Setter"])}',
         f'date = {quote(date)}',
         f'slug = {quote(permalink_slug)}',
-        f'tags = {quote(tags)}',
+        f'constraints = {quote(constraints)}',
     ]
     if row["alias"]:
         fields.append(f'aliases = ["/{number}/"]')
@@ -102,8 +102,8 @@ def post(row, date, permalink_slug):
     if parsed.scheme != "https" or parsed.hostname not in ("sudokupad.app", "www.sudokupad.app", "beta.sudokupad.app"):
         raise ValueError(f"Invalid SudokuPad link: {puzzle}")
     body = [f'**[Play this puzzle on SudokuPad]({puzzle})**', "", "## Constraints", ""]
-    body.extend(f"- {tag}" for tag in tags)
-    if not tags:
+    body.extend(f"- {constraint}" for constraint in constraints)
+    if not constraints:
         body.append("No constraints listed.")
     body.extend(["", "## Video", "", f'{{{{< youtube id="{identifier}" >}}}}', ""])
     return "+++\n" + "\n".join(fields) + "\n+++\n\n" + "\n".join(body)

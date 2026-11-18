@@ -2,7 +2,7 @@
 title = "Puzzle #660 - Double Jointed by Tony Zampini"
 date = "2024-11-25T08:00:35-08:00"
 slug = "660-double-jointed"
-tags = ["Thermometers", "Disjoint"]
+constraints = ["Thermometers", "Disjoint"]
 aliases = ["/660/"]
 +++
 

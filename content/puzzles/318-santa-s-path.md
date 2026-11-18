@@ -2,7 +2,7 @@
 title = "Puzzle #318 - Santa's Path by gdc"
 date = "2023-12-11T08:00:18-08:00"
 slug = "318-santa-s-path"
-tags = ["German Whispers", "Other"]
+constraints = ["German Whispers", "Other"]
 aliases = ["/318/"]
 +++
 

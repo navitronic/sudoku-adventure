@@ -2,7 +2,7 @@
 title = "Puzzle #1246 - Double You by Matt Tressel"
 date = "2026-07-20T08:00:35-07:00"
 slug = "1246-double-you"
-tags = ["German Whispers", "Kropki Pairs"]
+constraints = ["German Whispers", "Kropki Pairs"]
 aliases = ["/1246/"]
 +++
 

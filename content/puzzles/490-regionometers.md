@@ -2,7 +2,7 @@
 title = "Puzzle #490 - Regionometers by randall"
 date = "2024-05-31T08:00:01-07:00"
 slug = "490-regionometers"
-tags = ["Region Sum Lines", "Variant"]
+constraints = ["Region Sum Lines", "Variant"]
 aliases = ["/490/"]
 +++
 

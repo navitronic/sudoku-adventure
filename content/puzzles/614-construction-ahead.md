@@ -2,7 +2,7 @@
 title = "Puzzle #614 - Construction Ahead! by Matt Tressel"
 date = "2024-10-10T08:00:55-07:00"
 slug = "614-construction-ahead"
-tags = ["Chaos Construction", "Fog of War", "Killer Cages", "Other"]
+constraints = ["Chaos Construction", "Fog of War", "Killer Cages", "Other"]
 aliases = ["/614/"]
 +++
 

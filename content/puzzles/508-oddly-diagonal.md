@@ -2,7 +2,7 @@
 title = "Puzzle #508 - Oddly Diagonal by Jaze"
 date = "2024-06-18T08:00:27-07:00"
 slug = "508-oddly-diagonal"
-tags = ["Little Killer", "German Whispers"]
+constraints = ["Little Killer", "German Whispers"]
 aliases = ["/508/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #767 - Snail by Strosahl"
 date = "2025-03-15T08:01:02-07:00"
 slug = "767-snail"
-tags = ["Thermometers", "Variant"]
+constraints = ["Thermometers", "Variant"]
 aliases = ["/767/"]
 +++
 

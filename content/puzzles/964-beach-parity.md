@@ -2,7 +2,7 @@
 title = "Puzzle #964 - Beach Parity by gdc"
 date = "2025-10-07T11:37:06-07:00"
 slug = "964-beach-parity"
-tags = ["Even/Odd", "Other"]
+constraints = ["Even/Odd", "Other"]
 aliases = ["/964/"]
 +++
 

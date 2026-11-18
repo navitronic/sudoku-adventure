@@ -2,7 +2,7 @@
 title = "Puzzle #286 - Do bubbles dream of dualistic arrows? by Emphyrio"
 date = "2023-11-09T08:00:27-08:00"
 slug = "286-do-bubbles-dream-of-dualistic-arrows"
-tags = ["Doublers", "Arrows"]
+constraints = ["Doublers", "Arrows"]
 aliases = ["/286/"]
 +++
 

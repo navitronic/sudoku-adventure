@@ -2,7 +2,7 @@
 title = "Puzzle #679 - Matching Presents by Strosahl"
 date = "2024-12-14T08:00:07-08:00"
 slug = "679-matching-presents"
-tags = ["Clones"]
+constraints = ["Clones"]
 aliases = ["/679/"]
 +++
 

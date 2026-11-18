@@ -2,7 +2,7 @@
 title = "Puzzle #1013 - Seven Lines by sanabas"
 date = "2025-11-25T08:01:24-08:00"
 slug = "1013-seven-lines"
-tags = ["Other"]
+constraints = ["Other"]
 aliases = ["/1013/"]
 +++
 

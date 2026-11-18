@@ -2,7 +2,7 @@
 title = "Puzzle #831 - fortissississimo by rockratzero"
 date = "2025-05-19T12:34:41-07:00"
 slug = "831-fortissississimo"
-tags = ["Killer Cages"]
+constraints = ["Killer Cages"]
 aliases = ["/831/"]
 +++
 

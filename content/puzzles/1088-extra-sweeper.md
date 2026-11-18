@@ -2,7 +2,7 @@
 title = "Puzzle #1088 - Extra Sweeper by gdc"
 date = "2026-02-08T08:00:00-08:00"
 slug = "1088-extra-sweeper"
-tags = ["Extra Regions", "Other"]
+constraints = ["Extra Regions", "Other"]
 aliases = ["/1088/"]
 +++
 

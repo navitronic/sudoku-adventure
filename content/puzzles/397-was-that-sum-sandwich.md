@@ -2,7 +2,7 @@
 title = "Puzzle #397 - Was that Sum Sandwich? by randall"
 date = "2024-02-28T08:00:16-08:00"
 slug = "397-was-that-sum-sandwich"
-tags = ["Sandwich Sums", "X-Sums", "Variant"]
+constraints = ["Sandwich Sums", "X-Sums", "Variant"]
 aliases = ["/397/"]
 +++
 

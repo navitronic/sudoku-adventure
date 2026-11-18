@@ -2,7 +2,7 @@
 title = "Puzzle #455 - Entopical Circlation by gdc"
 date = "2024-04-26T08:00:16-07:00"
 slug = "455-entopical-circlation"
-tags = ["Kropki Pairs", "Other"]
+constraints = ["Kropki Pairs", "Other"]
 aliases = ["/455/"]
 +++
 

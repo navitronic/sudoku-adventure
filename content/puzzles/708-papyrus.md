@@ -2,7 +2,7 @@
 title = "Puzzle #708 - Papyrus by Gene"
 date = "2025-01-12T13:10:46-08:00"
 slug = "708-papyrus"
-tags = ["Arrows", "Entropic Lines"]
+constraints = ["Arrows", "Entropic Lines"]
 aliases = ["/708/"]
 +++
 

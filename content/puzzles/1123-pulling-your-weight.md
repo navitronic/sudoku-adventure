@@ -2,7 +2,7 @@
 title = "Puzzle #1123 - Pulling Your Weight by Matt Tressel"
 date = "2026-03-15T08:00:05-07:00"
 slug = "1123-pulling-your-weight"
-tags = ["Other"]
+constraints = ["Other"]
 aliases = ["/1123/"]
 +++
 

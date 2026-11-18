@@ -2,7 +2,7 @@
 title = "Puzzle #969 - Killer Instincts by randall"
 date = "2025-10-12T14:10:39-07:00"
 slug = "969-killer-instincts"
-tags = ["Killer Cages", "Parity Lines"]
+constraints = ["Killer Cages", "Parity Lines"]
 aliases = ["/969/"]
 +++
 

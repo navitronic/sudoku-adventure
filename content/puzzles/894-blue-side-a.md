@@ -2,7 +2,7 @@
 title = "Puzzle #894 - Blue Side A by ChinStrap"
 date = "2025-07-21T08:01:03-07:00"
 slug = "894-blue-side-a"
-tags = ["Region Sum Lines"]
+constraints = ["Region Sum Lines"]
 aliases = ["/894/"]
 +++
 

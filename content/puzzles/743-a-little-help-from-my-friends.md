@@ -2,7 +2,7 @@
 title = "Puzzle #743 - A Little Help From My Friends by ChinStrap"
 date = "2025-02-19T08:00:02-08:00"
 slug = "743-a-little-help-from-my-friends"
-tags = ["Killer Cages", "Other"]
+constraints = ["Killer Cages", "Other"]
 aliases = ["/743/"]
 +++
 

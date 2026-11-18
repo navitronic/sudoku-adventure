@@ -2,7 +2,7 @@
 title = "Puzzle #640 - Killers in the fog by randall"
 date = "2024-11-05T08:00:23-08:00"
 slug = "640-killers-in-the-fog"
-tags = ["Killer Cages", "Fog of War"]
+constraints = ["Killer Cages", "Fog of War"]
 aliases = ["/640/"]
 +++
 

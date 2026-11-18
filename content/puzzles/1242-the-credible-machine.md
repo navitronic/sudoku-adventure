@@ -2,7 +2,7 @@
 title = "Puzzle #1242 - The Credible Machine by Gene"
 date = "2026-07-16T08:00:36-07:00"
 slug = "1242-the-credible-machine"
-tags = ["Double Arrows"]
+constraints = ["Double Arrows"]
 aliases = ["/1242/"]
 +++
 

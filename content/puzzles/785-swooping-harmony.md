@@ -2,7 +2,7 @@
 title = "Puzzle #785 - Swooping Harmony by gdc"
 date = "2025-04-03T08:01:22-07:00"
 slug = "785-swooping-harmony"
-tags = ["Other", "Sweeper Clues"]
+constraints = ["Other", "Sweeper Clues"]
 aliases = ["/785/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #1293 - Reflection by Strosahl"
 date = "2026-09-05T14:48:58-07:00"
 slug = "1293-reflection"
-tags = ["XV", "Kropki Pairs"]
+constraints = ["XV", "Kropki Pairs"]
 aliases = ["/1293/"]
 +++
 

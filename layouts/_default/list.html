@@ -5,7 +5,7 @@
 <article>
   <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
   <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
-  {{ with .Params.tags }}<p>Constraints: {{ delimit . ", " }}</p>{{ end }}
+  {{ with .Params.constraints }}<p>Constraints: {{ delimit . ", " }}</p>{{ end }}
 </article>
 {{ else }}
 <p>No puzzles yet. Run the importer to add posts.</p>

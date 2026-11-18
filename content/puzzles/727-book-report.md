@@ -2,7 +2,7 @@
 title = "Puzzle #727 - Book Report by ChinStrap"
 date = "2025-01-31T08:00:40-08:00"
 slug = "727-book-report"
-tags = ["Indexing", "Other"]
+constraints = ["Indexing", "Other"]
 aliases = ["/727/"]
 +++
 

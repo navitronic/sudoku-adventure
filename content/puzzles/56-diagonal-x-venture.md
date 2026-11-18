@@ -2,7 +2,7 @@
 title = "Puzzle #56 - Diagonal X-Venture by rockratzero"
 date = "2023-03-16T08:00:13-07:00"
 slug = "56-diagonal-x-venture"
-tags = ["Diagonal"]
+constraints = ["Diagonal"]
 aliases = ["/56/"]
 +++
 

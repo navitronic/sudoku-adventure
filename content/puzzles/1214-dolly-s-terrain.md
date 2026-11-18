@@ -2,7 +2,7 @@
 title = "Puzzle #1214 - Dolly's Terrain by gdc"
 date = "2026-06-18T08:00:29-07:00"
 slug = "1214-dolly-s-terrain"
-tags = ["Region Sum Lines"]
+constraints = ["Region Sum Lines"]
 aliases = ["/1214/"]
 +++
 

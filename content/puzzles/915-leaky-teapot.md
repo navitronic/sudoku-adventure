@@ -2,7 +2,7 @@
 title = "Puzzle #915 - Leaky Teapot by Tony Zampini"
 date = "2025-08-20T09:16:57-07:00"
 slug = "915-leaky-teapot"
-tags = ["Modular Lines", "Kropki Pairs"]
+constraints = ["Modular Lines", "Kropki Pairs"]
 aliases = ["/915/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #789 - Scrabble F by Palfly Kampling"
 date = "2025-04-07T08:00:59-07:00"
 slug = "789-scrabble-f"
-tags = ["Parity Lines", "Other"]
+constraints = ["Parity Lines", "Other"]
 aliases = ["/789/"]
 +++
 

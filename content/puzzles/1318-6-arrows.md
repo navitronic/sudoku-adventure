@@ -2,7 +2,7 @@
 title = "Puzzle #1318 - 6 Arrows by James Kopp"
 date = "2026-09-30T08:00:30-07:00"
 slug = "1318-6-arrows"
-tags = ["Arrows"]
+constraints = ["Arrows"]
 aliases = ["/1318/"]
 +++
 

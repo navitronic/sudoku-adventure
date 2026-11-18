@@ -2,7 +2,7 @@
 title = "Puzzle #1035 - Peeking Snowman by gdc"
 date = "2025-12-17T08:00:02-08:00"
 slug = "1035-peeking-snowman"
-tags = ["Region Sum Lines", "Kropki", "Other"]
+constraints = ["Region Sum Lines", "Kropki", "Other"]
 aliases = ["/1035/"]
 +++
 

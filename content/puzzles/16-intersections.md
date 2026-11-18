@@ -2,7 +2,7 @@
 title = "Puzzle #16 - Intersections by AwesomeSauce"
 date = "2023-02-04T16:06:20-08:00"
 slug = "16-intersections"
-tags = ["Sequence Lines"]
+constraints = ["Sequence Lines"]
 aliases = ["/16/"]
 +++
 

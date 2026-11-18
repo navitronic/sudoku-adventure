@@ -2,7 +2,7 @@
 title = "Puzzle #1000 - Ode to \"tent en' ten\" by Rangsk"
 date = "2025-11-12T08:00:37-08:00"
 slug = "1000-ode-to-tent-en-ten"
-tags = ["Ten Lines"]
+constraints = ["Ten Lines"]
 aliases = ["/1000/"]
 +++
 

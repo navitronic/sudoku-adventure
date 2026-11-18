@@ -2,7 +2,7 @@
 title = "Puzzle #609 - Sweet Potato by Palfly Kampling"
 date = "2024-10-05T08:00:55-07:00"
 slug = "609-sweet-potato"
-tags = ["Other"]
+constraints = ["Other"]
 aliases = ["/609/"]
 +++
 

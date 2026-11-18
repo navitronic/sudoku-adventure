@@ -2,7 +2,7 @@
 title = "Puzzle #1108 - Doll House by Palfly Kampling"
 date = "2026-03-04T13:01:49-08:00"
 slug = "1108-doll-house"
-tags = ["Other"]
+constraints = ["Other"]
 aliases = ["/1108/"]
 +++
 

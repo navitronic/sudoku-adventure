@@ -2,7 +2,7 @@
 title = "Puzzle #651 - Relay by Riffclown"
 date = "2024-11-16T08:00:41-08:00"
 slug = "651-relay"
-tags = ["German Whispers"]
+constraints = ["German Whispers"]
 aliases = ["/651/"]
 +++
 

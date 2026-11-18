@@ -2,7 +2,7 @@
 title = "Puzzle #434 - Decimals by Palfly Kampling"
 date = "2024-04-05T08:00:36-07:00"
 slug = "434-decimals"
-tags = ["Counting Circles", "Between Lines"]
+constraints = ["Counting Circles", "Between Lines"]
 aliases = ["/434/"]
 +++
 

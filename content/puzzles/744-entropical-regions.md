@@ -2,7 +2,7 @@
 title = "Puzzle #744 - Entropical Regions by gdc"
 date = "2025-02-20T08:00:09-08:00"
 slug = "744-entropical-regions"
-tags = ["Region Sum Lines", "Entropic Lines"]
+constraints = ["Region Sum Lines", "Entropic Lines"]
 aliases = ["/744/"]
 +++
 

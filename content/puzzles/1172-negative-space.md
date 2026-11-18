@@ -2,7 +2,7 @@
 title = "Puzzle #1172 - Negative Space by Stuart Sharpe"
 date = "2026-05-07T08:01:10-07:00"
 slug = "1172-negative-space"
-tags = ["Arrows", "Kropki Pairs", "Dynamic Fog"]
+constraints = ["Arrows", "Kropki Pairs", "Dynamic Fog"]
 aliases = ["/1172/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #376 - Alps by Palfly Kampling"
 date = "2024-02-07T08:00:26-08:00"
 slug = "376-alps"
-tags = ["Fortress", "Entropic Lines"]
+constraints = ["Fortress", "Entropic Lines"]
 aliases = ["/376/"]
 +++
 

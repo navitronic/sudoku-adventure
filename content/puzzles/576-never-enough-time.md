@@ -2,7 +2,7 @@
 title = "Puzzle #576 - Never enough time by Palfly Kampling"
 date = "2024-08-25T10:25:39-07:00"
 slug = "576-never-enough-time"
-tags = ["Indexing", "Arrows"]
+constraints = ["Indexing", "Arrows"]
 aliases = ["/576/"]
 +++
 

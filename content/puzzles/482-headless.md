@@ -2,7 +2,7 @@
 title = "Puzzle #482 - Headless by Palfly Kampling"
 date = "2024-05-23T08:00:37-07:00"
 slug = "482-headless"
-tags = ["Renban Lines"]
+constraints = ["Renban Lines"]
 aliases = ["/482/"]
 +++
 

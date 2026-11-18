@@ -2,7 +2,7 @@
 title = "Puzzle #129 - Zig Zags by randall"
 date = "2023-06-05T08:00:14-07:00"
 slug = "129-zig-zags"
-tags = ["German Whispers", "Killer Cages"]
+constraints = ["German Whispers", "Killer Cages"]
 aliases = ["/129/"]
 +++
 

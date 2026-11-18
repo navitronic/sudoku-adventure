@@ -2,7 +2,7 @@
 title = "Puzzle #951 - Whirlx by Riffclown"
 date = "2025-09-24T08:00:57-07:00"
 slug = "951-whirlx"
-tags = ["Irregular", "Thermometers"]
+constraints = ["Irregular", "Thermometers"]
 aliases = ["/951/"]
 +++
 

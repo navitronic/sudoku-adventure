@@ -2,7 +2,7 @@
 title = "Puzzle #190 - Battlefield Adventure by Fraπ"
 date = "2023-08-05T08:00:02-07:00"
 slug = "190-battlefield-adventure"
-tags = ["Other"]
+constraints = ["Other"]
 aliases = ["/190/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #1345 - Dual Digits by PjoeterBliep"
 date = "2026-10-27T08:00:22-07:00"
 slug = "1345-dual-digits"
-tags = ["Thermometers", "Modular Lines"]
+constraints = ["Thermometers", "Modular Lines"]
 aliases = ["/1345/"]
 +++
 

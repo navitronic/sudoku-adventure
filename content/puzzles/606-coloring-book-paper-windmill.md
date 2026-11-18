@@ -2,7 +2,7 @@
 title = "Puzzle #606 - Coloring Book: Paper Windmill by Emphyrio"
 date = "2024-10-02T08:00:25-07:00"
 slug = "606-coloring-book-paper-windmill"
-tags = ["Irregular", "Arrows", "Kropki Pairs"]
+constraints = ["Irregular", "Arrows", "Kropki Pairs"]
 aliases = ["/606/"]
 +++
 

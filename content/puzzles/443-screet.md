@@ -2,7 +2,7 @@
 title = "Puzzle #443 - Screet by ZegreS"
 date = "2024-04-14T08:00:35-07:00"
 slug = "443-screet"
-tags = ["Arrows", "Killer Cages"]
+constraints = ["Arrows", "Killer Cages"]
 aliases = ["/443/"]
 +++
 

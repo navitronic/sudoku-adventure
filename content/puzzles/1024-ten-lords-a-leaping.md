@@ -2,7 +2,7 @@
 title = "Puzzle #1024 - Ten Lords A-Leaping by Matt Tressel"
 date = "2025-12-06T08:32:59-08:00"
 slug = "1024-ten-lords-a-leaping"
-tags = ["Up to N sums to 10"]
+constraints = ["Up to N sums to 10"]
 aliases = ["/1024/"]
 +++
 

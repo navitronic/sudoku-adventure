@@ -2,7 +2,7 @@
 title = "Puzzle #369 - Sudoku Pox by Fraπ"
 date = "2024-01-31T08:00:37-08:00"
 slug = "369-sudoku-pox"
-tags = ["Irregular", "Renban Lines", "Other"]
+constraints = ["Irregular", "Renban Lines", "Other"]
 aliases = ["/369/"]
 +++
 

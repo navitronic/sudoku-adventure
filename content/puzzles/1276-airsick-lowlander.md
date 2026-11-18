@@ -2,7 +2,7 @@
 title = "Puzzle #1276 - Airsick Lowlander by Calvinball"
 date = "2026-08-19T08:00:24-07:00"
 slug = "1276-airsick-lowlander"
-tags = ["Killer Cages", "Diagonal"]
+constraints = ["Killer Cages", "Diagonal"]
 aliases = ["/1276/"]
 +++
 

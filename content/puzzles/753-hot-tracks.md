@@ -2,7 +2,7 @@
 title = "Puzzle #753 - Hot Tracks by gdc"
 date = "2025-03-01T08:00:11-08:00"
 slug = "753-hot-tracks"
-tags = ["Doublers", "Variant", "Killer Cages", "Other"]
+constraints = ["Doublers", "Variant", "Killer Cages", "Other"]
 aliases = ["/753/"]
 +++
 

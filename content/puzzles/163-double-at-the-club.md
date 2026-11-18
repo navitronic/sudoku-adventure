@@ -2,7 +2,7 @@
 title = "Puzzle #163 - Double at the Club by randall"
 date = "2023-07-09T08:00:17-07:00"
 slug = "163-double-at-the-club"
-tags = ["Kropki Pairs", "Sandwich Sums"]
+constraints = ["Kropki Pairs", "Sandwich Sums"]
 aliases = ["/163/"]
 +++
 

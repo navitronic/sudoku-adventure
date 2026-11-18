@@ -2,7 +2,7 @@
 title = "Puzzle #142 - Orbitals by Awesomesauce"
 date = "2023-06-18T08:00:06-07:00"
 slug = "142-orbitals"
-tags = ["Parity Lines", "Sweeper Clues"]
+constraints = ["Parity Lines", "Sweeper Clues"]
 aliases = ["/142/"]
 +++
 

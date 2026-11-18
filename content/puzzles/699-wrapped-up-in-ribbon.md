@@ -2,7 +2,7 @@
 title = "Puzzle #699 - Wrapped up in Ribbon by Strosahl"
 date = "2025-01-03T08:01:01-08:00"
 slug = "699-wrapped-up-in-ribbon"
-tags = ["Little Killer"]
+constraints = ["Little Killer"]
 aliases = ["/699/"]
 +++
 

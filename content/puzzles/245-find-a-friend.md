@@ -2,7 +2,7 @@
 title = "Puzzle #245 - Find a Friend by Toir"
 date = "2023-09-29T08:00:43-07:00"
 slug = "245-find-a-friend"
-tags = ["Indexing", "Other"]
+constraints = ["Indexing", "Other"]
 aliases = ["/245/"]
 +++
 

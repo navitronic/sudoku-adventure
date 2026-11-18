@@ -2,7 +2,7 @@
 title = "Puzzle #1058 - Slanted Rooms by Strosahl"
 date = "2026-01-09T08:00:58-08:00"
 slug = "1058-slanted-rooms"
-tags = ["Numbered Rooms", "Other"]
+constraints = ["Numbered Rooms", "Other"]
 aliases = ["/1058/"]
 +++
 

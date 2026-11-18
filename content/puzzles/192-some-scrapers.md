@@ -2,7 +2,7 @@
 title = "Puzzle #192 - Some 'scrapers! by randall"
 date = "2023-08-07T08:00:18-07:00"
 slug = "192-some-scrapers"
-tags = ["Skyscrapers", "Variant"]
+constraints = ["Skyscrapers", "Variant"]
 aliases = ["/192/"]
 +++
 

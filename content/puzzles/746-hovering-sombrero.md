@@ -2,7 +2,7 @@
 title = "Puzzle #746 - Hovering Sombrero by Gene"
 date = "2025-02-22T08:01:01-08:00"
 slug = "746-hovering-sombrero"
-tags = ["Palindrome Lines", "Kropki Pairs"]
+constraints = ["Palindrome Lines", "Kropki Pairs"]
 aliases = ["/746/"]
 +++
 

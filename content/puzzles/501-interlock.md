@@ -2,7 +2,7 @@
 title = "Puzzle #501 - Interlock by Riffclown"
 date = "2024-06-11T08:00:56-07:00"
 slug = "501-interlock"
-tags = ["Between Lines", "Kropki Pairs"]
+constraints = ["Between Lines", "Kropki Pairs"]
 aliases = ["/501/"]
 +++
 

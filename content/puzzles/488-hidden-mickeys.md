@@ -2,7 +2,7 @@
 title = "Puzzle #488 - Hidden Mickeys by rockratzero"
 date = "2024-05-29T08:00:44-07:00"
 slug = "488-hidden-mickeys"
-tags = ["Kropki Pairs", "Quadruples"]
+constraints = ["Kropki Pairs", "Quadruples"]
 aliases = ["/488/"]
 +++
 

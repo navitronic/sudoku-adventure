@@ -2,7 +2,7 @@
 title = "Puzzle #20 - Mini-Towers by dumediat"
 date = "2023-02-08T08:00:38-08:00"
 slug = "20-mini-towers"
-tags = ["Skyscrapers"]
+constraints = ["Skyscrapers"]
 aliases = ["/20/"]
 +++
 

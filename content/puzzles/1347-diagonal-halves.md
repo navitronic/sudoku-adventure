@@ -2,7 +2,7 @@
 title = "Puzzle #1347 - Diagonal Halves by James Kopp"
 date = "2026-10-29T08:00:19-07:00"
 slug = "1347-diagonal-halves"
-tags = ["Diagonal Sums"]
+constraints = ["Diagonal Sums"]
 aliases = ["/1347/"]
 +++
 

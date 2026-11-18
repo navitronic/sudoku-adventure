@@ -2,7 +2,7 @@
 title = "Puzzle #593 - Grand Line First Half by Emphyrio"
 date = "2024-09-11T08:00:34-07:00"
 slug = "593-grand-line-first-half"
-tags = ["Other"]
+constraints = ["Other"]
 aliases = ["/593/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #611 - Not This Way Out by gdc"
 date = "2024-10-07T08:00:59-07:00"
 slug = "611-not-this-way-out"
-tags = ["Chaos Construction", "Other", "Extra Regions"]
+constraints = ["Chaos Construction", "Other", "Extra Regions"]
 aliases = ["/611/"]
 +++
 

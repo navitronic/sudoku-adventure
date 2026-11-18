@@ -2,7 +2,7 @@
 title = "Puzzle #837 - Li'l Odd by Riffclown"
 date = "2025-05-25T08:00:41-07:00"
 slug = "837-li-l-odd"
-tags = ["Irregular", "Renban Lines"]
+constraints = ["Irregular", "Renban Lines"]
 aliases = ["/837/"]
 +++
 

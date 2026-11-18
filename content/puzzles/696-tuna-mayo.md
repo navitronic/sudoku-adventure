@@ -2,7 +2,7 @@
 title = "Puzzle #696 - Tuna Mayo by randall"
 date = "2024-12-31T08:05:13-08:00"
 slug = "696-tuna-mayo"
-tags = ["Sandwich Sums", "Kropki Pairs"]
+constraints = ["Sandwich Sums", "Kropki Pairs"]
 aliases = ["/696/"]
 +++
 

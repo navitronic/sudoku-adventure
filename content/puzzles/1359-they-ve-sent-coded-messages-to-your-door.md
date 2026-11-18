@@ -2,7 +2,7 @@
 title = "Puzzle #1359 - They've sent Coded Messages to Your Door by PjoeterBliep"
 date = "2026-11-10T08:00:20-08:00"
 slug = "1359-they-ve-sent-coded-messages-to-your-door"
-tags = ["Cipher", "Numbered Rooms", "QuatroQuadri", "Killer Cages"]
+constraints = ["Cipher", "Numbered Rooms", "QuatroQuadri", "Killer Cages"]
 aliases = ["/1359/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #616 - Xhaos by Strosahl"
 date = "2024-10-12T08:00:30-07:00"
 slug = "616-xhaos"
-tags = ["Chaos Construction", "X-Sums"]
+constraints = ["Chaos Construction", "X-Sums"]
 aliases = ["/616/"]
 +++
 

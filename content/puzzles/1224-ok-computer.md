@@ -2,7 +2,7 @@
 title = "Puzzle #1224 - OK Computer by James Kopp"
 date = "2026-06-28T08:00:19-07:00"
 slug = "1224-ok-computer"
-tags = ["German Whispers"]
+constraints = ["German Whispers"]
 aliases = ["/1224/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #1006 - Approximately by Strosahl"
 date = "2025-11-18T08:00:23-08:00"
 slug = "1006-approximately"
-tags = ["Odd/Even", "Killer"]
+constraints = ["Odd/Even", "Killer"]
 aliases = ["/1006/"]
 +++
 

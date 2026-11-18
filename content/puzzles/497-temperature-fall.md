@@ -2,7 +2,7 @@
 title = "Puzzle #497 - Temperature Fall by Jaze"
 date = "2024-06-07T08:00:04-07:00"
 slug = "497-temperature-fall"
-tags = ["Thermometers", "Referenced Lines"]
+constraints = ["Thermometers", "Referenced Lines"]
 aliases = ["/497/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #793 - Uncertainty by Matt Tressel"
 date = "2025-04-11T08:01:10-07:00"
 slug = "793-uncertainty"
-tags = ["Region Sum Lines", "Renban Lines"]
+constraints = ["Region Sum Lines", "Renban Lines"]
 aliases = ["/793/"]
 +++
 

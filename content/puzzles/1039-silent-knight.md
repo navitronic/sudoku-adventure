@@ -2,7 +2,7 @@
 title = "Puzzle #1039 - Silent Knight by Strosahl"
 date = "2025-12-21T08:00:39-08:00"
 slug = "1039-silent-knight"
-tags = ["Anti-Knight"]
+constraints = ["Anti-Knight"]
 aliases = ["/1039/"]
 +++
 

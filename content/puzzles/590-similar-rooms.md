@@ -2,7 +2,7 @@
 title = "Puzzle #590 - Similar Rooms by Strosahl"
 date = "2024-09-08T14:18:28-07:00"
 slug = "590-similar-rooms"
-tags = ["Numbered Rooms", "Clones"]
+constraints = ["Numbered Rooms", "Clones"]
 aliases = ["/590/"]
 +++
 

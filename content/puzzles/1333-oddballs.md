@@ -2,7 +2,7 @@
 title = "Puzzle #1333 - Oddballs by PjoeterBliep"
 date = "2026-10-15T08:00:12-07:00"
 slug = "1333-oddballs"
-tags = ["Kropki Pairs", "Even/Odd"]
+constraints = ["Kropki Pairs", "Even/Odd"]
 aliases = ["/1333/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #671 - St. Nikolaus by Palfly Kampling"
 date = "2024-12-09T00:02:46-08:00"
 slug = "671-st-nikolaus"
-tags = ["Killer Cages", "Variant", "Other"]
+constraints = ["Killer Cages", "Variant", "Other"]
 aliases = ["/671/"]
 +++
 

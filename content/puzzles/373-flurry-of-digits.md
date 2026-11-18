@@ -2,7 +2,7 @@
 title = "Puzzle #373 - Flurry of Digits by Jaze"
 date = "2024-02-04T08:00:37-08:00"
 slug = "373-flurry-of-digits"
-tags = ["Entropic Lines", "Arrows"]
+constraints = ["Entropic Lines", "Arrows"]
 aliases = ["/373/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #165 - Tendrils by MicroStudy"
 date = "2023-07-11T10:00:14-07:00"
 slug = "165-tendrils"
-tags = ["Ten Lines", "Variant"]
+constraints = ["Ten Lines", "Variant"]
 aliases = ["/165/"]
 +++
 

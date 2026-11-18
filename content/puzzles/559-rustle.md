@@ -2,7 +2,7 @@
 title = "Puzzle #559 - RuStLe by Riffclown"
 date = "2024-08-08T08:00:01-07:00"
 slug = "559-rustle"
-tags = ["Region Sum Lines", "Irregular"]
+constraints = ["Region Sum Lines", "Irregular"]
 aliases = ["/559/"]
 +++
 

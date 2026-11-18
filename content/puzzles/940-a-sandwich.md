@@ -2,7 +2,7 @@
 title = "Puzzle #940 - \"A\" Sandwich by Strosahl"
 date = "2025-09-13T22:07:17-07:00"
 slug = "940-a-sandwich"
-tags = ["Sandwich"]
+constraints = ["Sandwich"]
 aliases = ["/940/"]
 +++
 

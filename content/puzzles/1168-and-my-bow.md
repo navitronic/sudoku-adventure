@@ -2,7 +2,7 @@
 title = "Puzzle #1168 - And My Bow by ChinStrap"
 date = "2026-05-03T08:01:23-07:00"
 slug = "1168-and-my-bow"
-tags = ["Between Lines", "Arrows"]
+constraints = ["Between Lines", "Arrows"]
 aliases = ["/1168/"]
 +++
 

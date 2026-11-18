@@ -2,7 +2,7 @@
 title = "Puzzle #723 - Erwin! by gdc"
 date = "2025-01-27T08:00:35-08:00"
 slug = "723-erwin"
-tags = ["Other", "Killer Cages"]
+constraints = ["Other", "Killer Cages"]
 aliases = ["/723/"]
 +++
 

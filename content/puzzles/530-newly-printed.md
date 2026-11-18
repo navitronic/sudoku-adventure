@@ -2,7 +2,7 @@
 title = "Puzzle #530 - Newly Printed by Toir"
 date = "2024-07-10T08:00:38-07:00"
 slug = "530-newly-printed"
-tags = ["Other"]
+constraints = ["Other"]
 aliases = ["/530/"]
 +++
 

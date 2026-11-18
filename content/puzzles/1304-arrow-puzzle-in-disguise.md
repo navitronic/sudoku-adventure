@@ -2,7 +2,7 @@
 title = "Puzzle #1304 - Arrow Puzzle in Disguise by Calvinball"
 date = "2026-09-16T08:00:23-07:00"
 slug = "1304-arrow-puzzle-in-disguise"
-tags = ["Region Sum Lines", "Little Killer"]
+constraints = ["Region Sum Lines", "Little Killer"]
 aliases = ["/1304/"]
 +++
 

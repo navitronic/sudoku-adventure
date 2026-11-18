@@ -2,7 +2,7 @@
 title = "Puzzle #217 - Adventure on the rocks by Fraπ"
 date = "2023-09-01T08:00:26-07:00"
 slug = "217-adventure-on-the-rocks"
-tags = ["Killer Cages", "Variant"]
+constraints = ["Killer Cages", "Variant"]
 aliases = ["/217/"]
 +++
 

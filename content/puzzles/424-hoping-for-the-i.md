@@ -2,7 +2,7 @@
 title = "Puzzle #424 - Hoping for the I by gdc"
 date = "2024-03-26T08:00:44-07:00"
 slug = "424-hoping-for-the-i"
-tags = ["Region Sum Lines"]
+constraints = ["Region Sum Lines"]
 aliases = ["/424/"]
 +++
 

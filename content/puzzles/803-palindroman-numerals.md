@@ -2,7 +2,7 @@
 title = "Puzzle #803 - Palindroman Numerals by Matt Tressel"
 date = "2025-04-21T08:00:58-07:00"
 slug = "803-palindroman-numerals"
-tags = ["Palindrome Lines", "XV"]
+constraints = ["Palindrome Lines", "XV"]
 aliases = ["/803/"]
 +++
 

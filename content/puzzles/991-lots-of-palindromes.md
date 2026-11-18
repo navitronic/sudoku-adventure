@@ -2,7 +2,7 @@
 title = "Puzzle #991 - Lots Of Palindromes by gdc"
 date = "2025-11-03T08:00:19-08:00"
 slug = "991-lots-of-palindromes"
-tags = ["Palindromes", "Other"]
+constraints = ["Palindromes", "Other"]
 aliases = ["/991/"]
 +++
 

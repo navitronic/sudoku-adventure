@@ -2,7 +2,7 @@
 title = "Puzzle #877 - The Jewel by Stuart Sharpe"
 date = "2025-07-04T08:00:30-07:00"
 slug = "877-the-jewel"
-tags = ["Polarity Lines"]
+constraints = ["Polarity Lines"]
 aliases = ["/877/"]
 +++
 

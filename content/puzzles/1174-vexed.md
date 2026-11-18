@@ -2,7 +2,7 @@
 title = "Puzzle #1174 - VeXed by SennyK"
 date = "2026-05-09T08:00:55-07:00"
 slug = "1174-vexed"
-tags = ["Doublers", "XV"]
+constraints = ["Doublers", "XV"]
 aliases = ["/1174/"]
 +++
 

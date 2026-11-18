@@ -2,7 +2,7 @@
 title = "Puzzle #1300 - Stranger Counting by PjoeterBliep"
 date = "2026-09-12T08:00:33-07:00"
 slug = "1300-stranger-counting"
-tags = ["Other"]
+constraints = ["Other"]
 aliases = ["/1300/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #1047 - Scratches by ChinStrap"
 date = "2025-12-29T08:00:45-08:00"
 slug = "1047-scratches"
-tags = ["Palindromes", "Numbered Rooms"]
+constraints = ["Palindromes", "Numbered Rooms"]
 aliases = ["/1047/"]
 +++
 

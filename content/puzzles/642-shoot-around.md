@@ -2,7 +2,7 @@
 title = "Puzzle #642 - Shoot Around by Strosahl"
 date = "2024-11-07T08:00:35-08:00"
 slug = "642-shoot-around"
-tags = ["Arrows", "Killer Cages"]
+constraints = ["Arrows", "Killer Cages"]
 aliases = ["/642/"]
 +++
 

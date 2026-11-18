@@ -2,7 +2,7 @@
 title = "Puzzle #589 - Circular Reference by gdc"
 date = "2024-09-08T14:13:56-07:00"
 slug = "589-circular-reference"
-tags = ["Numbered Rooms", "Counting Circles"]
+constraints = ["Numbered Rooms", "Counting Circles"]
 aliases = ["/589/"]
 +++
 

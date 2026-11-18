@@ -2,7 +2,7 @@
 title = "Puzzle #1010 - En Garde! by PjoeterBliep"
 date = "2025-11-22T08:01:16-08:00"
 slug = "1010-en-garde"
-tags = ["Japanese Sums"]
+constraints = ["Japanese Sums"]
 aliases = ["/1010/"]
 +++
 

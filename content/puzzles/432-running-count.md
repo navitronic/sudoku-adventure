@@ -2,7 +2,7 @@
 title = "Puzzle #432 - Running Count by ZegreS"
 date = "2024-04-03T08:00:35-07:00"
 slug = "432-running-count"
-tags = ["Counting Circles", "Killer Cages"]
+constraints = ["Counting Circles", "Killer Cages"]
 aliases = ["/432/"]
 +++
 

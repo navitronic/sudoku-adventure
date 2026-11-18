@@ -2,7 +2,7 @@
 title = "Puzzle #1018 - Chilly 'raps by randall"
 date = "2025-11-30T08:01:08-08:00"
 slug = "1018-chilly-raps"
-tags = ["Other"]
+constraints = ["Other"]
 aliases = ["/1018/"]
 +++
 

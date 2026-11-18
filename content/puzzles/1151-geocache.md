@@ -2,7 +2,7 @@
 title = "Puzzle #1151 - GeoCache by Riffclown"
 date = "2026-04-16T08:00:35-07:00"
 slug = "1151-geocache"
-tags = ["Renban Lines"]
+constraints = ["Renban Lines"]
 aliases = ["/1151/"]
 +++
 

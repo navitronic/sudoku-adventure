@@ -2,7 +2,7 @@
 title = "Puzzle #856 - Quads! by Strosahl"
 date = "2025-06-13T08:00:01-07:00"
 slug = "856-quads"
-tags = ["Quadruples"]
+constraints = ["Quadruples"]
 aliases = ["/856/"]
 +++
 

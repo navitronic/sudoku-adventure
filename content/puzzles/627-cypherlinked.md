@@ -2,7 +2,7 @@
 title = "Puzzle #627 - Cypherlinked by gdc"
 date = "2024-10-23T08:01:10-07:00"
 slug = "627-cypherlinked"
-tags = ["Kropki Pairs", "Variant", "Other"]
+constraints = ["Kropki Pairs", "Variant", "Other"]
 aliases = ["/627/"]
 +++
 

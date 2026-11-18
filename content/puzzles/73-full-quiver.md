@@ -2,7 +2,7 @@
 title = "Puzzle #73 - Full Quiver by DJV"
 date = "2023-04-02T08:00:00-07:00"
 slug = "73-full-quiver"
-tags = ["Arrows", "Variant"]
+constraints = ["Arrows", "Variant"]
 aliases = ["/73/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #88 - I R Egular by riffclown"
 date = "2023-04-25T08:00:22-07:00"
 slug = "88-i-r-egular"
-tags = ["Irregular", "Arrows"]
+constraints = ["Irregular", "Arrows"]
 aliases = ["/88/"]
 +++
 

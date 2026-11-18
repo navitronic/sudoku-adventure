@@ -2,7 +2,7 @@
 title = "Puzzle #544 - Static by Teal"
 date = "2024-07-24T08:00:32-07:00"
 slug = "544-static"
-tags = ["Region Sum Lines"]
+constraints = ["Region Sum Lines"]
 aliases = ["/544/"]
 +++
 

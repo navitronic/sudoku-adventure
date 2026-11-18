@@ -2,7 +2,7 @@
 title = "Puzzle #571 - Double Trouble by Teal"
 date = "2024-08-20T08:00:20-07:00"
 slug = "571-double-trouble"
-tags = ["Killer Cages", "Doublers"]
+constraints = ["Killer Cages", "Doublers"]
 aliases = ["/571/"]
 +++
 

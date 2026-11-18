@@ -2,7 +2,7 @@
 title = "Puzzle #1149 - Brötchen by SennyK"
 date = "2026-04-14T08:01:22-07:00"
 slug = "1149-brotchen"
-tags = ["Sandwich Sums", "Other"]
+constraints = ["Sandwich Sums", "Other"]
 aliases = ["/1149/"]
 +++
 

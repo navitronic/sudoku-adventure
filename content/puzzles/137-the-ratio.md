@@ -2,7 +2,7 @@
 title = "Puzzle #137 - The Ratio by rockratzero"
 date = "2023-06-13T08:00:34-07:00"
 slug = "137-the-ratio"
-tags = ["Renban Lines", "Kropki Pairs", "Quadruples"]
+constraints = ["Renban Lines", "Kropki Pairs", "Quadruples"]
 aliases = ["/137/"]
 +++
 

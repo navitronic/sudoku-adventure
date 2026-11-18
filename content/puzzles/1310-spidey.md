@@ -2,7 +2,7 @@
 title = "Puzzle #1310 - Spidey by SennyK"
 date = "2026-09-22T08:00:36-07:00"
 slug = "1310-spidey"
-tags = ["Arrows", "Double Arrows"]
+constraints = ["Arrows", "Double Arrows"]
 aliases = ["/1310/"]
 +++
 

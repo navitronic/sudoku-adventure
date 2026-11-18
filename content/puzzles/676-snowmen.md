@@ -2,7 +2,7 @@
 title = "Puzzle #676 - Snowmen by Palfly Kampling"
 date = "2024-12-11T08:00:48-08:00"
 slug = "676-snowmen"
-tags = ["Kropki Pairs", "Quadruples", "Renban Lines"]
+constraints = ["Kropki Pairs", "Quadruples", "Renban Lines"]
 aliases = ["/676/"]
 +++
 

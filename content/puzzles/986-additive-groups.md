@@ -2,7 +2,7 @@
 title = "Puzzle #986 - Additive Groups by gdc"
 date = "2025-10-29T08:00:16-07:00"
 slug = "986-additive-groups"
-tags = ["Other"]
+constraints = ["Other"]
 aliases = ["/986/"]
 +++
 

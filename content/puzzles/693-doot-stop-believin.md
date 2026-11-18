@@ -2,7 +2,7 @@
 title = "Puzzle #693 - Doot Stop Believin by gdc"
 date = "2024-12-28T08:00:40-08:00"
 slug = "693-doot-stop-believin"
-tags = ["Kropki Pairs", "Variant"]
+constraints = ["Kropki Pairs", "Variant"]
 aliases = ["/693/"]
 +++
 

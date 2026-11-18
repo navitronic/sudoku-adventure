@@ -2,7 +2,7 @@
 title = "Puzzle #619 - Venetian Scenery by rockratzero"
 date = "2024-10-15T08:01:08-07:00"
 slug = "619-venetian-scenery"
-tags = ["Other"]
+constraints = ["Other"]
 aliases = ["/619/"]
 +++
 

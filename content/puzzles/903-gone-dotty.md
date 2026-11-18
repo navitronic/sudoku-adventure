@@ -2,7 +2,7 @@
 title = "Puzzle #903 - Gone Dotty by Stuart Sharpe"
 date = "2025-07-30T08:00:52-07:00"
 slug = "903-gone-dotty"
-tags = ["Kropki Pairs", "Fog of War"]
+constraints = ["Kropki Pairs", "Fog of War"]
 aliases = ["/903/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #741 - Renban Revolution by Matt Tressel"
 date = "2025-02-17T08:00:26-08:00"
 slug = "741-renban-revolution"
-tags = ["Other", "Renban Lines"]
+constraints = ["Other", "Renban Lines"]
 aliases = ["/741/"]
 +++
 

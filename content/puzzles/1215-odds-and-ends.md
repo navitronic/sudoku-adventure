@@ -2,7 +2,7 @@
 title = "Puzzle #1215 - Odds and Ends by Matt Tressel"
 date = "2026-06-19T08:00:11-07:00"
 slug = "1215-odds-and-ends"
-tags = ["Double Arrows", "Even/Odd"]
+constraints = ["Double Arrows", "Even/Odd"]
 aliases = ["/1215/"]
 +++
 

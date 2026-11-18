@@ -2,7 +2,7 @@
 title = "Puzzle #1066 - Somedoku is Dotty by sanabas"
 date = "2026-01-17T08:00:21-08:00"
 slug = "1066-somedoku-is-dotty"
-tags = ["Kropki Pairs", "Other"]
+constraints = ["Kropki Pairs", "Other"]
 aliases = ["/1066/"]
 +++
 

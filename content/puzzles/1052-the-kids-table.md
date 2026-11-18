@@ -2,7 +2,7 @@
 title = "Puzzle #1052 - The Kids' Table by Strosahl"
 date = "2026-01-03T08:01:18-08:00"
 slug = "1052-the-kids-table"
-tags = ["Kropki", "Odd/Even"]
+constraints = ["Kropki", "Odd/Even"]
 aliases = ["/1052/"]
 +++
 

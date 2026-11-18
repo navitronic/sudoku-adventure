@@ -2,7 +2,7 @@
 title = "Puzzle #484 - Entropic Wonders by Jaze"
 date = "2024-05-25T08:00:14-07:00"
 slug = "484-entropic-wonders"
-tags = ["Entropic Lines", "Referenced Lines"]
+constraints = ["Entropic Lines", "Referenced Lines"]
 aliases = ["/484/"]
 +++
 

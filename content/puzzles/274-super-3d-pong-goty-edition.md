@@ -2,7 +2,7 @@
 title = "Puzzle #274 - Super 3D Pong  GOTY Edition+ by Fraπ"
 date = "2023-10-28T08:00:17-07:00"
 slug = "274-super-3d-pong-goty-edition"
-tags = ["Region Sum Lines", "Kropki Pairs"]
+constraints = ["Region Sum Lines", "Kropki Pairs"]
 aliases = ["/274/"]
 +++
 

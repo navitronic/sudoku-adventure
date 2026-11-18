@@ -2,7 +2,7 @@
 title = "Puzzle #1031 - Journey to Egypt by Strosahl"
 date = "2025-12-13T12:27:18-08:00"
 slug = "1031-journey-to-egypt"
-tags = ["Sandwich Sums", "Other"]
+constraints = ["Sandwich Sums", "Other"]
 aliases = ["/1031/"]
 +++
 

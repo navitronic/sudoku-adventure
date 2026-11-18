@@ -2,7 +2,7 @@
 title = "Puzzle #1313 - King in my Castle by PjoeterBliep"
 date = "2026-09-25T08:00:39-07:00"
 slug = "1313-king-in-my-castle"
-tags = ["Irregular", "Anti-King", "Fortress"]
+constraints = ["Irregular", "Anti-King", "Fortress"]
 aliases = ["/1313/"]
 +++
 

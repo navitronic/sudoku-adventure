@@ -2,7 +2,7 @@
 title = "Puzzle #822 - On the Horizon by Matt Tressel"
 date = "2025-05-10T08:00:18-07:00"
 slug = "822-on-the-horizon"
-tags = ["Skyscrapers", "Other"]
+constraints = ["Skyscrapers", "Other"]
 aliases = ["/822/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #228 - Spots by zetamath"
 date = "2023-09-12T08:00:33-07:00"
 slug = "228-spots"
-tags = ["Kropki Pairs"]
+constraints = ["Kropki Pairs"]
 aliases = ["/228/"]
 +++
 

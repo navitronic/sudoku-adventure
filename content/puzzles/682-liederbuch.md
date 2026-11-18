@@ -2,7 +2,7 @@
 title = "Puzzle #682 - Liederbuch by Palfly Kampling"
 date = "2024-12-17T08:00:52-08:00"
 slug = "682-liederbuch"
-tags = ["Chinese Whispers"]
+constraints = ["Chinese Whispers"]
 aliases = ["/682/"]
 +++
 

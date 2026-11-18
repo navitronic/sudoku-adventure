@@ -2,7 +2,7 @@
 title = "Puzzle #683 - Lump Of Coal by Gene"
 date = "2024-12-18T08:00:39-08:00"
 slug = "683-lump-of-coal"
-tags = ["Kropki Dots", "Other"]
+constraints = ["Kropki Dots", "Other"]
 aliases = ["/683/"]
 +++
 

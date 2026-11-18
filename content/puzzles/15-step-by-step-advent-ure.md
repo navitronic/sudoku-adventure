@@ -2,7 +2,7 @@
 title = "Puzzle #15 - Step by Step Advent-ure by Emphyrio"
 date = "2023-02-03T08:00:31-08:00"
 slug = "15-step-by-step-advent-ure"
-tags = ["Killer Cages", "Kropki Pairs"]
+constraints = ["Killer Cages", "Kropki Pairs"]
 aliases = ["/15/"]
 +++
 

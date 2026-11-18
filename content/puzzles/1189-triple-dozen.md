@@ -2,7 +2,7 @@
 title = "Puzzle #1189 - Triple Dozen by Strosahl"
 date = "2026-05-24T08:00:38-07:00"
 slug = "1189-triple-dozen"
-tags = ["Thermometers"]
+constraints = ["Thermometers"]
 aliases = ["/1189/"]
 +++
 

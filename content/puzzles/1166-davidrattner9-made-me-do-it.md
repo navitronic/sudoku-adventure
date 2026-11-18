@@ -2,7 +2,7 @@
 title = "Puzzle #1166 - davidrattner9 Made Me Do It by Calvinball"
 date = "2026-05-01T08:01:42-07:00"
 slug = "1166-davidrattner9-made-me-do-it"
-tags = ["Lockout Lines", "Ten Lines"]
+constraints = ["Lockout Lines", "Ten Lines"]
 aliases = ["/1166/"]
 +++
 

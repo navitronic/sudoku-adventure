@@ -2,7 +2,7 @@
 title = "Puzzle #637 - A Chat With The Bat by gdc"
 date = "2024-11-02T08:00:08-07:00"
 slug = "637-a-chat-with-the-bat"
-tags = ["Parity Lines", "Region Sum Lines", "Kropki Pairs"]
+constraints = ["Parity Lines", "Region Sum Lines", "Kropki Pairs"]
 aliases = ["/637/"]
 +++
 

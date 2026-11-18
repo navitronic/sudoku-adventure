@@ -2,7 +2,7 @@
 title = "Puzzle #65 - Yin Yang Adventure by DJV"
 date = "2023-03-25T08:00:30-07:00"
 slug = "65-yin-yang-adventure"
-tags = ["Other", "Killer Cages", "Variant"]
+constraints = ["Other", "Killer Cages", "Variant"]
 aliases = ["/65/"]
 +++
 

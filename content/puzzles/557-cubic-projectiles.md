@@ -2,7 +2,7 @@
 title = "Puzzle #557 - Cubic Projectiles by rockratzero"
 date = "2024-08-06T08:00:51-07:00"
 slug = "557-cubic-projectiles"
-tags = ["Region Sum Lines", "Arrows", "Even/Odd"]
+constraints = ["Region Sum Lines", "Arrows", "Even/Odd"]
 aliases = ["/557/"]
 +++
 

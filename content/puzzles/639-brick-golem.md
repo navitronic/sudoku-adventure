@@ -2,7 +2,7 @@
 title = "Puzzle #639 - Brick Golem by rockratzero"
 date = "2024-11-04T08:00:10-08:00"
 slug = "639-brick-golem"
-tags = ["Killer Cages"]
+constraints = ["Killer Cages"]
 aliases = ["/639/"]
 +++
 

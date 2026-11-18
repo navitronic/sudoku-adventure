@@ -2,7 +2,7 @@
 title = "Puzzle #703 - Whizzzzzpers by Wuschel"
 date = "2025-01-07T08:59:42-08:00"
 slug = "703-whizzzzzpers"
-tags = ["German Whispers", "Arrows"]
+constraints = ["German Whispers", "Arrows"]
 aliases = ["/703/"]
 +++
 

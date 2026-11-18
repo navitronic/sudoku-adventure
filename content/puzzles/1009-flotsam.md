@@ -2,7 +2,7 @@
 title = "Puzzle #1009 - Flotsam by ChinStrap"
 date = "2025-11-21T08:01:05-08:00"
 slug = "1009-flotsam"
-tags = ["Chaos Construction", "German Whispers", "Region Sum Lines"]
+constraints = ["Chaos Construction", "German Whispers", "Region Sum Lines"]
 aliases = ["/1009/"]
 +++
 

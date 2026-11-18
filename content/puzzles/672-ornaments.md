@@ -2,7 +2,7 @@
 title = "Puzzle #672 - Ornaments by Strosahl"
 date = "2024-12-09T00:07:47-08:00"
 slug = "672-ornaments"
-tags = ["Quadruples", "Clones"]
+constraints = ["Quadruples", "Clones"]
 aliases = ["/672/"]
 +++
 

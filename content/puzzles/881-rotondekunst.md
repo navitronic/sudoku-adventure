@@ -2,7 +2,7 @@
 title = "Puzzle #881 - Rotondekunst by PjoeterBliep"
 date = "2025-07-08T08:01:42-07:00"
 slug = "881-rotondekunst"
-tags = ["Modular Lines", "Nabner Lines"]
+constraints = ["Modular Lines", "Nabner Lines"]
 aliases = ["/881/"]
 +++
 

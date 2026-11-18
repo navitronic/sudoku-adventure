@@ -2,7 +2,7 @@
 title = "Puzzle #1230 - Orderly Arrows by Strosahl"
 date = "2026-07-04T08:00:22-07:00"
 slug = "1230-orderly-arrows"
-tags = ["Arrows", "Sequence Lines"]
+constraints = ["Arrows", "Sequence Lines"]
 aliases = ["/1230/"]
 +++
 

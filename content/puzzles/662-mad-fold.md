@@ -2,7 +2,7 @@
 title = "Puzzle #662 - Mad Fold by gdc"
 date = "2024-11-27T08:00:29-08:00"
 slug = "662-mad-fold"
-tags = ["Killer Cages", "Other"]
+constraints = ["Killer Cages", "Other"]
 aliases = ["/662/"]
 +++
 

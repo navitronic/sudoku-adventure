@@ -2,7 +2,7 @@
 title = "Puzzle #886 - P vs NP by Strosahl"
 date = "2025-07-13T08:01:19-07:00"
 slug = "886-p-vs-np"
-tags = ["Other"]
+constraints = ["Other"]
 aliases = ["/886/"]
 +++
 

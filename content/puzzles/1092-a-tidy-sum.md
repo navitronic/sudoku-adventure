@@ -2,7 +2,7 @@
 title = "Puzzle #1092 - A tidy sum by James Kopp"
 date = "2026-02-12T08:00:25-08:00"
 slug = "1092-a-tidy-sum"
-tags = ["Region Sum Lines"]
+constraints = ["Region Sum Lines"]
 aliases = ["/1092/"]
 +++
 

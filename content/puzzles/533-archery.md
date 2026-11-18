@@ -2,7 +2,7 @@
 title = "Puzzle #533 - Archery by Teal"
 date = "2024-07-13T08:00:39-07:00"
 slug = "533-archery"
-tags = ["Greater Than Arrows"]
+constraints = ["Greater Than Arrows"]
 aliases = ["/533/"]
 +++
 

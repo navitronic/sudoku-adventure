@@ -2,7 +2,7 @@
 title = "Puzzle #29 - 4 Steps on the Road by Emphyrio"
 date = "2023-02-17T08:00:37-08:00"
 slug = "29-4-steps-on-the-road"
-tags = ["Renban Lines"]
+constraints = ["Renban Lines"]
 aliases = ["/29/"]
 +++
 

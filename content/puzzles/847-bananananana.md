@@ -2,7 +2,7 @@
 title = "Puzzle #847 - Bananananana by Palfly Kampling"
 date = "2025-06-04T08:01:35-07:00"
 slug = "847-bananananana"
-tags = ["Other"]
+constraints = ["Other"]
 aliases = ["/847/"]
 +++
 

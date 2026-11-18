@@ -2,7 +2,7 @@
 title = "Puzzle #207 - Yet another clone adventure by Fraπ"
 date = "2023-08-22T08:00:08-07:00"
 slug = "207-yet-another-clone-adventure"
-tags = ["Clones", "Variant"]
+constraints = ["Clones", "Variant"]
 aliases = ["/207/"]
 +++
 

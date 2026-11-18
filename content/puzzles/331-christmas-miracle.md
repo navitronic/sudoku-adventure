@@ -2,7 +2,7 @@
 title = "Puzzle #331 - Christmas Miracle by Jaze"
 date = "2023-12-24T08:00:17-08:00"
 slug = "331-christmas-miracle"
-tags = ["Irregular", "Other"]
+constraints = ["Irregular", "Other"]
 aliases = ["/331/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #867 - Helix by Matt Tressel"
 date = "2025-06-24T08:00:40-07:00"
 slug = "867-helix"
-tags = ["Killer Cages", "XV"]
+constraints = ["Killer Cages", "XV"]
 aliases = ["/867/"]
 +++
 

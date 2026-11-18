@@ -2,7 +2,7 @@
 title = "Puzzle #415 - Jump Rope by Jaze"
 date = "2024-03-17T08:00:14-07:00"
 slug = "415-jump-rope"
-tags = ["Region Sum Lines", "Renban Lines"]
+constraints = ["Region Sum Lines", "Renban Lines"]
 aliases = ["/415/"]
 +++
 

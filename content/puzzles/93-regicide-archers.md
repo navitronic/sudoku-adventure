@@ -2,7 +2,7 @@
 title = "Puzzle #93 - Regicide Archers by Emphyrio"
 date = "2023-04-30T08:00:04-07:00"
 slug = "93-regicide-archers"
-tags = ["Anti-King", "Arrows"]
+constraints = ["Anti-King", "Arrows"]
 aliases = ["/93/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #101 - Cage Metrics by Riffclown"
 date = "2023-05-08T08:00:41-07:00"
 slug = "101-cage-metrics"
-tags = ["Killer Cages"]
+constraints = ["Killer Cages"]
 aliases = ["/101/"]
 +++
 

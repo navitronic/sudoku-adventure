@@ -2,7 +2,7 @@
 title = "Puzzle #184 - Elevator Attendant by rockratzero"
 date = "2023-07-30T08:00:11-07:00"
 slug = "184-elevator-attendant"
-tags = ["Irregular", "Numbered Rooms"]
+constraints = ["Irregular", "Numbered Rooms"]
 aliases = ["/184/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #308 - Evil Presents by gdc"
 date = "2023-12-01T08:00:19-08:00"
 slug = "308-evil-presents"
-tags = ["German Whispers", "Parity Lines", "Killer Cages"]
+constraints = ["German Whispers", "Parity Lines", "Killer Cages"]
 aliases = ["/308/"]
 +++
 

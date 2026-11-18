@@ -2,7 +2,7 @@
 title = "Puzzle #1086 - Limited Space by Matt Tressel"
 date = "2026-02-06T08:01:27-08:00"
 slug = "1086-limited-space"
-tags = ["Extra Region", "Between Lines"]
+constraints = ["Extra Region", "Between Lines"]
 aliases = ["/1086/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #1057 - Search X by gdc"
 date = "2026-01-08T08:00:18-08:00"
 slug = "1057-search-x"
-tags = ["Indexing", "Variant"]
+constraints = ["Indexing", "Variant"]
 aliases = ["/1057/"]
 +++
 

@@ -22,7 +22,7 @@ Run `python3 scripts/import_puzzles.py import --csv path/to/sheet.csv` to use a 
 
 ## RSS feeds
 
-Subscribe to all puzzles at `/index.xml`, or to a constraint at `/tags/<constraint-slug>/index.xml`. The site links to the main feed and advertises the relevant feed to feed readers on each page.
+Subscribe to all puzzles at `/index.xml`, or to a constraint at `/constraints/<constraint-slug>/index.xml`. The site links to the main feed and advertises the relevant feed to feed readers on each page. Old `/tags/` URLs redirect to `/constraints/` on Cloudflare Pages.
 
 ## Local development
 

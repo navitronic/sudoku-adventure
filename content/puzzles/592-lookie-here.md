@@ -2,7 +2,7 @@
 title = "Puzzle #592 - Lookie Here! by theasylm"
 date = "2024-09-10T08:00:22-07:00"
 slug = "592-lookie-here"
-tags = ["Other"]
+constraints = ["Other"]
 aliases = ["/592/"]
 +++
 

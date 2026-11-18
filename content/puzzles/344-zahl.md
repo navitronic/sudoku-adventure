@@ -2,7 +2,7 @@
 title = "Puzzle #344 - Zahl by Fraπ"
 date = "2024-01-06T08:00:39-08:00"
 slug = "344-zahl"
-tags = ["Zipper Lines", "Quadruples"]
+constraints = ["Zipper Lines", "Quadruples"]
 aliases = ["/344/"]
 +++
 

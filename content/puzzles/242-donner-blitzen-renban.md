@@ -2,7 +2,7 @@
 title = "Puzzle #242 - Donner, Blitzen... Renban? by rockratzero"
 date = "2023-09-26T08:00:23-07:00"
 slug = "242-donner-blitzen-renban"
-tags = ["Renban Lines", "Kropki Pairs", "X-Sums", "Other"]
+constraints = ["Renban Lines", "Kropki Pairs", "X-Sums", "Other"]
 aliases = ["/242/"]
 +++
 

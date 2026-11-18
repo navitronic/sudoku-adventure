@@ -2,7 +2,7 @@
 title = "Puzzle #548 - Chime Noise by rockratzero"
 date = "2024-07-28T08:00:35-07:00"
 slug = "548-chime-noise"
-tags = ["Palindrome Lines", "Parity Lines"]
+constraints = ["Palindrome Lines", "Parity Lines"]
 aliases = ["/548/"]
 +++
 

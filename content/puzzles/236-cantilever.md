@@ -2,7 +2,7 @@
 title = "Puzzle #236 - Cantilever by MicroStudy"
 date = "2023-09-20T08:00:20-07:00"
 slug = "236-cantilever"
-tags = ["Region Sum Lines"]
+constraints = ["Region Sum Lines"]
 aliases = ["/236/"]
 +++
 

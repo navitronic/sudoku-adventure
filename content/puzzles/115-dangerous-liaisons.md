@@ -2,7 +2,7 @@
 title = "Puzzle #115 - Dangerous Liaisons by Emphyrio"
 date = "2023-05-22T08:00:24-07:00"
 slug = "115-dangerous-liaisons"
-tags = ["German Whispers", "Arrows"]
+constraints = ["German Whispers", "Arrows"]
 aliases = ["/115/"]
 +++
 

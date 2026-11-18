@@ -2,7 +2,7 @@
 title = "Puzzle #1349 - Blood Moon by Strosahl"
 date = "2026-10-31T08:00:14-07:00"
 slug = "1349-blood-moon"
-tags = ["Nonconsecutive", "Other"]
+constraints = ["Nonconsecutive", "Other"]
 aliases = ["/1349/"]
 +++
 

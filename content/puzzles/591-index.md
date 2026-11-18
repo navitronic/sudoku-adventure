@@ -2,7 +2,7 @@
 title = "Puzzle #591 - IndeX by Teal"
 date = "2024-09-09T08:00:02-07:00"
 slug = "591-index"
-tags = ["Other"]
+constraints = ["Other"]
 aliases = ["/591/"]
 +++
 

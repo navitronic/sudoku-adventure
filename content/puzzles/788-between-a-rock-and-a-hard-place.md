@@ -2,7 +2,7 @@
 title = "Puzzle #788 - Between a Rock and a Hard Place by Strosahl"
 date = "2025-04-06T08:00:05-07:00"
 slug = "788-between-a-rock-and-a-hard-place"
-tags = ["Kropki Pairs", "Other"]
+constraints = ["Kropki Pairs", "Other"]
 aliases = ["/788/"]
 +++
 

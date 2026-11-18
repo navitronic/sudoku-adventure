@@ -2,7 +2,7 @@
 title = "Puzzle #1325 - If You Saw It, Don't Say Anything by SennyK"
 date = "2026-10-07T08:00:03-07:00"
 slug = "1325-if-you-saw-it-don-t-say-anything"
-tags = ["Little Killer", "Other"]
+constraints = ["Little Killer", "Other"]
 aliases = ["/1325/"]
 +++
 

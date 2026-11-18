@@ -2,7 +2,7 @@
 title = "Puzzle #597 - Zipsaw Puzzle by Wuschel"
 date = "2024-09-23T16:58:07-07:00"
 slug = "597-zipsaw-puzzle"
-tags = ["Irregular", "Zipper Lines"]
+constraints = ["Irregular", "Zipper Lines"]
 aliases = ["/597/"]
 +++
 

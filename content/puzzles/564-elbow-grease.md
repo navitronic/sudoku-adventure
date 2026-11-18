@@ -2,7 +2,7 @@
 title = "Puzzle #564 - Elbow Grease by Matt Tressel"
 date = "2024-08-13T08:00:05-07:00"
 slug = "564-elbow-grease"
-tags = ["Quadruples", "Arrows"]
+constraints = ["Quadruples", "Arrows"]
 aliases = ["/564/"]
 +++
 

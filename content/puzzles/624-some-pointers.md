@@ -2,7 +2,7 @@
 title = "Puzzle #624 - Some pointers by theasylm"
 date = "2024-10-20T08:00:57-07:00"
 slug = "624-some-pointers"
-tags = ["Arrows"]
+constraints = ["Arrows"]
 aliases = ["/624/"]
 +++
 

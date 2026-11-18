@@ -2,7 +2,7 @@
 title = "Puzzle #113 - Shaghair Pier by rockratzero"
 date = "2023-05-20T20:12:30-07:00"
 slug = "113-shaghair-pier"
-tags = ["Thermometers", "Variant"]
+constraints = ["Thermometers", "Variant"]
 aliases = ["/113/"]
 +++
 

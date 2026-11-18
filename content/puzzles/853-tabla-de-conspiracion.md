@@ -2,7 +2,7 @@
 title = "Puzzle #853 - tabla de conspiración by rockratzero"
 date = "2025-06-10T08:00:49-07:00"
 slug = "853-tabla-de-conspiracion"
-tags = ["Arrows", "Killer Cages"]
+constraints = ["Arrows", "Killer Cages"]
 aliases = ["/853/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #908 - Unremarkable by rockratzero"
 date = "2025-08-04T08:01:40-07:00"
 slug = "908-unremarkable"
-tags = ["Counting Circles", "X-Sums"]
+constraints = ["Counting Circles", "X-Sums"]
 aliases = ["/908/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #775 - Scrabble D by Palfly Kampling"
 date = "2025-03-23T08:00:05-07:00"
 slug = "775-scrabble-d"
-tags = ["Modular Lines", "Numbered Rooms"]
+constraints = ["Modular Lines", "Numbered Rooms"]
 aliases = ["/775/"]
 +++
 

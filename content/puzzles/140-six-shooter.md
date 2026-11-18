@@ -2,7 +2,7 @@
 title = "Puzzle #140 - Six Shooter by DJV"
 date = "2023-06-16T08:00:11-07:00"
 slug = "140-six-shooter"
-tags = ["Irregular", "Arrows"]
+constraints = ["Irregular", "Arrows"]
 aliases = ["/140/"]
 +++
 

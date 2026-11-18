@@ -2,7 +2,7 @@
 title = "Puzzle #929 - Void sums by sanabas"
 date = "2025-09-02T10:50:49-07:00"
 slug = "929-void-sums"
-tags = ["X-sums", "other"]
+constraints = ["X-sums", "other"]
 aliases = ["/929/"]
 +++
 

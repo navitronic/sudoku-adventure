@@ -2,7 +2,7 @@
 title = "Puzzle #104 - Calcutta by Emphyrio"
 date = "2023-05-11T08:00:00-07:00"
 slug = "104-calcutta"
-tags = ["Thermometers", "Killer Cages"]
+constraints = ["Thermometers", "Killer Cages"]
 aliases = ["/104/"]
 +++
 

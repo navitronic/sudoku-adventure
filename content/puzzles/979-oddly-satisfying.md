@@ -2,7 +2,7 @@
 title = "Puzzle #979 - Oddly Satisfying by PjoeterBliep"
 date = "2025-10-22T08:01:23-07:00"
 slug = "979-oddly-satisfying"
-tags = ["Arrows", "Parity Lines"]
+constraints = ["Arrows", "Parity Lines"]
 aliases = ["/979/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #271 - Search Party by randall"
 date = "2023-10-25T08:00:04-07:00"
 slug = "271-search-party"
-tags = ["Search Six"]
+constraints = ["Search Six"]
 aliases = ["/271/"]
 +++
 

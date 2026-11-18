@@ -2,7 +2,7 @@
 title = "Puzzle #566 - Local Negativity by gdc"
 date = "2024-08-15T08:00:38-07:00"
 slug = "566-local-negativity"
-tags = ["Fog of War", "Kropki Pairs", "Variant"]
+constraints = ["Fog of War", "Kropki Pairs", "Variant"]
 aliases = ["/566/"]
 +++
 

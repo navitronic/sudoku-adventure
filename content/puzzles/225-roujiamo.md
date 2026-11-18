@@ -2,7 +2,7 @@
 title = "Puzzle #225 - Roujiamo by dumediat"
 date = "2023-09-09T08:00:30-07:00"
 slug = "225-roujiamo"
-tags = ["Chinese Whispers", "Sandwich Sums"]
+constraints = ["Chinese Whispers", "Sandwich Sums"]
 aliases = ["/225/"]
 +++
 

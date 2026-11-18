@@ -2,7 +2,7 @@
 title = "Puzzle #155 - Sunny Day by Sandra & Nala"
 date = "2023-07-01T05:00:00-07:00"
 slug = "155-sunny-day"
-tags = ["Thermometers", "Anti-Knight"]
+constraints = ["Thermometers", "Anti-Knight"]
 aliases = ["/155/"]
 +++
 

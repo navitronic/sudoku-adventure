@@ -2,7 +2,7 @@
 title = "Puzzle #515 - Field Positions by Crusader175"
 date = "2024-06-25T08:00:23-07:00"
 slug = "515-field-positions"
-tags = ["Other"]
+constraints = ["Other"]
 aliases = ["/515/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #372 - The Stairs by Toir"
 date = "2024-02-03T08:00:18-08:00"
 slug = "372-the-stairs"
-tags = ["Thermometers"]
+constraints = ["Thermometers"]
 aliases = ["/372/"]
 +++
 

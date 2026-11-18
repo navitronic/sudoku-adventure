@@ -2,7 +2,7 @@
 title = "Puzzle #1250 - Sausage Mobology by Calvinball"
 date = "2026-07-24T08:00:07-07:00"
 slug = "1250-sausage-mobology"
-tags = ["Other"]
+constraints = ["Other"]
 aliases = ["/1250/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #645 - 3 Colour Problem by Matt Tressel"
 date = "2024-11-10T08:00:09-08:00"
 slug = "645-3-colour-problem"
-tags = ["Killer Cages"]
+constraints = ["Killer Cages"]
 aliases = ["/645/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #388 - Daneben Arrows by Palfly Kampling"
 date = "2024-02-19T08:00:26-08:00"
 slug = "388-daneben-arrows"
-tags = ["Other", "Indexing"]
+constraints = ["Other", "Indexing"]
 aliases = ["/388/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #764 - Splitting Secrets by gdc"
 date = "2025-03-12T08:00:28-07:00"
 slug = "764-splitting-secrets"
-tags = ["Region Sum Lines", "Variant"]
+constraints = ["Region Sum Lines", "Variant"]
 aliases = ["/764/"]
 +++
 

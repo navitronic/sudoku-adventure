@@ -2,7 +2,7 @@
 title = "Puzzle #1116 - Dots 'n Dashes by PjoeterBliep"
 date = "2026-03-08T08:01:01-07:00"
 slug = "1116-dots-n-dashes"
-tags = ["Kropki Pairs", "Other"]
+constraints = ["Kropki Pairs", "Other"]
 aliases = ["/1116/"]
 +++
 

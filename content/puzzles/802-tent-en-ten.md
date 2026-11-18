@@ -2,7 +2,7 @@
 title = "Puzzle #802 - tent en' ten by zetamath"
 date = "2025-04-20T08:00:01-07:00"
 slug = "802-tent-en-ten"
-tags = ["Ten Lines"]
+constraints = ["Ten Lines"]
 aliases = ["/802/"]
 +++
 

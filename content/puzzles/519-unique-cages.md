@@ -2,7 +2,7 @@
 title = "Puzzle #519 - Unique Cages by Jaze"
 date = "2024-06-29T08:00:12-07:00"
 slug = "519-unique-cages"
-tags = ["Killer Cages", "Variant"]
+constraints = ["Killer Cages", "Variant"]
 aliases = ["/519/"]
 +++
 

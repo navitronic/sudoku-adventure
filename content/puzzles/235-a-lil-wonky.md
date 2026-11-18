@@ -2,7 +2,7 @@
 title = "Puzzle #235 - A lil' wonky by dumediat"
 date = "2023-09-19T08:00:22-07:00"
 slug = "235-a-lil-wonky"
-tags = ["Thermometers", "Variant"]
+constraints = ["Thermometers", "Variant"]
 aliases = ["/235/"]
 +++
 

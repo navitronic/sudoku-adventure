@@ -2,7 +2,7 @@
 title = "Puzzle #495 - Optifine by Teal"
 date = "2024-06-05T08:00:45-07:00"
 slug = "495-optifine"
-tags = ["Thermometers", "Renban Lines"]
+constraints = ["Thermometers", "Renban Lines"]
 aliases = ["/495/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #834 - Liczenie Owiec by gdc"
 date = "2025-05-22T08:01:46-07:00"
 slug = "834-liczenie-owiec"
-tags = ["Kropki Pairs", "Variant"]
+constraints = ["Kropki Pairs", "Variant"]
 aliases = ["/834/"]
 +++
 

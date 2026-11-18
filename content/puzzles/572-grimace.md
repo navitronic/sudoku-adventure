@@ -2,7 +2,7 @@
 title = "Puzzle #572 - Grimace by Tony Zampini"
 date = "2024-08-21T08:56:13-07:00"
 slug = "572-grimace"
-tags = ["Modular Lines"]
+constraints = ["Modular Lines"]
 aliases = ["/572/"]
 +++
 

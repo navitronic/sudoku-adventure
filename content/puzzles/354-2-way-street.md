@@ -2,7 +2,7 @@
 title = "Puzzle #354 - 2 way street by Chilly"
 date = "2024-01-16T08:00:02-08:00"
 slug = "354-2-way-street"
-tags = ["Renban Lines"]
+constraints = ["Renban Lines"]
 aliases = ["/354/"]
 +++
 

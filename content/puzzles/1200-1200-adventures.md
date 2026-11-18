@@ -2,7 +2,7 @@
 title = "Puzzle #1200 - 1200 Adventures! by Rangsk"
 date = "2026-06-04T08:00:12-07:00"
 slug = "1200-1200-adventures"
-tags = ["Irregular", "Arrows"]
+constraints = ["Irregular", "Arrows"]
 aliases = ["/1200/"]
 +++
 

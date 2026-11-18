@@ -2,7 +2,7 @@
 title = "Puzzle #1299 - Modularrowties by PjoeterBliep"
 date = "2026-09-11T08:00:02-07:00"
 slug = "1299-modularrowties"
-tags = ["Other"]
+constraints = ["Other"]
 aliases = ["/1299/"]
 +++
 

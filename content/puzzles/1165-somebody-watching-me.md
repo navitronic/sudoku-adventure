@@ -2,7 +2,7 @@
 title = "Puzzle #1165 - Somebody Watching Me by SennyK"
 date = "2026-04-30T08:01:34-07:00"
 slug = "1165-somebody-watching-me"
-tags = ["Killer Cages", "Diagonal"]
+constraints = ["Killer Cages", "Diagonal"]
 aliases = ["/1165/"]
 +++
 

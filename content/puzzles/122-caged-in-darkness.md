@@ -2,7 +2,7 @@
 title = "Puzzle #122 - Caged In Darkness by MicroStudy"
 date = "2023-05-29T08:00:42-07:00"
 slug = "122-caged-in-darkness"
-tags = ["Fog of War", "Killer Cages"]
+constraints = ["Fog of War", "Killer Cages"]
 aliases = ["/122/"]
 +++
 

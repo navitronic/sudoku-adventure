@@ -2,7 +2,7 @@
 title = "Puzzle #2 - Advent-ure into the Wild by Luda3"
 date = "2023-01-21T18:46:29-08:00"
 slug = "2-advent-ure-into-the-wild"
-tags = ["Irregular", "Region Sum Lines"]
+constraints = ["Irregular", "Region Sum Lines"]
 aliases = ["/2/"]
 +++
 

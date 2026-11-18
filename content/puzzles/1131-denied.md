@@ -2,7 +2,7 @@
 title = "Puzzle #1131 - Denied by PjoeterBliep"
 date = "2026-03-23T08:01:21-07:00"
 slug = "1131-denied"
-tags = ["Kropki Pairs", "Fog of War"]
+constraints = ["Kropki Pairs", "Fog of War"]
 aliases = ["/1131/"]
 +++
 

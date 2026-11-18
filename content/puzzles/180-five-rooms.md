@@ -2,7 +2,7 @@
 title = "Puzzle #180 - Five Rooms by randall"
 date = "2023-07-26T08:00:29-07:00"
 slug = "180-five-rooms"
-tags = ["Numbered Rooms"]
+constraints = ["Numbered Rooms"]
 aliases = ["/180/"]
 +++
 

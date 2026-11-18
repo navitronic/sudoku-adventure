@@ -2,7 +2,7 @@
 title = "Puzzle #1144 - Taco Cat by Gene"
 date = "2026-04-09T08:00:01-07:00"
 slug = "1144-taco-cat"
-tags = ["Sandwich Sums", "Other"]
+constraints = ["Sandwich Sums", "Other"]
 aliases = ["/1144/"]
 +++
 

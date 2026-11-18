@@ -2,7 +2,7 @@
 title = "Puzzle #659 - Tea Cakes and Chopsticks by rockratzero"
 date = "2024-11-24T08:00:43-08:00"
 slug = "659-tea-cakes-and-chopsticks"
-tags = ["Clones", "Thermometers"]
+constraints = ["Clones", "Thermometers"]
 aliases = ["/659/"]
 +++
 

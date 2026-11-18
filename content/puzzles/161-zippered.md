@@ -2,7 +2,7 @@
 title = "Puzzle #161 - Zippered by Riffclown"
 date = "2023-07-07T08:00:41-07:00"
 slug = "161-zippered"
-tags = ["Thermometers"]
+constraints = ["Thermometers"]
 aliases = ["/161/"]
 +++
 

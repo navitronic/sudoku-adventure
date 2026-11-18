@@ -2,7 +2,7 @@
 title = "Puzzle #325 - Nikolaus' Apple by Palfly Kampling"
 date = "2023-12-18T08:00:03-08:00"
 slug = "325-nikolaus-apple"
-tags = ["Irregular", "Dutch Whispers", "Other"]
+constraints = ["Irregular", "Dutch Whispers", "Other"]
 aliases = ["/325/"]
 +++
 

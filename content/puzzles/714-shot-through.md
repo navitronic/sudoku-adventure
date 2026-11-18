@@ -2,7 +2,7 @@
 title = "Puzzle #714 - Shot Through by Crusader175"
 date = "2025-01-18T08:00:39-08:00"
 slug = "714-shot-through"
-tags = ["Arrows", "Other"]
+constraints = ["Arrows", "Other"]
 aliases = ["/714/"]
 +++
 

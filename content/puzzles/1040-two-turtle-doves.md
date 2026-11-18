@@ -2,7 +2,7 @@
 title = "Puzzle #1040 - Two Turtle Doves by PjoeterBliep"
 date = "2025-12-22T08:01:10-08:00"
 slug = "1040-two-turtle-doves"
-tags = ["Whispers", "Parity Lines"]
+constraints = ["Whispers", "Parity Lines"]
 aliases = ["/1040/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #103 - Chucky by rockratzero"
 date = "2023-05-10T08:00:12-07:00"
 slug = "103-chucky"
-tags = ["Killer Cages", "Other"]
+constraints = ["Killer Cages", "Other"]
 aliases = ["/103/"]
 +++
 

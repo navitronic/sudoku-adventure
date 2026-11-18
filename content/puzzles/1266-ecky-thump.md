@@ -2,7 +2,7 @@
 title = "Puzzle #1266 - Ecky-thump by sanabas"
 date = "2026-08-09T08:00:06-07:00"
 slug = "1266-ecky-thump"
-tags = ["Kropki Pairs", "Other"]
+constraints = ["Kropki Pairs", "Other"]
 aliases = ["/1266/"]
 +++
 

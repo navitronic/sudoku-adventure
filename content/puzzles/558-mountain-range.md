@@ -2,7 +2,7 @@
 title = "Puzzle #558 - Mountain Range by randall"
 date = "2024-08-07T08:00:49-07:00"
 slug = "558-mountain-range"
-tags = ["Region Sum Lines", "Little Killer"]
+constraints = ["Region Sum Lines", "Little Killer"]
 aliases = ["/558/"]
 +++
 

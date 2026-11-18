@@ -2,7 +2,7 @@
 title = "Puzzle #604 - featherbrain by Teal"
 date = "2024-09-30T08:00:23-07:00"
 slug = "604-featherbrain"
-tags = ["Renban Lines", "German Whispers", "Variant"]
+constraints = ["Renban Lines", "German Whispers", "Variant"]
 aliases = ["/604/"]
 +++
 

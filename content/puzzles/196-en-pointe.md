@@ -2,7 +2,7 @@
 title = "Puzzle #196 - en pointe' by Riffclown"
 date = "2023-08-11T08:00:08-07:00"
 slug = "196-en-pointe"
-tags = ["Arrows"]
+constraints = ["Arrows"]
 aliases = ["/196/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #1158 - Lightning in a Bottle by Strosahl"
 date = "2026-04-23T08:01:00-07:00"
 slug = "1158-lightning-in-a-bottle"
-tags = ["X-Sums", "Region Sum Lines"]
+constraints = ["X-Sums", "Region Sum Lines"]
 aliases = ["/1158/"]
 +++
 

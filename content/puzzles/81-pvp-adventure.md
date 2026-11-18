@@ -2,7 +2,7 @@
 title = "Puzzle #81 - PvP Adventure by fraπ"
 date = "2023-04-18T08:00:24-07:00"
 slug = "81-pvp-adventure"
-tags = ["Nonconsecutive"]
+constraints = ["Nonconsecutive"]
 aliases = ["/81/"]
 +++
 

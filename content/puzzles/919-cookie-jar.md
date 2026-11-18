@@ -2,7 +2,7 @@
 title = "Puzzle #919 - Cookie Jar by Stuart Sharpe"
 date = "2025-08-23T10:07:47-07:00"
 slug = "919-cookie-jar"
-tags = ["Modular Lines", "Entropic Lines", "XV"]
+constraints = ["Modular Lines", "Entropic Lines", "XV"]
 aliases = ["/919/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #41 - Symmetry = 5 by riffclown"
 date = "2023-03-01T08:00:02-08:00"
 slug = "41-symmetry-5"
-tags = ["Arrows"]
+constraints = ["Arrows"]
 aliases = ["/41/"]
 +++
 

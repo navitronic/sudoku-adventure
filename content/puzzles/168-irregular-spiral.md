@@ -2,7 +2,7 @@
 title = "Puzzle #168 - Irregular Spiral by DJV"
 date = "2023-07-14T08:00:03-07:00"
 slug = "168-irregular-spiral"
-tags = ["Irregular", "Quadruples"]
+constraints = ["Irregular", "Quadruples"]
 aliases = ["/168/"]
 +++
 

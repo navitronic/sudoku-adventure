@@ -2,7 +2,7 @@
 title = "Puzzle #4 - A Lil Interaction by dumediat"
 date = "2023-01-23T08:00:13-08:00"
 slug = "4-a-lil-interaction"
-tags = ["Arrows"]
+constraints = ["Arrows"]
 aliases = ["/4/"]
 +++
 

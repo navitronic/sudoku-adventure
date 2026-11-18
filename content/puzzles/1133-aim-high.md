@@ -2,7 +2,7 @@
 title = "Puzzle #1133 - Aim High by James Kopp"
 date = "2026-03-25T08:01:35-07:00"
 slug = "1133-aim-high"
-tags = ["Arrow"]
+constraints = ["Arrow"]
 aliases = ["/1133/"]
 +++
 

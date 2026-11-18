@@ -2,7 +2,7 @@
 title = "Puzzle #809 - Backscattering by Gene"
 date = "2025-04-27T08:01:01-07:00"
 slug = "809-backscattering"
-tags = ["Search Six", "Other"]
+constraints = ["Search Six", "Other"]
 aliases = ["/809/"]
 +++
 

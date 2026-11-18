@@ -2,7 +2,7 @@
 title = "Puzzle #748 - Xanadu by randall"
 date = "2025-02-24T08:00:46-08:00"
 slug = "748-xanadu"
-tags = ["Diagonal", "XV"]
+constraints = ["Diagonal", "XV"]
 aliases = ["/748/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #1319 - Wir Sind Gleich by SennyK"
 date = "2026-10-01T08:00:39-07:00"
 slug = "1319-wir-sind-gleich"
-tags = ["German Whispers", "Region Sum Lines"]
+constraints = ["German Whispers", "Region Sum Lines"]
 aliases = ["/1319/"]
 +++
 

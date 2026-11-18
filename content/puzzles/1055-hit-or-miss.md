@@ -2,7 +2,7 @@
 title = "Puzzle #1055 - Hit or Miss by PjoeterBliep"
 date = "2026-01-06T08:01:09-08:00"
 slug = "1055-hit-or-miss"
-tags = ["Other"]
+constraints = ["Other"]
 aliases = ["/1055/"]
 +++
 

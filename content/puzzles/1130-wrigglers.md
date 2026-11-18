@@ -2,7 +2,7 @@
 title = "Puzzle #1130 - Wrigglers by ChinStrap"
 date = "2026-03-22T08:00:21-07:00"
 slug = "1130-wrigglers"
-tags = ["German Whispers"]
+constraints = ["German Whispers"]
 aliases = ["/1130/"]
 +++
 

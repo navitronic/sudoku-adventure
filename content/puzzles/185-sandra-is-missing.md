@@ -2,7 +2,7 @@
 title = "Puzzle #185 - Sandra is missing?! by Fraπ"
 date = "2023-07-31T08:00:09-07:00"
 slug = "185-sandra-is-missing"
-tags = ["Fog of War", "Region Sum Lines", "XV"]
+constraints = ["Fog of War", "Region Sum Lines", "XV"]
 aliases = ["/185/"]
 +++
 

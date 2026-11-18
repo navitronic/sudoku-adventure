@@ -2,7 +2,7 @@
 title = "Puzzle #1226 - Shelter Code by Gene"
 date = "2026-06-30T08:00:01-07:00"
 slug = "1226-shelter-code"
-tags = ["Skyscrapers"]
+constraints = ["Skyscrapers"]
 aliases = ["/1226/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #585 - Countdown by Palfly Kampling"
 date = "2024-09-03T08:00:40-07:00"
 slug = "585-countdown"
-tags = ["Numbered Rooms", "Kropki Pairs"]
+constraints = ["Numbered Rooms", "Kropki Pairs"]
 aliases = ["/585/"]
 +++
 

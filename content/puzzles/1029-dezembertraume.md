@@ -2,7 +2,7 @@
 title = "Puzzle #1029 - Dezemberträume by Palfly Kampling"
 date = "2025-12-11T09:03:34-08:00"
 slug = "1029-dezembertraume"
-tags = ["Other", "Arrows", "Thermometers"]
+constraints = ["Other", "Arrows", "Thermometers"]
 aliases = ["/1029/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #910 - Tall Sums by PjoeterBliep"
 date = "2025-08-06T08:00:24-07:00"
 slug = "910-tall-sums"
-tags = ["Skyscrapers", "Region Sum Lines"]
+constraints = ["Skyscrapers", "Region Sum Lines"]
 aliases = ["/910/"]
 +++
 

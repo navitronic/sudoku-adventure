@@ -2,7 +2,7 @@
 title = "Puzzle #517 - Support by Palfly Kampling"
 date = "2024-06-27T08:00:42-07:00"
 slug = "517-support"
-tags = ["German Whispers", "Kropki Pairs"]
+constraints = ["German Whispers", "Kropki Pairs"]
 aliases = ["/517/"]
 +++
 

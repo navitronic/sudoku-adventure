@@ -2,7 +2,7 @@
 title = "Puzzle #750 - Cell Block C by theasylm"
 date = "2025-02-26T08:00:33-08:00"
 slug = "750-cell-block-c"
-tags = ["Killer cages"]
+constraints = ["Killer cages"]
 aliases = ["/750/"]
 +++
 

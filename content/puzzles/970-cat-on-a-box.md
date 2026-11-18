@@ -2,7 +2,7 @@
 title = "Puzzle #970 - Cat On a Box by Gene"
 date = "2025-10-13T10:33:46-07:00"
 slug = "970-cat-on-a-box"
-tags = ["Kropki Pairs", "Variant"]
+constraints = ["Kropki Pairs", "Variant"]
 aliases = ["/970/"]
 +++
 

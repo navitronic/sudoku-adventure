@@ -2,7 +2,7 @@
 title = "Puzzle #1263 - Stonks by PjoeterBliep"
 date = "2026-08-06T08:00:38-07:00"
 slug = "1263-stonks"
-tags = ["Region Sum Lines", "Other"]
+constraints = ["Region Sum Lines", "Other"]
 aliases = ["/1263/"]
 +++
 

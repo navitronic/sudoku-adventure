@@ -2,7 +2,7 @@
 title = "Puzzle #61 - Chimney Sweeps by Microstudy"
 date = "2023-03-21T08:00:17-07:00"
 slug = "61-chimney-sweeps"
-tags = ["Sweeper Clues"]
+constraints = ["Sweeper Clues"]
 aliases = ["/61/"]
 +++
 

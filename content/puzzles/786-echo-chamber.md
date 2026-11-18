@@ -2,7 +2,7 @@
 title = "Puzzle #786 - Echo Chamber by Matt Tressel"
 date = "2025-04-04T08:00:17-07:00"
 slug = "786-echo-chamber"
-tags = ["German Whispers", "Other"]
+constraints = ["German Whispers", "Other"]
 aliases = ["/786/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #935 - Harrowing by zetamath"
 date = "2025-09-08T13:52:36-07:00"
 slug = "935-harrowing"
-tags = ["Arrows"]
+constraints = ["Arrows"]
 aliases = ["/935/"]
 +++
 

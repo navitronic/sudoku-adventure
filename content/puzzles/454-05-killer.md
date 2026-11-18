@@ -2,7 +2,7 @@
 title = "Puzzle #454 - 05 Killer by Clover"
 date = "2024-04-25T08:00:29-07:00"
 slug = "454-05-killer"
-tags = ["Killer Cages", "Other"]
+constraints = ["Killer Cages", "Other"]
 aliases = ["/454/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #1005 - Ridiculously Xhaotic by randall"
 date = "2025-11-17T08:00:53-08:00"
 slug = "1005-ridiculously-xhaotic"
-tags = ["Chaos Construction", "X-Sums"]
+constraints = ["Chaos Construction", "X-Sums"]
 aliases = ["/1005/"]
 +++
 

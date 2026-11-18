@@ -2,7 +2,7 @@
 title = "Puzzle #417 - Arrow Sudoku by Clover"
 date = "2024-03-19T08:00:22-07:00"
 slug = "417-arrow-sudoku"
-tags = ["Arrows", "Variant"]
+constraints = ["Arrows", "Variant"]
 aliases = ["/417/"]
 +++
 

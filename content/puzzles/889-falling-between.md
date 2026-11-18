@@ -2,7 +2,7 @@
 title = "Puzzle #889 - Falling Between by Riffclown"
 date = "2025-07-16T14:16:36-07:00"
 slug = "889-falling-between"
-tags = ["Between Lines"]
+constraints = ["Between Lines"]
 aliases = ["/889/"]
 +++
 

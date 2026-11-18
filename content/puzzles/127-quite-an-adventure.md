@@ -2,7 +2,7 @@
 title = "Puzzle #127 - Quite an Adventure by DJV"
 date = "2023-06-03T08:00:07-07:00"
 slug = "127-quite-an-adventure"
-tags = ["Killer Cages"]
+constraints = ["Killer Cages"]
 aliases = ["/127/"]
 +++
 

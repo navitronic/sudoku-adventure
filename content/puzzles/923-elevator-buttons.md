@@ -2,7 +2,7 @@
 title = "Puzzle #923 - Elevator Buttons by Gene"
 date = "2025-08-27T10:12:26-07:00"
 slug = "923-elevator-buttons"
-tags = ["German Whispers", "Greater Than Arrows"]
+constraints = ["German Whispers", "Greater Than Arrows"]
 aliases = ["/923/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #688 - Candles by Strosahl"
 date = "2024-12-23T08:00:50-08:00"
 slug = "688-candles"
-tags = ["Renban Lines"]
+constraints = ["Renban Lines"]
 aliases = ["/688/"]
 +++
 

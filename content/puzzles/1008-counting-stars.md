@@ -2,7 +2,7 @@
 title = "Puzzle #1008 - Counting Stars by Matt Tressel"
 date = "2025-11-20T08:00:18-08:00"
 slug = "1008-counting-stars"
-tags = ["Other"]
+constraints = ["Other"]
 aliases = ["/1008/"]
 +++
 

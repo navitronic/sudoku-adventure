@@ -2,7 +2,7 @@
 title = "Puzzle #1159 - Selfish Arrows by SennyK"
 date = "2026-04-24T08:01:25-07:00"
 slug = "1159-selfish-arrows"
-tags = ["Arrows", "Disjoint"]
+constraints = ["Arrows", "Disjoint"]
 aliases = ["/1159/"]
 +++
 

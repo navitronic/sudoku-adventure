@@ -2,7 +2,7 @@
 title = "Puzzle #125 - Adveπture by Fraπ"
 date = "2023-06-01T08:00:05-07:00"
 slug = "125-adveture"
-tags = ["Kropki Pairs", "Variant"]
+constraints = ["Kropki Pairs", "Variant"]
 aliases = ["/125/"]
 +++
 

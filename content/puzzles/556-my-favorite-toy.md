@@ -2,7 +2,7 @@
 title = "Puzzle #556 - My Favorite Toy by theasylm"
 date = "2024-08-05T08:00:55-07:00"
 slug = "556-my-favorite-toy"
-tags = ["Region Sum Lines"]
+constraints = ["Region Sum Lines"]
 aliases = ["/556/"]
 +++
 

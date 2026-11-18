@@ -2,7 +2,7 @@
 title = "Puzzle #450 - 450 Adventures! by Rangsk"
 date = "2024-04-21T08:00:27-07:00"
 slug = "450-450-adventures"
-tags = ["Killer Cages", "Quadruples"]
+constraints = ["Killer Cages", "Quadruples"]
 aliases = ["/450/"]
 +++
 

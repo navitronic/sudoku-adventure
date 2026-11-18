@@ -2,7 +2,7 @@
 title = "Puzzle #252 - Overinflated by rockratzero"
 date = "2023-10-06T08:00:00-07:00"
 slug = "252-overinflated"
-tags = ["Quadruples", "Other"]
+constraints = ["Quadruples", "Other"]
 aliases = ["/252/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #44 - Updraft by Microstudy"
 date = "2023-03-04T08:00:16-08:00"
 slug = "44-updraft"
-tags = ["Region Sum Lines"]
+constraints = ["Region Sum Lines"]
 aliases = ["/44/"]
 +++
 

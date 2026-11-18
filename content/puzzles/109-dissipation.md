@@ -2,7 +2,7 @@
 title = "Puzzle #109 - Dissipation by MicroStudy"
 date = "2023-05-16T08:00:21-07:00"
 slug = "109-dissipation"
-tags = ["Thermometers"]
+constraints = ["Thermometers"]
 aliases = ["/109/"]
 +++
 

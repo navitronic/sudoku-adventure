@@ -2,7 +2,7 @@
 title = "Puzzle #1336 - Find Your Balance by SennyK"
 date = "2026-10-18T08:00:39-07:00"
 slug = "1336-find-your-balance"
-tags = ["Region Sum Lines", "Other"]
+constraints = ["Region Sum Lines", "Other"]
 aliases = ["/1336/"]
 +++
 

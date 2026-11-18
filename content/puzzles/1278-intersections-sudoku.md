@@ -2,7 +2,7 @@
 title = "Puzzle #1278 - Intersections Sudoku by Gene"
 date = "2026-08-21T08:00:09-07:00"
 slug = "1278-intersections-sudoku"
-tags = ["Other"]
+constraints = ["Other"]
 aliases = ["/1278/"]
 +++
 

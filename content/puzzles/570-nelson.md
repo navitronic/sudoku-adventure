@@ -2,7 +2,7 @@
 title = "Puzzle #570 - Nelson by randall"
 date = "2024-08-19T08:00:32-07:00"
 slug = "570-nelson"
-tags = ["Killer Cages", "Indexing"]
+constraints = ["Killer Cages", "Indexing"]
 aliases = ["/570/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #264 - Lower Warden by Wuschel"
 date = "2023-10-18T08:00:44-07:00"
 slug = "264-lower-warden"
-tags = ["Killer Cages", "Diagonal"]
+constraints = ["Killer Cages", "Diagonal"]
 aliases = ["/264/"]
 +++
 

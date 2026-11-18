@@ -2,7 +2,7 @@
 title = "Puzzle #267 - Pumpkin Guts by rockratzero"
 date = "2023-10-21T08:00:08-07:00"
 slug = "267-pumpkin-guts"
-tags = ["Dutch Whispers", "Kropki Pairs"]
+constraints = ["Dutch Whispers", "Kropki Pairs"]
 aliases = ["/267/"]
 +++
 

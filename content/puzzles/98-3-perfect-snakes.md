@@ -2,7 +2,7 @@
 title = "Puzzle #98 - 3 Perfect Snakes by Emphyrio"
 date = "2023-05-05T08:00:28-07:00"
 slug = "98-3-perfect-snakes"
-tags = ["Chaos Construction", "Variant"]
+constraints = ["Chaos Construction", "Variant"]
 aliases = ["/98/"]
 +++
 

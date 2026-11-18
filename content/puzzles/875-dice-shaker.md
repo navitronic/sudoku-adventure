@@ -2,7 +2,7 @@
 title = "Puzzle #875 - Dice Shaker by Gene"
 date = "2025-07-02T08:01:24-07:00"
 slug = "875-dice-shaker"
-tags = ["German Whispers", "Other"]
+constraints = ["German Whispers", "Other"]
 aliases = ["/875/"]
 +++
 

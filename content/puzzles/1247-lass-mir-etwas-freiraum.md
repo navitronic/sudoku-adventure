@@ -2,7 +2,7 @@
 title = "Puzzle #1247 - Lass Mir Etwas Freiraum by SennyK"
 date = "2026-07-21T08:00:03-07:00"
 slug = "1247-lass-mir-etwas-freiraum"
-tags = ["German Whispers", "Nabner Lines"]
+constraints = ["German Whispers", "Nabner Lines"]
 aliases = ["/1247/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #24 - Back and Forth by DJV"
 date = "2023-02-12T17:44:32-08:00"
 slug = "24-back-and-forth"
-tags = ["Palindrome Lines"]
+constraints = ["Palindrome Lines"]
 aliases = ["/24/"]
 +++
 

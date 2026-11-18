@@ -2,7 +2,7 @@
 title = "Puzzle #438 - Hard To Be Little by Jaze"
 date = "2024-04-09T08:00:15-07:00"
 slug = "438-hard-to-be-little"
-tags = ["Renban Lines", "Other"]
+constraints = ["Renban Lines", "Other"]
 aliases = ["/438/"]
 +++
 

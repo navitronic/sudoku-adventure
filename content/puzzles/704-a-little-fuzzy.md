@@ -2,7 +2,7 @@
 title = "Puzzle #704 - A Little Fuzzy by Crusader175"
 date = "2025-01-08T08:12:58-08:00"
 slug = "704-a-little-fuzzy"
-tags = ["Arrows", "Variant"]
+constraints = ["Arrows", "Variant"]
 aliases = ["/704/"]
 +++
 

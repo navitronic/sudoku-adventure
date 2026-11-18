@@ -2,7 +2,7 @@
 title = "Puzzle #828 - Lxttle Kxller by Gene"
 date = "2025-05-16T08:01:12-07:00"
 slug = "828-lxttle-kxller"
-tags = ["Little Killer", "X-Sums"]
+constraints = ["Little Killer", "X-Sums"]
 aliases = ["/828/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #1287 - Sharp Turns in the Fog by PjoeterBliep"
 date = "2026-08-30T08:00:33-07:00"
 slug = "1287-sharp-turns-in-the-fog"
-tags = ["Arrows", "Dynamic Fog"]
+constraints = ["Arrows", "Dynamic Fog"]
 aliases = ["/1287/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #1016 - ZagZig by Riffclown"
 date = "2025-11-28T08:00:15-08:00"
 slug = "1016-zagzig"
-tags = ["Palindrome"]
+constraints = ["Palindrome"]
 aliases = ["/1016/"]
 +++
 

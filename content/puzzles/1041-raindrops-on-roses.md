@@ -2,7 +2,7 @@
 title = "Puzzle #1041 - Raindrops on Roses by Matt Tressel"
 date = "2025-12-23T08:01:13-08:00"
 slug = "1041-raindrops-on-roses"
-tags = ["Renban"]
+constraints = ["Renban"]
 aliases = ["/1041/"]
 +++
 

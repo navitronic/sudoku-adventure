@@ -2,7 +2,7 @@
 title = "Puzzle #144 - Under Pressure by Riffclown"
 date = "2023-06-20T08:00:21-07:00"
 slug = "144-under-pressure"
-tags = ["Arrows"]
+constraints = ["Arrows"]
 aliases = ["/144/"]
 +++
 

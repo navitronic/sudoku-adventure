@@ -2,7 +2,7 @@
 title = "Puzzle #472 - Miss Point by Teal"
 date = "2024-05-13T08:00:56-07:00"
 slug = "472-miss-point"
-tags = ["Other"]
+constraints = ["Other"]
 aliases = ["/472/"]
 +++
 

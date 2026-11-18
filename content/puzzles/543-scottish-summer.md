@@ -2,7 +2,7 @@
 title = "Puzzle #543 - Scottish Summer by Emphyrio"
 date = "2024-07-23T08:00:03-07:00"
 slug = "543-scottish-summer"
-tags = ["Thermometers"]
+constraints = ["Thermometers"]
 aliases = ["/543/"]
 +++
 

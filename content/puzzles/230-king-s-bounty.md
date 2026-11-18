@@ -2,7 +2,7 @@
 title = "Puzzle #230 - King's Bounty by Fraπ"
 date = "2023-09-14T08:00:26-07:00"
 slug = "230-king-s-bounty"
-tags = ["Irregular", "Killer Cages", "Anti-King"]
+constraints = ["Irregular", "Killer Cages", "Anti-King"]
 aliases = ["/230/"]
 +++
 

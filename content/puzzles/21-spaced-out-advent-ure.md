@@ -2,7 +2,7 @@
 title = "Puzzle #21 - Spaced Out Advent-ure by Luda3"
 date = "2023-02-09T08:00:32-08:00"
 slug = "21-spaced-out-advent-ure"
-tags = ["Nonconsecutive"]
+constraints = ["Nonconsecutive"]
 aliases = ["/21/"]
 +++
 

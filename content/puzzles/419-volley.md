@@ -2,7 +2,7 @@
 title = "Puzzle #419 - Volley by rockratzero"
 date = "2024-03-21T08:00:20-07:00"
 slug = "419-volley"
-tags = ["Arrows", "Even/Odd"]
+constraints = ["Arrows", "Even/Odd"]
 aliases = ["/419/"]
 +++
 

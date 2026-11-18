@@ -2,7 +2,7 @@
 title = "Puzzle #800 - 800 Adventures! by Rangsk"
 date = "2025-04-18T08:01:35-07:00"
 slug = "800-800-adventures"
-tags = ["Region Sum Lines", "Sandwich Sums"]
+constraints = ["Region Sum Lines", "Sandwich Sums"]
 aliases = ["/800/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #204 - Standoff by MicroStudy"
 date = "2023-08-19T08:00:46-07:00"
 slug = "204-standoff"
-tags = ["Little Killer", "Variant"]
+constraints = ["Little Killer", "Variant"]
 aliases = ["/204/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #603 - Spotted Arrows by Strosahl"
 date = "2024-09-29T08:01:01-07:00"
 slug = "603-spotted-arrows"
-tags = ["Kropki Pairs", "Arrows"]
+constraints = ["Kropki Pairs", "Arrows"]
 aliases = ["/603/"]
 +++
 

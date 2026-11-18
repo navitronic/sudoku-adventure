@@ -2,7 +2,7 @@
 title = "Puzzle #30 - Conversation Starters by rockratzero"
 date = "2023-02-18T08:00:13-08:00"
 slug = "30-conversation-starters"
-tags = ["Look-and-Say Cages"]
+constraints = ["Look-and-Say Cages"]
 aliases = ["/30/"]
 +++
 

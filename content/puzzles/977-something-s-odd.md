@@ -2,7 +2,7 @@
 title = "Puzzle #977 - Something's Odd by sanabas"
 date = "2025-10-20T08:00:58-07:00"
 slug = "977-something-s-odd"
-tags = ["Parity Lines", "Region Sum Lines"]
+constraints = ["Parity Lines", "Region Sum Lines"]
 aliases = ["/977/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #441 - Max Ascending by Clover"
 date = "2024-04-12T08:00:20-07:00"
 slug = "441-max-ascending"
-tags = ["Other"]
+constraints = ["Other"]
 aliases = ["/441/"]
 +++
 

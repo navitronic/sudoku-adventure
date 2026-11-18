@@ -2,7 +2,7 @@
 title = "Puzzle #275 - Ceapaire Toirmiscthe by rockratzero"
 date = "2023-10-29T08:00:21-07:00"
 slug = "275-ceapaire-toirmiscthe"
-tags = ["Lockout Lines", "Variant", "Other"]
+constraints = ["Lockout Lines", "Variant", "Other"]
 aliases = ["/275/"]
 +++
 

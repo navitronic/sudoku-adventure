@@ -2,7 +2,7 @@
 title = "Puzzle #844 - Shoot To Kill by Gene"
 date = "2025-06-01T08:00:10-07:00"
 slug = "844-shoot-to-kill"
-tags = ["Killer Cages", "Arrows", "Fog Of War", "Variant"]
+constraints = ["Killer Cages", "Arrows", "Fog Of War", "Variant"]
 aliases = ["/844/"]
 +++
 

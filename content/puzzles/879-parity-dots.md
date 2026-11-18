@@ -2,7 +2,7 @@
 title = "Puzzle #879 - Parity dots by PjoeterBliep"
 date = "2025-07-06T08:01:08-07:00"
 slug = "879-parity-dots"
-tags = ["Kropki Pairs", "Even/Odd"]
+constraints = ["Kropki Pairs", "Even/Odd"]
 aliases = ["/879/"]
 +++
 

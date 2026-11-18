@@ -2,7 +2,7 @@
 title = "Puzzle #941 - Season by randall"
 date = "2025-09-14T08:01:22-07:00"
 slug = "941-season"
-tags = ["Diagonal"]
+constraints = ["Diagonal"]
 aliases = ["/941/"]
 +++
 

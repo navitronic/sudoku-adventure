@@ -2,7 +2,7 @@
 title = "Puzzle #854 - VVVVV by ChinStrap"
 date = "2025-06-11T08:00:59-07:00"
 slug = "854-vvvvv"
-tags = ["XV", "Skyscrapers"]
+constraints = ["XV", "Skyscrapers"]
 aliases = ["/854/"]
 +++
 

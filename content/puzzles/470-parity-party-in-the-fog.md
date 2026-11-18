@@ -2,7 +2,7 @@
 title = "Puzzle #470 - Parity Party in the fog by randall"
 date = "2024-05-11T08:00:15-07:00"
 slug = "470-parity-party-in-the-fog"
-tags = ["Parity Diamonds", "Fog of War", "Other"]
+constraints = ["Parity Diamonds", "Fog of War", "Other"]
 aliases = ["/470/"]
 +++
 

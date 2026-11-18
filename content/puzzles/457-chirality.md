@@ -2,7 +2,7 @@
 title = "Puzzle #457 - Chirality by Palfly Kampling"
 date = "2024-04-28T08:00:45-07:00"
 slug = "457-chirality"
-tags = ["Irregular", "Renban Lines", "Variant"]
+constraints = ["Irregular", "Renban Lines", "Variant"]
 aliases = ["/457/"]
 +++
 

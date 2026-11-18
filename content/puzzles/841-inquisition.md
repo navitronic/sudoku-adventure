@@ -2,7 +2,7 @@
 title = "Puzzle #841 - Inquisition by randall"
 date = "2025-05-29T08:08:47-07:00"
 slug = "841-inquisition"
-tags = ["Quadruples", "German Whispers"]
+constraints = ["Quadruples", "German Whispers"]
 aliases = ["/841/"]
 +++
 

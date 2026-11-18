@@ -2,7 +2,7 @@
 title = "Puzzle #601 - Spiregional by Riffclown"
 date = "2024-09-27T21:57:46-07:00"
 slug = "601-spiregional"
-tags = ["Irregular", "Region Sum Lines"]
+constraints = ["Irregular", "Region Sum Lines"]
 aliases = ["/601/"]
 +++
 

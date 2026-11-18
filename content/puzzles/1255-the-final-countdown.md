@@ -2,7 +2,7 @@
 title = "Puzzle #1255 - The final countdown by PjoeterBliep"
 date = "2026-07-29T08:00:20-07:00"
 slug = "1255-the-final-countdown"
-tags = ["Arrows", "Palindrome Lines"]
+constraints = ["Arrows", "Palindrome Lines"]
 aliases = ["/1255/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #1122 - Winding Hallways by ChinStrap"
 date = "2026-03-14T08:01:33-07:00"
 slug = "1122-winding-hallways"
-tags = ["Between Lines", "Numbered Rooms"]
+constraints = ["Between Lines", "Numbered Rooms"]
 aliases = ["/1122/"]
 +++
 

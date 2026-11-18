@@ -2,7 +2,7 @@
 title = "Puzzle #1020 - Twelve Drummers Drumming by Calvinball"
 date = "2025-12-02T08:00:34-08:00"
 slug = "1020-twelve-drummers-drumming"
-tags = ["Counting Circles", "XV sums"]
+constraints = ["Counting Circles", "XV sums"]
 aliases = ["/1020/"]
 +++
 

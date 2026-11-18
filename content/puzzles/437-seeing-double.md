@@ -2,7 +2,7 @@
 title = "Puzzle #437 - Seeing Double by Strosahl"
 date = "2024-04-08T08:00:15-07:00"
 slug = "437-seeing-double"
-tags = ["Quadruples", "Clones"]
+constraints = ["Quadruples", "Clones"]
 aliases = ["/437/"]
 +++
 

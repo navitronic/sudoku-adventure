@@ -2,7 +2,7 @@
 title = "Puzzle #1362 - Look and Say Dominoes by Strosahl"
 date = "2026-11-13T08:00:22-08:00"
 slug = "1362-look-and-say-dominoes"
-tags = ["Look-and-Say Cages", "Kropki"]
+constraints = ["Look-and-Say Cages", "Kropki"]
 aliases = ["/1362/"]
 +++
 

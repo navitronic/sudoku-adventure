@@ -2,7 +2,7 @@
 title = "Puzzle #89 - Extra Advent-ure Regions by Luda3"
 date = "2023-04-26T08:00:38-07:00"
 slug = "89-extra-advent-ure-regions"
-tags = ["Extra Regions"]
+constraints = ["Extra Regions"]
 aliases = ["/89/"]
 +++
 

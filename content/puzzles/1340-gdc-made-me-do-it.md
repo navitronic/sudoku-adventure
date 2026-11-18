@@ -2,7 +2,7 @@
 title = "Puzzle #1340 - gdc Made Me Do It by Calvinball"
 date = "2026-10-22T08:00:35-07:00"
 slug = "1340-gdc-made-me-do-it"
-tags = ["Other"]
+constraints = ["Other"]
 aliases = ["/1340/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #988 - Misty Step by Crusader175"
 date = "2025-10-31T08:00:43-07:00"
 slug = "988-misty-step"
-tags = ["Other"]
+constraints = ["Other"]
 aliases = ["/988/"]
 +++
 

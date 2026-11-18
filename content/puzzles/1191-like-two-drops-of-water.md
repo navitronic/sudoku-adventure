@@ -2,7 +2,7 @@
 title = "Puzzle #1191 - Like Two Drops of Water by SennyK"
 date = "2026-05-26T08:00:13-07:00"
 slug = "1191-like-two-drops-of-water"
-tags = ["Palindrome Lines", "Other"]
+constraints = ["Palindrome Lines", "Other"]
 aliases = ["/1191/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #890 - Sea Stack by Gene"
 date = "2025-07-17T08:00:53-07:00"
 slug = "890-sea-stack"
-tags = ["Killer Cages", "Kropki Pairs", "Variant"]
+constraints = ["Killer Cages", "Kropki Pairs", "Variant"]
 aliases = ["/890/"]
 +++
 

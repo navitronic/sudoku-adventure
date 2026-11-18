@@ -2,7 +2,7 @@
 title = "Puzzle #176 - Split Personalities by rockratzero"
 date = "2023-07-22T08:00:34-07:00"
 slug = "176-split-personalities"
-tags = ["Quadruples", "Disjoint"]
+constraints = ["Quadruples", "Disjoint"]
 aliases = ["/176/"]
 +++
 

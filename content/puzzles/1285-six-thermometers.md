@@ -2,7 +2,7 @@
 title = "Puzzle #1285 - Six Thermometers by James Kopp"
 date = "2026-08-28T08:00:28-07:00"
 slug = "1285-six-thermometers"
-tags = ["Thermometers"]
+constraints = ["Thermometers"]
 aliases = ["/1285/"]
 +++
 

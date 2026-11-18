@@ -2,7 +2,7 @@
 title = "Puzzle #1342 - Spectacle by Matt Tressel"
 date = "2026-10-24T08:00:26-07:00"
 slug = "1342-spectacle"
-tags = ["Killer Cages", "German Whispers"]
+constraints = ["Killer Cages", "German Whispers"]
 aliases = ["/1342/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #281 - Laurel by MicroStudy"
 date = "2023-11-04T08:00:00-07:00"
 slug = "281-laurel"
-tags = ["German Whispers", "XV"]
+constraints = ["German Whispers", "XV"]
 aliases = ["/281/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #827 - The Empty Canvas by zetamath"
 date = "2025-05-15T08:01:20-07:00"
 slug = "827-the-empty-canvas"
-tags = ["Arrows"]
+constraints = ["Arrows"]
 aliases = ["/827/"]
 +++
 

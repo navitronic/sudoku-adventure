@@ -2,7 +2,7 @@
 title = "Puzzle #811 - Pew Pew by Riffclown"
 date = "2025-04-29T08:01:37-07:00"
 slug = "811-pew-pew"
-tags = ["Diagonal", "Thermometers"]
+constraints = ["Diagonal", "Thermometers"]
 aliases = ["/811/"]
 +++
 

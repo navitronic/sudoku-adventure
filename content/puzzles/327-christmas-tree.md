@@ -2,7 +2,7 @@
 title = "Puzzle #327 - Christmas Tree by Jaze"
 date = "2023-12-20T08:00:16-08:00"
 slug = "327-christmas-tree"
-tags = ["German Whispers"]
+constraints = ["German Whispers"]
 aliases = ["/327/"]
 +++
 

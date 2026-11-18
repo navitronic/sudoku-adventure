@@ -2,7 +2,7 @@
 title = "Puzzle #34 - Tapas by dumediat"
 date = "2023-02-22T08:00:16-08:00"
 slug = "34-tapas"
-tags = ["Sandwich Sums"]
+constraints = ["Sandwich Sums"]
 aliases = ["/34/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #64 - Hey ya'll 'wake? by rockratzero"
 date = "2023-03-24T08:00:39-07:00"
 slug = "64-hey-ya-ll-wake"
-tags = ["Other", "Irregular"]
+constraints = ["Other", "Irregular"]
 aliases = ["/64/"]
 +++
 

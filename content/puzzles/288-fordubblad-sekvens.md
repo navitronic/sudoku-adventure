@@ -2,7 +2,7 @@
 title = "Puzzle #288 - Fördubblad Sekvens by rockratzero"
 date = "2023-11-11T08:00:33-08:00"
 slug = "288-fordubblad-sekvens"
-tags = ["Doublers", "Sequence Lines"]
+constraints = ["Doublers", "Sequence Lines"]
 aliases = ["/288/"]
 +++
 

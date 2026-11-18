@@ -2,7 +2,7 @@
 title = "Puzzle #157 - < + - + > by rockratzero"
 date = "2023-07-03T08:00:00-07:00"
 slug = "157-puzzle"
-tags = ["Killer Cages"]
+constraints = ["Killer Cages"]
 aliases = ["/157/"]
 +++
 

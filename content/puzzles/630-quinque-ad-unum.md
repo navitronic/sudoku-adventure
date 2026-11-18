@@ -2,7 +2,7 @@
 title = "Puzzle #630 - Quinque Ad Unum by Emphyrio"
 date = "2024-10-26T14:59:09-07:00"
 slug = "630-quinque-ad-unum"
-tags = ["Nabner Lines", "Kropki Pairs"]
+constraints = ["Nabner Lines", "Kropki Pairs"]
 aliases = ["/630/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #170 - Clockwise by Riffclown"
 date = "2023-07-16T08:00:24-07:00"
 slug = "170-clockwise"
-tags = ["Arrows"]
+constraints = ["Arrows"]
 aliases = ["/170/"]
 +++
 

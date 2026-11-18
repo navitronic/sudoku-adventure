@@ -2,7 +2,7 @@
 title = "Puzzle #143 - Kaos by randall"
 date = "2023-06-19T08:00:36-07:00"
 slug = "143-kaos"
-tags = ["Chaos Construction", "Killer Cages", "Variant", "Other"]
+constraints = ["Chaos Construction", "Killer Cages", "Variant", "Other"]
 aliases = ["/143/"]
 +++
 

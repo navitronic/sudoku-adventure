@@ -2,7 +2,7 @@
 title = "Puzzle #1103 - Mini-Moons by Strosahl"
 date = "2026-02-23T08:00:11-08:00"
 slug = "1103-mini-moons"
-tags = ["Quadruples", "Kropki"]
+constraints = ["Quadruples", "Kropki"]
 aliases = ["/1103/"]
 +++
 

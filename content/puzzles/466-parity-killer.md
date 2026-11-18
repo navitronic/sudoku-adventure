@@ -2,7 +2,7 @@
 title = "Puzzle #466 - Parity Killer by Strosahl"
 date = "2024-05-07T08:00:20-07:00"
 slug = "466-parity-killer"
-tags = ["Parity Diamonds", "Killer Cages"]
+constraints = ["Parity Diamonds", "Killer Cages"]
 aliases = ["/466/"]
 +++
 

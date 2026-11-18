@@ -2,7 +2,7 @@
 title = "Puzzle #980 - Lattice by randall"
 date = "2025-10-23T08:00:35-07:00"
 slug = "980-lattice"
-tags = ["Parity Lines", "German Whispers", "Kropki"]
+constraints = ["Parity Lines", "German Whispers", "Kropki"]
 aliases = ["/980/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #351 - Diamond Cascade by riffclown"
 date = "2024-01-13T08:00:19-08:00"
 slug = "351-diamond-cascade"
-tags = ["Renban Lines", "German Whispers", "Region Sum Lines"]
+constraints = ["Renban Lines", "German Whispers", "Region Sum Lines"]
 aliases = ["/351/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #975 - Scrabble U by Palfly Kampling"
 date = "2025-10-18T08:00:44-07:00"
 slug = "975-scrabble-u"
-tags = ["Parity Lines", "X-Sums"]
+constraints = ["Parity Lines", "X-Sums"]
 aliases = ["/975/"]
 +++
 

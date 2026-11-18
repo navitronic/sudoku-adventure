@@ -2,7 +2,7 @@
 title = "Puzzle #634 - Ultraviolet by Matt Tressel"
 date = "2024-10-30T08:00:04-07:00"
 slug = "634-ultraviolet"
-tags = ["Renban Lines", "Region Sum Lines"]
+constraints = ["Renban Lines", "Region Sum Lines"]
 aliases = ["/634/"]
 +++
 

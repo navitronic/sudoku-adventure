@@ -2,7 +2,7 @@
 title = "Puzzle #1198 - Hey, What's New? by SennyK"
 date = "2026-06-02T08:00:09-07:00"
 slug = "1198-hey-what-s-new"
-tags = ["Irregular", "Other"]
+constraints = ["Irregular", "Other"]
 aliases = ["/1198/"]
 +++
 

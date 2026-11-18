@@ -2,7 +2,7 @@
 title = "Puzzle #1264 - Leftovers by Strosahl"
 date = "2026-08-07T08:00:36-07:00"
 slug = "1264-leftovers"
-tags = ["Killer Cages", "Other"]
+constraints = ["Killer Cages", "Other"]
 aliases = ["/1264/"]
 +++
 

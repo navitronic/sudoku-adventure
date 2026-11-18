@@ -2,7 +2,7 @@
 title = "Puzzle #1326 - Crosses by Strosahl"
 date = "2026-10-08T08:00:35-07:00"
 slug = "1326-crosses"
-tags = ["Look-and-Say Cages"]
+constraints = ["Look-and-Say Cages"]
 aliases = ["/1326/"]
 +++
 

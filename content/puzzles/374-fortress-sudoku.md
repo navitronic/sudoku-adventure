@@ -2,7 +2,7 @@
 title = "Puzzle #374 - Fortress Sudoku by Clover"
 date = "2024-02-05T08:00:33-08:00"
 slug = "374-fortress-sudoku"
-tags = ["Fortress"]
+constraints = ["Fortress"]
 aliases = ["/374/"]
 +++
 

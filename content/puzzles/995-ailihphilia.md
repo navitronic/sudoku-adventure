@@ -2,7 +2,7 @@
 title = "Puzzle #995 - Ailihphilia by Crusader175"
 date = "2025-11-07T08:00:06-08:00"
 slug = "995-ailihphilia"
-tags = ["Palindromes", "Kropki"]
+constraints = ["Palindromes", "Kropki"]
 aliases = ["/995/"]
 +++
 

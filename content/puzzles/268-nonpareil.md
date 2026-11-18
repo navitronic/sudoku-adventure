@@ -2,7 +2,7 @@
 title = "Puzzle #268 - Nonpareil by MicroStudy"
 date = "2023-10-22T08:00:43-07:00"
 slug = "268-nonpareil"
-tags = ["Renban Lines", "Variant"]
+constraints = ["Renban Lines", "Variant"]
 aliases = ["/268/"]
 +++
 

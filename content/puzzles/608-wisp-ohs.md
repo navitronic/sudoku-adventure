@@ -2,7 +2,7 @@
 title = "Puzzle #608 - Wisp-ohs by randall"
 date = "2024-10-04T08:32:23-07:00"
 slug = "608-wisp-ohs"
-tags = ["German Whispers", "Kropki Pairs"]
+constraints = ["German Whispers", "Kropki Pairs"]
 aliases = ["/608/"]
 +++
 

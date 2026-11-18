@@ -2,7 +2,7 @@
 title = "Puzzle #1269 - Law of Averages by James Kopp"
 date = "2026-08-12T08:00:26-07:00"
 slug = "1269-law-of-averages"
-tags = ["Other"]
+constraints = ["Other"]
 aliases = ["/1269/"]
 +++
 

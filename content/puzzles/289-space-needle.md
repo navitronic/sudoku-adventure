@@ -2,7 +2,7 @@
 title = "Puzzle #289 - Space Needle by MicroStudy"
 date = "2023-11-12T08:00:15-08:00"
 slug = "289-space-needle"
-tags = ["Skyscrapers", "Doublers"]
+constraints = ["Skyscrapers", "Doublers"]
 aliases = ["/289/"]
 +++
 

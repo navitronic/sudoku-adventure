@@ -2,7 +2,7 @@
 title = "Puzzle #960 - Ticky-Tacky by ChinStrap"
 date = "2025-10-03T14:52:49-07:00"
 slug = "960-ticky-tacky"
-tags = ["Numbered Rooms"]
+constraints = ["Numbered Rooms"]
 aliases = ["/960/"]
 +++
 

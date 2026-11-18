@@ -2,7 +2,7 @@
 title = "Puzzle #500 - 500 Adventures Pack! by The Sudoku Adventure Team"
 date = "2024-06-10T08:00:36-07:00"
 slug = "500-500-adventures-pack"
-tags = ["Other"]
+constraints = ["Other"]
 aliases = ["/500/"]
 +++
 

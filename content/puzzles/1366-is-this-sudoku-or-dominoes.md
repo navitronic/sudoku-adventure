@@ -2,7 +2,7 @@
 title = "Puzzle #1366 - Is This Sudoku or Dominoes by Calvinball"
 date = "2026-11-17T08:00:25-08:00"
 slug = "1366-is-this-sudoku-or-dominoes"
-tags = ["Killer Cages"]
+constraints = ["Killer Cages"]
 aliases = ["/1366/"]
 +++
 

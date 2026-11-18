@@ -2,7 +2,7 @@
 title = "Puzzle #394 - Hidden Shallows by Chilly"
 date = "2024-02-25T08:00:40-08:00"
 slug = "394-hidden-shallows"
-tags = ["Other", "Fog of War"]
+constraints = ["Other", "Fog of War"]
 aliases = ["/394/"]
 +++
 

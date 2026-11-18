@@ -2,7 +2,7 @@
 title = "Puzzle #632 - Kropki Kaos Adventure by randall"
 date = "2024-10-28T08:00:31-07:00"
 slug = "632-kropki-kaos-adventure"
-tags = ["Chaos Construction", "Kropki Pairs", "Other"]
+constraints = ["Chaos Construction", "Kropki Pairs", "Other"]
 aliases = ["/632/"]
 +++
 

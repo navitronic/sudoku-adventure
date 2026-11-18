@@ -2,7 +2,7 @@
 title = "Puzzle #667 - Southern Summer Holiday by randall"
 date = "2024-12-02T09:12:57-08:00"
 slug = "667-southern-summer-holiday"
-tags = ["Kropki Pairs", "Other"]
+constraints = ["Kropki Pairs", "Other"]
 aliases = ["/667/"]
 +++
 

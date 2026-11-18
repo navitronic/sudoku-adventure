@@ -2,7 +2,7 @@
 title = "Puzzle #838 - Seventropy by Matt Tressel"
 date = "2025-05-26T08:01:14-07:00"
 slug = "838-seventropy"
-tags = ["Other", "XV"]
+constraints = ["Other", "XV"]
 aliases = ["/838/"]
 +++
 

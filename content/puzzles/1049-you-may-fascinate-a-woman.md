@@ -2,7 +2,7 @@
 title = "Puzzle #1049 - You may fascinate a woman... by PjoeterBliep"
 date = "2025-12-31T08:01:16-08:00"
 slug = "1049-you-may-fascinate-a-woman"
-tags = ["Dutch Whispers", "Even/Odd"]
+constraints = ["Dutch Whispers", "Even/Odd"]
 aliases = ["/1049/"]
 +++
 

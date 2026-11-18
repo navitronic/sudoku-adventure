@@ -2,7 +2,7 @@
 title = "Puzzle #383 - One Way Streets by Emphyrio"
 date = "2024-02-14T08:00:31-08:00"
 slug = "383-one-way-streets"
-tags = ["Other"]
+constraints = ["Other"]
 aliases = ["/383/"]
 +++
 

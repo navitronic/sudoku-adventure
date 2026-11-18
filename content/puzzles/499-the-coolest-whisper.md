@@ -2,7 +2,7 @@
 title = "Puzzle #499 - The Coolest Whisper by gdc"
 date = "2024-06-09T08:00:00-07:00"
 slug = "499-the-coolest-whisper"
-tags = ["Thermometers", "German Whispers"]
+constraints = ["Thermometers", "German Whispers"]
 aliases = ["/499/"]
 +++
 

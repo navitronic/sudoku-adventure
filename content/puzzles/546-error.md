@@ -2,7 +2,7 @@
 title = "Puzzle #546 - #ERROR! by Crusader175"
 date = "2024-07-26T08:00:03-07:00"
 slug = "546-error"
-tags = ["Other"]
+constraints = ["Other"]
 aliases = ["/546/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #365 - First Seen Odd/Even Sudoku by Clover"
 date = "2024-01-27T08:00:31-08:00"
 slug = "365-first-seen-odd-even-sudoku"
-tags = ["Other"]
+constraints = ["Other"]
 aliases = ["/365/"]
 +++
 

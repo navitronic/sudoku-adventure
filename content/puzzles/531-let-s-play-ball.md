@@ -2,7 +2,7 @@
 title = "Puzzle #531 - Let's Play Ball! by Tony Zampini"
 date = "2024-07-11T08:00:00-07:00"
 slug = "531-let-s-play-ball"
-tags = ["Palindrome Lines", "Kropki Pairs"]
+constraints = ["Palindrome Lines", "Kropki Pairs"]
 aliases = ["/531/"]
 +++
 

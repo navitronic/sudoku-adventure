@@ -2,7 +2,7 @@
 title = "Puzzle #641 - Homomorphic Cipher by gdc"
 date = "2024-11-06T08:00:39-08:00"
 slug = "641-homomorphic-cipher"
-tags = ["Killer Cages", "Other"]
+constraints = ["Killer Cages", "Other"]
 aliases = ["/641/"]
 +++
 

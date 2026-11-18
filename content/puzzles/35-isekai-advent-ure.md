@@ -2,7 +2,7 @@
 title = "Puzzle #35 - Isekai Advent-ure by Emphyrio"
 date = "2023-02-23T08:00:14-08:00"
 slug = "35-isekai-advent-ure"
-tags = ["Thermometers"]
+constraints = ["Thermometers"]
 aliases = ["/35/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #1046 - Products and Sums by James Kopp"
 date = "2025-12-28T08:00:39-08:00"
 slug = "1046-products-and-sums"
-tags = ["Other"]
+constraints = ["Other"]
 aliases = ["/1046/"]
 +++
 

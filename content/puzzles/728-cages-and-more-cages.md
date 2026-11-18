@@ -2,7 +2,7 @@
 title = "Puzzle #728 - Cages and More Cages by Strosahl"
 date = "2025-02-01T08:00:25-08:00"
 slug = "728-cages-and-more-cages"
-tags = ["Killer Cages", "Clones"]
+constraints = ["Killer Cages", "Clones"]
 aliases = ["/728/"]
 +++
 

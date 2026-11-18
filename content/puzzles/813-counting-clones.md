@@ -2,7 +2,7 @@
 title = "Puzzle #813 - Counting Clones by Strosahl"
 date = "2025-05-01T08:00:20-07:00"
 slug = "813-counting-clones"
-tags = ["Counting Circles", "Clones"]
+constraints = ["Counting Circles", "Clones"]
 aliases = ["/813/"]
 +++
 

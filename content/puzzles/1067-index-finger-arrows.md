@@ -2,7 +2,7 @@
 title = "Puzzle #1067 - Index Finger Arrows by PjoeterBliep"
 date = "2026-01-18T08:00:28-08:00"
 slug = "1067-index-finger-arrows"
-tags = ["Arrows", "Other"]
+constraints = ["Arrows", "Other"]
 aliases = ["/1067/"]
 +++
 

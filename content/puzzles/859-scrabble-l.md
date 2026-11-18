@@ -2,7 +2,7 @@
 title = "Puzzle #859 - Scrabble L by Palfly Kampling"
 date = "2025-06-16T08:01:10-07:00"
 slug = "859-scrabble-l"
-tags = ["Quadruples", "Other"]
+constraints = ["Quadruples", "Other"]
 aliases = ["/859/"]
 +++
 

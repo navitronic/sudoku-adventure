@@ -2,7 +2,7 @@
 title = "Puzzle #305 - Family Feud by MicroStudy"
 date = "2023-11-28T08:00:10-08:00"
 slug = "305-family-feud"
-tags = ["Chaos Construction", "Other"]
+constraints = ["Chaos Construction", "Other"]
 aliases = ["/305/"]
 +++
 

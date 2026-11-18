@@ -2,7 +2,7 @@
 title = "Puzzle #475 - Preemptive Thinking by Toir"
 date = "2024-05-16T08:00:29-07:00"
 slug = "475-preemptive-thinking"
-tags = ["Region Sum Lines", "Referenced Lines", "Variant"]
+constraints = ["Region Sum Lines", "Referenced Lines", "Variant"]
 aliases = ["/475/"]
 +++
 

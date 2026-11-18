@@ -2,7 +2,7 @@
 title = "Puzzle #463 - Killer Bits by Emphyrio"
 date = "2024-05-04T08:00:06-07:00"
 slug = "463-killer-bits"
-tags = ["Killer Cages", "Variant"]
+constraints = ["Killer Cages", "Variant"]
 aliases = ["/463/"]
 +++
 

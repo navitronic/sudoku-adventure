@@ -2,7 +2,7 @@
 title = "Puzzle #654 - Regions? We don't need no stinking regions! by Strosahl"
 date = "2024-11-19T08:00:01-08:00"
 slug = "654-regions-we-don-t-need-no-stinking-regions"
-tags = ["Killer Cages"]
+constraints = ["Killer Cages"]
 aliases = ["/654/"]
 +++
 

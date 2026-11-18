@@ -2,7 +2,7 @@
 title = "Puzzle #1361 - Red Five Standing By by Calvinball"
 date = "2026-11-12T08:00:33-08:00"
 slug = "1361-red-five-standing-by"
-tags = ["Little Killer", "Sandwich Sums"]
+constraints = ["Little Killer", "Sandwich Sums"]
 aliases = ["/1361/"]
 +++
 

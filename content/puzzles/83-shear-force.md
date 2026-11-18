@@ -2,7 +2,7 @@
 title = "Puzzle #83 - Shear Force by Riffclown"
 date = "2023-04-20T08:00:31-07:00"
 slug = "83-shear-force"
-tags = ["Palindrome Lines"]
+constraints = ["Palindrome Lines"]
 aliases = ["/83/"]
 +++
 

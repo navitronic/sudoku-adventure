@@ -2,7 +2,7 @@
 title = "Puzzle #861 - MMM-Possible by Riffclown"
 date = "2025-06-18T08:01:34-07:00"
 slug = "861-mmm-possible"
-tags = ["Arrows"]
+constraints = ["Arrows"]
 aliases = ["/861/"]
 +++
 

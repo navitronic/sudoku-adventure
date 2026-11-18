@@ -2,7 +2,7 @@
 title = "Puzzle #1259 - Balancing Act by riffclown"
 date = "2026-08-02T08:00:00-07:00"
 slug = "1259-balancing-act"
-tags = ["German Whispers", "Diagonal"]
+constraints = ["German Whispers", "Diagonal"]
 aliases = ["/1259/"]
 +++
 

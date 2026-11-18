@@ -2,7 +2,7 @@
 title = "Puzzle #337 - The Prism by Toir"
 date = "2023-12-30T08:00:22-08:00"
 slug = "337-the-prism"
-tags = ["Region Sum Lines"]
+constraints = ["Region Sum Lines"]
 aliases = ["/337/"]
 +++
 

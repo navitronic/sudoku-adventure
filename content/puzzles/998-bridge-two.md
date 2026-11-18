@@ -2,7 +2,7 @@
 title = "Puzzle #998 - Bridge Two by Calvinball"
 date = "2025-11-10T08:01:17-08:00"
 slug = "998-bridge-two"
-tags = ["Killer Cages", "Variant"]
+constraints = ["Killer Cages", "Variant"]
 aliases = ["/998/"]
 +++
 

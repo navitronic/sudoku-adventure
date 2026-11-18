@@ -2,7 +2,7 @@
 title = "Puzzle #402 - Little Killer by Clover"
 date = "2024-03-04T08:00:14-08:00"
 slug = "402-little-killer"
-tags = ["Little Killer"]
+constraints = ["Little Killer"]
 aliases = ["/402/"]
 +++
 

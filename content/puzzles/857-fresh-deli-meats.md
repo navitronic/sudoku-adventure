@@ -2,7 +2,7 @@
 title = "Puzzle #857 - Fresh Deli Meats by Gene"
 date = "2025-06-14T08:01:08-07:00"
 slug = "857-fresh-deli-meats"
-tags = ["German Whispers", "Extra Regions"]
+constraints = ["German Whispers", "Extra Regions"]
 aliases = ["/857/"]
 +++
 

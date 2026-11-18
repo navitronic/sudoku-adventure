@@ -2,7 +2,7 @@
 title = "Puzzle #1036 - Four Calling Birds by Matt Tressel"
 date = "2025-12-18T08:00:52-08:00"
 slug = "1036-four-calling-birds"
-tags = ["Other"]
+constraints = ["Other"]
 aliases = ["/1036/"]
 +++
 

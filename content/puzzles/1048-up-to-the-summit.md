@@ -2,7 +2,7 @@
 title = "Puzzle #1048 - Up to the Summit by Calvinball"
 date = "2025-12-30T08:00:24-08:00"
 slug = "1048-up-to-the-summit"
-tags = ["Up to N"]
+constraints = ["Up to N"]
 aliases = ["/1048/"]
 +++
 

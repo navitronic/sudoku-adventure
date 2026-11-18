@@ -2,7 +2,7 @@
 title = "Puzzle #852 - Obsidian by Riffclown"
 date = "2025-06-09T08:00:23-07:00"
 slug = "852-obsidian"
-tags = ["X-Sums", "Arrows"]
+constraints = ["X-Sums", "Arrows"]
 aliases = ["/852/"]
 +++
 

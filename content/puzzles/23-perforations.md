@@ -2,7 +2,7 @@
 title = "Puzzle #23 - Perforations by rockratzero"
 date = "2023-02-11T17:26:55-08:00"
 slug = "23-perforations"
-tags = ["Kropki Pairs"]
+constraints = ["Kropki Pairs"]
 aliases = ["/23/"]
 +++
 

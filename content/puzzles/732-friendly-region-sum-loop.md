@@ -2,7 +2,7 @@
 title = "Puzzle #732 - Friendly Region Sum Loop by Wuschel"
 date = "2025-02-05T08:00:26-08:00"
 slug = "732-friendly-region-sum-loop"
-tags = ["Other", "Region Sum Lines"]
+constraints = ["Other", "Region Sum Lines"]
 aliases = ["/732/"]
 +++
 

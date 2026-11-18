@@ -2,7 +2,7 @@
 title = "Puzzle #1236 - Covert Killer by Strosahl"
 date = "2026-07-10T08:00:25-07:00"
 slug = "1236-covert-killer"
-tags = ["Killer Cages", "Little Killer"]
+constraints = ["Killer Cages", "Little Killer"]
 aliases = ["/1236/"]
 +++
 

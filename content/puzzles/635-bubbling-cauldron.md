@@ -2,7 +2,7 @@
 title = "Puzzle #635 - Bubbling Cauldron by rockratzero"
 date = "2024-10-31T08:01:13-07:00"
 slug = "635-bubbling-cauldron"
-tags = ["Parity Lines", "Kropki Pairs", "XV"]
+constraints = ["Parity Lines", "Kropki Pairs", "XV"]
 aliases = ["/635/"]
 +++
 

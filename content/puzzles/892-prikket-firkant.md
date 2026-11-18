@@ -2,7 +2,7 @@
 title = "Puzzle #892 - prikket firkant by rockratzero"
 date = "2025-07-19T08:00:51-07:00"
 slug = "892-prikket-firkant"
-tags = ["Kropki Pairs", "Killer Cages", "Variant"]
+constraints = ["Kropki Pairs", "Killer Cages", "Variant"]
 aliases = ["/892/"]
 +++
 

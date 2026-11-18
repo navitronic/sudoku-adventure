@@ -2,7 +2,7 @@
 title = "Puzzle #891 - MicroSIM by Stuart Sharpe"
 date = "2025-07-18T08:01:04-07:00"
 slug = "891-microsim"
-tags = ["Region Sum Lines"]
+constraints = ["Region Sum Lines"]
 aliases = ["/891/"]
 +++
 

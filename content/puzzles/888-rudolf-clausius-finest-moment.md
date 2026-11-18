@@ -2,7 +2,7 @@
 title = "Puzzle #888 - Rudolf Clausius' finest moment by randall"
 date = "2025-07-15T10:18:04-07:00"
 slug = "888-rudolf-clausius-finest-moment"
-tags = ["Entropic Lines", "Kropki Pairs"]
+constraints = ["Entropic Lines", "Kropki Pairs"]
 aliases = ["/888/"]
 +++
 

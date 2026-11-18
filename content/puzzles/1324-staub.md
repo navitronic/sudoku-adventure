@@ -2,7 +2,7 @@
 title = "Puzzle #1324 - Staub by Palfly Kampling"
 date = "2026-10-06T08:00:33-07:00"
 slug = "1324-staub"
-tags = ["Look-and-Say Cages", "Numbered Rooms", "Variant"]
+constraints = ["Look-and-Say Cages", "Numbered Rooms", "Variant"]
 aliases = ["/1324/"]
 +++
 

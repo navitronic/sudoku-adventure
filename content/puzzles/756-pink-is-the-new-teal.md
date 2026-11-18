@@ -2,7 +2,7 @@
 title = "Puzzle #756 - Pink is the new Teal by Palfly Kampling"
 date = "2025-03-04T08:00:43-08:00"
 slug = "756-pink-is-the-new-teal"
-tags = ["Renban Lines", "Little Killer"]
+constraints = ["Renban Lines", "Little Killer"]
 aliases = ["/756/"]
 +++
 

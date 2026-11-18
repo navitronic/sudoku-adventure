@@ -2,7 +2,7 @@
 title = "Puzzle #364 - Maximal Direction by Chilly"
 date = "2024-01-26T08:00:19-08:00"
 slug = "364-maximal-direction"
-tags = ["Greater Than Arrows"]
+constraints = ["Greater Than Arrows"]
 aliases = ["/364/"]
 +++
 

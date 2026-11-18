@@ -2,7 +2,7 @@
 title = "Puzzle #990 - Rotation by Riffclown"
 date = "2025-11-02T08:01:08-08:00"
 slug = "990-rotation"
-tags = ["Arrows"]
+constraints = ["Arrows"]
 aliases = ["/990/"]
 +++
 

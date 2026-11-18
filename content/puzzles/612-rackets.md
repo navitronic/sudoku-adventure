@@ -2,7 +2,7 @@
 title = "Puzzle #612 - Rackets by Palfly Kampling"
 date = "2024-10-08T08:00:23-07:00"
 slug = "612-rackets"
-tags = ["Chaos Construction", "German Whispers", "Other"]
+constraints = ["Chaos Construction", "German Whispers", "Other"]
 aliases = ["/612/"]
 +++
 

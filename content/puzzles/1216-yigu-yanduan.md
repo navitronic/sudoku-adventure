@@ -2,7 +2,7 @@
 title = "Puzzle #1216 - Yigu Yanduan by PjoeterBliep"
 date = "2026-06-20T08:00:26-07:00"
 slug = "1216-yigu-yanduan"
-tags = ["Arrows", "Chinese Whispers"]
+constraints = ["Arrows", "Chinese Whispers"]
 aliases = ["/1216/"]
 +++
 

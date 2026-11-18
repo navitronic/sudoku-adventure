@@ -2,7 +2,7 @@
 title = "Puzzle #808 - dros wyth cant by rockratzero"
 date = "2025-04-26T08:00:18-07:00"
 slug = "808-dros-wyth-cant"
-tags = ["Parity Lines", "Renban Lines", "Region Sum Lines"]
+constraints = ["Parity Lines", "Renban Lines", "Region Sum Lines"]
 aliases = ["/808/"]
 +++
 

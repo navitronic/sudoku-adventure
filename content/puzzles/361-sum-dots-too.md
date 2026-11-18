@@ -2,7 +2,7 @@
 title = "Puzzle #361 - Sum Dots, too by randall"
 date = "2024-01-23T08:00:37-08:00"
 slug = "361-sum-dots-too"
-tags = ["Sum Dots"]
+constraints = ["Sum Dots"]
 aliases = ["/361/"]
 +++
 

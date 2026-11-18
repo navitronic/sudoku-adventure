@@ -2,7 +2,7 @@
 title = "Puzzle #901 - Thanks for the Fish by Riffclown"
 date = "2025-07-28T08:01:04-07:00"
 slug = "901-thanks-for-the-fish"
-tags = ["Irregular", "Entropic Lines", "Even/Odd"]
+constraints = ["Irregular", "Entropic Lines", "Even/Odd"]
 aliases = ["/901/"]
 +++
 

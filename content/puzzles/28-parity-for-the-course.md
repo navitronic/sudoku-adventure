@@ -2,7 +2,7 @@
 title = "Puzzle #28 - Parity for the Course by BremSter"
 date = "2023-02-16T08:00:32-08:00"
 slug = "28-parity-for-the-course"
-tags = ["Parity Diamonds", "Killer Cages"]
+constraints = ["Parity Diamonds", "Killer Cages"]
 aliases = ["/28/"]
 +++
 

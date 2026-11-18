@@ -2,7 +2,7 @@
 title = "Puzzle #1272 - La Paloma Blanca by Gene"
 date = "2026-08-15T08:00:34-07:00"
 slug = "1272-la-paloma-blanca"
-tags = ["Numbered Rooms", "Little Killer"]
+constraints = ["Numbered Rooms", "Little Killer"]
 aliases = ["/1272/"]
 +++
 

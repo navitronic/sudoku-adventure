@@ -2,7 +2,7 @@
 title = "Puzzle #297 - Difference Dots by randall"
 date = "2023-11-20T08:00:14-08:00"
 slug = "297-difference-dots"
-tags = ["Kropki Pairs", "Variant"]
+constraints = ["Kropki Pairs", "Variant"]
 aliases = ["/297/"]
 +++
 

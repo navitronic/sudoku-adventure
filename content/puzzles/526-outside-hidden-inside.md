@@ -2,7 +2,7 @@
 title = "Puzzle #526 - Outside Hidden Inside by rockratzero"
 date = "2024-07-06T08:00:03-07:00"
 slug = "526-outside-hidden-inside"
-tags = ["Fog of War", "Other"]
+constraints = ["Fog of War", "Other"]
 aliases = ["/526/"]
 +++
 

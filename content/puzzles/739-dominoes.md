@@ -2,7 +2,7 @@
 title = "Puzzle #739 - Dominoes by Strosahl"
 date = "2025-02-15T08:00:45-08:00"
 slug = "739-dominoes"
-tags = ["Killer Cages"]
+constraints = ["Killer Cages"]
 aliases = ["/739/"]
 +++
 

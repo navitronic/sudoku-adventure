@@ -2,7 +2,7 @@
 title = "Puzzle #595 - Therm-ohs! by randall"
 date = "2024-09-13T09:52:25-07:00"
 slug = "595-therm-ohs"
-tags = ["Thermometers", "Kropki Pairs"]
+constraints = ["Thermometers", "Kropki Pairs"]
 aliases = ["/595/"]
 +++
 

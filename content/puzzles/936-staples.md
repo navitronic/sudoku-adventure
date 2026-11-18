@@ -2,7 +2,7 @@
 title = "Puzzle #936 - Staples by Gene"
 date = "2025-09-09T10:17:14-07:00"
 slug = "936-staples"
-tags = ["Region Sum Lines", "Kropki Pairs", "Variant"]
+constraints = ["Region Sum Lines", "Kropki Pairs", "Variant"]
 aliases = ["/936/"]
 +++
 

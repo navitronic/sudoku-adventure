@@ -2,7 +2,7 @@
 title = "Puzzle #313 - Christmas Lights by Toir"
 date = "2023-12-06T08:00:09-08:00"
 slug = "313-christmas-lights"
-tags = ["Sweeper Clues"]
+constraints = ["Sweeper Clues"]
 aliases = ["/313/"]
 +++
 

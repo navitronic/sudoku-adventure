@@ -2,7 +2,7 @@
 title = "Puzzle #1344 - Distantly Related by Strosahl"
 date = "2026-10-26T08:00:36-07:00"
 slug = "1344-distantly-related"
-tags = ["Kropki Pairs", "Variant"]
+constraints = ["Kropki Pairs", "Variant"]
 aliases = ["/1344/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #1291 - Pasta Fazool by Gene"
 date = "2026-09-03T04:00:30-07:00"
 slug = "1291-pasta-fazool"
-tags = ["Little Killer", "Diagonal"]
+constraints = ["Little Killer", "Diagonal"]
 aliases = ["/1291/"]
 +++
 

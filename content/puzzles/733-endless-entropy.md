@@ -2,7 +2,7 @@
 title = "Puzzle #733 - Endless Entropy by Matt Tressel"
 date = "2025-02-06T08:00:07-08:00"
 slug = "733-endless-entropy"
-tags = ["Other", "Entropic Lines"]
+constraints = ["Other", "Entropic Lines"]
 aliases = ["/733/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #171 - Sum are Quiet by Rangsk"
 date = "2023-07-17T08:00:13-07:00"
 slug = "171-sum-are-quiet"
-tags = ["German Whispers", "Region Sum Lines", "Variant"]
+constraints = ["German Whispers", "Region Sum Lines", "Variant"]
 aliases = ["/171/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #250 - Just Sum Quads by Rangsk"
 date = "2023-10-04T08:00:15-07:00"
 slug = "250-just-sum-quads"
-tags = ["Quadruples", "Region Sum Lines"]
+constraints = ["Quadruples", "Region Sum Lines"]
 aliases = ["/250/"]
 +++
 

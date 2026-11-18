@@ -2,7 +2,7 @@
 title = "Puzzle #114 - Piled in the Corners by DJV"
 date = "2023-05-21T08:00:37-07:00"
 slug = "114-piled-in-the-corners"
-tags = ["Little Killer"]
+constraints = ["Little Killer"]
 aliases = ["/114/"]
 +++
 

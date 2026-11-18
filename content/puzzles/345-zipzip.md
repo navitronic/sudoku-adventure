@@ -2,7 +2,7 @@
 title = "Puzzle #345 - Zipzip by Palfly Kampling"
 date = "2024-01-07T08:00:44-08:00"
 slug = "345-zipzip"
-tags = ["Zipper Lines", "Doublers"]
+constraints = ["Zipper Lines", "Doublers"]
 aliases = ["/345/"]
 +++
 

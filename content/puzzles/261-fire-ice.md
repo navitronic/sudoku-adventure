@@ -2,7 +2,7 @@
 title = "Puzzle #261 - Fire&Ice by Emphyrio"
 date = "2023-10-15T08:00:39-07:00"
 slug = "261-fire-ice"
-tags = ["Thermometers", "Variant"]
+constraints = ["Thermometers", "Variant"]
 aliases = ["/261/"]
 +++
 

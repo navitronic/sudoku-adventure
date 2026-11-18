@@ -2,7 +2,7 @@
 title = "Puzzle #719 - Silent Killer by Strosahl"
 date = "2025-01-23T08:00:10-08:00"
 slug = "719-silent-killer"
-tags = ["Killer Cages", "German Whispers"]
+constraints = ["Killer Cages", "German Whispers"]
 aliases = ["/719/"]
 +++
 

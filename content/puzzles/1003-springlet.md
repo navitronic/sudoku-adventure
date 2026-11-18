@@ -2,7 +2,7 @@
 title = "Puzzle #1003 - Springlet by rockratzero"
 date = "2025-11-15T08:00:16-08:00"
 slug = "1003-springlet"
-tags = ["Region Sum Lines", "Quadruples"]
+constraints = ["Region Sum Lines", "Quadruples"]
 aliases = ["/1003/"]
 +++
 

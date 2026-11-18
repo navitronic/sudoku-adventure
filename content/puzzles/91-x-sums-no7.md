@@ -2,7 +2,7 @@
 title = "Puzzle #91 - X-Sums No7 by TinkerTroy"
 date = "2023-04-28T08:00:13-07:00"
 slug = "91-x-sums-no7"
-tags = ["X-Sums", "Other"]
+constraints = ["X-Sums", "Other"]
 aliases = ["/91/"]
 +++
 

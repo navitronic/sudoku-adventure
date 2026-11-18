@@ -2,7 +2,7 @@
 title = "Puzzle #149 - If Looks Could Kill by DJV"
 date = "2023-06-25T08:00:14-07:00"
 slug = "149-if-looks-could-kill"
-tags = ["Killer Cages", "Look-and-Say Cages"]
+constraints = ["Killer Cages", "Look-and-Say Cages"]
 aliases = ["/149/"]
 +++
 

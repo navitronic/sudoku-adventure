@@ -2,7 +2,7 @@
 title = "Puzzle #418 - Bounce by Palfly Kampling"
 date = "2024-03-20T08:00:39-07:00"
 slug = "418-bounce"
-tags = ["Renban Lines", "Remote Sums"]
+constraints = ["Renban Lines", "Remote Sums"]
 aliases = ["/418/"]
 +++
 

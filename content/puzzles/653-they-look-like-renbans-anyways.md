@@ -2,7 +2,7 @@
 title = "Puzzle #653 - They Look Like Renbans Anyways by gdc"
 date = "2024-11-18T08:00:05-08:00"
 slug = "653-they-look-like-renbans-anyways"
-tags = ["Renban Lines", "Zipper Lines", "Other"]
+constraints = ["Renban Lines", "Zipper Lines", "Other"]
 aliases = ["/653/"]
 +++
 

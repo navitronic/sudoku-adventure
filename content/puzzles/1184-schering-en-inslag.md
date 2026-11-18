@@ -2,7 +2,7 @@
 title = "Puzzle #1184 - Schering en Inslag by PjoeterBliep"
 date = "2026-05-19T08:00:04-07:00"
 slug = "1184-schering-en-inslag"
-tags = ["Double Arrows", "Sandwich Sums"]
+constraints = ["Double Arrows", "Sandwich Sums"]
 aliases = ["/1184/"]
 +++
 

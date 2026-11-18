@@ -2,7 +2,7 @@
 title = "Puzzle #812 - Spill the Beans by Matt Tressel"
 date = "2025-04-30T08:00:16-07:00"
 slug = "812-spill-the-beans"
-tags = ["German Whispers", "Kropki Pairs"]
+constraints = ["German Whispers", "Kropki Pairs"]
 aliases = ["/812/"]
 +++
 

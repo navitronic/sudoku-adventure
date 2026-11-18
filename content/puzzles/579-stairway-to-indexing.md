@@ -2,7 +2,7 @@
 title = "Puzzle #579 - Stairway to Indexing by Crusader175"
 date = "2024-08-28T08:00:16-07:00"
 slug = "579-stairway-to-indexing"
-tags = ["Killer Cages", "Other"]
+constraints = ["Killer Cages", "Other"]
 aliases = ["/579/"]
 +++
 

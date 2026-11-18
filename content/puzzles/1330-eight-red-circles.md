@@ -2,7 +2,7 @@
 title = "Puzzle #1330 - Eight Red Circles by James Kopp"
 date = "2026-10-12T08:00:38-07:00"
 slug = "1330-eight-red-circles"
-tags = ["Counting Circles", "Thermometers"]
+constraints = ["Counting Circles", "Thermometers"]
 aliases = ["/1330/"]
 +++
 

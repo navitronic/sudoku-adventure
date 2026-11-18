@@ -2,7 +2,7 @@
 title = "Puzzle #87 - Circuitous Route by DJV"
 date = "2023-04-24T08:00:29-07:00"
 slug = "87-circuitous-route"
-tags = ["Region Sum Lines"]
+constraints = ["Region Sum Lines"]
 aliases = ["/87/"]
 +++
 

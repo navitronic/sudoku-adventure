@@ -2,7 +2,7 @@
 title = "Puzzle #33 - Hazy Outlook by DJV"
 date = "2023-02-21T08:00:09-08:00"
 slug = "33-hazy-outlook"
-tags = ["Fog of War", "Thermometers"]
+constraints = ["Fog of War", "Thermometers"]
 aliases = ["/33/"]
 +++
 

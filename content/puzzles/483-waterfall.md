@@ -2,7 +2,7 @@
 title = "Puzzle #483 - Waterfall by Teal"
 date = "2024-05-24T08:00:51-07:00"
 slug = "483-waterfall"
-tags = ["Quadruples"]
+constraints = ["Quadruples"]
 aliases = ["/483/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #37 - Dimension Door by BremSter"
 date = "2023-02-25T08:00:13-08:00"
 slug = "37-dimension-door"
-tags = ["Clones"]
+constraints = ["Clones"]
 aliases = ["/37/"]
 +++
 

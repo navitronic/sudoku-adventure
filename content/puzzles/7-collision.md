@@ -2,7 +2,7 @@
 title = "Puzzle #7 - Collision by riffclown"
 date = "2023-01-26T09:00:15-08:00"
 slug = "7-collision"
-tags = ["Thermometers"]
+constraints = ["Thermometers"]
 aliases = ["/7/"]
 +++
 

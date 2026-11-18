@@ -2,7 +2,7 @@
 title = "Puzzle #380 - Go Backwards! by Toir"
 date = "2024-02-11T08:00:29-08:00"
 slug = "380-go-backwards"
-tags = ["Fortress", "Palindrome Lines"]
+constraints = ["Fortress", "Palindrome Lines"]
 aliases = ["/380/"]
 +++
 

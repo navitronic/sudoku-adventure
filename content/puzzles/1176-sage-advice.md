@@ -2,7 +2,7 @@
 title = "Puzzle #1176 - Sage Advice by Calvinball"
 date = "2026-05-11T08:01:51-07:00"
 slug = "1176-sage-advice"
-tags = ["Look-and-See Cages", "Killer Cages"]
+constraints = ["Look-and-See Cages", "Killer Cages"]
 aliases = ["/1176/"]
 +++
 

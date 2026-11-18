@@ -2,7 +2,7 @@
 title = "Puzzle #1113 - rEpEat by Palfly Kampling"
 date = "2026-03-05T21:09:24-08:00"
 slug = "1113-repeat"
-tags = ["Arrows", "Other"]
+constraints = ["Arrows", "Other"]
 aliases = ["/1113/"]
 +++
 

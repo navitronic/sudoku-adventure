@@ -2,7 +2,7 @@
 title = "Puzzle #1260 - Mind the Gap by Palfly Kampling"
 date = "2026-08-03T08:00:22-07:00"
 slug = "1260-mind-the-gap"
-tags = ["Other"]
+constraints = ["Other"]
 aliases = ["/1260/"]
 +++
 

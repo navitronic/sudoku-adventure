@@ -2,7 +2,7 @@
 title = "Puzzle #322 - Sevivonim by rockratzero"
 date = "2023-12-15T08:00:09-08:00"
 slug = "322-sevivonim"
-tags = ["Renban Lines", "Killer Cages"]
+constraints = ["Renban Lines", "Killer Cages"]
 aliases = ["/322/"]
 +++
 

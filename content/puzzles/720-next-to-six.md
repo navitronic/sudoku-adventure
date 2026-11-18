@@ -2,7 +2,7 @@
 title = "Puzzle #720 - Next to Six by randall"
 date = "2025-01-24T08:00:54-08:00"
 slug = "720-next-to-six"
-tags = ["Other"]
+constraints = ["Other"]
 aliases = ["/720/"]
 +++
 

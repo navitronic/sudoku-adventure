@@ -2,7 +2,7 @@
 title = "Puzzle #231 - Little Quad Killers by Wuschel"
 date = "2023-09-15T08:00:51-07:00"
 slug = "231-little-quad-killers"
-tags = ["Little Killer", "Quadruples"]
+constraints = ["Little Killer", "Quadruples"]
 aliases = ["/231/"]
 +++
 

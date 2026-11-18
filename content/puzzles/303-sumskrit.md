@@ -2,7 +2,7 @@
 title = "Puzzle #303 - Sumskrit by Wuschel"
 date = "2023-11-26T08:00:11-08:00"
 slug = "303-sumskrit"
-tags = ["Region Sum Lines"]
+constraints = ["Region Sum Lines"]
 aliases = ["/303/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #436 - Squares! by Jaze"
 date = "2024-04-07T08:00:33-07:00"
 slug = "436-squares"
-tags = ["Counting Circles", "Variant"]
+constraints = ["Counting Circles", "Variant"]
 aliases = ["/436/"]
 +++
 

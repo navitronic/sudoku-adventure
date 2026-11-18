@@ -2,7 +2,7 @@
 title = "Puzzle #1104 - High-rise by James Kopp"
 date = "2026-02-24T08:01:20-08:00"
 slug = "1104-high-rise"
-tags = ["Skyscrapers"]
+constraints = ["Skyscrapers"]
 aliases = ["/1104/"]
 +++
 

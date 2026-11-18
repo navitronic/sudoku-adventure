@@ -2,7 +2,7 @@
 title = "Puzzle #647 - Precision by Crusader175"
 date = "2024-11-12T08:00:04-08:00"
 slug = "647-precision"
-tags = ["XV", "Other"]
+constraints = ["XV", "Other"]
 aliases = ["/647/"]
 +++
 

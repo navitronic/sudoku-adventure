@@ -2,7 +2,7 @@
 title = "Puzzle #136 - Run-on Renban 6x6 Style by Riffclown"
 date = "2023-06-12T08:00:25-07:00"
 slug = "136-run-on-renban-6x6-style"
-tags = ["Renban Lines", "Variant"]
+constraints = ["Renban Lines", "Variant"]
 aliases = ["/136/"]
 +++
 

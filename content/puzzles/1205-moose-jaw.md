@@ -2,7 +2,7 @@
 title = "Puzzle #1205 - Moose Jaw by Gene"
 date = "2026-06-09T08:00:06-07:00"
 slug = "1205-moose-jaw"
-tags = ["Region Sum Lines"]
+constraints = ["Region Sum Lines"]
 aliases = ["/1205/"]
 +++
 

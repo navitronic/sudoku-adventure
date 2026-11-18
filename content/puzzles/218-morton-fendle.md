@@ -2,7 +2,7 @@
 title = "Puzzle #218 - Morton Fendle by Wuschel"
 date = "2023-09-02T08:00:26-07:00"
 slug = "218-morton-fendle"
-tags = ["Killer Cages", "Diagonal"]
+constraints = ["Killer Cages", "Diagonal"]
 aliases = ["/218/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #1115 - Changing Lanes by Matt Tressel"
 date = "2026-03-07T08:00:51-08:00"
 slug = "1115-changing-lanes"
-tags = ["Region Sum Lines"]
+constraints = ["Region Sum Lines"]
 aliases = ["/1115/"]
 +++
 

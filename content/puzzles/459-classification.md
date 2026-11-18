@@ -2,7 +2,7 @@
 title = "Puzzle #459 - Classification by Strosahl"
 date = "2024-04-30T08:00:31-07:00"
 slug = "459-classification"
-tags = ["Killer Cages", "Variant"]
+constraints = ["Killer Cages", "Variant"]
 aliases = ["/459/"]
 +++
 

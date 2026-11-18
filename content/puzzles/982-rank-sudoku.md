@@ -2,7 +2,7 @@
 title = "Puzzle #982 - Rank Sudoku by clover!"
 date = "2025-10-25T20:33:39-07:00"
 slug = "982-rank-sudoku"
-tags = ["Other"]
+constraints = ["Other"]
 aliases = ["/982/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #1163 - Balancing Killers by PjoeterBliep"
 date = "2026-04-28T08:01:03-07:00"
 slug = "1163-balancing-killers"
-tags = ["Killer cages", "Other"]
+constraints = ["Killer cages", "Other"]
 aliases = ["/1163/"]
 +++
 

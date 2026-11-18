@@ -2,7 +2,7 @@
 title = "Puzzle #735 - Loopy X-Sums by ChinStrap"
 date = "2025-02-08T08:00:55-08:00"
 slug = "735-loopy-x-sums"
-tags = ["Other", "X-Sums", "Variant"]
+constraints = ["Other", "X-Sums", "Variant"]
 aliases = ["/735/"]
 +++
 

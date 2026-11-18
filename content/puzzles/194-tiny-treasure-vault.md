@@ -2,7 +2,7 @@
 title = "Puzzle #194 - Tiny Treasure Vault by Virtual"
 date = "2023-08-09T08:00:16-07:00"
 slug = "194-tiny-treasure-vault"
-tags = ["Extra Regions", "Variant"]
+constraints = ["Extra Regions", "Variant"]
 aliases = ["/194/"]
 +++
 

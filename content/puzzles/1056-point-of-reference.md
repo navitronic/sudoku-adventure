@@ -2,7 +2,7 @@
 title = "Puzzle #1056 - Point of Reference by ChinStrap"
 date = "2026-01-07T08:01:32-08:00"
 slug = "1056-point-of-reference"
-tags = ["Indexing", "Skyscrapers"]
+constraints = ["Indexing", "Skyscrapers"]
 aliases = ["/1056/"]
 +++
 

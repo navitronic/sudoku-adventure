@@ -2,7 +2,7 @@
 title = "Puzzle #772 - Wire Sponge by Gene"
 date = "2025-03-20T08:00:42-07:00"
 slug = "772-wire-sponge"
-tags = ["German Whispers", "Other"]
+constraints = ["German Whispers", "Other"]
 aliases = ["/772/"]
 +++
 

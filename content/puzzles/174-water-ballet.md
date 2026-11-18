@@ -2,7 +2,7 @@
 title = "Puzzle #174 - Water Ballet by Sandra & Nala"
 date = "2023-07-20T08:00:30-07:00"
 slug = "174-water-ballet"
-tags = ["Thermometers", "Indexing"]
+constraints = ["Thermometers", "Indexing"]
 aliases = ["/174/"]
 +++
 

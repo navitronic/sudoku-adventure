@@ -2,7 +2,7 @@
 title = "Puzzle #784 - Blatant SudokuCon Ad Puzzle by rockratzero"
 date = "2025-04-02T08:00:53-07:00"
 slug = "784-blatant-sudokucon-ad-puzzle"
-tags = ["Quadruples", "Thermometers", "Variant"]
+constraints = ["Quadruples", "Thermometers", "Variant"]
 aliases = ["/784/"]
 +++
 

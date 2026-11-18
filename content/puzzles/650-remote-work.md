@@ -2,7 +2,7 @@
 title = "Puzzle #650 - Remote Work by Rangsk"
 date = "2024-11-15T08:00:34-08:00"
 slug = "650-remote-work"
-tags = ["Killer Cages", "Kropki Pairs", "Variant"]
+constraints = ["Killer Cages", "Kropki Pairs", "Variant"]
 aliases = ["/650/"]
 +++
 

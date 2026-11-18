@@ -2,7 +2,7 @@
 title = "Puzzle #824 - Scrabble I by Palfly Kampling"
 date = "2025-05-12T08:01:19-07:00"
 slug = "824-scrabble-i"
-tags = ["Thermometers", "X-Sums"]
+constraints = ["Thermometers", "X-Sums"]
 aliases = ["/824/"]
 +++
 

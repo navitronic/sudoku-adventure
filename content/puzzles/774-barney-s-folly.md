@@ -2,7 +2,7 @@
 title = "Puzzle #774 - Barney's Folly by randall"
 date = "2025-03-22T08:01:03-07:00"
 slug = "774-barney-s-folly"
-tags = ["Chaos Construction", "Renban Lines", "Kropki Pairs"]
+constraints = ["Chaos Construction", "Renban Lines", "Kropki Pairs"]
 aliases = ["/774/"]
 +++
 

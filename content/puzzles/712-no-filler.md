@@ -2,7 +2,7 @@
 title = "Puzzle #712 - No filler by randall"
 date = "2025-01-16T13:22:48-08:00"
 slug = "712-no-filler"
-tags = ["Killer cages"]
+constraints = ["Killer cages"]
 aliases = ["/712/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #801 - 2 the Point by Riffclown"
 date = "2025-04-19T08:01:19-07:00"
 slug = "801-2-the-point"
-tags = ["Arrows"]
+constraints = ["Arrows"]
 aliases = ["/801/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #777 - Geothermal by Matt Tressel"
 date = "2025-03-25T08:01:07-07:00"
 slug = "777-geothermal"
-tags = ["Thermometers"]
+constraints = ["Thermometers"]
 aliases = ["/777/"]
 +++
 

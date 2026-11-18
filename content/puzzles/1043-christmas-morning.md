@@ -2,7 +2,7 @@
 title = "Puzzle #1043 - Christmas Morning by Strosahl"
 date = "2025-12-25T08:00:21-08:00"
 slug = "1043-christmas-morning"
-tags = ["Killer Cages", "Dynamic Fog"]
+constraints = ["Killer Cages", "Dynamic Fog"]
 aliases = ["/1043/"]
 +++
 

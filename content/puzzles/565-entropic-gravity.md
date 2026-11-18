@@ -2,7 +2,7 @@
 title = "Puzzle #565 - Entropic Gravity by Crusader175"
 date = "2024-08-14T08:00:30-07:00"
 slug = "565-entropic-gravity"
-tags = ["Entropic Lines"]
+constraints = ["Entropic Lines"]
 aliases = ["/565/"]
 +++
 

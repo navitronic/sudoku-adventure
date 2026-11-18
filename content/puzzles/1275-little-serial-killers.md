@@ -2,7 +2,7 @@
 title = "Puzzle #1275 - Little Serial Killers by SennyK"
 date = "2026-08-18T08:00:36-07:00"
 slug = "1275-little-serial-killers"
-tags = ["Little Killer", "Other"]
+constraints = ["Little Killer", "Other"]
 aliases = ["/1275/"]
 +++
 

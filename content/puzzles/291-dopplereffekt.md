@@ -2,7 +2,7 @@
 title = "Puzzle #291 - Dopplereffekt by Fraπ"
 date = "2023-11-14T08:00:32-08:00"
 slug = "291-dopplereffekt"
-tags = ["Look-and-Say Cages", "Variant"]
+constraints = ["Look-and-Say Cages", "Variant"]
 aliases = ["/291/"]
 +++
 

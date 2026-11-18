@@ -2,7 +2,7 @@
 title = "Puzzle #492 - Round and Round by Crusader175"
 date = "2024-06-02T08:00:36-07:00"
 slug = "492-round-and-round"
-tags = ["Other"]
+constraints = ["Other"]
 aliases = ["/492/"]
 +++
 

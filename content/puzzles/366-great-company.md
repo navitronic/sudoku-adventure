@@ -2,7 +2,7 @@
 title = "Puzzle #366 - Great Company by Palfly Kampling"
 date = "2024-01-28T08:00:20-08:00"
 slug = "366-great-company"
-tags = ["Renban Lines", "German Whispers"]
+constraints = ["Renban Lines", "German Whispers"]
 aliases = ["/366/"]
 +++
 

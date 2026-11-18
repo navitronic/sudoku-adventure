@@ -2,7 +2,7 @@
 title = "Puzzle #1014 - Descriptors by Crusader175"
 date = "2025-11-26T08:01:24-08:00"
 slug = "1014-descriptors"
-tags = ["Other", "Numbered Rooms"]
+constraints = ["Other", "Numbered Rooms"]
 aliases = ["/1014/"]
 +++
 

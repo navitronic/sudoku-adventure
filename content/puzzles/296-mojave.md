@@ -2,7 +2,7 @@
 title = "Puzzle #296 - Mojave by MicroStudy"
 date = "2023-11-19T08:00:19-08:00"
 slug = "296-mojave"
-tags = ["Thermometers", "Doublers"]
+constraints = ["Thermometers", "Doublers"]
 aliases = ["/296/"]
 +++
 

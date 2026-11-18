@@ -2,7 +2,7 @@
 title = "Puzzle #246 - Rosewood Adventure by Fraπ"
 date = "2023-09-30T08:00:07-07:00"
 slug = "246-rosewood-adventure"
-tags = ["Skyscrapers", "Numbered Rooms"]
+constraints = ["Skyscrapers", "Numbered Rooms"]
 aliases = ["/246/"]
 +++
 

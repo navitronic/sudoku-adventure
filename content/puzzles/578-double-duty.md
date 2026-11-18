@@ -2,7 +2,7 @@
 title = "Puzzle #578 - Double Duty by Matt Tressel"
 date = "2024-08-27T08:00:43-07:00"
 slug = "578-double-duty"
-tags = ["Renban Lines", "Double Arrows"]
+constraints = ["Renban Lines", "Double Arrows"]
 aliases = ["/578/"]
 +++
 

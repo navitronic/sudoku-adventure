@@ -2,7 +2,7 @@
 title = "Puzzle #1002 - 1K adventures by Riffclown"
 date = "2025-11-14T08:00:45-08:00"
 slug = "1002-1k-adventures"
-tags = ["Renban Lines", "Kropki Pairs"]
+constraints = ["Renban Lines", "Kropki Pairs"]
 aliases = ["/1002/"]
 +++
 

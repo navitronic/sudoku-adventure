@@ -2,7 +2,7 @@
 title = "Puzzle #173 - Stars 'n Dots by randall"
 date = "2023-07-19T08:00:29-07:00"
 slug = "173-stars-n-dots"
-tags = ["Irregular", "Star Battle", "Kropki Pairs"]
+constraints = ["Irregular", "Star Battle", "Kropki Pairs"]
 aliases = ["/173/"]
 +++
 

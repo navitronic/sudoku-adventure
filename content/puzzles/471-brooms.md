@@ -2,7 +2,7 @@
 title = "Puzzle #471 - Brooms by Palfly Kampling"
 date = "2024-05-12T08:00:12-07:00"
 slug = "471-brooms"
-tags = ["Parity Diamonds", "Numbered Rooms"]
+constraints = ["Parity Diamonds", "Numbered Rooms"]
 aliases = ["/471/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #382 - Fibonacci Fumble by Chilly"
 date = "2024-02-13T08:00:35-08:00"
 slug = "382-fibonacci-fumble"
-tags = ["Killer Cages", "Variant"]
+constraints = ["Killer Cages", "Variant"]
 aliases = ["/382/"]
 +++
 

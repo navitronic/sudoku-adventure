@@ -2,7 +2,7 @@
 title = "Puzzle #1210 - Puddle by Palfly Kampling"
 date = "2026-06-14T08:00:08-07:00"
 slug = "1210-puddle"
-tags = ["Sandwich Sums", "Renban Lines"]
+constraints = ["Sandwich Sums", "Renban Lines"]
 aliases = ["/1210/"]
 +++
 

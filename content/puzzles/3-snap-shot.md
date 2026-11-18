@@ -2,7 +2,7 @@
 title = "Puzzle #3 - Snap Shot by Awesomesauce"
 date = "2023-01-22T08:00:29-08:00"
 slug = "3-snap-shot"
-tags = ["Sequence Lines"]
+constraints = ["Sequence Lines"]
 aliases = ["/3/"]
 +++
 

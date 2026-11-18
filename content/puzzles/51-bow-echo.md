@@ -2,7 +2,7 @@
 title = "Puzzle #51 - Bow Echo by Riffclown"
 date = "2023-03-11T08:00:34-08:00"
 slug = "51-bow-echo"
-tags = ["Region Sum Lines"]
+constraints = ["Region Sum Lines"]
 aliases = ["/51/"]
 +++
 

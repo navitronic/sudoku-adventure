@@ -2,7 +2,7 @@
 title = "Puzzle #221 - Voyage to the East by Emphyrio"
 date = "2023-09-05T08:00:14-07:00"
 slug = "221-voyage-to-the-east"
-tags = ["Chinese Whispers", "Killer Cages"]
+constraints = ["Chinese Whispers", "Killer Cages"]
 aliases = ["/221/"]
 +++
 

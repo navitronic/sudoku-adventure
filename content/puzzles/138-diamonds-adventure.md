@@ -2,7 +2,7 @@
 title = "Puzzle #138 - Diamonds Adventure by Fraπ"
 date = "2023-06-14T08:00:06-07:00"
 slug = "138-diamonds-adventure"
-tags = ["Parity Diamonds"]
+constraints = ["Parity Diamonds"]
 aliases = ["/138/"]
 +++
 

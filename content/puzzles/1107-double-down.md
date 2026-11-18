@@ -2,7 +2,7 @@
 title = "Puzzle #1107 - Double Down by ChinStrap"
 date = "2026-02-27T08:00:08-08:00"
 slug = "1107-double-down"
-tags = ["Double Arrows"]
+constraints = ["Double Arrows"]
 aliases = ["/1107/"]
 +++
 

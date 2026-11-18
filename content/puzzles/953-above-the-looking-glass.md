@@ -2,7 +2,7 @@
 title = "Puzzle #953 - Above The Looking Glass by gdc"
 date = "2025-09-26T08:00:17-07:00"
 slug = "953-above-the-looking-glass"
-tags = ["Arrows", "Other"]
+constraints = ["Arrows", "Other"]
 aliases = ["/953/"]
 +++
 

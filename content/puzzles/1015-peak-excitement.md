@@ -2,7 +2,7 @@
 title = "Puzzle #1015 - PEAk Excitement by Calvinball"
 date = "2025-11-27T08:00:11-08:00"
 slug = "1015-peak-excitement"
-tags = ["German Whispers", "Split Peas"]
+constraints = ["German Whispers", "Split Peas"]
 aliases = ["/1015/"]
 +++
 

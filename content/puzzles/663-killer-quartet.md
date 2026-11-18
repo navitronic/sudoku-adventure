@@ -2,7 +2,7 @@
 title = "Puzzle #663 - Killer Quartet by Strosahl"
 date = "2024-11-28T08:00:17-08:00"
 slug = "663-killer-quartet"
-tags = ["Killer Cages", "Quadruples"]
+constraints = ["Killer Cages", "Quadruples"]
 aliases = ["/663/"]
 +++
 

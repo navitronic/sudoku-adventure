@@ -2,7 +2,7 @@
 title = "Puzzle #806 - Scrabble G by Palfly Kampling"
 date = "2025-04-24T08:00:59-07:00"
 slug = "806-scrabble-g"
-tags = ["Look-and-Say cages", "Other"]
+constraints = ["Look-and-Say cages", "Other"]
 aliases = ["/806/"]
 +++
 

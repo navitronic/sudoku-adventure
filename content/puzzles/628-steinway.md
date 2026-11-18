@@ -2,7 +2,7 @@
 title = "Puzzle #628 - Steinway by Gene"
 date = "2024-10-24T08:00:50-07:00"
 slug = "628-steinway"
-tags = ["Kropki Pairs", "Other"]
+constraints = ["Kropki Pairs", "Other"]
 aliases = ["/628/"]
 +++
 

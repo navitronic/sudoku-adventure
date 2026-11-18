@@ -2,7 +2,7 @@
 title = "Puzzle #1265 - Rinse and Repeat by Matt Tressel"
 date = "2026-08-08T08:00:03-07:00"
 slug = "1265-rinse-and-repeat"
-tags = ["Other"]
+constraints = ["Other"]
 aliases = ["/1265/"]
 +++
 

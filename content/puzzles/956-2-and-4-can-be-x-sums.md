@@ -2,7 +2,7 @@
 title = "Puzzle #956 - 2 and 4 CAN be x-sums! by sanabas"
 date = "2025-09-29T08:00:49-07:00"
 slug = "956-2-and-4-can-be-x-sums"
-tags = ["X-sums", "other"]
+constraints = ["X-sums", "other"]
 aliases = ["/956/"]
 +++
 

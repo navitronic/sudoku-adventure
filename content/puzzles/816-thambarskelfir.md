@@ -2,7 +2,7 @@
 title = "Puzzle #816 - Thambarskelfir by rockratzero"
 date = "2025-05-04T08:00:52-07:00"
 slug = "816-thambarskelfir"
-tags = ["Arrows", "Between Lines"]
+constraints = ["Arrows", "Between Lines"]
 aliases = ["/816/"]
 +++
 

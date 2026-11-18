@@ -2,7 +2,7 @@
 title = "Puzzle #45 - Mountain Momma by Rangsk"
 date = "2023-03-05T16:59:26-08:00"
 slug = "45-mountain-momma"
-tags = ["Kropki Pairs", "Region Sum Lines", "Other"]
+constraints = ["Kropki Pairs", "Region Sum Lines", "Other"]
 aliases = ["/45/"]
 +++
 

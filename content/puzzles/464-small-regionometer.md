@@ -2,7 +2,7 @@
 title = "Puzzle #464 - Small Regionometer by gdc"
 date = "2024-05-05T08:00:17-07:00"
 slug = "464-small-regionometer"
-tags = ["Region Sum Lines", "Variant"]
+constraints = ["Region Sum Lines", "Variant"]
 aliases = ["/464/"]
 +++
 

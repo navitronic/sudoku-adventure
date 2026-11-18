@@ -2,7 +2,7 @@
 title = "Puzzle #792 - Tritanopia (v3) by gdc"
 date = "2025-04-10T08:00:01-07:00"
 slug = "792-tritanopia-v3"
-tags = ["Region Sum Lines", "German Whispers", "Other"]
+constraints = ["Region Sum Lines", "German Whispers", "Other"]
 aliases = ["/792/"]
 +++
 

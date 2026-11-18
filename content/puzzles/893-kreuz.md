@@ -2,7 +2,7 @@
 title = "Puzzle #893 - Kreuz by PjoeterBliep"
 date = "2025-07-20T19:39:02-07:00"
 slug = "893-kreuz"
-tags = ["German Whispers", "Kropki Pairs"]
+constraints = ["German Whispers", "Kropki Pairs"]
 aliases = ["/893/"]
 +++
 

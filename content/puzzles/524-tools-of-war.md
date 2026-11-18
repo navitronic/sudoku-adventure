@@ -2,7 +2,7 @@
 title = "Puzzle #524 - Tools of War by theasylm"
 date = "2024-07-04T08:00:42-07:00"
 slug = "524-tools-of-war"
-tags = ["Japanese Sums", "Fog of War"]
+constraints = ["Japanese Sums", "Fog of War"]
 aliases = ["/524/"]
 +++
 

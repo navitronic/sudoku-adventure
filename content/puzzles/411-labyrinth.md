@@ -2,7 +2,7 @@
 title = "Puzzle #411 - Labyrinth by Emphyrio"
 date = "2024-03-13T08:00:22-07:00"
 slug = "411-labyrinth"
-tags = ["Killer Cages", "Variant", "Kropki Pairs"]
+constraints = ["Killer Cages", "Variant", "Kropki Pairs"]
 aliases = ["/411/"]
 +++
 

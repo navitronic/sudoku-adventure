@@ -2,7 +2,7 @@
 title = "Puzzle #118 - Triple Dark Modularity by rockratzero"
 date = "2023-05-25T08:00:03-07:00"
 slug = "118-triple-dark-modularity"
-tags = ["Modular Lines", "Kropki Pairs"]
+constraints = ["Modular Lines", "Kropki Pairs"]
 aliases = ["/118/"]
 +++
 

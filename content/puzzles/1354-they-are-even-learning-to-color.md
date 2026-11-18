@@ -2,7 +2,7 @@
 title = "Puzzle #1354 - They Are Even Learning To Color by Matt Tressel"
 date = "2026-11-05T08:00:31-08:00"
 slug = "1354-they-are-even-learning-to-color"
-tags = ["Region Sum Lines", "German Whispers"]
+constraints = ["Region Sum Lines", "German Whispers"]
 aliases = ["/1354/"]
 +++
 

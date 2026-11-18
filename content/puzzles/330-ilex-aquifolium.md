@@ -2,7 +2,7 @@
 title = "Puzzle #330 - Ilex aquifolium by rockratzero"
 date = "2023-12-23T08:00:35-08:00"
 slug = "330-ilex-aquifolium"
-tags = ["German Whispers", "Kropki Pairs"]
+constraints = ["German Whispers", "Kropki Pairs"]
 aliases = ["/330/"]
 +++
 

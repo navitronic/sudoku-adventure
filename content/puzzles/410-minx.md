@@ -2,7 +2,7 @@
 title = "Puzzle #410 - MinX by Chilly"
 date = "2024-03-12T08:00:34-07:00"
 slug = "410-minx"
-tags = ["Fortress", "Diagonal"]
+constraints = ["Fortress", "Diagonal"]
 aliases = ["/410/"]
 +++
 

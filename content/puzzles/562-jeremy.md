@@ -2,7 +2,7 @@
 title = "Puzzle #562 - jeremy by Palfly Kampling"
 date = "2024-08-11T08:00:31-07:00"
 slug = "562-jeremy"
-tags = ["Region Sum Lines", "Between Lines"]
+constraints = ["Region Sum Lines", "Between Lines"]
 aliases = ["/562/"]
 +++
 

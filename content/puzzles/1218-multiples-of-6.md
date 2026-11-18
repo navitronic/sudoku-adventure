@@ -2,7 +2,7 @@
 title = "Puzzle #1218 - Multiples of 6 by James Kopp"
 date = "2026-06-22T08:00:24-07:00"
 slug = "1218-multiples-of-6"
-tags = ["Arrows", "Little Killer"]
+constraints = ["Arrows", "Little Killer"]
 aliases = ["/1218/"]
 +++
 

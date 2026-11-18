@@ -2,7 +2,7 @@
 title = "Puzzle #1274 - Bent Cages by Strosahl"
 date = "2026-08-17T08:00:24-07:00"
 slug = "1274-bent-cages"
-tags = ["Killer Cages"]
+constraints = ["Killer Cages"]
 aliases = ["/1274/"]
 +++
 

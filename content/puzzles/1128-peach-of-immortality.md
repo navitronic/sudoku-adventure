@@ -2,7 +2,7 @@
 title = "Puzzle #1128 - Peach of Immortality by Gene"
 date = "2026-03-20T08:01:02-07:00"
 slug = "1128-peach-of-immortality"
-tags = ["Other", "German Whispers", "Entropic Lines", "Not 6x6"]
+constraints = ["Other", "German Whispers", "Entropic Lines", "Not 6x6"]
 aliases = ["/1128/"]
 +++
 

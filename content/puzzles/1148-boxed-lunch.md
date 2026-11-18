@@ -2,7 +2,7 @@
 title = "Puzzle #1148 - Boxed Lunch by Strosahl"
 date = "2026-04-13T08:01:02-07:00"
 slug = "1148-boxed-lunch"
-tags = ["Sandwich Sums", "Killer Cages"]
+constraints = ["Sandwich Sums", "Killer Cages"]
 aliases = ["/1148/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #959 - Quad Temps by Strosahl"
 date = "2025-10-02T13:58:27-07:00"
 slug = "959-quad-temps"
-tags = ["Thermometers", "Quadruples"]
+constraints = ["Thermometers", "Quadruples"]
 aliases = ["/959/"]
 +++
 

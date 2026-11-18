@@ -2,7 +2,7 @@
 title = "Puzzle #898 - Playa Tricolor by gdc"
 date = "2025-07-25T08:01:27-07:00"
 slug = "898-playa-tricolor"
-tags = ["Entropic Lines", "Variant"]
+constraints = ["Entropic Lines", "Variant"]
 aliases = ["/898/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #476 - Duality Bug by Riffclown"
 date = "2024-05-17T08:00:04-07:00"
 slug = "476-duality-bug"
-tags = ["Region Sum Lines", "German Whispers"]
+constraints = ["Region Sum Lines", "German Whispers"]
 aliases = ["/476/"]
 +++
 

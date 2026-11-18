@@ -2,7 +2,7 @@
 title = "Puzzle #1346 - Precisely When He Means To by Calvinball"
 date = "2026-10-28T08:00:26-07:00"
 slug = "1346-precisely-when-he-means-to"
-tags = ["Thermometers"]
+constraints = ["Thermometers"]
 aliases = ["/1346/"]
 +++
 

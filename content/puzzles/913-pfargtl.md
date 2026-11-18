@@ -2,7 +2,7 @@
 title = "Puzzle #913 - Pfargtl by Gene"
 date = "2025-08-09T08:00:35-07:00"
 slug = "913-pfargtl"
-tags = ["German Whispers", "Other"]
+constraints = ["German Whispers", "Other"]
 aliases = ["/913/"]
 +++
 

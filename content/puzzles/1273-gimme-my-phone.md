@@ -2,7 +2,7 @@
 title = "Puzzle #1273 - Gimme my phone! by PjoeterBliep"
 date = "2026-08-16T08:00:10-07:00"
 slug = "1273-gimme-my-phone"
-tags = ["Chinese Whispers"]
+constraints = ["Chinese Whispers"]
 aliases = ["/1273/"]
 +++
 

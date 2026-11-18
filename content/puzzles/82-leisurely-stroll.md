@@ -2,7 +2,7 @@
 title = "Puzzle #82 - Leisurely Stroll by DJV"
 date = "2023-04-19T08:00:34-07:00"
 slug = "82-leisurely-stroll"
-tags = ["Thermometers", "Variant"]
+constraints = ["Thermometers", "Variant"]
 aliases = ["/82/"]
 +++
 

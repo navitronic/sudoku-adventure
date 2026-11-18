@@ -2,7 +2,7 @@
 title = "Puzzle #1284 - Vin Diagram by Calvinball"
 date = "2026-08-27T08:00:00-07:00"
 slug = "1284-vin-diagram"
-tags = ["Entropic Lines", "Region Sum Lines"]
+constraints = ["Entropic Lines", "Region Sum Lines"]
 aliases = ["/1284/"]
 +++
 

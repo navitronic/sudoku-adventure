@@ -2,7 +2,7 @@
 title = "Puzzle #661 - A fog clears... by randall"
 date = "2024-11-26T09:24:19-08:00"
 slug = "661-a-fog-clears"
-tags = ["Fog of War", "X-Sums", "XV", "Kropki Pairs"]
+constraints = ["Fog of War", "X-Sums", "XV", "Kropki Pairs"]
 aliases = ["/661/"]
 +++
 

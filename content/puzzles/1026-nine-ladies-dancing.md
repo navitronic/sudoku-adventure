@@ -2,7 +2,7 @@
 title = "Puzzle #1026 - Nine ladies dancing by PjoeterBliep"
 date = "2025-12-08T08:15:44-08:00"
 slug = "1026-nine-ladies-dancing"
-tags = ["Clock faces"]
+constraints = ["Clock faces"]
 aliases = ["/1026/"]
 +++
 

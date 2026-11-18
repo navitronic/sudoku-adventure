@@ -2,7 +2,7 @@
 title = "Puzzle #269 - All Zipped Up by Jaze"
 date = "2023-10-23T08:00:00-07:00"
 slug = "269-all-zipped-up"
-tags = ["Zipper Lines"]
+constraints = ["Zipper Lines"]
 aliases = ["/269/"]
 +++
 

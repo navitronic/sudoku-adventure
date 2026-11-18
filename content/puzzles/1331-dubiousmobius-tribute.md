@@ -2,7 +2,7 @@
 title = "Puzzle #1331 - DubiousMobius Tribute by SennyK"
 date = "2026-10-13T08:00:06-07:00"
 slug = "1331-dubiousmobius-tribute"
-tags = ["Other"]
+constraints = ["Other"]
 aliases = ["/1331/"]
 +++
 

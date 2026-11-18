@@ -2,7 +2,7 @@
 title = "Puzzle #1306 - Darmstadtium by gdc"
 date = "2026-09-18T08:00:01-07:00"
 slug = "1306-darmstadtium"
-tags = ["German Whispers", "Variant"]
+constraints = ["German Whispers", "Variant"]
 aliases = ["/1306/"]
 +++
 

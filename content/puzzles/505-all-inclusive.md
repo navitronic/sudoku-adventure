@@ -2,7 +2,7 @@
 title = "Puzzle #505 - All-Inclusive by Strosahl"
 date = "2024-06-15T08:00:40-07:00"
 slug = "505-all-inclusive"
-tags = ["Arrows", "Variant"]
+constraints = ["Arrows", "Variant"]
 aliases = ["/505/"]
 +++
 

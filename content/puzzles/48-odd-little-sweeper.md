@@ -2,7 +2,7 @@
 title = "Puzzle #48 - Odd Little Sweeper by rockratzero"
 date = "2023-03-08T08:00:21-08:00"
 slug = "48-odd-little-sweeper"
-tags = ["Sweeper Clues", "Variant", "Inequality"]
+constraints = ["Sweeper Clues", "Variant", "Inequality"]
 aliases = ["/48/"]
 +++
 

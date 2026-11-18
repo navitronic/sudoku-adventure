@@ -2,7 +2,7 @@
 title = "Puzzle #1033 - Holly by PjoeterBliep"
 date = "2025-12-15T08:01:09-08:00"
 slug = "1033-holly"
-tags = ["German Whispers", "Even/Odd"]
+constraints = ["German Whispers", "Even/Odd"]
 aliases = ["/1033/"]
 +++
 

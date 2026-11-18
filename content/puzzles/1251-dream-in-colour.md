@@ -2,7 +2,7 @@
 title = "Puzzle #1251 - Dream in Colour by James Kopp"
 date = "2026-07-25T08:00:21-07:00"
 slug = "1251-dream-in-colour"
-tags = ["Irregular", "Palindrome Lines", "Kropki Pairs"]
+constraints = ["Irregular", "Palindrome Lines", "Kropki Pairs"]
 aliases = ["/1251/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #249 - Qvads by dumediat"
 date = "2023-10-03T08:00:34-07:00"
 slug = "249-qvads"
-tags = ["Quadruples", "XV"]
+constraints = ["Quadruples", "XV"]
 aliases = ["/249/"]
 +++
 

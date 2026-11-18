@@ -2,7 +2,7 @@
 title = "Puzzle #521 - Humidity by Teal"
 date = "2024-07-01T08:00:53-07:00"
 slug = "521-humidity"
-tags = ["Fog of War", "Thermometers", "Variant"]
+constraints = ["Fog of War", "Thermometers", "Variant"]
 aliases = ["/521/"]
 +++
 

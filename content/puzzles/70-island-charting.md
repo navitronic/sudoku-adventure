@@ -2,7 +2,7 @@
 title = "Puzzle #70 - Island Charting by MicroStudy"
 date = "2023-03-30T08:00:18-07:00"
 slug = "70-island-charting"
-tags = ["Other"]
+constraints = ["Other"]
 aliases = ["/70/"]
 +++
 

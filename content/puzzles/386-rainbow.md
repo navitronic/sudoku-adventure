@@ -2,7 +2,7 @@
 title = "Puzzle #386 - Rainbow by randall"
 date = "2024-02-17T08:00:16-08:00"
 slug = "386-rainbow"
-tags = ["Palindrome Lines", "Killer Cages", "Kropki Pairs"]
+constraints = ["Palindrome Lines", "Killer Cages", "Kropki Pairs"]
 aliases = ["/386/"]
 +++
 

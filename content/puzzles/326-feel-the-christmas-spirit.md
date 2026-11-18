@@ -2,7 +2,7 @@
 title = "Puzzle #326 - Feel the Christmas Spirit by gdc"
 date = "2023-12-19T08:00:15-08:00"
 slug = "326-feel-the-christmas-spirit"
-tags = ["Even/Odd", "Quadruples"]
+constraints = ["Even/Odd", "Quadruples"]
 aliases = ["/326/"]
 +++
 

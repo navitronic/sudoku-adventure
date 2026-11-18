@@ -2,7 +2,7 @@
 title = "Puzzle #752 - Scrabble A by Palfly Kampling"
 date = "2025-02-28T08:00:35-08:00"
 slug = "752-scrabble-a"
-tags = ["German Whispers", "Killer cages"]
+constraints = ["German Whispers", "Killer cages"]
 aliases = ["/752/"]
 +++
 

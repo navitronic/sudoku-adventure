@@ -2,7 +2,7 @@
 title = "Puzzle #334 - Secret Agent by Wuschel"
 date = "2023-12-27T08:00:39-08:00"
 slug = "334-secret-agent"
-tags = ["German Whispers", "Kropki Pairs"]
+constraints = ["German Whispers", "Kropki Pairs"]
 aliases = ["/334/"]
 +++
 

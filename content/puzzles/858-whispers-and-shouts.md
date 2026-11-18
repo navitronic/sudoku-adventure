@@ -2,7 +2,7 @@
 title = "Puzzle #858 - Whispers and Shouts by randall"
 date = "2025-06-15T08:00:10-07:00"
 slug = "858-whispers-and-shouts"
-tags = ["German Whispers", "Other"]
+constraints = ["German Whispers", "Other"]
 aliases = ["/858/"]
 +++
 

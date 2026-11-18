@@ -2,7 +2,7 @@
 title = "Puzzle #215 - Sixth Sense by MicroStudy"
 date = "2023-08-30T08:00:22-07:00"
 slug = "215-sixth-sense"
-tags = ["Arrows", "Variant"]
+constraints = ["Arrows", "Variant"]
 aliases = ["/215/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #312 - Rudolph by Palfly Kampling"
 date = "2023-12-05T08:00:08-08:00"
 slug = "312-rudolph"
-tags = ["German Whispers", "Kropki Pairs"]
+constraints = ["German Whispers", "Kropki Pairs"]
 aliases = ["/312/"]
 +++
 

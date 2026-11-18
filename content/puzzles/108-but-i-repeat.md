@@ -2,7 +2,7 @@
 title = "Puzzle #108 - But I Repeat by Riffclown"
 date = "2023-05-15T08:00:23-07:00"
 slug = "108-but-i-repeat"
-tags = ["Arrows", "Variant"]
+constraints = ["Arrows", "Variant"]
 aliases = ["/108/"]
 +++
 

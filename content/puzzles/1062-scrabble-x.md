@@ -2,7 +2,7 @@
 title = "Puzzle #1062 - Scrabble X by Palfly Kampling"
 date = "2026-01-13T08:00:09-08:00"
 slug = "1062-scrabble-x"
-tags = ["Killer Cages", "Dutch Whispers", "Other"]
+constraints = ["Killer Cages", "Dutch Whispers", "Other"]
 aliases = ["/1062/"]
 +++
 

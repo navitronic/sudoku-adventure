@@ -2,7 +2,7 @@
 title = "Puzzle #1294 - Little German by SennyK"
 date = "2026-09-06T08:00:13-07:00"
 slug = "1294-little-german"
-tags = ["Other"]
+constraints = ["Other"]
 aliases = ["/1294/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #191 - Kite by Palfly Kampling"
 date = "2023-08-06T08:00:31-07:00"
 slug = "191-kite"
-tags = ["Remote Sums"]
+constraints = ["Remote Sums"]
 aliases = ["/191/"]
 +++
 

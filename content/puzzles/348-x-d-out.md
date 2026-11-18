@@ -2,7 +2,7 @@
 title = "Puzzle #348 - X'd Out by MicroStudy"
 date = "2024-01-10T08:00:00-08:00"
 slug = "348-x-d-out"
-tags = ["X-Sums"]
+constraints = ["X-Sums"]
 aliases = ["/348/"]
 +++
 

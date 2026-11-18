@@ -2,7 +2,7 @@
 title = "Puzzle #848 - Walking Path by Strosahl"
 date = "2025-06-05T08:00:51-07:00"
 slug = "848-walking-path"
-tags = ["Other"]
+constraints = ["Other"]
 aliases = ["/848/"]
 +++
 

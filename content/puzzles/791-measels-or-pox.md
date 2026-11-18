@@ -2,7 +2,7 @@
 title = "Puzzle #791 - Measels or Pox? by Wuschel"
 date = "2025-04-09T08:00:47-07:00"
 slug = "791-measels-or-pox"
-tags = ["XV", "Kropki Pairs"]
+constraints = ["XV", "Kropki Pairs"]
 aliases = ["/791/"]
 +++
 

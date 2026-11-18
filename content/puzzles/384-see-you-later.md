@@ -2,7 +2,7 @@
 title = "Puzzle #384 - See You Later... by Fraπ"
 date = "2024-02-14T23:00:16-08:00"
 slug = "384-see-you-later"
-tags = ["German Whispers", "Kropki Pairs"]
+constraints = ["German Whispers", "Kropki Pairs"]
 aliases = ["/384/"]
 +++
 

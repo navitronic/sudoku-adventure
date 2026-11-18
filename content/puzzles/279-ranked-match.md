@@ -2,7 +2,7 @@
 title = "Puzzle #279 - Ranked Match by Fraπ"
 date = "2023-11-02T08:00:32-07:00"
 slug = "279-ranked-match"
-tags = ["Killer Cages", "Variant"]
+constraints = ["Killer Cages", "Variant"]
 aliases = ["/279/"]
 +++
 

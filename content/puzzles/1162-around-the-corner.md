@@ -2,7 +2,7 @@
 title = "Puzzle #1162 - Around The Corner by ChinStrap"
 date = "2026-04-27T08:00:11-07:00"
 slug = "1162-around-the-corner"
-tags = ["Numbered Rooms", "Renban Lines"]
+constraints = ["Numbered Rooms", "Renban Lines"]
 aliases = ["/1162/"]
 +++
 

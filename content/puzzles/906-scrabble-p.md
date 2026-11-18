@@ -2,7 +2,7 @@
 title = "Puzzle #906 - Scrabble P by Palfly Kampling"
 date = "2025-08-02T08:01:08-07:00"
 slug = "906-scrabble-p"
-tags = ["Fortress", "Other"]
+constraints = ["Fortress", "Other"]
 aliases = ["/906/"]
 +++
 

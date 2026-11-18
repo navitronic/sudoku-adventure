@@ -2,7 +2,7 @@
 title = "Puzzle #962 - Scrabble T by Palfly Kampling"
 date = "2025-10-05T08:00:59-07:00"
 slug = "962-scrabble-t"
-tags = ["Zipper Lines", "Other"]
+constraints = ["Zipper Lines", "Other"]
 aliases = ["/962/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #1227 - Pillar to Post by PjoeterBliep"
 date = "2026-07-01T08:00:34-07:00"
 slug = "1227-pillar-to-post"
-tags = ["Other"]
+constraints = ["Other"]
 aliases = ["/1227/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #507 - Approximation by Teal"
 date = "2024-06-17T08:00:58-07:00"
 slug = "507-approximation"
-tags = ["Killer Cages", "Variant", "Even/Odd"]
+constraints = ["Killer Cages", "Variant", "Even/Odd"]
 aliases = ["/507/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #158 - Line Rider Adventure by Fraπ"
 date = "2023-07-04T08:00:52-07:00"
 slug = "158-line-rider-adventure"
-tags = ["Not 6x6", "Thermometers", "Variant"]
+constraints = ["Not 6x6", "Thermometers", "Variant"]
 aliases = ["/158/"]
 +++
 

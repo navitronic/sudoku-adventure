@@ -2,7 +2,7 @@
 title = "Puzzle #1204 - 25 Card Pickup by Calvinball"
 date = "2026-06-08T08:00:34-07:00"
 slug = "1204-25-card-pickup"
-tags = ["Thermometers", "Indexing"]
+constraints = ["Thermometers", "Indexing"]
 aliases = ["/1204/"]
 +++
 

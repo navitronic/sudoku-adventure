@@ -2,7 +2,7 @@
 title = "Puzzle #238 - Who is the fairest of them all? by Fraπ"
 date = "2023-09-22T08:00:39-07:00"
 slug = "238-who-is-the-fairest-of-them-all"
-tags = ["Killer Cages", "Other"]
+constraints = ["Killer Cages", "Other"]
 aliases = ["/238/"]
 +++
 

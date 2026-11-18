@@ -2,7 +2,7 @@
 title = "Puzzle #363 - Sumthing Is Off Here by Jaze"
 date = "2024-01-25T08:00:16-08:00"
 slug = "363-sumthing-is-off-here"
-tags = ["Region Sum Lines", "Doublers"]
+constraints = ["Region Sum Lines", "Doublers"]
 aliases = ["/363/"]
 +++
 

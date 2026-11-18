@@ -2,7 +2,7 @@
 title = "Puzzle #950 - 950 Degrees by Rangsk"
 date = "2025-09-23T01:00:22-07:00"
 slug = "950-950-degrees"
-tags = ["Thermometers"]
+constraints = ["Thermometers"]
 aliases = ["/950/"]
 +++
 

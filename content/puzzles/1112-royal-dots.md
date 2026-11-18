@@ -2,7 +2,7 @@
 title = "Puzzle #1112 - Royal Dots by gdc"
 date = "2026-03-05T21:02:09-08:00"
 slug = "1112-royal-dots"
-tags = ["Kropki Pairs", "Other"]
+constraints = ["Kropki Pairs", "Other"]
 aliases = ["/1112/"]
 +++
 

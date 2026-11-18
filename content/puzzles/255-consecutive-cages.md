@@ -2,7 +2,7 @@
 title = "Puzzle #255 - Consecutive Cages by Wuschel"
 date = "2023-10-09T08:00:14-07:00"
 slug = "255-consecutive-cages"
-tags = ["Renban Lines", "Killer Cages"]
+constraints = ["Renban Lines", "Killer Cages"]
 aliases = ["/255/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #1281 - Peanut Butter Jelly by Crusader175"
 date = "2026-08-24T08:00:34-07:00"
 slug = "1281-peanut-butter-jelly"
-tags = ["Sandwich Sums", "Variant"]
+constraints = ["Sandwich Sums", "Variant"]
 aliases = ["/1281/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #710 - Zhing! by rockratzero"
 date = "2025-01-14T12:12:38-08:00"
 slug = "710-zhing"
-tags = ["Arrows", "Kropki Pairs"]
+constraints = ["Arrows", "Kropki Pairs"]
 aliases = ["/710/"]
 +++
 

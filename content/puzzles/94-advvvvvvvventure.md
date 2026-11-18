@@ -2,7 +2,7 @@
 title = "Puzzle #94 - adVVVVVVVVenture by fraπ"
 date = "2023-05-01T08:00:08-07:00"
 slug = "94-advvvvvvvventure"
-tags = ["XV", "Variant", "Not 6x6"]
+constraints = ["XV", "Variant", "Not 6x6"]
 aliases = ["/94/"]
 +++
 

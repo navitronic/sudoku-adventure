@@ -2,7 +2,7 @@
 title = "Puzzle #765 - Offline by Matt Tressel"
 date = "2025-03-13T08:01:13-07:00"
 slug = "765-offline"
-tags = ["Entropic Lines", "Kropki Pairs"]
+constraints = ["Entropic Lines", "Kropki Pairs"]
 aliases = ["/765/"]
 +++
 

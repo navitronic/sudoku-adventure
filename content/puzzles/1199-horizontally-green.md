@@ -2,7 +2,7 @@
 title = "Puzzle #1199 - Horizontally Green by James Kopp"
 date = "2026-06-03T08:00:27-07:00"
 slug = "1199-horizontally-green"
-tags = ["Irregular", "German Whispers"]
+constraints = ["Irregular", "German Whispers"]
 aliases = ["/1199/"]
 +++
 

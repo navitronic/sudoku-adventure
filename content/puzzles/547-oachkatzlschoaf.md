@@ -2,7 +2,7 @@
 title = "Puzzle #547 - Oachkatzlschoaf by Palfly Kampling"
 date = "2024-07-27T08:00:44-07:00"
 slug = "547-oachkatzlschoaf"
-tags = ["German Whispers", "XV"]
+constraints = ["German Whispers", "XV"]
 aliases = ["/547/"]
 +++
 

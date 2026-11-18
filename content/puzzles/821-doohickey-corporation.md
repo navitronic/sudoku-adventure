@@ -2,7 +2,7 @@
 title = "Puzzle #821 - Doohickey Corporation by Gene"
 date = "2025-05-09T08:01:09-07:00"
 slug = "821-doohickey-corporation"
-tags = ["Skyscrapers", "Arrows"]
+constraints = ["Skyscrapers", "Arrows"]
 aliases = ["/821/"]
 +++
 

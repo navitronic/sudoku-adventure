@@ -2,7 +2,7 @@
 title = "Puzzle #229 - Chinese Knights by DJV"
 date = "2023-09-13T08:00:24-07:00"
 slug = "229-chinese-knights"
-tags = ["Chinese Whispers", "Anti-Knight"]
+constraints = ["Chinese Whispers", "Anti-Knight"]
 aliases = ["/229/"]
 +++
 

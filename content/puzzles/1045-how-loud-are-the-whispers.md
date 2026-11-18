@@ -2,7 +2,7 @@
 title = "Puzzle #1045 - How loud are the whispers? by sanabas"
 date = "2025-12-27T08:00:23-08:00"
 slug = "1045-how-loud-are-the-whispers"
-tags = ["Counting Circles", "German Whispers"]
+constraints = ["Counting Circles", "German Whispers"]
 aliases = ["/1045/"]
 +++
 

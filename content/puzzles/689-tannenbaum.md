@@ -2,7 +2,7 @@
 title = "Puzzle #689 - Tannenbaum by Palfly Kampling"
 date = "2024-12-24T08:00:40-08:00"
 slug = "689-tannenbaum"
-tags = ["German Whispers", "Kropki Pairs"]
+constraints = ["German Whispers", "Kropki Pairs"]
 aliases = ["/689/"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Puzzle #162 - Safer Shorter Distances by Emphyrio"
 date = "2023-07-08T08:00:12-07:00"
 slug = "162-safer-shorter-distances"
-tags = ["Killer Cages", "Other"]
+constraints = ["Killer Cages", "Other"]
 aliases = ["/162/"]
 +++
 

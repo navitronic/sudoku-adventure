@@ -2,7 +2,7 @@
 title = "Puzzle #96 - KillerelliK by rockratzero"
 date = "2023-05-03T08:00:23-07:00"
 slug = "96-killerellik"
-tags = ["Palindrome Lines", "Killer Cages"]
+constraints = ["Palindrome Lines", "Killer Cages"]
 aliases = ["/96/"]
 +++
 
