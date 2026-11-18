@@ -37,4 +37,4 @@ Connect this repository as a Cloudflare Pages project. Use the following build s
 - Build output directory: `public`
 - Environment variable: `HUGO_VERSION=0.169.0`
 
-Set `baseURL` in `hugo.toml` to the deployed domain if it differs from the default `https://sudoku-adventure.pages.dev/`. Deployments build the committed posts, so run the importer and commit changes before deploying new puzzles.
+Set `baseURL` in `hugo.toml` to the deployed domain if it differs from the default `https://sudoku-adventure.pages.dev/`. Deployments build the committed posts. The [Append puzzles workflow](.github/workflows/append-puzzles.yml) runs daily at 20:00 UTC (and can be started manually from GitHub Actions), commits new posts to `main`, and triggers a Pages deployment through the GitHub integration. Enable GitHub Actions and allow workflows to write repository contents in the repository's Actions settings. A failed import leaves existing posts unchanged; rerun the workflow after the spreadsheet or YouTube video is available.
