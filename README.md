@@ -1,6 +1,6 @@
 # Sudoku Adventure
 
-A Hugo blog of Sudoku Adventure puzzles, built from the [public spreadsheet](https://docs.google.com/spreadsheets/d/1y4BYBEuXbzReb_tx3bTUdKwynL2JveL3ob55g6c-D-Y/edit?gid=0#gid=0). Requires Python 3.9+ and Hugo 0.169.0; no Python packages or Hugo theme are needed.
+A website archive of Sudoku Adventure puzzles, built from the [public spreadsheet](https://docs.google.com/spreadsheets/d/1y4BYBEuXbzReb_tx3bTUdKwynL2JveL3ob55g6c-D-Y/edit?gid=0#gid=0). Requires Python 3.9+ and Hugo 0.169.0; no Python packages or Hugo theme are needed.
 
 ## Import puzzles
 
